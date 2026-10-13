@@ -1,4 +1,4 @@
-# Situs Kreuztrainer
+# Anatomie 2 – Situs · Kreuztrainer
 
 Kreuztrainer für die Situs-Prüfung (DPU, 3. Semester): 671 Fragen aus dem Fragenkatalog 2024, den IMPP-Seminarfolien und dem Altfragen-Katalog – mit Sofort-Auswertung, Kapitelfilter und Lernfortschritt.
 
