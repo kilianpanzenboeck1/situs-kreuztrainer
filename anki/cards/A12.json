@@ -1,0 +1,1202 @@
+{
+ "chapter": "A12",
+ "status": "review",
+ "cards": [
+  {
+   "id": "V-F1-157-1",
+   "src": "F1-157",
+   "typ": "umkehrung",
+   "q": "Welches Band verbindet das Ovar mit dem Tubenwinkel des Uterus?",
+   "o": [
+    "Lig. ovarii proprium",
+    "Lig. suspensorium ovarii",
+    "Lig. teres uteri",
+    "Lig. cardinale",
+    "Lig. sacrouterinum"
+   ],
+   "a": "A",
+   "expl": "Das Lig. ovarii proprium zieht vom uterinen Pol des Ovars zum Tubenwinkel. Es führt den Ramus ovaricus der A. uterina, der mit der A. ovarica anastomosiert.",
+   "dis": {
+    "B": "Verbindet das Ovar mit der seitlichen Beckenwand.",
+    "C": "Zieht vom Tubenwinkel durch den Leistenkanal.",
+    "D": "Liegt an der Zervix.",
+    "E": "Zieht von der Zervix zum Kreuzbein."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-157-2",
+   "src": "F1-157",
+   "typ": "perspektive",
+   "q": "Aus welchem Gefäß entspringt die A. ovarica?",
+   "o": [
+    "A. iliaca interna",
+    "Aorta abdominalis unterhalb der Nierenarterien",
+    "A. iliaca externa",
+    "A. mesenterica inferior",
+    "A. renalis"
+   ],
+   "a": "B",
+   "expl": "Die A. ovarica entspringt wegen des embryonalen Deszensus des Ovars hoch aus der Aorta in Höhe L2. Sie zieht retroperitoneal nach kaudal und im Lig. suspensorium ovarii zum Ovar.",
+   "dis": {
+    "A": "Ursprung der A. uterina.",
+    "C": "Versorgt das Bein.",
+    "D": "Versorgt das linke Kolon.",
+    "E": "Gibt nur kleine Äste zu Nebenniere und Ureter ab."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-158-1",
+   "src": "F1-158",
+   "typ": "umkehrung",
+   "q": "Wohin mündet die rechte V. ovarica typischerweise?",
+   "o": [
+    "In die rechte V. renalis",
+    "In die V. iliaca interna",
+    "Direkt in die V. cava inferior",
+    "In die V. portae",
+    "In die V. mesenterica inferior"
+   ],
+   "a": "C",
+   "expl": "Rechts mündet die V. ovarica spitzwinklig in die V. cava inferior, links rechtwinklig in die linke V. renalis. Dasselbe Muster gilt für die V. testicularis.",
+   "dis": {
+    "A": "Mündung der linken V. ovarica auf der Gegenseite.",
+    "B": "Zufluss der V. uterina.",
+    "D": "Kein Mündungsort.",
+    "E": "Kein Mündungsort."
+   },
+   "merk": "Links Niere, rechts Cava.",
+   "img": null
+  },
+  {
+   "id": "V-F1-158-2",
+   "src": "F1-158",
+   "typ": "klinik",
+   "q": "Warum tritt eine Varikozele beim Mann häufiger links auf?",
+   "o": [
+    "Weil der linke Hoden höher liegt",
+    "Weil links keine Venenklappen vorkommen",
+    "Weil die linke V. testicularis in die V. cava inferior mündet",
+    "Weil die linke V. testicularis rechtwinklig in die linke V. renalis mündet",
+    "Weil links die A. testicularis fehlt"
+   ],
+   "a": "D",
+   "expl": "Der rechtwinklige Eintritt und die Kompression der linken Nierenvene zwischen Aorta und A. mesenterica superior erhöhen den Druck links. Die Venen des Plexus pampiniformis erweitern sich.",
+   "dis": {
+    "A": "Er liegt meist tiefer.",
+    "B": "Klappen können beidseits fehlen.",
+    "C": "Sie mündet in die V. renalis.",
+    "E": "Sie ist beidseits vorhanden."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-159-1",
+   "src": "F1-159",
+   "typ": "nachbarschaft",
+   "q": "In welcher Grube der seitlichen Beckenwand liegt das Ovar bei der Nullipara?",
+   "o": [
+    "Fossa ischioanalis",
+    "Fossa iliaca",
+    "Excavatio rectouterina",
+    "Fossa inguinalis lateralis",
+    "Fossa ovarica"
+   ],
+   "a": "E",
+   "expl": "Die Fossa ovarica liegt in der Teilungsgabel von A. iliaca interna und externa. Am Boden verläuft der N. obturatorius; deshalb kann eine Ovarialerkrankung in den medialen Oberschenkel ausstrahlen.",
+   "dis": {
+    "A": "Liegt unterhalb des Beckenbodens.",
+    "B": "Liegt im großen Becken.",
+    "C": "Douglas-Raum.",
+    "D": "Liegt an der vorderen Bauchwand."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-159-2",
+   "src": "F1-159",
+   "typ": "klinik",
+   "q": "Warum können Ovarialprozesse Schmerzen an der Innenseite des Oberschenkels verursachen?",
+   "o": [
+    "Weil der N. obturatorius in der Nähe der Fossa ovarica verläuft",
+    "Weil das Ovar vom N. femoralis innerviert wird",
+    "Weil das Ovar im Leistenkanal liegt",
+    "Weil der N. pudendus durch das Ovar zieht",
+    "Weil die A. ovarica den Oberschenkel versorgt"
+   ],
+   "a": "A",
+   "expl": "Der N. obturatorius zieht an der seitlichen Beckenwand unter dem Ovar zum Foramen obturatum. Er innerviert sensibel die mediale Oberschenkelhaut.",
+   "dis": {
+    "B": "Falscher Nerv.",
+    "C": "Es liegt im Becken.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-160-1",
+   "src": "F1-160",
+   "typ": "perspektive",
+   "q": "Wie liegt das Ovar in Bezug auf das Peritoneum?",
+   "o": [
+    "Retroperitoneal",
+    "Intraperitoneal, aber nur von Keimepithel bedeckt",
+    "Subperitoneal",
+    "Extraperitoneal im Leistenkanal",
+    "Im Inneren der Harnblase"
+   ],
+   "a": "B",
+   "expl": "Das Ovar hängt über die Mesovarium-Duplikatur am Lig. latum. Seine Oberfläche trägt statt Serosa ein kubisches Epithel (sog. Keimepithel). Bei der Ovulation tritt die Eizelle in die Bauchhöhle aus.",
+   "dis": {
+    "A": "Falsch.",
+    "C": "Trifft auf die Vagina zu.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-160-2",
+   "src": "F1-160",
+   "typ": "nachbarschaft",
+   "q": "Welche Peritonealtasche liegt direkt am hinteren Scheidengewölbe?",
+   "o": [
+    "Excavatio vesicouterina",
+    "Recessus hepatorenalis",
+    "Excavatio rectouterina (Douglas-Raum)",
+    "Bursa omentalis",
+    "Fossa ischioanalis"
+   ],
+   "a": "C",
+   "expl": "Nur am hinteren Scheidengewölbe reicht das Peritoneum an die Vagina heran. Deshalb kann der Douglas-Raum von dort punktiert werden (Douglas-Punktion).",
+   "dis": {
+    "A": "Liegt vor dem Uterus.",
+    "B": "Liegt im Oberbauch.",
+    "D": "Liegt hinter dem Magen.",
+    "E": "Liegt unter dem Beckenboden."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-161-1",
+   "src": "F1-161",
+   "typ": "perspektive",
+   "q": "Welcher Abschnitt der Vagina wird somatisch über den N. pudendus innerviert?",
+   "o": [
+    "Das hintere Scheidengewölbe",
+    "Die gesamte Vagina gleichmäßig",
+    "Nur die Portio",
+    "Der untere Abschnitt nahe dem Introitus",
+    "Keiner, die Vagina ist rein viszeral innerviert"
+   ],
+   "a": "D",
+   "expl": "Der untere Vaginalabschnitt ist somatisch sensibel und gut schmerzempfindlich. Die oberen zwei Drittel werden viszeral über den Plexus uterovaginalis versorgt.",
+   "dis": {
+    "A": "Wird viszeral innerviert.",
+    "B": "Oben überwiegt die viszerale Innervation.",
+    "C": "Gehört zum Uterus.",
+    "E": "Der untere Teil ist somatisch innerviert."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-161-2",
+   "src": "F1-161",
+   "typ": "klinik",
+   "q": "Welcher Nerv wird bei der Pudendusblockade unter der Geburt betäubt, und wo wird er aufgesucht?",
+   "o": [
+    "N. femoralis, in der Leiste",
+    "N. obturatorius, am Foramen obturatum",
+    "N. ischiadicus, am Oberschenkel",
+    "N. genitofemoralis, im Leistenkanal",
+    "N. pudendus, nahe der Spina ischiadica"
+   ],
+   "a": "E",
+   "expl": "Der N. pudendus umrundet die Spina ischiadica und zieht im Alcock-Kanal zum Damm. Seine Blockade betäubt Damm, Vulva und untere Vagina.",
+   "dis": {
+    "A": "Versorgt den vorderen Oberschenkel.",
+    "B": "Versorgt die Adduktoren.",
+    "C": "Versorgt das Bein.",
+    "D": "Versorgt nur einen kleinen Teil der Vulva."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-162-1",
+   "src": "F1-162",
+   "typ": "perspektive",
+   "q": "In welchem Abschnitt der Tuba uterina findet die Befruchtung meistens statt?",
+   "o": [
+    "Ampulla tubae uterinae",
+    "Isthmus tubae uterinae",
+    "Pars uterina",
+    "Infundibulum",
+    "Cavitas uteri"
+   ],
+   "a": "A",
+   "expl": "Die Ampulle ist der längste und weiteste Tubenabschnitt mit stark gefalteter Schleimhaut. Hier treffen Eizelle und Spermien meist aufeinander.",
+   "dis": {
+    "B": "Enger Abschnitt nahe dem Uterus.",
+    "C": "In der Uteruswand.",
+    "D": "Fängt die Eizelle auf.",
+    "E": "Ort der Einnistung."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-162-2",
+   "src": "F1-162",
+   "typ": "perspektive",
+   "q": "Welche Strukturen am Infundibulum fangen die Eizelle bei der Ovulation auf?",
+   "o": [
+    "Plicae circulares",
+    "Fimbriae tubae",
+    "Mikrovilli",
+    "Villi intestinales",
+    "Rugae vaginales"
+   ],
+   "a": "B",
+   "expl": "Die fransenartigen Fimbrien legen sich zur Ovulation dem Ovar an. Eine davon, die Fimbria ovarica, ist am Ovar befestigt.",
+   "dis": {
+    "A": "Ringfalten im Dünndarm.",
+    "C": "Zu klein für diese Funktion.",
+    "D": "Darmzotten.",
+    "E": "Querfalten der Vagina."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-163-1",
+   "src": "F1-163",
+   "typ": "perspektive",
+   "q": "Wie sieht das Ostium uteri externum typischerweise nach einer vaginalen Geburt aus?",
+   "o": [
+    "Punktförmig rund",
+    "Sternförmig",
+    "Querspaltförmig",
+    "Vollständig verschlossen",
+    "Dreieckig"
+   ],
+   "a": "C",
+   "expl": "Bei der Nullipara ist der äußere Muttermund rund-grübchenförmig. Nach einer vaginalen Geburt wird er querspaltförmig mit vorderer und hinterer Muttermundslippe.",
+   "dis": {
+    "A": "Typisch für die Nullipara.",
+    "B": "Keine typische Form.",
+    "D": "Falsch.",
+    "E": "Keine typische Form."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-163-2",
+   "src": "F1-163",
+   "typ": "klinik",
+   "q": "In welchem Bereich der Zervix entstehen die meisten Zervixkarzinome?",
+   "o": [
+    "Im Fundus uteri",
+    "In der Tubenampulle",
+    "Im Ovar",
+    "In der Transformationszone am Übergang von Zylinder- zu Plattenepithel",
+    "In der Vulva"
+   ],
+   "a": "D",
+   "expl": "In der Transformationszone wird Zylinderepithel durch Plattenepithel ersetzt; hier setzen HPV-bedingte Veränderungen an. Deshalb wird beim PAP-Abstrich genau hier Material entnommen.",
+   "dis": {
+    "A": "Gehört zum Corpus.",
+    "B": "Falsche Lokalisation.",
+    "C": "Falsches Organ.",
+    "E": "Falsches Organ."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-164-1",
+   "src": "F1-164",
+   "typ": "klinik",
+   "q": "Welcher Uterusabschnitt wird in der Schwangerschaft zum unteren Uterinsegment, in dem der Kaiserschnitt typischerweise erfolgt?",
+   "o": [
+    "Fundus uteri",
+    "Portio vaginalis",
+    "Tubenwinkel",
+    "Ostium uteri externum",
+    "Isthmus uteri"
+   ],
+   "a": "E",
+   "expl": "Der etwa 1 cm lange Isthmus dehnt sich in der Schwangerschaft zum muskelärmeren unteren Uterinsegment. Ein querer Schnitt dort blutet weniger und heilt stabiler.",
+   "dis": {
+    "A": "Oberster Abschnitt.",
+    "B": "Ragt in die Vagina.",
+    "C": "Seitlicher Abschnitt oben.",
+    "D": "Öffnung zur Vagina."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-164-2",
+   "src": "F1-164",
+   "typ": "perspektive",
+   "q": "Wie heißt die innere Öffnung des Zervixkanals zum Isthmus bzw. Corpus hin?",
+   "o": [
+    "Ostium anatomicum uteri internum",
+    "Ostium uteri externum",
+    "Ostium abdominale tubae",
+    "Ostium urethrae externum",
+    "Fornix vaginae"
+   ],
+   "a": "A",
+   "expl": "Der Zervixkanal reicht vom äußeren Muttermund bis zum inneren Muttermund. Oberhalb davon folgt der Isthmus und dann das Cavum uteri.",
+   "dis": {
+    "B": "Öffnung zur Vagina.",
+    "C": "Öffnung der Tube zur Bauchhöhle.",
+    "D": "Harnröhrenöffnung.",
+    "E": "Scheidengewölbe."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-165-1",
+   "src": "F1-165",
+   "typ": "perspektive",
+   "q": "In welcher Reihenfolge folgen die Tubenabschnitte vom Uterus zum Ovar aufeinander?",
+   "o": [
+    "Infundibulum, Ampulla, Isthmus, Pars uterina",
+    "Pars uterina, Isthmus, Ampulla, Infundibulum",
+    "Isthmus, Pars uterina, Ampulla, Infundibulum",
+    "Ampulla, Isthmus, Infundibulum, Pars uterina",
+    "Pars uterina, Ampulla, Isthmus, Infundibulum"
+   ],
+   "a": "B",
+   "expl": "Die Pars uterina liegt in der Uteruswand, der Isthmus ist eng, die Ampulle weit, und das trichterförmige Infundibulum öffnet sich mit Fimbrien zur Bauchhöhle.",
+   "dis": {
+    "A": "Umgekehrte Richtung.",
+    "C": "Pars uterina liegt zuerst.",
+    "D": "Falsche Reihenfolge.",
+    "E": "Isthmus und Ampulla vertauscht."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-165-2",
+   "src": "F1-165",
+   "typ": "klinik",
+   "q": "Wo nistet sich eine Eileiterschwangerschaft am häufigsten ein?",
+   "o": [
+    "Im Infundibulum",
+    "Im Ovar",
+    "In der Ampulla tubae uterinae",
+    "Im Isthmus",
+    "In der Pars uterina"
+   ],
+   "a": "C",
+   "expl": "Etwa 70–80 % der Tubargraviditäten liegen in der Ampulle. Risikofaktoren sind Entzündungen und Verwachsungen der Tube.",
+   "dis": {
+    "A": "Seltener.",
+    "B": "Ovarialgravidität, sehr selten.",
+    "D": "Seltener, rupturiert aber früher.",
+    "E": "Selten (interstitiell)."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-166-1",
+   "src": "F1-166",
+   "typ": "klinik",
+   "q": "Wie nennt man eine Entzündung von Eileiter und Eierstock?",
+   "o": [
+    "Endometritis",
+    "Zervizitis",
+    "Kolpitis",
+    "Adnexitis",
+    "Parametritis"
+   ],
+   "a": "D",
+   "expl": "Die Adnexitis entsteht meist durch aufsteigende Keime wie Chlamydien oder Gonokokken. Folgen können Tubenverklebungen mit Sterilität oder Eileiterschwangerschaft sein.",
+   "dis": {
+    "A": "Entzündung der Gebärmutterschleimhaut.",
+    "B": "Entzündung des Gebärmutterhalses.",
+    "C": "Entzündung der Vagina.",
+    "E": "Entzündung des Bindegewebes neben dem Uterus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-166-2",
+   "src": "F1-166",
+   "typ": "perspektive",
+   "q": "In welcher Peritonealduplikatur liegt die Tuba uterina?",
+   "o": [
+    "Mesovarium",
+    "Mesometrium",
+    "Mesoappendix",
+    "Mesocolon sigmoideum",
+    "Mesosalpinx"
+   ],
+   "a": "E",
+   "expl": "Das Lig. latum gliedert sich in Mesosalpinx (Tube), Mesovarium (Ovar) und Mesometrium (Uterus). In der Mesosalpinx verlaufen die Gefäße zur Tube.",
+   "dis": {
+    "A": "Hält das Ovar.",
+    "B": "Teil des Lig. latum am Uterus.",
+    "C": "Gehört zur Appendix.",
+    "D": "Gehört zum Sigma."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-167-1",
+   "src": "F1-167",
+   "typ": "perspektive",
+   "q": "Welche Bänder setzen am Tubenwinkel des Uterus an?",
+   "o": [
+    "Lig. teres uteri und Lig. ovarii proprium",
+    "Lig. cardinale und Lig. sacrouterinum",
+    "Lig. suspensorium ovarii",
+    "Lig. inguinale",
+    "Lig. pubovesicale"
+   ],
+   "a": "A",
+   "expl": "Am Tubenwinkel entspringt vorne-unten das Lig. teres uteri und hinten-unten das Lig. ovarii proprium. Beide sind Reste des embryonalen Gubernaculums.",
+   "dis": {
+    "B": "Setzen an der Zervix an.",
+    "C": "Zieht zur Beckenwand.",
+    "D": "Liegt an der Bauchwand.",
+    "E": "Liegt an der Blase."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-167-2",
+   "src": "F1-167",
+   "typ": "perspektive",
+   "q": "Wohin zieht das Lig. teres uteri vom Tubenwinkel?",
+   "o": [
+    "Zum Kreuzbein",
+    "Durch den Leistenkanal zu den großen Schamlippen",
+    "Zur seitlichen Beckenwand zum Ovar",
+    "Zur Harnblase",
+    "Zur Leber"
+   ],
+   "a": "B",
+   "expl": "Das Lig. teres uteri entspricht dem Gubernaculum testis des Mannes und läuft durch den Leistenkanal. Es hält den Uterus in der Anteversion.",
+   "dis": {
+    "A": "Verlauf des Lig. sacrouterinum.",
+    "C": "Verlauf des Lig. suspensorium ovarii.",
+    "D": "Falsch.",
+    "E": "Lig. teres hepatis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-168-1",
+   "src": "F1-168",
+   "typ": "perspektive",
+   "q": "Welcher Ast der A. uterina versorgt die Tube?",
+   "o": [
+    "Ramus vaginalis",
+    "Rami helicini",
+    "Ramus tubarius",
+    "A. vesicalis inferior",
+    "A. pudenda interna"
+   ],
+   "a": "C",
+   "expl": "Die Tube wird von Ramus tubarius der A. uterina und Ästen der A. ovarica versorgt, die in der Mesosalpinx anastomosieren.",
+   "dis": {
+    "A": "Versorgt die Vagina.",
+    "B": "Versorgen das Corpus uteri.",
+    "D": "Ast der A. iliaca interna für die Blase.",
+    "E": "Versorgt den Damm."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-168-2",
+   "src": "F1-168",
+   "typ": "perspektive",
+   "q": "Aus welchem Gefäß entspringt die A. uterina?",
+   "o": [
+    "Aorta abdominalis",
+    "A. iliaca externa",
+    "A. femoralis",
+    "A. iliaca interna",
+    "A. mesenterica inferior"
+   ],
+   "a": "D",
+   "expl": "Die A. uterina entspringt aus dem vorderen Stamm der A. iliaca interna. Sie zieht im Lig. cardinale zur Zervix und steigt am Uterusrand geschlängelt auf.",
+   "dis": {
+    "A": "Ursprung der A. ovarica.",
+    "B": "Versorgt das Bein.",
+    "C": "Zu weit distal.",
+    "E": "Versorgt das linke Kolon."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-169-1",
+   "src": "F1-169",
+   "typ": "perspektive",
+   "q": "Welche Schicht des Endometriums wird bei der Menstruation abgestoßen?",
+   "o": [
+    "Stratum basale",
+    "Myometrium",
+    "Perimetrium",
+    "Parametrium",
+    "Stratum functionale"
+   ],
+   "a": "E",
+   "expl": "Das Stratum functionale baut sich in jedem Zyklus auf und wird abgestoßen. Aus dem Stratum basale wird es danach neu gebildet.",
+   "dis": {
+    "A": "Bleibt erhalten und regeneriert.",
+    "B": "Muskelschicht.",
+    "C": "Serosa.",
+    "D": "Bindegewebe neben dem Uterus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-169-2",
+   "src": "F1-169",
+   "typ": "perspektive",
+   "q": "Wie heißen die Wandschichten des Uterus von innen nach außen?",
+   "o": [
+    "Endometrium, Myometrium, Perimetrium",
+    "Myometrium, Endometrium, Perimetrium",
+    "Perimetrium, Myometrium, Endometrium",
+    "Endometrium, Perimetrium, Myometrium",
+    "Mukosa, Submukosa, Muskularis, Adventitia"
+   ],
+   "a": "A",
+   "expl": "Das Myometrium ist die kräftigste Schicht und wächst in der Schwangerschaft stark. Das Perimetrium ist der Peritonealüberzug.",
+   "dis": {
+    "B": "Endometrium liegt innen.",
+    "C": "Umgekehrt.",
+    "D": "Perimetrium liegt außen.",
+    "E": "Gliederung des Darms."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-170-1",
+   "src": "F1-170",
+   "typ": "bild",
+   "q": "Welches Gefäß verläuft in der markierten Struktur zum Uterus?",
+   "o": [
+    "A. ovarica",
+    "A. uterina",
+    "A. iliaca externa",
+    "A. pudenda interna",
+    "A. umbilicalis"
+   ],
+   "a": "B",
+   "expl": "Markiert ist das Lig. cardinale an der Basis des Lig. latum. Darin zieht die A. uterina von der Beckenwand zur Zervix.",
+   "dis": {
+    "A": "Verläuft im Lig. suspensorium ovarii.",
+    "C": "Verläuft an der Beckenwand zum Bein.",
+    "D": "Verläuft zum Damm.",
+    "E": "Verläuft zur Bauchwand."
+   },
+   "merk": "",
+   "img": "img/i48.jpg"
+  },
+  {
+   "id": "V-F1-170-2",
+   "src": "F1-170",
+   "typ": "klinik",
+   "q": "Welche Struktur unterkreuzt die A. uterina in der markierten Region und ist bei der Hysterektomie gefährdet?",
+   "o": [
+    "N. femoralis",
+    "Urethra",
+    "Ureter",
+    "Rektum",
+    "Tuba uterina"
+   ],
+   "a": "C",
+   "expl": "Etwa 2 cm seitlich der Zervix unterkreuzt der Ureter die A. uterina. Bei der Unterbindung der Arterie kann er versehentlich mitgefasst werden.",
+   "dis": {
+    "A": "Verläuft außerhalb des Beckens.",
+    "B": "Liegt tiefer vor der Vagina.",
+    "D": "Liegt hinter dem Uterus.",
+    "E": "Liegt oben."
+   },
+   "merk": "Wasser fließt unter der Brücke.",
+   "img": "img/i48.jpg"
+  },
+  {
+   "id": "V-F1-171-1",
+   "src": "F1-171",
+   "typ": "perspektive",
+   "q": "Wie heißt das Bindegewebe seitlich des Uterus, in dem die Haltebänder liegen?",
+   "o": [
+    "Perimetrium",
+    "Endometrium",
+    "Myometrium",
+    "Parametrium",
+    "Mesosalpinx"
+   ],
+   "a": "D",
+   "expl": "Im Parametrium verlaufen Lig. cardinale, A. uterina und Ureter. Beim Zervixkarzinom ist die Infiltration des Parametriums ein wichtiger Stadienschritt.",
+   "dis": {
+    "A": "Peritonealüberzug.",
+    "B": "Schleimhaut.",
+    "C": "Muskelschicht.",
+    "E": "Peritonealfalte der Tube."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-171-2",
+   "src": "F1-171",
+   "typ": "perspektive",
+   "q": "Welches Band zieht von der Zervix seitlich am Rektum vorbei zum Kreuzbein?",
+   "o": [
+    "Lig. teres uteri",
+    "Lig. ovarii proprium",
+    "Lig. suspensorium ovarii",
+    "Lig. latum uteri",
+    "Lig. sacrouterinum (rectouterinum)"
+   ],
+   "a": "E",
+   "expl": "Die Ligg. sacrouterina hängen die Zervix nach hinten auf. Mit dem Lig. cardinale bilden sie den wichtigsten bindegewebigen Halteapparat.",
+   "dis": {
+    "A": "Zieht durch den Leistenkanal.",
+    "B": "Verbindet Ovar und Uterus.",
+    "C": "Zieht zur Beckenwand.",
+    "D": "Peritonealplatte seitlich des Uterus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-74-1",
+   "src": "D2-74",
+   "typ": "perspektive",
+   "q": "Aus welchen Rückenmarksegmenten stammt der N. pudendus?",
+   "o": [
+    "S2–S4",
+    "L1–L2",
+    "L2–L4",
+    "Th10–Th12",
+    "C3–C5"
+   ],
+   "a": "A",
+   "expl": "Der N. pudendus stammt aus dem Plexus sacralis S2–S4. Er versorgt Damm, äußeres Genitale, M. sphincter ani externus und M. sphincter urethrae externus.",
+   "dis": {
+    "B": "Ursprung von N. ilioinguinalis und genitofemoralis.",
+    "C": "Ursprung von N. femoralis und obturatorius.",
+    "D": "Thorakale Segmente.",
+    "E": "Ursprung des N. phrenicus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-74-2",
+   "src": "D2-74",
+   "typ": "nachbarschaft",
+   "q": "Durch welchen Kanal zieht der N. pudendus an der Wand der Fossa ischioanalis?",
+   "o": [
+    "Canalis inguinalis",
+    "Canalis pudendalis (Alcock-Kanal)",
+    "Canalis obturatorius",
+    "Canalis femoralis",
+    "Canalis sacralis"
+   ],
+   "a": "B",
+   "expl": "Der Alcock-Kanal ist eine Duplikatur der Faszie des M. obturatorius internus. Darin ziehen N. pudendus und Vasa pudenda interna.",
+   "dis": {
+    "A": "Leistenkanal.",
+    "C": "Für den N. obturatorius.",
+    "D": "Schenkelkanal.",
+    "E": "Wirbelkanal des Kreuzbeins."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-76-1",
+   "src": "D2-76",
+   "typ": "perspektive",
+   "q": "Welches Epithel bedeckt die Portio vaginalis cervicis zur Vagina hin?",
+   "o": [
+    "Einschichtiges Zylinderepithel",
+    "Urothel",
+    "Mehrschichtiges unverhorntes Plattenepithel",
+    "Peritoneum",
+    "Flimmerepithel"
+   ],
+   "a": "C",
+   "expl": "Die Portio trägt Plattenepithel wie die Vagina, der Zervixkanal schleimbildendes Zylinderepithel. Die Grenze der beiden ist die Transformationszone.",
+   "dis": {
+    "A": "Kleidet den Zervixkanal aus.",
+    "B": "Typisch für die Harnwege.",
+    "D": "Keine Serosa an der Portio.",
+    "E": "Typisch für Tube und Atemwege."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-76-2",
+   "src": "D2-76",
+   "typ": "nachbarschaft",
+   "q": "Welcher Teil des Scheidengewölbes ist am tiefsten?",
+   "o": [
+    "Fornix vaginae anterior",
+    "Fornix vaginae lateralis",
+    "Ostium vaginae",
+    "Fornix vaginae posterior",
+    "Hymen"
+   ],
+   "a": "D",
+   "expl": "Weil die Portio schräg von vorne in die Vagina ragt, ist das hintere Scheidengewölbe am tiefsten. Es grenzt an den Douglas-Raum.",
+   "dis": {
+    "A": "Flacher.",
+    "B": "Flacher.",
+    "C": "Scheidenöffnung.",
+    "E": "Am Scheideneingang."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-80-1",
+   "src": "D2-80",
+   "typ": "bild",
+   "q": "Welches Gefäß ist im Bild rot hervorgehoben?",
+   "o": [
+    "A. ovarica",
+    "V. vaginalis",
+    "A. iliaca externa",
+    "A. epigastrica inferior",
+    "A. uterina"
+   ],
+   "a": "E",
+   "expl": "Die A. uterina erreicht den Uterus an der Basis des Lig. latum und gibt Äste zu Uterus, Tube (Ramus tubarius) und Ovar ab.",
+   "dis": {
+    "A": "Verläuft im Lig. suspensorium ovarii oben seitlich.",
+    "B": "Ohne Bezug zur Tube.",
+    "C": "Verläuft an der Beckenwand.",
+    "D": "Verläuft an der vorderen Bauchwand."
+   },
+   "merk": "",
+   "img": "img/i49.jpg"
+  },
+  {
+   "id": "V-D2-80-2",
+   "src": "D2-80",
+   "typ": "perspektive",
+   "q": "Mit welchem Gefäß anastomosiert der Ramus ovaricus der A. uterina?",
+   "o": [
+    "A. ovarica",
+    "A. vaginalis",
+    "A. pudenda interna",
+    "A. vesicalis superior",
+    "A. epigastrica inferior"
+   ],
+   "a": "A",
+   "expl": "Ramus ovaricus der A. uterina und A. ovarica bilden einen Gefäßbogen in Mesovarium und Mesosalpinx. Dadurch haben Ovar und Tube eine doppelte Versorgung.",
+   "dis": {
+    "B": "Keine Anastomose an Ovar und Tube.",
+    "C": "Versorgt den Damm.",
+    "D": "Versorgt die Blase.",
+    "E": "Versorgt die Bauchwand."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-62-1",
+   "src": "F3-62",
+   "typ": "perspektive",
+   "q": "Welcher Uterusabschnitt liegt oberhalb der Tubenwinkel?",
+   "o": [
+    "Isthmus uteri",
+    "Fundus uteri",
+    "Cervix uteri",
+    "Portio vaginalis",
+    "Parametrium"
+   ],
+   "a": "B",
+   "expl": "Der Fundus ist der kuppelförmige Abschnitt oberhalb der Tubeneinmündungen. Sein Stand wird in der Schwangerschaft zur Abschätzung des Gestationsalters getastet.",
+   "dis": {
+    "A": "Zwischen Corpus und Zervix.",
+    "C": "Unterer Abschnitt.",
+    "D": "Ragt in die Vagina.",
+    "E": "Bindegewebe neben dem Uterus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-62-2",
+   "src": "F3-62",
+   "typ": "perspektive",
+   "q": "Durch welchen Abschnitt verläuft die Tube in der Uteruswand am Tubenwinkel?",
+   "o": [
+    "Ampulla",
+    "Infundibulum",
+    "Pars uterina (intramuralis)",
+    "Isthmus",
+    "Fimbriae"
+   ],
+   "a": "C",
+   "expl": "Die Pars uterina ist etwa 1 cm lang und durchquert das Myometrium. Sie mündet mit dem Ostium uterinum tubae in die Uterushöhle.",
+   "dis": {
+    "A": "Liegt frei in der Mesosalpinx.",
+    "B": "Liegt am Ovar.",
+    "D": "Liegt außerhalb der Wand.",
+    "E": "Liegen am Ovar."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-63-1",
+   "src": "F3-63",
+   "typ": "perspektive",
+   "q": "Was beschreibt der Begriff Anteversio uteri?",
+   "o": [
+    "Die Abknickung des Corpus gegenüber der Zervix",
+    "Die Neigung nach hinten",
+    "Die Verlagerung nach rechts",
+    "Die Neigung der Zervix gegenüber der Scheidenachse nach vorne",
+    "Die Drehung um die Längsachse"
+   ],
+   "a": "D",
+   "expl": "Versio beschreibt den Winkel zwischen Zervix und Vagina, Flexio den Winkel zwischen Corpus und Zervix. Normal sind beide nach vorne gerichtet.",
+   "dis": {
+    "A": "Das ist die Flexio.",
+    "B": "Retroversio.",
+    "C": "Dextropositio.",
+    "E": "Torsio."
+   },
+   "merk": "Versio Vagina, Flexio Corpus.",
+   "img": null
+  },
+  {
+   "id": "V-F3-63-2",
+   "src": "F3-63",
+   "typ": "perspektive",
+   "q": "Was beschreibt der Begriff Anteflexio uteri?",
+   "o": [
+    "Den Winkel zwischen Zervix und Vagina",
+    "Die Verlagerung des ganzen Uterus nach vorne",
+    "Die Abknickung nach hinten",
+    "Die Lage des Ovars",
+    "Die Abknickung des Corpus gegenüber der Zervix nach vorne"
+   ],
+   "a": "E",
+   "expl": "Normalerweise liegt der Uterus anteflektiert und antevertiert über der Harnblase. Eine Retroflexio findet sich bei etwa jeder zehnten Frau und ist meist harmlos.",
+   "dis": {
+    "A": "Das ist die Versio.",
+    "B": "Antepositio.",
+    "C": "Retroflexio.",
+    "D": "Betrifft den Uterus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-65-1",
+   "src": "F3-65",
+   "typ": "perspektive",
+   "q": "Welcher Abschnitt der Tuba uterina hat das weiteste Lumen?",
+   "o": [
+    "Ampulla",
+    "Isthmus",
+    "Pars uterina",
+    "Ostium uterinum",
+    "Mesosalpinx"
+   ],
+   "a": "A",
+   "expl": "Die Ampulle ist weit und stark gefaltet, der Isthmus eng und muskelstark. Die Pars uterina in der Uteruswand ist am engsten.",
+   "dis": {
+    "B": "Eng.",
+    "C": "Am engsten.",
+    "D": "Eng.",
+    "E": "Kein Lumen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-65-2",
+   "src": "F3-65",
+   "typ": "perspektive",
+   "q": "Welches Epithel kleidet die Tuba uterina aus?",
+   "o": [
+    "Mehrschichtiges Plattenepithel",
+    "Einschichtiges Zylinderepithel mit Flimmer- und sekretorischen Zellen",
+    "Urothel",
+    "Einschichtiges Plattenepithel",
+    "Mehrreihiges Epithel mit Stereozilien"
+   ],
+   "a": "B",
+   "expl": "Die Kinozilien schlagen in Richtung Uterus und transportieren die Eizelle. Die sekretorischen Zellen ernähren Eizelle und Embryo.",
+   "dis": {
+    "A": "Typisch für die Vagina.",
+    "C": "Typisch für die Harnwege.",
+    "D": "Typisch für Endothel und Mesothel.",
+    "E": "Typisch für den Nebenhoden."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-66-1",
+   "src": "F3-66",
+   "typ": "perspektive",
+   "q": "Wie heißen die Arterien in der Funktionalis des Endometriums, die bei der Menstruation kontrahieren?",
+   "o": [
+    "Rami helicini",
+    "Aa. arcuatae",
+    "Spiralarterien",
+    "Aa. rectae",
+    "Vasa vasorum"
+   ],
+   "a": "C",
+   "expl": "Am Zyklusende ziehen sich die Spiralarterien zusammen, die Funktionalis wird ischämisch und abgestoßen. Die Basalis wird über die geraden Arterien versorgt.",
+   "dis": {
+    "A": "Verlaufen geschlängelt im Myometrium bzw. am Uterusrand.",
+    "B": "Liegen im Myometrium.",
+    "D": "Versorgen das Stratum basale.",
+    "E": "Versorgen Gefäßwände."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-66-2",
+   "src": "F3-66",
+   "typ": "perspektive",
+   "q": "Wie verläuft die A. uterina nach Erreichen des Uterus?",
+   "o": [
+    "Gerade durch das Cavum uteri",
+    "Nur nach unten zur Vagina",
+    "Durch den Leistenkanal",
+    "Geschlängelt am seitlichen Uterusrand nach oben bis zum Tubenwinkel",
+    "Hinter dem Rektum zum Kreuzbein"
+   ],
+   "a": "D",
+   "expl": "Die geschlängelten Rami helicini erlauben die Dehnung des Uterus in der Schwangerschaft. Am Tubenwinkel geht die Arterie in Ramus tubarius und ovaricus über.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Sie gibt nur den Ramus vaginalis nach unten ab.",
+    "C": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-67-1",
+   "src": "F3-67",
+   "typ": "perspektive",
+   "q": "Über welche Struktur gelangt Lymphe vom Tubenwinkel des Uterus zu den oberflächlichen Leistenlymphknoten?",
+   "o": [
+    "Entlang des Lig. cardinale",
+    "Entlang des Lig. suspensorium ovarii",
+    "Entlang des Ureters",
+    "Entlang der V. portae",
+    "Entlang des Lig. teres uteri"
+   ],
+   "a": "E",
+   "expl": "Das Lig. teres uteri zieht durch den Leistenkanal zu den Labia majora. Die Lymphgefäße entlang des Bandes erreichen die Lnn. inguinales superficiales.",
+   "dis": {
+    "A": "Führt zu den Beckenlymphknoten.",
+    "B": "Führt zu den paraaortalen Lymphknoten.",
+    "C": "Kein Weg zur Leiste.",
+    "D": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-67-2",
+   "src": "F3-67",
+   "typ": "perspektive",
+   "q": "Zu welchen Lymphknoten drainiert das Ovar hauptsächlich?",
+   "o": [
+    "Lnn. lumbales (paraaortal)",
+    "Lnn. inguinales superficiales",
+    "Lnn. iliaci interni",
+    "Lnn. axillares",
+    "Lnn. coeliaci"
+   ],
+   "a": "A",
+   "expl": "Die Lymphe des Ovars folgt der A. ovarica nach oben zu den paraaortalen Lymphknoten in Höhe der Nierengefäße. Das ist wichtig für die Ausbreitung von Ovarialkarzinomen.",
+   "dis": {
+    "B": "Für Vulva und unteres Drittel der Vagina.",
+    "C": "Für Zervix und Vagina.",
+    "D": "Für Arm und Brust.",
+    "E": "Für Oberbauchorgane."
+   },
+   "merk": "Lymphe folgt der Arterie.",
+   "img": null
+  },
+  {
+   "id": "V-F3-68-1",
+   "src": "F3-68",
+   "typ": "umkehrung",
+   "q": "Welche Struktur gehört zu den äußeren weiblichen Geschlechtsorganen?",
+   "o": [
+    "Vagina",
+    "Labia minora pudendi",
+    "Uterus",
+    "Tuba uterina",
+    "Ovar"
+   ],
+   "a": "B",
+   "expl": "Zu den äußeren Geschlechtsorganen (Vulva) gehören Mons pubis, große und kleine Schamlippen, Klitoris, Vestibulum und Vestibulardrüsen. Die Grenze zu den inneren bildet das Hymen.",
+   "dis": {
+    "A": "Inneres Geschlechtsorgan.",
+    "C": "Inneres Geschlechtsorgan.",
+    "D": "Inneres Geschlechtsorgan.",
+    "E": "Inneres Geschlechtsorgan."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-68-2",
+   "src": "F3-68",
+   "typ": "perspektive",
+   "q": "Wo münden die Ausführungsgänge der Bartholin-Drüsen (Glandulae vestibulares majores)?",
+   "o": [
+    "Im hinteren Scheidengewölbe",
+    "In der Urethra",
+    "Im Vestibulum vaginae am hinteren Drittel der kleinen Schamlippen",
+    "Am Mons pubis",
+    "Im Zervixkanal"
+   ],
+   "a": "C",
+   "expl": "Die Bartholin-Drüsen befeuchten das Vestibulum. Ein Verschluss des Gangs führt zur Bartholin-Zyste, eine Infektion zum Bartholin-Abszess.",
+   "dis": {
+    "A": "Keine Drüsenmündung.",
+    "B": "Mündung der Skene-Drüsen in der Nähe.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-69-1",
+   "src": "F3-69",
+   "typ": "perspektive",
+   "q": "Welcher Nerv versorgt sensibel den vorderen Teil der Vulva (Mons pubis, vordere Labien)?",
+   "o": [
+    "N. pudendus",
+    "N. cutaneus femoris lateralis",
+    "N. obturatorius",
+    "N. ilioinguinalis",
+    "N. ischiadicus"
+   ],
+   "a": "D",
+   "expl": "Vorne versorgen N. ilioinguinalis und Ramus genitalis des N. genitofemoralis die Vulva. Hinten übernehmen N. pudendus und N. cutaneus femoris posterior.",
+   "dis": {
+    "A": "Versorgt vor allem den hinteren und mittleren Teil.",
+    "B": "Versorgt den seitlichen Oberschenkel.",
+    "C": "Versorgt den medialen Oberschenkel.",
+    "E": "Versorgt das Bein."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-69-2",
+   "src": "F3-69",
+   "typ": "perspektive",
+   "q": "Welchen Hautbereich versorgt der N. cutaneus femoris lateralis?",
+   "o": [
+    "Die Vulva",
+    "Die Fußsohle",
+    "Die mediale Oberschenkelhaut",
+    "Den Damm",
+    "Die laterale Oberschenkelhaut"
+   ],
+   "a": "E",
+   "expl": "Der N. cutaneus femoris lateralis zieht unter dem Leistenband nahe der Spina iliaca anterior superior. Seine Einengung dort verursacht die Meralgia paraesthetica.",
+   "dis": {
+    "A": "Wird von anderen Nerven versorgt.",
+    "B": "N. tibialis.",
+    "C": "N. obturatorius.",
+    "D": "N. pudendus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-70-1",
+   "src": "F3-70",
+   "typ": "umkehrung",
+   "q": "Welche Peritonealtasche wird als Douglas-Raum bezeichnet?",
+   "o": [
+    "Excavatio rectouterina",
+    "Excavatio vesicouterina",
+    "Recessus hepatorenalis",
+    "Bursa omentalis",
+    "Fossa paravesicalis"
+   ],
+   "a": "A",
+   "expl": "Der Douglas-Raum ist der tiefste Punkt der weiblichen Peritonealhöhle. Dort sammeln sich Blut, Eiter oder Aszites zuerst.",
+   "dis": {
+    "B": "Liegt zwischen Blase und Uterus.",
+    "C": "Morison-Pouch im Oberbauch.",
+    "D": "Liegt hinter dem Magen.",
+    "E": "Seitlich der Blase."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-70-2",
+   "src": "F3-70",
+   "typ": "nachbarschaft",
+   "q": "Zwischen welchen Organen liegt die Excavatio vesicouterina?",
+   "o": [
+    "Zwischen Uterus und Rektum",
+    "Zwischen Harnblase und Uterus",
+    "Zwischen Rektum und Kreuzbein",
+    "Zwischen Leber und Niere",
+    "Zwischen Magen und Pankreas"
+   ],
+   "a": "B",
+   "expl": "Die Excavatio vesicouterina ist flacher als der Douglas-Raum. Das Peritoneum schlägt vom Isthmus uteri auf die Blasenoberfläche um.",
+   "dis": {
+    "A": "Excavatio rectouterina.",
+    "C": "Retrorektaler Raum, extraperitoneal.",
+    "D": "Recessus hepatorenalis.",
+    "E": "Bursa omentalis."
+   },
+   "merk": "",
+   "img": null
+  }
+ ]
+}

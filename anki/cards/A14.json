@@ -1,0 +1,1386 @@
+{
+ "chapter": "A14",
+ "status": "review",
+ "cards": [
+  {
+   "id": "V-F1-186-1",
+   "src": "F1-186",
+   "typ": "nachbarschaft",
+   "q": "Welcher Muskel liegt hinter dem oberen Teil der Niere und trennt sie dort vom Recessus costodiaphragmaticus?",
+   "o": [
+    "Diaphragma",
+    "M. psoas major",
+    "M. transversus abdominis",
+    "M. iliacus",
+    "M. rectus abdominis"
+   ],
+   "a": "A",
+   "expl": "Der obere Nierenpol liegt dem Zwerchfell auf, dahinter reicht die Pleura bis etwa zur 12. Rippe. Bei Nierenoperationen von hinten kann deshalb die Pleura verletzt werden.",
+   "dis": {
+    "B": "Liegt medial.",
+    "C": "Liegt lateral.",
+    "D": "Liegt tiefer im Becken.",
+    "E": "Liegt vorne."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-186-2",
+   "src": "F1-186",
+   "typ": "perspektive",
+   "q": "Wie verlagern sich die Nieren bei tiefer Inspiration?",
+   "o": [
+    "Sie bleiben völlig unbeweglich.",
+    "Sie verschieben sich um einige Zentimeter nach kaudal.",
+    "Sie steigen nach kranial.",
+    "Sie wandern nach ventral in die Bauchhöhle.",
+    "Sie drehen sich um 180°."
+   ],
+   "a": "B",
+   "expl": "Die Nieren sind über die Fettkapsel verschieblich und folgen der Zwerchfellbewegung um etwa 2–3 cm. Bei tiefer Einatmung kann der untere Pol der rechten Niere tastbar werden.",
+   "dis": {
+    "A": "Sie sind atemverschieblich.",
+    "C": "Das Zwerchfell senkt sich.",
+    "D": "Sie bleiben retroperitoneal.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-187-1",
+   "src": "F1-187",
+   "typ": "perspektive",
+   "q": "Wie heißen die Rindenanteile, die zwischen die Markpyramiden reichen?",
+   "o": [
+    "Radii medullares",
+    "Papillae renales",
+    "Columnae renales (Bertin-Säulen)",
+    "Calices renales",
+    "Sinus renalis"
+   ],
+   "a": "C",
+   "expl": "Die Columnae renales sind Rindengewebe zwischen den Pyramiden. Darin verlaufen die Aa. und Vv. interlobares.",
+   "dis": {
+    "A": "Markstrahlen in der Rinde.",
+    "B": "Spitzen der Pyramiden.",
+    "D": "Nierenkelche.",
+    "E": "Raum am Hilus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-187-2",
+   "src": "F1-187",
+   "typ": "perspektive",
+   "q": "Was bildet zusammen mit dem zugehörigen Rindenanteil einen Nierenlappen (Lobus renalis)?",
+   "o": [
+    "Ein einzelnes Nephron",
+    "Ein Nierenkelch",
+    "Die ganze Niere",
+    "Eine Markpyramide",
+    "Ein Glomerulus"
+   ],
+   "a": "D",
+   "expl": "Jede Markpyramide bildet mit der umgebenden Rinde einen Nierenlappen. Beim Neugeborenen ist die Lappung an der Oberfläche noch sichtbar (Renculi).",
+   "dis": {
+    "A": "Viel kleiner.",
+    "B": "Teil des Hohlsystems.",
+    "C": "Größer.",
+    "E": "Teil des Nierenkörperchens."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-188-1",
+   "src": "F1-188",
+   "typ": "perspektive",
+   "q": "Was mündet direkt in einen kleinen Nierenkelch (Calix minor)?",
+   "o": [
+    "Der Ureter",
+    "Die A. renalis",
+    "Ein Glomerulus",
+    "Die Columna renalis",
+    "Eine Nierenpapille"
+   ],
+   "a": "E",
+   "expl": "Die Papillenspitze ist von der Area cribrosa durchbohrt, aus der der Harn der Sammelrohre in den Calix minor tropft. Mehrere kleine Kelche vereinigen sich zu großen Kelchen.",
+   "dis": {
+    "A": "Beginnt am Nierenbecken.",
+    "B": "Gefäß, nicht Hohlsystem.",
+    "C": "Liegt in der Rinde.",
+    "D": "Rindengewebe."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-188-2",
+   "src": "F1-188",
+   "typ": "perspektive",
+   "q": "Welche zwei Grundformen des Nierenbeckens unterscheidet man?",
+   "o": [
+    "Ampullärer und dendritischer Typ",
+    "Kortikaler und medullärer Typ",
+    "Intra- und retroperitonealer Typ",
+    "Primärer und sekundärer Typ",
+    "Proximaler und distaler Typ"
+   ],
+   "a": "A",
+   "expl": "Beim ampullären Typ ist das Becken weit, beim dendritischen schmal mit langen Kelchen. Beide Formen sind normal.",
+   "dis": {
+    "B": "Gliederung des Parenchyms.",
+    "C": "Lagebeziehungen.",
+    "D": "Begriffe zur Peritoneallage.",
+    "E": "Begriffe zum Tubulus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-189-1",
+   "src": "F1-189",
+   "typ": "perspektive",
+   "q": "Warum liegt die rechte Niere tiefer als die linke?",
+   "o": [
+    "Weil die Milz sie nach unten drückt",
+    "Weil die Leber sie nach kaudal verdrängt",
+    "Weil der rechte Ureter kürzer ist",
+    "Weil die Aorta rechts liegt",
+    "Weil das Herz rechts liegt"
+   ],
+   "a": "B",
+   "expl": "Die große Leber im rechten Oberbauch drückt die rechte Niere etwa einen halben Wirbelkörper nach unten. Der obere Pol liegt rechts etwa bei Th12.",
+   "dis": {
+    "A": "Die Milz liegt links.",
+    "C": "Kein Grund.",
+    "D": "Sie liegt links.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-189-2",
+   "src": "F1-189",
+   "typ": "perspektive",
+   "q": "Welche Rippe kreuzt die linke Niere etwa in der Mitte?",
+   "o": [
+    "8. Rippe",
+    "6. Rippe",
+    "12. Rippe (links auch die 11.)",
+    "Keine, die Niere liegt unterhalb aller Rippen",
+    "1. Rippe"
+   ],
+   "a": "C",
+   "expl": "Die linke Niere wird hinten von der 11. und 12. Rippe gekreuzt, die rechte nur von der 12. Rippe. Bei Rippenfrakturen dort ist an eine Nierenverletzung zu denken.",
+   "dis": {
+    "A": "Zu hoch.",
+    "B": "Zu hoch.",
+    "D": "Die Niere wird von den unteren Rippen überlagert.",
+    "E": "Viel zu hoch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-190-1",
+   "src": "F1-190",
+   "typ": "nachbarschaft",
+   "q": "Welche Reihenfolge haben die Strukturen am Nierenhilus von ventral nach dorsal?",
+   "o": [
+    "Nierenbecken, A. renalis, V. renalis",
+    "A. renalis, Nierenbecken, V. renalis",
+    "A. renalis, V. renalis, Nierenbecken",
+    "V. renalis, A. renalis, Nierenbecken",
+    "Nierenbecken, V. renalis, A. renalis"
+   ],
+   "a": "D",
+   "expl": "Merkregel VAU (Vene, Arterie, Ureter bzw. Becken) von vorne nach hinten. Die Vene liegt am weitesten ventral, das Nierenbecken am weitesten dorsal.",
+   "dis": {
+    "A": "Umgekehrt.",
+    "B": "Falsch.",
+    "C": "Vene liegt vorne.",
+    "E": "Falsch."
+   },
+   "merk": "VAU von vorne nach hinten.",
+   "img": null
+  },
+  {
+   "id": "V-F1-190-2",
+   "src": "F1-190",
+   "typ": "nachbarschaft",
+   "q": "Wo verläuft die linke V. renalis auf dem Weg zur V. cava inferior?",
+   "o": [
+    "Hinter der Aorta",
+    "Vor dem Pankreas",
+    "Vor dem Duodenum",
+    "Durch den Hiatus aorticus",
+    "Vor der Aorta, unter dem Abgang der A. mesenterica superior"
+   ],
+   "a": "E",
+   "expl": "Die linke Nierenvene zieht im Winkel zwischen Aorta und A. mesenterica superior zur V. cava. Wird sie dort eingeengt, spricht man vom Nussknacker-Syndrom.",
+   "dis": {
+    "A": "Nur als Variante (retroaortal).",
+    "B": "Sie liegt hinter dem Pankreas.",
+    "C": "Sie liegt dahinter.",
+    "D": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-191-1",
+   "src": "F1-191",
+   "typ": "perspektive",
+   "q": "Welche Hülle liegt der Niere direkt an?",
+   "o": [
+    "Capsula fibrosa",
+    "Capsula adiposa",
+    "Fascia renalis",
+    "Peritoneum",
+    "Fascia transversalis"
+   ],
+   "a": "A",
+   "expl": "Von innen nach außen: Capsula fibrosa (Organkapsel), Capsula adiposa (Fettkapsel), Fascia renalis (Gerota-Faszie).",
+   "dis": {
+    "B": "Liegt darüber.",
+    "C": "Äußerste Schicht.",
+    "D": "Liegt ventral außerhalb.",
+    "E": "Teil der Bauchwand."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-191-2",
+   "src": "F1-191",
+   "typ": "perspektive",
+   "q": "Warum kann sich die Niere bei einer Nephroptose (Wanderniere) nach unten verlagern?",
+   "o": [
+    "Weil die Niere intraperitoneal liegt",
+    "Weil die Fascia renalis nach unten offen ist",
+    "Weil die A. renalis fehlt",
+    "Weil die Fascia renalis nach oben offen ist",
+    "Weil der Ureter zu kurz ist"
+   ],
+   "a": "B",
+   "expl": "Die Gerota-Faszie ist nach kranial und lateral geschlossen, nach kaudal medial offen. Bei Fettschwund, z. B. nach starkem Gewichtsverlust, kann die Niere nach unten sinken.",
+   "dis": {
+    "A": "Sie liegt retroperitoneal.",
+    "C": "Falsch.",
+    "D": "Oben ist sie verschlossen.",
+    "E": "Kein Mechanismus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-192-1",
+   "src": "F1-192",
+   "typ": "perspektive",
+   "q": "In welchem Tubulusabschnitt wird der größte Teil des Primärharns rückresorbiert?",
+   "o": [
+    "Im distalen Tubulus",
+    "Im Sammelrohr",
+    "Im proximalen Tubulus",
+    "Im Verbindungstubulus",
+    "Im Kapselraum"
+   ],
+   "a": "C",
+   "expl": "Der proximale Tubulus resorbiert etwa zwei Drittel von Wasser und Natrium sowie fast alle Glukose und Aminosäuren. Sein Epithel trägt einen dichten Bürstensaum.",
+   "dis": {
+    "A": "Feineinstellung.",
+    "B": "Feineinstellung des Wassers.",
+    "D": "Kleiner Anteil.",
+    "E": "Dort entsteht der Primärharn."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-192-2",
+   "src": "F1-192",
+   "typ": "perspektive",
+   "q": "Welcher Abschnitt des Nephrons bildet die Macula densa?",
+   "o": [
+    "Der proximale Tubulus",
+    "Das Sammelrohr",
+    "Die Henle-Schleife absteigend",
+    "Der distale Tubulus am Gefäßpol des eigenen Glomerulus",
+    "Die Bowman-Kapsel"
+   ],
+   "a": "D",
+   "expl": "Die Macula densa misst die Natriumchlorid-Konzentration im distalen Tubulus. Zusammen mit den reninbildenden Zellen bildet sie den juxtaglomerulären Apparat.",
+   "dis": {
+    "A": "Hat einen Bürstensaum.",
+    "B": "Gehört nicht mehr zum Nephron.",
+    "C": "Liegt im Mark.",
+    "E": "Umgibt den Glomerulus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-193-1",
+   "src": "F1-193",
+   "typ": "perspektive",
+   "q": "Welche Zellen bilden das viszerale Blatt der Bowman-Kapsel?",
+   "o": [
+    "Mesangiumzellen",
+    "Hepatozyten",
+    "Macula-densa-Zellen",
+    "Kupffer-Zellen",
+    "Podozyten"
+   ],
+   "a": "E",
+   "expl": "Podozyten umgreifen die Kapillaren mit Fußfortsätzen. Die Schlitzmembranen zwischen den Fortsätzen sind die letzte Barriere des Filters.",
+   "dis": {
+    "A": "Liegen zwischen den Kapillarschlingen.",
+    "B": "Leberzellen.",
+    "C": "Liegen im distalen Tubulus.",
+    "D": "Makrophagen der Leber."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-193-2",
+   "src": "F1-193",
+   "typ": "perspektive",
+   "q": "Woraus besteht der glomeruläre Filter von innen nach außen?",
+   "o": [
+    "Gefenstertes Endothel, glomeruläre Basalmembran, Schlitzmembran der Podozyten",
+    "Podozyten, Endothel, Basalmembran",
+    "Kontinuierliches Endothel und Tight Junctions",
+    "Nur die Basalmembran",
+    "Mesothel und Bindegewebe"
+   ],
+   "a": "A",
+   "expl": "Der dreischichtige Filter hält Zellen und große Proteine zurück. Die negativ geladene Basalmembran hält zusätzlich negativ geladenes Albumin zurück.",
+   "dis": {
+    "B": "Falsche Reihenfolge.",
+    "C": "Typisch für die Blut-Hirn-Schranke.",
+    "D": "Unvollständig.",
+    "E": "Typisch für Serosa."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-194-1",
+   "src": "F1-194",
+   "typ": "perspektive",
+   "q": "Auf welchem Muskel verläuft der Ureter im Retroperitoneum nach kaudal?",
+   "o": [
+    "M. quadratus lumborum",
+    "M. psoas major",
+    "M. iliacus",
+    "M. rectus abdominis",
+    "M. obturatorius internus"
+   ],
+   "a": "B",
+   "expl": "Der Ureter zieht auf dem M. psoas nach unten und tritt an der Linea terminalis ins kleine Becken. Dort kreuzt er die Iliakalgefäße.",
+   "dis": {
+    "A": "Liegt lateral der Niere.",
+    "C": "Liegt lateral im großen Becken.",
+    "D": "Liegt vorne.",
+    "E": "Liegt an der Beckenwand."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-194-2",
+   "src": "F1-194",
+   "typ": "perspektive",
+   "q": "Wie lang ist der Ureter etwa?",
+   "o": [
+    "5 cm",
+    "10 cm",
+    "25–30 cm",
+    "60 cm",
+    "1 m"
+   ],
+   "a": "C",
+   "expl": "Der Ureter verläuft etwa 25–30 cm vom Nierenbecken bis zur Harnblase. Etwa die Hälfte entfällt auf die Pars abdominalis.",
+   "dis": {
+    "A": "Zu kurz.",
+    "B": "Zu kurz.",
+    "D": "Zu lang.",
+    "E": "Viel zu lang."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-195-1",
+   "src": "F1-195",
+   "typ": "perspektive",
+   "q": "Welcher Ureterabschnitt verläuft schräg durch die Blasenwand?",
+   "o": [
+    "Pars abdominalis",
+    "Pars pelvica",
+    "Pars prostatica",
+    "Pars intramuralis",
+    "Pars spongiosa"
+   ],
+   "a": "D",
+   "expl": "Der schräge Verlauf durch die Blasenwand wirkt als Ventil: Bei voller Blase drückt der Innendruck den Ureter zu und verhindert den Rückfluss von Harn.",
+   "dis": {
+    "A": "Liegt auf dem M. psoas.",
+    "B": "Liegt an der Beckenwand.",
+    "C": "Abschnitt der Urethra.",
+    "E": "Abschnitt der Urethra."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-195-2",
+   "src": "F1-195",
+   "typ": "klinik",
+   "q": "Was ist ein vesikoureteraler Reflux?",
+   "o": [
+    "Rückfluss von Magensäure in den Ösophagus",
+    "Rückfluss von Blut in die Niere",
+    "Harnverhalt in der Blase",
+    "Verengung der Urethra",
+    "Rückfluss von Harn aus der Blase in den Ureter"
+   ],
+   "a": "E",
+   "expl": "Ist der intramurale Ureterabschnitt zu kurz, schließt der Ventilmechanismus nicht. Bei Kindern führt das zu wiederkehrenden Nierenbeckenentzündungen.",
+   "dis": {
+    "A": "Gastroösophagealer Reflux.",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "D": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-196-1",
+   "src": "F1-196",
+   "typ": "nachbarschaft",
+   "q": "Welche Struktur überkreuzt den Ureter beim Mann im kleinen Becken von ventral?",
+   "o": [
+    "Ductus deferens",
+    "A. iliaca externa",
+    "N. femoralis",
+    "Rektum",
+    "V. cava inferior"
+   ],
+   "a": "A",
+   "expl": "Kurz vor der Blase überkreuzt der Ductus deferens den Ureter von vorne. Bei der Frau liegt an der entsprechenden Stelle die A. uterina über dem Ureter.",
+   "dis": {
+    "B": "Wird vom Ureter überkreuzt.",
+    "C": "Liegt außerhalb des kleinen Beckens.",
+    "D": "Liegt medial hinten.",
+    "E": "Endet weiter oben."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-196-2",
+   "src": "F1-196",
+   "typ": "nachbarschaft",
+   "q": "Welche Gefäße überkreuzt der Ureter am Eintritt ins kleine Becken?",
+   "o": [
+    "Die A. renalis",
+    "Die Vasa iliaca communia bzw. externa",
+    "Die A. mesenterica superior",
+    "Die A. femoralis",
+    "Die Vasa epigastrica inferiora"
+   ],
+   "a": "B",
+   "expl": "Etwa an der Teilung der A. iliaca communis überkreuzt der Ureter die Iliakalgefäße. Hier liegt die zweite physiologische Ureterenge.",
+   "dis": {
+    "A": "Liegt höher am Hilus.",
+    "C": "Liegt höher.",
+    "D": "Liegt unterhalb des Leistenbands.",
+    "E": "Liegen an der Bauchwand."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-197-1",
+   "src": "F1-197",
+   "typ": "perspektive",
+   "q": "Wo liegt die erste physiologische Ureterenge?",
+   "o": [
+    "An der Kreuzung mit den Iliakalgefäßen",
+    "Beim Durchtritt durch die Blasenwand",
+    "Am Abgang aus dem Nierenbecken",
+    "In der Mitte der Pars abdominalis",
+    "An der Urethra"
+   ],
+   "a": "C",
+   "expl": "Die drei Engen liegen am pyeloureteralen Übergang, an der Kreuzung mit den Iliakalgefäßen und in der Blasenwand. Hier bleiben Harnsteine bevorzugt stecken.",
+   "dis": {
+    "A": "Zweite Enge.",
+    "B": "Dritte Enge.",
+    "D": "Keine Enge.",
+    "E": "Gehört nicht zum Ureter."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-197-2",
+   "src": "F1-197",
+   "typ": "klinik",
+   "q": "Welches Symptom ist typisch für einen Harnleiterstein?",
+   "o": [
+    "Dauerhafter Schmerz im linken Arm",
+    "Schmerzloser Ikterus",
+    "Kopfschmerz und Nackensteife",
+    "Wellenförmiger Flankenschmerz mit Ausstrahlung in Leiste und Genitale",
+    "Thoraxschmerz bei Inspiration"
+   ],
+   "a": "D",
+   "expl": "Die Kolik entsteht durch die kräftige Peristaltik gegen das Hindernis. Je tiefer der Stein liegt, desto weiter strahlt der Schmerz Richtung Leiste und Genitale aus.",
+   "dis": {
+    "A": "Spricht für Herzprobleme.",
+    "B": "Spricht für eine Gallenwegsstenose.",
+    "C": "Spricht für eine Meningitis.",
+    "E": "Spricht für Pleuritis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-198-1",
+   "src": "F1-198",
+   "typ": "perspektive",
+   "q": "Wie wirkt der Parasympathikus auf die Harnblase?",
+   "o": [
+    "Er erschlafft den M. detrusor.",
+    "Er kontrahiert den M. sphincter urethrae externus.",
+    "Er hat keinen Einfluss.",
+    "Er bildet Harn.",
+    "Er kontrahiert den M. detrusor vesicae und fördert die Entleerung."
+   ],
+   "a": "E",
+   "expl": "Parasympathische Fasern aus S2–S4 aktivieren den Detrusor über M3-Rezeptoren. Der Sympathikus fördert dagegen die Speicherung.",
+   "dis": {
+    "A": "Wirkung des Sympathikus.",
+    "B": "Somatisch über den N. pudendus.",
+    "C": "Er ist für die Miktion entscheidend.",
+    "D": "Die Niere bildet Harn."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-198-2",
+   "src": "F1-198",
+   "typ": "perspektive",
+   "q": "Wie wirkt der Sympathikus auf die Harnblase?",
+   "o": [
+    "Er erschlafft den Detrusor und kontrahiert den Blasenhals.",
+    "Er kontrahiert den Detrusor.",
+    "Er erschlafft den Blasenhals.",
+    "Er steuert den äußeren Sphinkter willkürlich.",
+    "Er hat keinen Einfluss."
+   ],
+   "a": "A",
+   "expl": "Über β3-Rezeptoren erschlafft der Detrusor, über α1-Rezeptoren kontrahiert der Blasenhals. So wird Harn gespeichert.",
+   "dis": {
+    "B": "Wirkung des Parasympathikus.",
+    "C": "Gegenteil.",
+    "D": "Somatisch.",
+    "E": "Er fördert die Speicherung."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-199-1",
+   "src": "F1-199",
+   "typ": "perspektive",
+   "q": "Welcher Muskel bildet die Hauptmuskulatur der Harnblasenwand?",
+   "o": [
+    "M. sphincter urethrae externus",
+    "M. detrusor vesicae",
+    "M. levator ani",
+    "M. cremaster",
+    "M. obturatorius internus"
+   ],
+   "a": "B",
+   "expl": "Der Detrusor besteht aus glatter Muskulatur in mehreren Schichten. Er presst bei der Miktion den Harn aus der Blase.",
+   "dis": {
+    "A": "Liegt im Beckenboden.",
+    "C": "Beckenbodenmuskel.",
+    "D": "Hodenhebermuskel.",
+    "E": "Hüftmuskel."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-199-2",
+   "src": "F1-199",
+   "typ": "perspektive",
+   "q": "Welches Epithel kleidet die Harnblase aus?",
+   "o": [
+    "Mehrschichtiges verhorntes Plattenepithel",
+    "Einschichtiges Zylinderepithel",
+    "Urothel (Übergangsepithel)",
+    "Mehrreihiges Flimmerepithel",
+    "Einschichtiges Plattenepithel"
+   ],
+   "a": "C",
+   "expl": "Das Urothel passt seine Höhe dem Füllungszustand an. Die oberflächlichen Deckzellen sind groß und schützen vor dem Harn.",
+   "dis": {
+    "A": "Typisch für die Haut.",
+    "B": "Typisch für den Darm.",
+    "D": "Typisch für die Atemwege.",
+    "E": "Typisch für Endothel und Mesothel."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-200-1",
+   "src": "F1-200",
+   "typ": "perspektive",
+   "q": "Welcher embryonale Rest liegt in der Plica umbilicalis mediana?",
+   "o": [
+    "A. umbilicalis",
+    "Vasa epigastrica inferiora",
+    "Ductus venosus",
+    "Urachus",
+    "Ductus arteriosus"
+   ],
+   "a": "D",
+   "expl": "Der Urachus verband beim Embryo die Blasenspitze mit dem Nabel. Bleibt er offen, kann Harn aus dem Nabel austreten (Urachusfistel).",
+   "dis": {
+    "A": "Liegt in der Plica umbilicalis medialis.",
+    "B": "Liegen in der Plica umbilicalis lateralis.",
+    "C": "Liegt an der Leber.",
+    "E": "Liegt am Herzen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-200-2",
+   "src": "F1-200",
+   "typ": "perspektive",
+   "q": "Welche Struktur liegt in der Plica umbilicalis medialis?",
+   "o": [
+    "Urachus",
+    "Vasa epigastrica inferiora",
+    "Lig. teres hepatis",
+    "Ductus deferens",
+    "Obliterierte A. umbilicalis"
+   ],
+   "a": "E",
+   "expl": "Die Nabelarterien obliterieren nach der Geburt zu den Ligg. umbilicalia medialia. Ihr proximaler Abschnitt bleibt als A. vesicalis superior offen.",
+   "dis": {
+    "A": "Liegt in der Plica umbilicalis mediana.",
+    "B": "Liegen in der Plica umbilicalis lateralis.",
+    "C": "Zieht vom Nabel zur Leber.",
+    "D": "Verläuft im Leistenkanal."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-91-1",
+   "src": "F3-91",
+   "typ": "perspektive",
+   "q": "Welches Hormon bildet die Niere zur Steigerung der Erythropoese?",
+   "o": [
+    "Erythropoetin",
+    "Insulin",
+    "Adrenalin",
+    "Thyroxin",
+    "ADH"
+   ],
+   "a": "A",
+   "expl": "Erythropoetin wird bei Sauerstoffmangel von Fibroblasten im Interstitium der Niere gebildet. Bei chronischer Niereninsuffizienz entsteht deshalb eine renale Anämie.",
+   "dis": {
+    "B": "Aus dem Pankreas.",
+    "C": "Aus dem Nebennierenmark.",
+    "D": "Aus der Schilddrüse.",
+    "E": "Aus dem Hypothalamus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-91-2",
+   "src": "F3-91",
+   "typ": "perspektive",
+   "q": "Welches Enzym bildet die Niere zur Blutdruckregulation?",
+   "o": [
+    "Pepsin",
+    "Renin",
+    "Trypsin",
+    "Amylase",
+    "Lipase"
+   ],
+   "a": "B",
+   "expl": "Renin wird von den juxtaglomerulären Zellen bei vermindertem Blutdruck freigesetzt und startet das Renin-Angiotensin-Aldosteron-System.",
+   "dis": {
+    "A": "Aus dem Magen.",
+    "C": "Aus dem Pankreas.",
+    "D": "Aus Speicheldrüsen und Pankreas.",
+    "E": "Aus dem Pankreas."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-92-1",
+   "src": "F3-92",
+   "typ": "perspektive",
+   "q": "In welcher Reihenfolge teilt sich die A. renalis in der Niere auf?",
+   "o": [
+    "Aa. arcuatae, Aa. interlobares, Aa. segmentales, Aa. interlobulares",
+    "Aa. interlobulares, Aa. arcuatae, Aa. interlobares, Aa. segmentales",
+    "Aa. segmentales, Aa. interlobares, Aa. arcuatae, Aa. interlobulares",
+    "Aa. segmentales, Aa. arcuatae, Aa. interlobares, Aa. interlobulares",
+    "Aa. interlobares, Aa. segmentales, Aa. interlobulares, Aa. arcuatae"
+   ],
+   "a": "C",
+   "expl": "Die Aa. interlobares ziehen zwischen den Pyramiden, die Aa. arcuatae bogenförmig an der Mark-Rinden-Grenze, die Aa. interlobulares radiär in die Rinde.",
+   "dis": {
+    "A": "Falsche Reihenfolge.",
+    "B": "Umgekehrt.",
+    "D": "Arcuatae und interlobares vertauscht.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-92-2",
+   "src": "F3-92",
+   "typ": "perspektive",
+   "q": "Wohin führt das Vas efferens bei juxtamedullären Nephronen?",
+   "o": [
+    "Direkt in die V. renalis",
+    "In die Bowman-Kapsel",
+    "In die A. arcuata",
+    "In die Vasa recta des Nierenmarks",
+    "In den Ureter"
+   ],
+   "a": "D",
+   "expl": "Die Vasa recta begleiten die Henle-Schleifen ins Mark. Ihr Gegenstromprinzip erhält den osmotischen Gradienten für die Harnkonzentrierung.",
+   "dis": {
+    "A": "Erst über weitere Kapillaren.",
+    "B": "Falsch.",
+    "C": "Arterie, falsche Richtung.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-93-1",
+   "src": "F3-93",
+   "typ": "perspektive",
+   "q": "Wo wird Adiuretin (ADH) gebildet?",
+   "o": [
+    "In der Niere",
+    "In der Nebennierenrinde",
+    "Im Hypophysenvorderlappen",
+    "In der Leber",
+    "Im Hypothalamus (Nuclei supraopticus und paraventricularis)"
+   ],
+   "a": "E",
+   "expl": "ADH wird im Hypothalamus gebildet, axonal in den Hypophysenhinterlappen transportiert und dort ins Blut abgegeben.",
+   "dis": {
+    "A": "Zielorgan.",
+    "B": "Bildet Aldosteron und Cortisol.",
+    "C": "Bildet andere Hormone.",
+    "D": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-93-2",
+   "src": "F3-93",
+   "typ": "perspektive",
+   "q": "Wie vermittelt ADH die Wasserrückresorption im Sammelrohr?",
+   "o": [
+    "Durch den Einbau von Aquaporin-2 in die luminale Membran",
+    "Durch Hemmung der Na+/K+-ATPase",
+    "Durch Erweiterung des Vas afferens",
+    "Durch vermehrte Glukoseausscheidung",
+    "Durch Öffnung von Kaliumkanälen"
+   ],
+   "a": "A",
+   "expl": "ADH bindet an V2-Rezeptoren und lässt Aquaporin-2-Kanäle in die Zellmembran einbauen. Fehlt ADH (Diabetes insipidus), werden große Mengen verdünnten Harns ausgeschieden.",
+   "dis": {
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-94-1",
+   "src": "F3-94",
+   "typ": "perspektive",
+   "q": "Was sind Markstrahlen (Radii medullares)?",
+   "o": [
+    "Rindengewebe zwischen den Pyramiden",
+    "Bündel aus geraden Tubuli und Sammelrohren, die vom Mark in die Rinde ziehen",
+    "Gefäße an der Mark-Rinden-Grenze",
+    "Die Spitzen der Pyramiden",
+    "Teile des Nierenbeckens"
+   ],
+   "a": "B",
+   "expl": "Die Markstrahlen liegen in der Rinde, enthalten aber Markstrukturen. Ein Markstrahl mit dem umgebenden Rindengewebe bildet ein Nierenläppchen.",
+   "dis": {
+    "A": "Das sind die Columnae renales.",
+    "C": "Das sind die Aa. arcuatae.",
+    "D": "Das sind die Papillen.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-94-2",
+   "src": "F3-94",
+   "typ": "perspektive",
+   "q": "Wo liegen die Nierenkörperchen?",
+   "o": [
+    "Im Nierenmark",
+    "In den Papillen",
+    "In der Nierenrinde",
+    "Im Nierenbecken",
+    "In der Fettkapsel"
+   ],
+   "a": "C",
+   "expl": "Alle Glomeruli liegen in der Rinde, die juxtamedullären nahe der Markgrenze. Deshalb erscheint die Rinde körnig, das Mark streifig.",
+   "dis": {
+    "A": "Dort liegen Henle-Schleifen und Sammelrohre.",
+    "B": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-95-1",
+   "src": "F3-95",
+   "typ": "perspektive",
+   "q": "Welche Hormone bildet das Nebennierenmark?",
+   "o": [
+    "Aldosteron",
+    "Cortisol",
+    "Androgene",
+    "Adrenalin und Noradrenalin",
+    "Renin"
+   ],
+   "a": "D",
+   "expl": "Das Nebennierenmark ist ein umgewandeltes sympathisches Ganglion. Es wird von präganglionären Fasern direkt innerviert.",
+   "dis": {
+    "A": "Aus der Zona glomerulosa.",
+    "B": "Aus der Zona fasciculata.",
+    "C": "Aus der Zona reticularis.",
+    "E": "Aus der Niere."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-95-2",
+   "src": "F3-95",
+   "typ": "perspektive",
+   "q": "In welcher Reihenfolge liegen die Zonen der Nebennierenrinde von außen nach innen?",
+   "o": [
+    "Zona reticularis, Zona fasciculata, Zona glomerulosa",
+    "Zona fasciculata, Zona glomerulosa, Zona reticularis",
+    "Zona glomerulosa, Zona reticularis, Zona fasciculata",
+    "Mark, Zona glomerulosa, Zona fasciculata",
+    "Zona glomerulosa, Zona fasciculata, Zona reticularis"
+   ],
+   "a": "E",
+   "expl": "Merkregel Salz, Zucker, Sex: Mineralokortikoide außen, Glukokortikoide in der Mitte, Androgene innen.",
+   "dis": {
+    "A": "Umgekehrt.",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "D": "Das Mark liegt innen."
+   },
+   "merk": "Salz, Zucker, Sex (GFR).",
+   "img": null
+  },
+  {
+   "id": "V-F3-96-1",
+   "src": "F3-96",
+   "typ": "nachbarschaft",
+   "q": "Welchem Organ sitzt die Nebenniere auf?",
+   "o": [
+    "Dem oberen Nierenpol",
+    "Der Milz",
+    "Der Leber direkt in der Leberpforte",
+    "Dem Pankreas",
+    "Dem Magen"
+   ],
+   "a": "A",
+   "expl": "Die Nebennieren sitzen kappenartig auf den oberen Nierenpolen, liegen aber in einem eigenen Faszienfach. Bei einer Nephrektomie bleibt die Nebenniere deshalb meist erhalten.",
+   "dis": {
+    "B": "Liegt links lateral.",
+    "C": "Falsch.",
+    "D": "Liegt vorne.",
+    "E": "Liegt vorne."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-96-2",
+   "src": "F3-96",
+   "typ": "perspektive",
+   "q": "Welche Form haben rechte und linke Nebenniere typischerweise?",
+   "o": [
+    "Beide rund",
+    "Rechts dreieckig, links halbmondförmig",
+    "Rechts halbmondförmig, links dreieckig",
+    "Beide bohnenförmig",
+    "Beide schlauchförmig"
+   ],
+   "a": "B",
+   "expl": "Die rechte Nebenniere ist pyramidenförmig und liegt hinter der V. cava. Die linke ist halbmondförmig und reicht bis zum Nierenhilus.",
+   "dis": {
+    "A": "Falsch.",
+    "C": "Umgekehrt.",
+    "D": "Beschreibt die Niere.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-97-1",
+   "src": "F3-97",
+   "typ": "perspektive",
+   "q": "Aus welchem Gefäß entspringt die A. suprarenalis superior?",
+   "o": [
+    "A. renalis",
+    "Aorta direkt",
+    "A. phrenica inferior",
+    "A. mesenterica superior",
+    "A. splenica"
+   ],
+   "a": "C",
+   "expl": "Die drei Nebennierenarterien kommen aus drei Quellen: superior aus der A. phrenica inferior, media aus der Aorta, inferior aus der A. renalis.",
+   "dis": {
+    "A": "Ursprung der A. suprarenalis inferior.",
+    "B": "Ursprung der A. suprarenalis media.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-97-2",
+   "src": "F3-97",
+   "typ": "perspektive",
+   "q": "Wohin mündet die linke V. suprarenalis?",
+   "o": [
+    "Direkt in die V. cava inferior",
+    "In die V. portae",
+    "In die V. azygos",
+    "In die linke V. renalis",
+    "In die V. splenica"
+   ],
+   "a": "D",
+   "expl": "Die Nebenniere hat meist nur eine Vene. Rechts mündet sie kurz direkt in die V. cava inferior, links in die linke Nierenvene, wie bei den Gonadenvenen.",
+   "dis": {
+    "A": "Mündung der rechten V. suprarenalis.",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-98-1",
+   "src": "F3-98",
+   "typ": "perspektive",
+   "q": "Wo beginnt die Pars pelvica des Ureters?",
+   "o": [
+    "Am Nierenhilus",
+    "In der Blasenwand",
+    "Am Zwerchfell",
+    "An der Prostata",
+    "An der Linea terminalis bzw. Kreuzung mit den Iliakalgefäßen"
+   ],
+   "a": "E",
+   "expl": "Die Pars pelvica zieht an der seitlichen Beckenwand nach unten und vorne zur Blase. Sie hat enge Beziehung zu A. uterina bzw. Ductus deferens.",
+   "dis": {
+    "A": "Dort beginnt die Pars abdominalis.",
+    "B": "Dort beginnt die Pars intramuralis.",
+    "C": "Falsch.",
+    "D": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-98-2",
+   "src": "F3-98",
+   "typ": "perspektive",
+   "q": "Welches Epithel kleidet den Ureter aus?",
+   "o": [
+    "Urothel",
+    "Einschichtiges Zylinderepithel",
+    "Mehrschichtiges verhorntes Plattenepithel",
+    "Flimmerepithel",
+    "Einschichtiges Plattenepithel"
+   ],
+   "a": "A",
+   "expl": "Der Ureter hat ein sternförmiges Lumen mit Urothel und eine kräftige glatte Muskulatur. Peristaltische Wellen befördern den Harn zur Blase.",
+   "dis": {
+    "B": "Typisch für den Darm.",
+    "C": "Typisch für die Haut.",
+    "D": "Typisch für die Atemwege.",
+    "E": "Typisch für Endothel."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-99-1",
+   "src": "F3-99",
+   "typ": "perspektive",
+   "q": "Welche der Ureterengen liegt am weitesten distal?",
+   "o": [
+    "Der Abgang aus dem Nierenbecken",
+    "Der Durchtritt durch die Blasenwand",
+    "Die Kreuzung mit den Iliakalgefäßen",
+    "Die Kreuzung mit der A. renalis",
+    "Der Durchtritt durch das Zwerchfell"
+   ],
+   "a": "B",
+   "expl": "Die Enge in der Blasenwand ist meist die engste Stelle. Kleine Steine gehen oft spontan ab, größere bleiben hier stecken.",
+   "dis": {
+    "A": "Am weitesten proximal.",
+    "C": "Mittlere Enge.",
+    "D": "Keine Enge.",
+    "E": "Der Ureter durchtritt es nicht."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-99-2",
+   "src": "F3-99",
+   "typ": "klinik",
+   "q": "Welche Komplikation droht bei einem dauerhaft verlegten Ureter?",
+   "o": [
+    "Lungenödem",
+    "Leberzirrhose",
+    "Harnstau mit Hydronephrose",
+    "Aszites",
+    "Ikterus"
+   ],
+   "a": "C",
+   "expl": "Der Harnaufstau erweitert Nierenbecken und Kelche und schädigt das Parenchym. Kommt eine Infektion dazu, droht eine Urosepsis.",
+   "dis": {
+    "A": "Kein direkter Zusammenhang.",
+    "B": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-100-1",
+   "src": "F3-100",
+   "typ": "perspektive",
+   "q": "Welcher Muskel wird bei der Miktion willkürlich erschlafft?",
+   "o": [
+    "M. detrusor vesicae",
+    "Zwerchfell",
+    "M. rectus abdominis",
+    "M. sphincter urethrae externus",
+    "M. sphincter urethrae internus"
+   ],
+   "a": "D",
+   "expl": "Bei der Miktion kontrahiert der Detrusor, Blasenhals und äußerer Schließmuskel erschlaffen. Die Bauchpresse kann die Entleerung unterstützen.",
+   "dis": {
+    "A": "Kontrahiert bei der Miktion.",
+    "B": "Unterstützt beim Pressen.",
+    "C": "Unterstützt beim Pressen.",
+    "E": "Glatt, nicht willkürlich."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-100-2",
+   "src": "F3-100",
+   "typ": "perspektive",
+   "q": "Ab welchem Füllvolumen tritt normalerweise erster Harndrang auf?",
+   "o": [
+    "Etwa 10 ml",
+    "Etwa 2 Liter",
+    "Etwa 50 ml",
+    "Etwa 1,5 Liter",
+    "Etwa 150–300 ml"
+   ],
+   "a": "E",
+   "expl": "Die Harnblase fasst etwa 300–500 ml. Dehnungsrezeptoren melden die Füllung über die Nn. splanchnici pelvici.",
+   "dis": {
+    "A": "Zu wenig.",
+    "B": "Viel zu viel.",
+    "C": "Zu wenig.",
+    "D": "Zu viel."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-101-1",
+   "src": "F3-101",
+   "typ": "perspektive",
+   "q": "Wo liegt das übergeordnete pontine Miktionszentrum?",
+   "o": [
+    "In der Brücke (Pons) des Hirnstamms",
+    "Im Kleinhirn",
+    "Im Thorakalmark",
+    "In der Hypophyse",
+    "In der Medulla oblongata"
+   ],
+   "a": "A",
+   "expl": "Das pontine Miktionszentrum koordiniert Detrusorkontraktion und Sphinktererschlaffung. Das Großhirn entscheidet über den willkürlichen Zeitpunkt.",
+   "dis": {
+    "B": "Falsch.",
+    "C": "Dort liegt das sympathische Zentrum.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-101-2",
+   "src": "F3-101",
+   "typ": "klinik",
+   "q": "Welche Blasenstörung entsteht bei einer Rückenmarkverletzung oberhalb des sakralen Miktionszentrums?",
+   "o": [
+    "Eine normale Blasenfunktion",
+    "Eine Reflexblase mit unkoordinierter Entleerung",
+    "Eine dauerhaft leere Blase",
+    "Keine Harnbildung",
+    "Eine willkürlich steuerbare Blase"
+   ],
+   "a": "B",
+   "expl": "Der sakrale Reflexbogen bleibt erhalten, die Blase entleert sich reflektorisch. Oft arbeiten Detrusor und Sphinkter gegeneinander (Detrusor-Sphinkter-Dyssynergie).",
+   "dis": {
+    "A": "Die Steuerung durch das Hirn fehlt.",
+    "C": "Falsch.",
+    "D": "Die Nieren arbeiten weiter.",
+    "E": "Die Kontrolle ist verloren."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-102-1",
+   "src": "F3-102",
+   "typ": "nachbarschaft",
+   "q": "Welche Struktur liegt ventral der Harnblase?",
+   "o": [
+    "Rektum",
+    "Uterus",
+    "Symphyse mit dem Retzius-Raum",
+    "Kreuzbein",
+    "Prostata"
+   ],
+   "a": "C",
+   "expl": "Zwischen Symphyse und Blase liegt der fettgefüllte Retzius-Raum (Spatium retropubicum). Er erlaubt die Ausdehnung der Blase.",
+   "dis": {
+    "A": "Liegt dorsal (beim Mann).",
+    "B": "Liegt dorsal-kranial.",
+    "D": "Liegt dorsal.",
+    "E": "Liegt kaudal."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-102-2",
+   "src": "F3-102",
+   "typ": "klinik",
+   "q": "Warum kann eine volle Harnblase oberhalb der Symphyse punktiert werden, ohne die Peritonealhöhle zu eröffnen?",
+   "o": [
+    "Weil sie intraperitoneal liegt",
+    "Weil das Peritoneum fehlt",
+    "Weil sie im Thorax liegt",
+    "Weil sie sich beim Füllen hinter der Bauchwand nach oben schiebt und das Peritoneum anhebt",
+    "Weil sie vor der Rektusscheide liegt"
+   ],
+   "a": "D",
+   "expl": "Die volle Blase steigt über die Symphyse und drängt das Peritoneum von der vorderen Bauchwand ab. Das erlaubt die suprapubische Punktion bzw. Katheteranlage.",
+   "dis": {
+    "A": "Sie liegt extraperitoneal.",
+    "B": "Es ist vorhanden.",
+    "C": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-103-1",
+   "src": "F3-103",
+   "typ": "perspektive",
+   "q": "Wohin drainiert die Lymphe der Harnblase überwiegend?",
+   "o": [
+    "In die Lnn. inguinales superficiales",
+    "In die Lnn. coeliaci",
+    "In die Lnn. axillares",
+    "In die Lnn. mesenterici superiores",
+    "In die Lnn. iliaci interni und externi"
+   ],
+   "a": "E",
+   "expl": "Die Blasenlymphe folgt den Gefäßen zu den Iliakallymphknoten. Bei Blasenkarzinomen werden diese Lymphknoten mitentfernt.",
+   "dis": {
+    "A": "Für Haut und äußeres Genitale.",
+    "B": "Für Oberbauchorgane.",
+    "C": "Für den Arm.",
+    "D": "Für den Dünndarm."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-103-2",
+   "src": "F3-103",
+   "typ": "perspektive",
+   "q": "Wohin drainiert die Lymphe der Pars spongiosa der männlichen Harnröhre?",
+   "o": [
+    "In die Lnn. inguinales",
+    "In die Lnn. lumbales",
+    "In die Lnn. coeliaci",
+    "In die Lnn. mediastinales",
+    "In die Lnn. cervicales"
+   ],
+   "a": "A",
+   "expl": "Die distalen Harnröhrenabschnitte drainieren wie die Penishaut in die Leiste. Die proximalen Abschnitte drainieren zu den Lnn. iliaci interni.",
+   "dis": {
+    "B": "Für den Hoden.",
+    "C": "Für Oberbauchorgane.",
+    "D": "Für Thoraxorgane.",
+    "E": "Für Kopf und Hals."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-104-1",
+   "src": "F3-104",
+   "typ": "perspektive",
+   "q": "Wie lang ist die weibliche Harnröhre etwa?",
+   "o": [
+    "15–20 cm",
+    "3–5 cm",
+    "1 cm",
+    "10 cm",
+    "30 cm"
+   ],
+   "a": "B",
+   "expl": "Die kurze weibliche Harnröhre erklärt, warum Frauen deutlich häufiger an Blasenentzündungen erkranken. Sie mündet im Vestibulum vaginae.",
+   "dis": {
+    "A": "Länge der männlichen Harnröhre.",
+    "C": "Zu kurz.",
+    "D": "Zu lang.",
+    "E": "Länge des Ureters."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-104-2",
+   "src": "F3-104",
+   "typ": "perspektive",
+   "q": "Wie heißt die Erhebung an der Hinterwand der Pars prostatica urethrae?",
+   "o": [
+    "Trigonum vesicae",
+    "Fossa navicularis",
+    "Colliculus seminalis",
+    "Uvula vesicae",
+    "Bulbus penis"
+   ],
+   "a": "C",
+   "expl": "Auf dem Colliculus seminalis münden der Utriculus prostaticus und beidseits die Ductus ejaculatorii. Seitlich davon münden die Prostatadrüsen.",
+   "dis": {
+    "A": "Liegt in der Blase.",
+    "B": "Erweiterung in der Glans.",
+    "D": "Vorwölbung am Blasenhals.",
+    "E": "Teil des Schwellkörpers."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-105-1",
+   "src": "F3-105",
+   "typ": "perspektive",
+   "q": "Warum ist die Schleimhaut im Trigonum vesicae faltenfrei?",
+   "o": [
+    "Weil dort kein Epithel vorhanden ist",
+    "Weil dort Plattenepithel liegt",
+    "Weil die Blase dort keine Muskulatur hat",
+    "Weil sie fest mit der Muskulatur verwachsen ist (keine verschiebliche Submukosa)",
+    "Weil dort das Peritoneum liegt"
+   ],
+   "a": "D",
+   "expl": "Im übrigen Blasenbereich legt sich die Schleimhaut in leerem Zustand in Falten. Das Trigonum entstammt embryonal dem Ductus mesonephricus.",
+   "dis": {
+    "A": "Es ist Urothel vorhanden.",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-105-2",
+   "src": "F3-105",
+   "typ": "perspektive",
+   "q": "Wie heißt die Schleimhautfalte zwischen den beiden Uretermündungen?",
+   "o": [
+    "Plica umbilicalis mediana",
+    "Plica spiralis",
+    "Plica circularis",
+    "Plica rectouterina",
+    "Plica interureterica"
+   ],
+   "a": "E",
+   "expl": "Die Plica interureterica bildet die obere Grenze des Trigonum vesicae. Bei der Blasenspiegelung dient sie zur Orientierung beim Aufsuchen der Uretermündungen.",
+   "dis": {
+    "A": "Liegt an der Bauchwand.",
+    "B": "Liegt im Ductus cysticus.",
+    "C": "Liegt im Dünndarm.",
+    "D": "Liegt im Becken."
+   },
+   "merk": "",
+   "img": null
+  }
+ ]
+}

@@ -1,0 +1,1478 @@
+{
+ "chapter": "A13",
+ "status": "review",
+ "cards": [
+  {
+   "id": "V-F1-172-1",
+   "src": "F1-172",
+   "typ": "umkehrung",
+   "q": "Welche Struktur gehört zu den äußeren männlichen Geschlechtsorganen?",
+   "o": [
+    "Penis",
+    "Hoden",
+    "Nebenhoden",
+    "Prostata",
+    "Ductus deferens"
+   ],
+   "a": "A",
+   "expl": "Äußere männliche Geschlechtsorgane sind Penis und Skrotum. Hoden, Nebenhoden, Samenwege und akzessorische Drüsen zählen zu den inneren, auch wenn die Hoden außerhalb der Bauchhöhle liegen.",
+   "dis": {
+    "B": "Inneres Geschlechtsorgan.",
+    "C": "Inneres Geschlechtsorgan.",
+    "D": "Inneres Geschlechtsorgan (akzessorische Drüse).",
+    "E": "Inneres Geschlechtsorgan."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-172-2",
+   "src": "F1-172",
+   "typ": "perspektive",
+   "q": "Welcher Muskel der Skrotalwand kann die Skrotalhaut runzeln?",
+   "o": [
+    "M. cremaster",
+    "Tunica dartos",
+    "M. bulbospongiosus",
+    "M. ischiocavernosus",
+    "M. transversus perinei superficialis"
+   ],
+   "a": "B",
+   "expl": "Die Tunica dartos besteht aus glatter Muskulatur in der Skrotalhaut. Bei Kälte zieht sie sich zusammen und verkleinert die Oberfläche, um Wärme zu sparen.",
+   "dis": {
+    "A": "Hebt den Hoden an.",
+    "C": "Umgibt den Bulbus penis.",
+    "D": "Umgibt die Crura penis.",
+    "E": "Muskel des Damms."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-173-1",
+   "src": "F1-173",
+   "typ": "perspektive",
+   "q": "Welche akzessorische Geschlechtsdrüse liefert den größten Anteil des Ejakulats?",
+   "o": [
+    "Prostata",
+    "Glandulae bulbourethrales",
+    "Glandulae vesiculosae (Samenbläschen)",
+    "Glandulae urethrales (Littré)",
+    "Hoden"
+   ],
+   "a": "C",
+   "expl": "Die Samenbläschen liefern etwa 60–70 % des Ejakulats mit Fruktose als Energiequelle. Ihr Sekret ist leicht alkalisch.",
+   "dis": {
+    "A": "Liefert etwa 15–30 %.",
+    "B": "Nur kleine Menge Gleitsekret.",
+    "D": "Nur Schleim.",
+    "E": "Liefert die Spermien, aber wenig Volumen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-173-2",
+   "src": "F1-173",
+   "typ": "perspektive",
+   "q": "Welcher Bestandteil des Prostatasekrets verflüssigt das Ejakulat und dient als Tumormarker?",
+   "o": [
+    "Fruktose",
+    "Testosteron",
+    "Inhibin",
+    "Prostataspezifisches Antigen (PSA)",
+    "Gastrin"
+   ],
+   "a": "D",
+   "expl": "PSA ist eine Serinprotease, die das gerinnende Ejakulat verflüssigt. Ein erhöhter Serumspiegel kann auf ein Prostatakarzinom hinweisen, aber auch auf Entzündung oder Hyperplasie.",
+   "dis": {
+    "A": "Aus den Samenbläschen.",
+    "B": "Aus den Leydig-Zellen.",
+    "C": "Aus den Sertoli-Zellen.",
+    "E": "Magenhormon."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-174-1",
+   "src": "F1-174",
+   "typ": "perspektive",
+   "q": "Welche Hodenhülle stammt vom M. obliquus internus abdominis ab?",
+   "o": [
+    "Fascia spermatica externa",
+    "Fascia spermatica interna",
+    "Tunica vaginalis testis",
+    "Tunica dartos",
+    "M. cremaster"
+   ],
+   "a": "E",
+   "expl": "Beim Deszensus nimmt der Hoden Schichten der Bauchwand mit. Externusaponeurose wird zur Fascia spermatica externa, Internus zum M. cremaster, Fascia transversalis zur Fascia spermatica interna.",
+   "dis": {
+    "A": "Stammt von der Externusaponeurose.",
+    "B": "Stammt von der Fascia transversalis.",
+    "C": "Stammt vom Peritoneum.",
+    "D": "Glatte Muskulatur der Skrotalhaut."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-174-2",
+   "src": "F1-174",
+   "typ": "perspektive",
+   "q": "Welche Hodenhülle ist ein Rest des Processus vaginalis peritonei?",
+   "o": [
+    "Tunica vaginalis testis",
+    "Tunica albuginea",
+    "Fascia spermatica externa",
+    "M. cremaster",
+    "Tunica dartos"
+   ],
+   "a": "A",
+   "expl": "Die Tunica vaginalis hat ein parietales und ein viszerales Blatt. Sammelt sich Flüssigkeit dazwischen, entsteht eine Hydrozele.",
+   "dis": {
+    "B": "Derbe Organkapsel des Hodens.",
+    "C": "Von der Externusaponeurose.",
+    "D": "Vom M. obliquus internus.",
+    "E": "Teil der Skrotalhaut."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-175-1",
+   "src": "F1-175",
+   "typ": "klinik",
+   "q": "Wie nennt man es, wenn der Hoden bei der Geburt nicht im Skrotum liegt?",
+   "o": [
+    "Hydrozele",
+    "Maldescensus testis (Kryptorchismus)",
+    "Varikozele",
+    "Phimose",
+    "Hodentorsion"
+   ],
+   "a": "B",
+   "expl": "Ein Hodenhochstand sollte bis zum Ende des ersten Lebensjahres behoben werden. Sonst steigen das Risiko für Unfruchtbarkeit und für Hodentumoren.",
+   "dis": {
+    "A": "Flüssigkeit in der Tunica vaginalis.",
+    "C": "Erweiterte Venen des Plexus pampiniformis.",
+    "D": "Verengte Vorhaut.",
+    "E": "Drehung des Samenstrangs."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-175-2",
+   "src": "F1-175",
+   "typ": "perspektive",
+   "q": "Welche embryonale Struktur leitet den Hoden beim Deszensus ins Skrotum?",
+   "o": [
+    "Ductus mesonephricus",
+    "Urachus",
+    "Gubernaculum testis",
+    "Ductus omphaloentericus",
+    "Ductus arteriosus"
+   ],
+   "a": "C",
+   "expl": "Das Gubernaculum zieht vom unteren Hodenpol durch den Leistenkanal zum Skrotum. Bei der Frau entspricht es Lig. ovarii proprium und Lig. teres uteri.",
+   "dis": {
+    "A": "Wird zum Ductus deferens.",
+    "B": "Verbindet Blase und Nabel.",
+    "D": "Verbindet Darm und Dottersack.",
+    "E": "Fetale Gefäßverbindung."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-176-1",
+   "src": "F1-176",
+   "typ": "perspektive",
+   "q": "Welche Zellen des Hodens bilden Testosteron?",
+   "o": [
+    "Sertoli-Zellen",
+    "Spermatogonien",
+    "Myofibroblasten",
+    "Leydig-Zellen",
+    "Ependymzellen"
+   ],
+   "a": "D",
+   "expl": "Die Leydig-Zellen liegen im Interstitium zwischen den Hodenkanälchen. Sie werden von LH zur Testosteronbildung angeregt.",
+   "dis": {
+    "A": "Stützen und ernähren die Keimzellen.",
+    "B": "Stammzellen der Spermatogenese.",
+    "C": "Umgeben die Tubuli.",
+    "E": "Liegen im ZNS."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-176-2",
+   "src": "F1-176",
+   "typ": "perspektive",
+   "q": "Welches Hypophysenhormon wirkt im Hoden vor allem auf die Sertoli-Zellen?",
+   "o": [
+    "LH",
+    "Prolaktin",
+    "ACTH",
+    "TSH",
+    "FSH"
+   ],
+   "a": "E",
+   "expl": "FSH regt die Sertoli-Zellen zur Bildung von androgenbindendem Protein und Inhibin an. Inhibin hemmt rückkoppelnd die FSH-Ausschüttung.",
+   "dis": {
+    "A": "Wirkt auf die Leydig-Zellen.",
+    "B": "Vor allem für die Milchbildung.",
+    "C": "Wirkt auf die Nebennierenrinde.",
+    "D": "Wirkt auf die Schilddrüse."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-177-1",
+   "src": "F1-177",
+   "typ": "perspektive",
+   "q": "Welches Epithel kleidet den Ductus epididymidis aus?",
+   "o": [
+    "Zweireihiges Epithel mit Stereozilien",
+    "Einschichtiges Plattenepithel",
+    "Urothel",
+    "Mehrschichtiges verhorntes Plattenepithel",
+    "Flimmerepithel mit Becherzellen"
+   ],
+   "a": "A",
+   "expl": "Die Stereozilien sind lange Mikrovilli und dienen der Resorption von Flüssigkeit. Das Lumen des Nebenhodengangs ist glatt begrenzt.",
+   "dis": {
+    "B": "Typisch für Mesothel.",
+    "C": "Typisch für die Harnwege.",
+    "D": "Typisch für die Haut.",
+    "E": "Typisch für die Atemwege."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-177-2",
+   "src": "F1-177",
+   "typ": "perspektive",
+   "q": "In welche Abschnitte gliedert sich der Nebenhoden?",
+   "o": [
+    "Fundus, Corpus und Antrum",
+    "Caput, Corpus und Cauda",
+    "Pars uterina, Isthmus, Ampulla",
+    "Cortex und Medulla",
+    "Bulbus und Crus"
+   ],
+   "a": "B",
+   "expl": "Der Kopf liegt am oberen Hodenpol und nimmt die Ductuli efferentes auf. Aus dem Schwanz am unteren Pol geht der Ductus deferens hervor.",
+   "dis": {
+    "A": "Abschnitte des Magens.",
+    "C": "Abschnitte der Tube.",
+    "D": "Gliederung von Niere und Nebenniere.",
+    "E": "Teile des Penis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-178-1",
+   "src": "F1-178",
+   "typ": "nachbarschaft",
+   "q": "Wie heißt der erweiterte Endabschnitt des Ductus deferens hinter der Harnblase?",
+   "o": [
+    "Ampulla recti",
+    "Ampulla tubae uterinae",
+    "Ampulla ductus deferentis",
+    "Bulbus penis",
+    "Utriculus prostaticus"
+   ],
+   "a": "C",
+   "expl": "Die Ampulle liegt an der Hinterwand der Harnblase medial der Samenbläschen. Sie vereinigt sich mit dem Ausführungsgang der Samenblase zum Ductus ejaculatorius.",
+   "dis": {
+    "A": "Erweiterter Rektumabschnitt.",
+    "B": "Abschnitt der Tube.",
+    "D": "Teil des Schwellkörpers.",
+    "E": "Blindsack am Colliculus seminalis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-178-2",
+   "src": "F1-178",
+   "typ": "klinik",
+   "q": "Was wird bei der Vasektomie durchtrennt?",
+   "o": [
+    "Ductus ejaculatorius",
+    "Urethra",
+    "A. testicularis",
+    "Ductus deferens",
+    "Ductuli efferentes"
+   ],
+   "a": "D",
+   "expl": "Der Samenleiter wird im Samenstrang im Skrotum durchtrennt, wo er als derber Strang tastbar ist. Hormonbildung und Ejakulatvolumen bleiben weitgehend erhalten.",
+   "dis": {
+    "A": "Liegt in der Prostata.",
+    "B": "Würde die Harnableitung stören.",
+    "C": "Würde den Hoden schädigen.",
+    "E": "Liegen am Hoden."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-179-1",
+   "src": "F1-179",
+   "typ": "perspektive",
+   "q": "Welchen pH-Wert hat das Sekret der Samenbläschen?",
+   "o": [
+    "Stark sauer (pH 2)",
+    "Leicht sauer (pH 6)",
+    "Neutral ohne Puffer",
+    "Stark alkalisch (pH 12)",
+    "Leicht alkalisch"
+   ],
+   "a": "E",
+   "expl": "Das alkalische Sekret hilft, das saure Scheidenmilieu zu neutralisieren. Das Prostatasekret ist dagegen leicht sauer.",
+   "dis": {
+    "A": "Typisch für Magensaft.",
+    "B": "Eher typisch für das Prostatasekret.",
+    "C": "Es puffert.",
+    "D": "Zu basisch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-179-2",
+   "src": "F1-179",
+   "typ": "nachbarschaft",
+   "q": "Wo liegen die Samenbläschen?",
+   "o": [
+    "An der Hinterseite der Harnblase oberhalb der Prostata",
+    "Im Skrotum",
+    "Im Leistenkanal",
+    "Vor der Symphyse",
+    "Im Penisschaft"
+   ],
+   "a": "A",
+   "expl": "Die Samenbläschen liegen seitlich der Ampullae ductus deferentis zwischen Harnblase und Rektum. Bei der rektalen Untersuchung sind sie normalerweise kaum tastbar.",
+   "dis": {
+    "B": "Dort liegen Hoden und Nebenhoden.",
+    "C": "Dort verläuft der Samenstrang.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-180-1",
+   "src": "F1-180",
+   "typ": "perspektive",
+   "q": "Wie viele Glandulae bulbourethrales (Cowper-Drüsen) hat der Mann?",
+   "o": [
+    "Eine",
+    "Zwei",
+    "Vier",
+    "Sechs",
+    "Keine, nur die Frau hat sie"
+   ],
+   "a": "B",
+   "expl": "Die zwei erbsengroßen Cowper-Drüsen liegen im tiefen Dammraum. Bei der Frau entsprechen ihnen die Bartholin-Drüsen.",
+   "dis": {
+    "A": "Sie sind paarig.",
+    "C": "Falsch.",
+    "D": "Falsch.",
+    "E": "Bei der Frau gibt es die Bartholin-Drüsen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-180-2",
+   "src": "F1-180",
+   "typ": "perspektive",
+   "q": "Wann geben die Glandulae bulbourethrales ihr Sekret ab?",
+   "o": [
+    "Nur beim Wasserlassen",
+    "Nur während des Schlafes",
+    "Vor der Ejakulation (Präejakulat)",
+    "Dauerhaft ins Blut",
+    "Nur nach der Ejakulation"
+   ],
+   "a": "C",
+   "expl": "Das klare, schleimige Sekret macht die Harnröhre gleitfähig und neutralisiert Harnreste. Es tritt bei sexueller Erregung vor der Ejakulation aus.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Falsch.",
+    "D": "Sie sind exokrine Drüsen.",
+    "E": "Sie sezernieren vorher."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-181-1",
+   "src": "F1-181",
+   "typ": "perspektive",
+   "q": "Welcher Abschnitt der männlichen Harnröhre ist am längsten?",
+   "o": [
+    "Pars prostatica",
+    "Pars membranacea",
+    "Pars intramuralis",
+    "Pars spongiosa",
+    "Fossa navicularis"
+   ],
+   "a": "D",
+   "expl": "Die etwa 15 cm lange Pars spongiosa verläuft im Corpus spongiosum. Die Pars membranacea durch den Beckenboden ist der engste und kürzeste Abschnitt.",
+   "dis": {
+    "A": "Etwa 3 cm.",
+    "B": "Kürzester Abschnitt, etwa 1–2 cm.",
+    "C": "Sehr kurz in der Blasenwand.",
+    "E": "Erweiterung in der Glans."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-181-2",
+   "src": "F1-181",
+   "typ": "klinik",
+   "q": "An welcher Stelle reißt die männliche Harnröhre bei Beckenfrakturen am häufigsten ein?",
+   "o": [
+    "An der Pars spongiosa in der Glans",
+    "An der Fossa navicularis",
+    "An der Pars intramuralis",
+    "Am Ostium urethrae externum",
+    "An der Pars membranacea"
+   ],
+   "a": "E",
+   "expl": "Die Pars membranacea ist im Beckenboden fixiert und wird bei Beckenringverletzungen abgeschert. Ein Blasenkatheter darf dann nicht blind eingelegt werden.",
+   "dis": {
+    "A": "Eher bei direkten Verletzungen.",
+    "B": "Selten.",
+    "C": "Selten.",
+    "D": "Selten."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-182-1",
+   "src": "F1-182",
+   "typ": "perspektive",
+   "q": "Mit welchem Venensystem steht der Plexus venosus prostaticus in Verbindung, was Wirbelsäulenmetastasen erklärt?",
+   "o": [
+    "Mit den Vv. vertebrales (Batson-Plexus)",
+    "Mit der V. portae",
+    "Mit den Lungenvenen",
+    "Mit der V. jugularis interna",
+    "Mit der V. ophthalmica"
+   ],
+   "a": "A",
+   "expl": "Die klappenlosen Venengeflechte des Beckens kommunizieren mit dem Venenplexus der Wirbelsäule. Darüber gelangen Prostatakarzinomzellen bevorzugt in die Lendenwirbelsäule und das Becken.",
+   "dis": {
+    "B": "Würde zu Lebermetastasen führen.",
+    "C": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-182-2",
+   "src": "F1-182",
+   "typ": "perspektive",
+   "q": "Welche große Vene liegt unter der Symphyse und mündet in den Plexus venosus prostaticus?",
+   "o": [
+    "V. saphena magna",
+    "V. dorsalis profunda penis",
+    "V. testicularis",
+    "V. epigastrica superficialis",
+    "V. obturatoria"
+   ],
+   "a": "B",
+   "expl": "Die V. dorsalis profunda penis zieht unter dem Lig. arcuatum pubis ins Becken. Bei der radikalen Prostatektomie muss dieser Venenkomplex sicher versorgt werden.",
+   "dis": {
+    "A": "Mündet in die V. femoralis.",
+    "C": "Mündet in V. cava bzw. V. renalis.",
+    "D": "Bauchwandvene.",
+    "E": "Mündet in die V. iliaca interna."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-183-1",
+   "src": "F1-183",
+   "typ": "perspektive",
+   "q": "In welcher Struktur erreicht die A. testicularis den Hoden?",
+   "o": [
+    "Im Lig. teres uteri",
+    "Im Lig. suspensorium ovarii",
+    "Im Samenstrang (Funiculus spermaticus)",
+    "Im Corpus spongiosum",
+    "Im Canalis obturatorius"
+   ],
+   "a": "C",
+   "expl": "Der Samenstrang enthält Ductus deferens, A. testicularis, A. ductus deferentis, Plexus pampiniformis, Lymphgefäße und Nerven. Er zieht durch den Leistenkanal.",
+   "dis": {
+    "A": "Weibliche Struktur.",
+    "B": "Weibliche Struktur.",
+    "D": "Teil des Penis.",
+    "E": "Für Vasa obturatoria."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-183-2",
+   "src": "F1-183",
+   "typ": "klinik",
+   "q": "Was ist die akute Gefahr bei einer Hodentorsion?",
+   "o": [
+    "Eine Lungenembolie",
+    "Ein Nierenversagen",
+    "Eine Harnsperre",
+    "Durchblutungsstörung mit Untergang des Hodens innerhalb weniger Stunden",
+    "Ein Darmverschluss"
+   ],
+   "a": "D",
+   "expl": "Durch die Drehung des Samenstrangs werden zuerst die Venen und dann die Arterie abgeklemmt. Die Operation sollte innerhalb von etwa 6 Stunden erfolgen.",
+   "dis": {
+    "A": "Kein typischer Verlauf.",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-184-1",
+   "src": "F1-184",
+   "typ": "perspektive",
+   "q": "Welche Penisarterie versorgt vor allem Glans und Haut und verläuft unter der Fascia penis profunda?",
+   "o": [
+    "A. profunda penis",
+    "A. bulbi penis",
+    "A. testicularis",
+    "A. cremasterica",
+    "A. dorsalis penis"
+   ],
+   "a": "E",
+   "expl": "Die paarige A. dorsalis penis liegt beidseits der unpaaren V. dorsalis profunda, flankiert von den Nn. dorsales penis.",
+   "dis": {
+    "A": "Verläuft im Corpus cavernosum.",
+    "B": "Versorgt Bulbus und Corpus spongiosum.",
+    "C": "Versorgt den Hoden.",
+    "D": "Versorgt den M. cremaster."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-184-2",
+   "src": "F1-184",
+   "typ": "perspektive",
+   "q": "Welche Penisarterie versorgt das Corpus spongiosum?",
+   "o": [
+    "A. bulbi penis",
+    "A. profunda penis",
+    "A. dorsalis penis",
+    "A. pudenda externa",
+    "A. epigastrica inferior"
+   ],
+   "a": "A",
+   "expl": "Alle drei Penisarterien sind Äste der A. pudenda interna. Die A. bulbi penis tritt in den Bulbus ein und versorgt Corpus spongiosum und Urethra.",
+   "dis": {
+    "B": "Versorgt die Corpora cavernosa.",
+    "C": "Versorgt vor allem Glans und Haut.",
+    "D": "Versorgt die Haut von Skrotum und Penis.",
+    "E": "Bauchwandarterie."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-185-1",
+   "src": "F1-185",
+   "typ": "perspektive",
+   "q": "Aus welchem Nerv geht der N. dorsalis penis hervor?",
+   "o": [
+    "N. ilioinguinalis",
+    "N. pudendus",
+    "N. genitofemoralis",
+    "N. obturatorius",
+    "N. femoralis"
+   ],
+   "a": "B",
+   "expl": "Der N. dorsalis penis ist der Endast des N. pudendus und versorgt Penisschaft und Glans sensibel. Er wird beim Peniswurzelblock betäubt.",
+   "dis": {
+    "A": "Versorgt die Peniswurzel und Skrotum vorne.",
+    "C": "Versorgt den M. cremaster und Skrotumhaut.",
+    "D": "Versorgt die Adduktoren.",
+    "E": "Versorgt den Oberschenkel vorne."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-185-2",
+   "src": "F1-185",
+   "typ": "perspektive",
+   "q": "Welcher Nerv vermittelt den Kremasterreflex efferent?",
+   "o": [
+    "N. pudendus",
+    "N. ischiadicus",
+    "Ramus genitalis des N. genitofemoralis",
+    "N. vagus",
+    "N. obturatorius"
+   ],
+   "a": "C",
+   "expl": "Bestreichen der medialen Oberschenkelhaut hebt den Hoden (L1–L2). Bei einer Hodentorsion fehlt der Reflex häufig.",
+   "dis": {
+    "A": "Vermittelt den Bulbocavernosusreflex.",
+    "B": "Versorgt das Bein.",
+    "D": "Reicht nicht ins Becken.",
+    "E": "Versorgt die Adduktoren."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-67-1",
+   "src": "D2-67",
+   "typ": "perspektive",
+   "q": "Bei welcher Temperatur relativ zur Körperkerntemperatur läuft die Spermatogenese optimal ab?",
+   "o": [
+    "Genau bei Körperkerntemperatur",
+    "Etwa 5 °C über Körperkerntemperatur",
+    "Bei Raumtemperatur (20 °C)",
+    "Etwa 2–3 °C unter der Körperkerntemperatur",
+    "Die Temperatur spielt keine Rolle"
+   ],
+   "a": "D",
+   "expl": "Darum liegen die Hoden außerhalb der Bauchhöhle. Plexus pampiniformis, M. cremaster und Tunica dartos regulieren die Temperatur.",
+   "dis": {
+    "A": "Zu warm.",
+    "B": "Würde die Spermatogenese schädigen.",
+    "C": "Zu kalt.",
+    "E": "Sie ist entscheidend."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-67-2",
+   "src": "D2-67",
+   "typ": "klinik",
+   "q": "Wie nennt man die krankhafte Erweiterung des Plexus pampiniformis?",
+   "o": [
+    "Hydrozele",
+    "Spermatozele",
+    "Hämatozele",
+    "Hernia scrotalis",
+    "Varikozele"
+   ],
+   "a": "E",
+   "expl": "Eine Varikozele tastet sich wie ein Beutel mit Würmern und tritt meist links auf. Durch die gestörte Kühlung kann die Fruchtbarkeit sinken.",
+   "dis": {
+    "A": "Flüssigkeit in der Tunica vaginalis.",
+    "B": "Zyste mit Spermien am Nebenhoden.",
+    "C": "Blut in der Tunica vaginalis.",
+    "D": "Bruchsack im Skrotum."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-68-1",
+   "src": "D2-68",
+   "typ": "perspektive",
+   "q": "Über welche Kanälchen gelangen die Spermien aus dem Rete testis in den Nebenhoden?",
+   "o": [
+    "Ductuli efferentes",
+    "Tubuli seminiferi contorti",
+    "Ductus ejaculatorius",
+    "Ductus deferens",
+    "Tubuli recti"
+   ],
+   "a": "A",
+   "expl": "Der Weg der Spermien: Tubuli seminiferi contorti, Tubuli recti, Rete testis, Ductuli efferentes, Ductus epididymidis, Ductus deferens.",
+   "dis": {
+    "B": "Bildungsort der Spermien im Hoden.",
+    "C": "Liegt in der Prostata.",
+    "D": "Folgt nach dem Nebenhoden.",
+    "E": "Liegen vor dem Rete testis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-68-2",
+   "src": "D2-68",
+   "typ": "perspektive",
+   "q": "Was erwerben die Spermien während der Passage durch den Nebenhoden?",
+   "o": [
+    "Ihren Schwanz (Flagellum)",
+    "Ihre Beweglichkeit und Befruchtungsfähigkeit",
+    "Ihren diploiden Chromosomensatz",
+    "Ihr Akrosom",
+    "Testosteron"
+   ],
+   "a": "B",
+   "expl": "Im Nebenhoden reifen die Spermien weiter und werden beweglich. Die endgültige Befruchtungsfähigkeit (Kapazitation) erlangen sie erst im weiblichen Genitaltrakt.",
+   "dis": {
+    "A": "Wird schon im Hoden gebildet.",
+    "C": "Spermien sind haploid.",
+    "D": "Wird schon im Hoden gebildet.",
+    "E": "Bilden die Leydig-Zellen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-69-1",
+   "src": "D2-69",
+   "typ": "perspektive",
+   "q": "Aus welchem Gefäß entspringt die A. vesicalis inferior?",
+   "o": [
+    "Aorta abdominalis",
+    "A. iliaca externa",
+    "A. iliaca interna",
+    "A. femoralis",
+    "A. mesenterica inferior"
+   ],
+   "a": "C",
+   "expl": "Die A. vesicalis inferior ist ein Ast des vorderen Stamms der A. iliaca interna. Sie versorgt Blasengrund, Prostata und Samenbläschen.",
+   "dis": {
+    "A": "Ursprung der A. testicularis.",
+    "B": "Versorgt das Bein.",
+    "D": "Zu weit distal.",
+    "E": "Versorgt das linke Kolon."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-69-2",
+   "src": "D2-69",
+   "typ": "perspektive",
+   "q": "Welches Organ versorgt die A. testicularis?",
+   "o": [
+    "Prostata",
+    "Samenbläschen",
+    "Penis",
+    "Hoden und Nebenhoden",
+    "Harnblase"
+   ],
+   "a": "D",
+   "expl": "Die A. testicularis entspringt wegen des Deszensus hoch aus der Aorta. Sie zieht im Samenstrang zum Hoden und gibt Äste an den Nebenhoden ab.",
+   "dis": {
+    "A": "Versorgt von der A. vesicalis inferior.",
+    "B": "Versorgt von der A. vesicalis inferior.",
+    "C": "Versorgt von Ästen der A. pudenda interna.",
+    "E": "Versorgt von den Aa. vesicales."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-76-1",
+   "src": "F3-76",
+   "typ": "perspektive",
+   "q": "Welche Zellen der Spermatogenese liegen außerhalb (basal) der Blut-Hoden-Schranke?",
+   "o": [
+    "Spermatozyten II",
+    "Spermatiden",
+    "Spermatozoen",
+    "Spermatozyten I im Pachytän",
+    "Spermatogonien"
+   ],
+   "a": "E",
+   "expl": "Die Spermatogonien liegen basal an der Basalmembran. Die späteren Stadien befinden sich im adluminalen Kompartiment, abgeschirmt durch die Tight Junctions der Sertoli-Zellen.",
+   "dis": {
+    "A": "Liegen adluminal.",
+    "B": "Liegen adluminal.",
+    "C": "Liegen im Lumen.",
+    "D": "Liegen adluminal."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-76-2",
+   "src": "F3-76",
+   "typ": "perspektive",
+   "q": "Wozu dient die Blut-Hoden-Schranke?",
+   "o": [
+    "Sie schützt die haploiden Keimzellen vor dem Immunsystem.",
+    "Sie verhindert die Testosteronbildung.",
+    "Sie leitet Spermien ins Blut.",
+    "Sie kühlt den Hoden.",
+    "Sie bildet Spermien."
+   ],
+   "a": "A",
+   "expl": "Die späteren Keimzellen tragen neue Antigene, die das Immunsystem als fremd erkennen würde. Wird die Schranke verletzt, können Autoantikörper gegen Spermien entstehen.",
+   "dis": {
+    "B": "Kein Zweck.",
+    "C": "Falsch.",
+    "D": "Aufgabe des Plexus pampiniformis.",
+    "E": "Die Schranke bildet keine Spermien."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-77-1",
+   "src": "F3-77",
+   "typ": "nachbarschaft",
+   "q": "Welches Organ liegt dorsal der Prostata?",
+   "o": [
+    "Symphyse",
+    "Rektum",
+    "Harnblase",
+    "Penisschwellkörper",
+    "Samenleiter im Leistenkanal"
+   ],
+   "a": "B",
+   "expl": "Die Prostata liegt unter der Blase, hinter der Symphyse und vor dem Rektum. Deshalb kann sie bei der digital-rektalen Untersuchung getastet werden.",
+   "dis": {
+    "A": "Liegt ventral.",
+    "C": "Liegt kranial.",
+    "D": "Liegen kaudal-ventral.",
+    "E": "Liegt lateral oben."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-77-2",
+   "src": "F3-77",
+   "typ": "perspektive",
+   "q": "Welche Form und Größe hat die Prostata beim jungen Mann etwa?",
+   "o": [
+    "Erbsengroß, etwa 1 g",
+    "Faustgroß, etwa 200 g",
+    "Kastaniengroß, etwa 20 g",
+    "Apfelgroß, etwa 500 g",
+    "Bohnengroß, etwa 5 g"
+   ],
+   "a": "C",
+   "expl": "Die Prostata umgibt den Blasenhals und die Pars prostatica urethrae. Ab dem mittleren Alter vergrößert sie sich häufig (benigne Prostatahyperplasie).",
+   "dis": {
+    "A": "Zu klein.",
+    "B": "Zu groß.",
+    "D": "Viel zu groß.",
+    "E": "Zu klein."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-78-1",
+   "src": "F3-78",
+   "typ": "perspektive",
+   "q": "Welche Arterie ist neben der A. vesicalis inferior an der Versorgung der Prostata beteiligt?",
+   "o": [
+    "A. rectalis superior",
+    "A. testicularis",
+    "A. epigastrica inferior",
+    "A. rectalis media",
+    "A. femoralis"
+   ],
+   "a": "D",
+   "expl": "A. rectalis media und A. pudenda interna versorgen den unteren Teil der Prostata. Hauptgefäß bleibt die A. vesicalis inferior.",
+   "dis": {
+    "A": "Aus der A. mesenterica inferior, versorgt das obere Rektum.",
+    "B": "Versorgt den Hoden.",
+    "C": "Bauchwandarterie.",
+    "E": "Beinarterie."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-78-2",
+   "src": "F3-78",
+   "typ": "klinik",
+   "q": "Welche Nervengeflechte verlaufen dorsolateral der Prostata und sind für die Erektion wichtig?",
+   "o": [
+    "N. femoralis",
+    "N. obturatorius",
+    "N. genitofemoralis",
+    "N. iliohypogastricus",
+    "Nn. cavernosi im neurovaskulären Bündel"
+   ],
+   "a": "E",
+   "expl": "Die Nn. cavernosi kommen aus dem Plexus hypogastricus inferior und ziehen beidseits der Prostata zum Penis. Bei der nervschonenden Prostatektomie werden sie erhalten.",
+   "dis": {
+    "A": "Verläuft außerhalb des Beckens.",
+    "B": "Verläuft an der Beckenwand.",
+    "C": "Verläuft auf dem M. psoas.",
+    "D": "Verläuft in der Bauchwand."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-79-1",
+   "src": "F3-79",
+   "typ": "perspektive",
+   "q": "Welches Band verbindet die Prostata mit der Symphyse?",
+   "o": [
+    "Lig. puboprostaticum",
+    "Fascia rectoprostatica",
+    "Lig. inguinale",
+    "Lig. sacrospinale",
+    "Lig. suspensorium penis"
+   ],
+   "a": "A",
+   "expl": "Das Lig. puboprostaticum fixiert die Prostata nach vorne an der Schambeinrückseite. Nach hinten trennt sie die Fascia rectoprostatica vom Rektum.",
+   "dis": {
+    "B": "Trennt Prostata und Rektum.",
+    "C": "Liegt in der Leiste.",
+    "D": "Verbindet Kreuzbein und Spina ischiadica.",
+    "E": "Hält den Penis an der Symphyse."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-79-2",
+   "src": "F3-79",
+   "typ": "perspektive",
+   "q": "Welcher Teil der Prostata ist die Basis, welcher die Spitze?",
+   "o": [
+    "Die Basis liegt unten, die Spitze oben",
+    "Die Basis liegt oben an der Blase, die Spitze (Apex) unten am Beckenboden",
+    "Basis und Spitze liegen seitlich",
+    "Die Basis liegt am Rektum, die Spitze an der Symphyse",
+    "Die Prostata hat keine Basis"
+   ],
+   "a": "B",
+   "expl": "Die Prostatabasis grenzt an den Blasenhals mit dem M. sphincter urethrae internus. Der Apex grenzt an den M. sphincter urethrae externus im Beckenboden.",
+   "dis": {
+    "A": "Umgekehrt.",
+    "C": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-80-1",
+   "src": "F3-80",
+   "typ": "perspektive",
+   "q": "Wie heißt die Fascia rectoprostatica mit ihrem Eigennamen?",
+   "o": [
+    "Waldeyer-Faszie",
+    "Scarpa-Faszie",
+    "Denonvilliers-Faszie",
+    "Colles-Faszie",
+    "Buck-Faszie"
+   ],
+   "a": "C",
+   "expl": "Die Denonvilliers-Faszie trennt Rektum und Prostata bzw. Samenbläschen. Sie ist eine wichtige Grenzschicht bei Rektum- und Prostataoperationen.",
+   "dis": {
+    "A": "Liegt zwischen Rektum und Kreuzbein.",
+    "B": "Faszie der vorderen Bauchwand.",
+    "D": "Oberflächliche Dammfaszie.",
+    "E": "Fascia penis profunda."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-80-2",
+   "src": "F3-80",
+   "typ": "klinik",
+   "q": "Wie fühlt sich eine gesunde Prostata bei der digital-rektalen Untersuchung an?",
+   "o": [
+    "Steinhart und höckrig",
+    "Gar nicht tastbar",
+    "Fluktuierend und sehr druckschmerzhaft",
+    "Prallelastisch, glatt, mit tastbarer Mittelfurche",
+    "Weich wie ein Schwamm ohne Kontur"
+   ],
+   "a": "D",
+   "expl": "Die gesunde Prostata ist etwa kastaniengroß und hat zwei Seitenlappen mit Mittelfurche. Ein derber Knoten spricht für ein Karzinom.",
+   "dis": {
+    "A": "Spricht für ein Karzinom.",
+    "B": "Sie ist normalerweise tastbar.",
+    "C": "Spricht für einen Abszess bzw. eine Prostatitis.",
+    "E": "Untypisch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-81-1",
+   "src": "F3-81",
+   "typ": "perspektive",
+   "q": "Welcher Schwellkörper umgibt die Urethra?",
+   "o": [
+    "Corpus cavernosum penis",
+    "Crus penis",
+    "Glans penis allein",
+    "Tunica albuginea",
+    "Corpus spongiosum penis"
+   ],
+   "a": "E",
+   "expl": "Das Corpus spongiosum umgibt die Pars spongiosa urethrae und endet in der Glans. Es wird bei der Erektion weniger prall, damit die Harnröhre offen bleibt.",
+   "dis": {
+    "A": "Paarig, ohne Urethra.",
+    "B": "Wurzel der Corpora cavernosa.",
+    "C": "Endteil des Corpus spongiosum.",
+    "D": "Hülle, kein Schwellkörper."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-81-2",
+   "src": "F3-81",
+   "typ": "perspektive",
+   "q": "Wie heißen die Äste der A. profunda penis, die direkt in die Kavernen münden?",
+   "o": [
+    "Aa. helicinae",
+    "Aa. arcuatae",
+    "Aa. interlobulares",
+    "Aa. spirales",
+    "Vasa recta"
+   ],
+   "a": "A",
+   "expl": "Die Aa. helicinae sind im schlaffen Zustand gewunden und eng gestellt. Bei der Erektion erweitern sie sich und füllen die Kavernen.",
+   "dis": {
+    "B": "Liegen in der Niere.",
+    "C": "Liegen in Niere und Leber.",
+    "D": "Liegen im Endometrium.",
+    "E": "Liegen in der Niere."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-82-1",
+   "src": "F3-82",
+   "typ": "perspektive",
+   "q": "Wohin drainiert die Lymphe der Skrotalhaut?",
+   "o": [
+    "In die Lnn. lumbales",
+    "In die Lnn. inguinales superficiales",
+    "In die Lnn. coeliaci",
+    "In die Lnn. axillares",
+    "In die Lnn. mesenterici superiores"
+   ],
+   "a": "B",
+   "expl": "Haut von Skrotum und Penis drainiert in die Leiste, der Hoden dagegen der A. testicularis folgend nach paraaortal. Leistenlymphknoten sprechen deshalb nicht für einen Hodentumor.",
+   "dis": {
+    "A": "Für den Hoden.",
+    "C": "Für Oberbauchorgane.",
+    "D": "Für den Arm.",
+    "E": "Für den Dünndarm."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-82-2",
+   "src": "F3-82",
+   "typ": "klinik",
+   "q": "Warum wird ein Hodentumor über einen Leistenschnitt und nicht über das Skrotum entfernt?",
+   "o": [
+    "Weil das Skrotum nicht durchblutet ist",
+    "Weil der Hoden im Leistenkanal liegt",
+    "Damit kein neuer Lymphabfluss in die Leistenlymphknoten eröffnet wird",
+    "Weil die Skrotalhaut zu dick ist",
+    "Weil das Skrotum keine Nerven hat"
+   ],
+   "a": "C",
+   "expl": "Bei der inguinalen Orchiektomie wird der Samenstrang am inneren Leistenring abgesetzt. Ein Skrotalschnitt könnte Tumorzellen in den Lymphabfluss der Haut verschleppen.",
+   "dis": {
+    "A": "Es ist gut durchblutet.",
+    "B": "Er liegt im Skrotum.",
+    "D": "Kein Grund.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-83-1",
+   "src": "F3-83",
+   "typ": "perspektive",
+   "q": "Welche Region liegt seitlich der Regio pubica?",
+   "o": [
+    "Regio epigastrica",
+    "Regio hypochondriaca",
+    "Regio lumbalis",
+    "Regio inguinalis",
+    "Regio umbilicalis"
+   ],
+   "a": "D",
+   "expl": "Die vordere Bauchwand wird in neun Regionen eingeteilt. Unten liegt mittig die Regio pubica, seitlich davon die Regio inguinalis.",
+   "dis": {
+    "A": "Liegt oben in der Mitte.",
+    "B": "Liegt seitlich oben.",
+    "C": "Liegt seitlich in der Mitte.",
+    "E": "Liegt mittig."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-83-2",
+   "src": "F3-83",
+   "typ": "perspektive",
+   "q": "Welche Region liegt in der Mitte über dem Nabel und unter dem Proc. xiphoideus?",
+   "o": [
+    "Regio pubica",
+    "Regio inguinalis",
+    "Regio hypochondriaca",
+    "Regio urogenitalis",
+    "Regio epigastrica"
+   ],
+   "a": "E",
+   "expl": "Die Regio epigastrica liegt zwischen den Rippenbögen. Schmerzen hier sprechen z. B. für Magen- oder Pankreasprozesse, aber auch für einen Herzinfarkt der Hinterwand.",
+   "dis": {
+    "A": "Liegt unter dem Nabel.",
+    "B": "Liegt seitlich unten.",
+    "C": "Liegt seitlich unter dem Rippenbogen.",
+    "D": "Liegt im Dammbereich."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-84-1",
+   "src": "F3-84",
+   "typ": "perspektive",
+   "q": "Wie lange dauert die Passage der Spermien durch den Nebenhoden etwa?",
+   "o": [
+    "Etwa 1–2 Wochen",
+    "Wenige Minuten",
+    "Etwa 6 Monate",
+    "Etwa 1 Jahr",
+    "Wenige Sekunden"
+   ],
+   "a": "A",
+   "expl": "Der stark gewundene, 5–6 m lange Ductus epididymidis wird in etwa 1–2 Wochen durchlaufen. Die gesamte Spermatogenese im Hoden dauert etwa 64 Tage.",
+   "dis": {
+    "B": "Zu kurz.",
+    "C": "Zu lang.",
+    "D": "Viel zu lang.",
+    "E": "Zu kurz."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-84-2",
+   "src": "F3-84",
+   "typ": "perspektive",
+   "q": "Wie lange dauert die Spermatogenese beim Menschen etwa?",
+   "o": [
+    "Etwa 1 Tag",
+    "Etwa 64 Tage",
+    "Etwa 7 Tage",
+    "Etwa 1 Jahr",
+    "Etwa 28 Tage"
+   ],
+   "a": "B",
+   "expl": "Von der Spermatogonie bis zum Spermatozoon vergehen etwa 64 Tage. Deshalb zeigt sich eine Schädigung erst nach etwa zwei bis drei Monaten im Spermiogramm.",
+   "dis": {
+    "A": "Zu kurz.",
+    "C": "Zu kurz.",
+    "D": "Zu lang.",
+    "E": "Entspricht dem Menstruationszyklus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-85-1",
+   "src": "F3-85",
+   "typ": "perspektive",
+   "q": "In welcher Zone der Prostata entsteht die benigne Prostatahyperplasie?",
+   "o": [
+    "Periphere Zone",
+    "Zentrale Zone",
+    "Transitionszone (Übergangszone)",
+    "Anteriore fibromuskuläre Zone",
+    "Samenbläschen"
+   ],
+   "a": "C",
+   "expl": "Die Transitionszone umgibt die Pars prostatica urethrae. Wächst sie, wird die Harnröhre eingeengt; es entstehen Miktionsbeschwerden.",
+   "dis": {
+    "A": "Typischer Ort des Karzinoms.",
+    "B": "Selten betroffen.",
+    "D": "Kein Drüsengewebe.",
+    "E": "Gehören nicht zur Prostata."
+   },
+   "merk": "Karzinom außen, BPH innen.",
+   "img": null
+  },
+  {
+   "id": "V-F3-85-2",
+   "src": "F3-85",
+   "typ": "klinik",
+   "q": "Warum verursacht ein Prostatakarzinom oft lange keine Miktionsbeschwerden?",
+   "o": [
+    "Weil es immer in der Blase wächst",
+    "Weil es sich zuerst nur im Hoden ausbreitet",
+    "Weil es die Harnröhre erweitert",
+    "Weil es meist in der peripheren Zone fern der Harnröhre entsteht",
+    "Weil es nur bei jungen Männern vorkommt"
+   ],
+   "a": "D",
+   "expl": "Das Karzinom wächst in der Außenzone, nahe am Rektum. Deshalb wird es eher getastet oder über PSA gefunden als durch Harnbeschwerden.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "E": "Es betrifft vor allem ältere Männer."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-86-1",
+   "src": "F3-86",
+   "typ": "perspektive",
+   "q": "Welcher Teil des vegetativen Nervensystems vermittelt die Erektion?",
+   "o": [
+    "Sympathikus",
+    "Nur das somatische Nervensystem",
+    "N. vagus",
+    "N. phrenicus",
+    "Parasympathikus (Nn. splanchnici pelvici, S2–S4)"
+   ],
+   "a": "E",
+   "expl": "Parasympathische Fasern setzen NO frei, die Gefäße erweitern sich. Merksatz: Point and Shoot, Parasympathikus für die Erektion, Sympathikus für die Ejakulation.",
+   "dis": {
+    "A": "Vermittelt vor allem Emission und Ejakulation.",
+    "B": "Steuert die Beckenbodenmuskulatur.",
+    "C": "Reicht nicht ins Becken.",
+    "D": "Zwerchfellnerv."
+   },
+   "merk": "Point (Parasympathikus) and Shoot (Sympathikus).",
+   "img": null
+  },
+  {
+   "id": "V-F3-86-2",
+   "src": "F3-86",
+   "typ": "perspektive",
+   "q": "Wie wirken PDE-5-Hemmer wie Sildenafil?",
+   "o": [
+    "Sie hemmen den Abbau von cGMP und verstärken so die NO-vermittelte Gefäßerweiterung.",
+    "Sie blockieren NO-Rezeptoren.",
+    "Sie verengen die Schwellkörperarterien.",
+    "Sie steigern den Testosteronspiegel direkt.",
+    "Sie wirken als α1-Agonisten."
+   ],
+   "a": "A",
+   "expl": "NO aktiviert die Guanylatzyklase, cGMP erschlafft die glatte Muskulatur. PDE-5 baut cGMP ab, ihre Hemmung verlängert die Wirkung. Mit Nitraten droht ein gefährlicher Blutdruckabfall.",
+   "dis": {
+    "B": "Würde die Erektion verhindern.",
+    "C": "Gegenteil.",
+    "D": "Falscher Mechanismus.",
+    "E": "Würde verengen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-87-1",
+   "src": "F3-87",
+   "typ": "nachbarschaft",
+   "q": "Durch welche Öffnung verlässt die A. pudenda interna das Becken?",
+   "o": [
+    "Canalis inguinalis",
+    "Foramen ischiadicum majus (infrapiriform)",
+    "Canalis obturatorius",
+    "Lacuna vasorum",
+    "Hiatus aorticus"
+   ],
+   "a": "B",
+   "expl": "Die A. pudenda interna verlässt das Becken durch das Foramen infrapiriforme, umrundet die Spina ischiadica und tritt durch das Foramen ischiadicum minus in den Alcock-Kanal.",
+   "dis": {
+    "A": "Für Samenstrang bzw. Lig. teres uteri.",
+    "C": "Für die Vasa obturatoria.",
+    "D": "Für die Femoralgefäße.",
+    "E": "Im Zwerchfell."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-87-2",
+   "src": "F3-87",
+   "typ": "perspektive",
+   "q": "Welche Arterie versorgt die Haut von Skrotum und Peniswurzel und entspringt aus der A. femoralis?",
+   "o": [
+    "A. pudenda interna",
+    "A. testicularis",
+    "A. pudenda externa",
+    "A. obturatoria",
+    "A. epigastrica inferior"
+   ],
+   "a": "C",
+   "expl": "Die Aa. pudendae externae ziehen vom Oberschenkel medial zur Haut des äußeren Genitales. Die tiefen Strukturen versorgt die A. pudenda interna.",
+   "dis": {
+    "A": "Aus der A. iliaca interna.",
+    "B": "Aus der Aorta.",
+    "D": "Aus der A. iliaca interna.",
+    "E": "Aus der A. iliaca externa."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-88-1",
+   "src": "F3-88",
+   "typ": "bild",
+   "q": "Wo mündet die markierte Struktur?",
+   "o": [
+    "In die Harnblase",
+    "In die Pars spongiosa urethrae",
+    "In das Rektum",
+    "Am Colliculus seminalis in die Pars prostatica urethrae",
+    "In den Nebenhoden"
+   ],
+   "a": "D",
+   "expl": "Markiert ist der Ductus ejaculatorius. Er durchzieht die Prostata und mündet beidseits neben dem Utriculus prostaticus am Samenhügel.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Dort münden die Cowper-Drüsen.",
+    "C": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": "img/i50.jpg"
+  },
+  {
+   "id": "V-F3-88-2",
+   "src": "F3-88",
+   "typ": "bild",
+   "q": "Welche beiden Gänge vereinigen sich zur markierten Struktur?",
+   "o": [
+    "Ductus epididymidis und Ductus deferens",
+    "Urethra und Ureter",
+    "Ductuli efferentes und Rete testis",
+    "Ausführungsgänge der Cowper-Drüsen",
+    "Ductus deferens und Ausführungsgang der Samenblase"
+   ],
+   "a": "E",
+   "expl": "Der Ductus ejaculatorius entsteht hinter der Blase aus der Ampulla ductus deferentis und dem Ductus excretorius der Samenblase. Er ist etwa 2 cm lang.",
+   "dis": {
+    "A": "Gehen ineinander über, vereinigen sich nicht.",
+    "B": "Falsch.",
+    "C": "Liegen im Hoden.",
+    "D": "Münden in die Pars spongiosa."
+   },
+   "merk": "",
+   "img": "img/i50.jpg"
+  },
+  {
+   "id": "V-F3-89-1",
+   "src": "F3-89",
+   "typ": "bild",
+   "q": "Welche Kanälchen bilden den markierten Abschnitt?",
+   "o": [
+    "Ductuli efferentes",
+    "Tubuli seminiferi contorti",
+    "Ductus ejaculatorius",
+    "Glandulae vesiculosae",
+    "Tubuli recti"
+   ],
+   "a": "A",
+   "expl": "Markiert ist der Nebenhodenkopf. Er besteht aus den Ductuli efferentes, die in den Ductus epididymidis übergehen.",
+   "dis": {
+    "B": "Liegen im Hoden.",
+    "C": "Liegt in der Prostata.",
+    "D": "Samenbläschen.",
+    "E": "Liegen im Hoden vor dem Rete testis."
+   },
+   "merk": "",
+   "img": "img/i51.jpg"
+  },
+  {
+   "id": "V-F3-89-2",
+   "src": "F3-89",
+   "typ": "bild",
+   "q": "An welchem Hodenpol liegt der markierte Abschnitt?",
+   "o": [
+    "Am unteren Pol",
+    "Am oberen Pol",
+    "Vorne in der Mitte",
+    "Im Hodeninneren",
+    "Im Leistenkanal"
+   ],
+   "a": "B",
+   "expl": "Der Nebenhoden liegt dem Hoden dorsal an. Der Kopf sitzt am oberen Pol, der Schwanz am unteren Pol, wo der Ductus deferens beginnt.",
+   "dis": {
+    "A": "Dort liegt die Cauda epididymidis.",
+    "C": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": "img/i51.jpg"
+  },
+  {
+   "id": "V-F3-90-1",
+   "src": "F3-90",
+   "typ": "bild",
+   "q": "Welcher Nerv innerviert den markierten Muskel?",
+   "o": [
+    "N. hypogastricus",
+    "Nn. splanchnici pelvici",
+    "N. pudendus",
+    "N. obturatorius",
+    "N. femoralis"
+   ],
+   "a": "C",
+   "expl": "Markiert ist der M. sphincter urethrae externus. Als quergestreifter Muskel wird er somatisch über den N. pudendus innerviert und willkürlich gesteuert.",
+   "dis": {
+    "A": "Sympathisch, für den inneren Sphinkter.",
+    "B": "Parasympathisch, für den Detrusor.",
+    "D": "Für die Adduktoren.",
+    "E": "Für den Oberschenkel."
+   },
+   "merk": "",
+   "img": "img/i52.jpg"
+  },
+  {
+   "id": "V-F3-90-2",
+   "src": "F3-90",
+   "typ": "bild",
+   "q": "Welche Muskulatur bildet den markierten Sphinkter?",
+   "o": [
+    "Glatte Muskulatur",
+    "Herzmuskulatur",
+    "Myoepithelzellen",
+    "Quergestreifte Skelettmuskulatur",
+    "Elastisches Bindegewebe"
+   ],
+   "a": "D",
+   "expl": "Der äußere Harnröhrenschließmuskel liegt unterhalb der Prostata im Beckenboden. Er ermöglicht die willkürliche Kontinenz.",
+   "dis": {
+    "A": "Bildet den M. sphincter urethrae internus.",
+    "B": "Nur im Herzen.",
+    "C": "Liegen in Drüsen.",
+    "E": "Kein Muskel."
+   },
+   "merk": "",
+   "img": "img/i52.jpg"
+  }
+ ]
+}

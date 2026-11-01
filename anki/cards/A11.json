@@ -1,0 +1,1294 @@
+{
+ "chapter": "A11",
+ "status": "review",
+ "cards": [
+  {
+   "id": "V-F1-142-1",
+   "src": "F1-142",
+   "typ": "umkehrung",
+   "q": "Welches histologische Merkmal kennzeichnet den Thymus und unterscheidet ihn von allen anderen lymphatischen Organen?",
+   "o": [
+    "Hassall-Körperchen",
+    "Periarterielle Lymphozytenscheiden (PALS)",
+    "Ein Randsinus",
+    "Krypten mit Plattenepithel",
+    "Rote Pulpa"
+   ],
+   "a": "A",
+   "expl": "Hassall-Körperchen sind konzentrisch geschichtete, verhornende Epithelretikulumzellen im Thymusmark. Der Thymus besitzt außerdem ein epitheliales Grundgerüst statt eines retikulären Bindegewebes.",
+   "dis": {
+    "B": "Kennzeichen der Milz.",
+    "C": "Kennzeichen des Lymphknotens.",
+    "D": "Kennzeichen der Gaumenmandel.",
+    "E": "Kennzeichen der Milz."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-142-2",
+   "src": "F1-142",
+   "typ": "perspektive",
+   "q": "Welche Lymphozyten bilden überwiegend die periarterielle Lymphozytenscheide (PALS) der Milz?",
+   "o": [
+    "B-Lymphozyten",
+    "T-Lymphozyten",
+    "Plasmazellen",
+    "Natürliche Killerzellen",
+    "Makrophagen"
+   ],
+   "a": "B",
+   "expl": "Die PALS umhüllt die Zentralarterie und ist die T-Zell-Region der weißen Pulpa. Die B-Zell-Follikel sitzen der Scheide seitlich an, umgeben von der Marginalzone.",
+   "dis": {
+    "A": "Liegen vor allem in den Milzfollikeln.",
+    "C": "Liegen eher in der roten Pulpa.",
+    "D": "Bilden keine eigene Zone.",
+    "E": "Liegen vor allem in Marginalzone und roter Pulpa."
+   },
+   "merk": "PALS = T-Zone wie der Parakortex im Lymphknoten.",
+   "img": null
+  },
+  {
+   "id": "V-F1-143-1",
+   "src": "F1-143",
+   "typ": "klinik",
+   "q": "Welches Band stützt die Milz von unten und verhindert so normalerweise ihr Absinken?",
+   "o": [
+    "Lig. gastrosplenicum",
+    "Lig. splenorenale",
+    "Lig. phrenicocolicum",
+    "Lig. falciforme",
+    "Lig. hepatoduodenale"
+   ],
+   "a": "C",
+   "expl": "Das Lig. phrenicocolicum zieht von der linken Kolonflexur zum Zwerchfell. Es bildet den Boden der Milznische, in der die Milz wie in einer Tasche liegt.",
+   "dis": {
+    "A": "Verbindet Milz und Magen.",
+    "B": "Verbindet Milz und hintere Bauchwand.",
+    "D": "Liegt an der Leber.",
+    "E": "Teil des Omentum minus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-143-2",
+   "src": "F1-143",
+   "typ": "nachbarschaft",
+   "q": "In welchem Band verlaufen A. und V. splenica zum Milzhilus?",
+   "o": [
+    "Lig. gastrosplenicum",
+    "Lig. phrenicocolicum",
+    "Lig. teres hepatis",
+    "Lig. splenorenale",
+    "Mesocolon transversum"
+   ],
+   "a": "D",
+   "expl": "Das Lig. splenorenale (lienorenale) verbindet die Milz mit der hinteren Bauchwand. Darin liegen die Milzgefäße und oft der Pankreasschwanz.",
+   "dis": {
+    "A": "Führt die Aa. gastricae breves.",
+    "B": "Ohne große Gefäße.",
+    "C": "Liegt an der Leber.",
+    "E": "Führt die A. colica media."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-144-1",
+   "src": "F1-144",
+   "typ": "umkehrung",
+   "q": "Welche Substanzklasse kontrahiert die Bronchialmuskulatur?",
+   "o": [
+    "β2-Sympathomimetika",
+    "Adrenalin",
+    "Muskarinrezeptor-Antagonisten",
+    "Theophyllin",
+    "Stimulatoren der muskarinergen Acetylcholin-Rezeptoren"
+   ],
+   "a": "E",
+   "expl": "Der Parasympathikus verengt die Bronchien über M3-Rezeptoren. Deshalb werden Anticholinergika wie Ipratropium bei Asthma und COPD inhaliert.",
+   "dis": {
+    "A": "Wirken bronchodilatierend.",
+    "B": "Wirkt über β2-Rezeptoren dilatierend.",
+    "C": "Wirken dilatierend.",
+    "D": "Wirkt dilatierend."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-144-2",
+   "src": "F1-144",
+   "typ": "klinik",
+   "q": "Welches Medikament ist ein typisches kurzwirksames β2-Sympathomimetikum zur Inhalation im Asthmaanfall?",
+   "o": [
+    "Salbutamol",
+    "Propranolol",
+    "Atropin",
+    "Furosemid",
+    "Acetylsalicylsäure"
+   ],
+   "a": "A",
+   "expl": "Salbutamol erschlafft über β2-Rezeptoren innerhalb von Minuten die Bronchialmuskulatur. Unspezifische β-Blocker sind bei Asthma deshalb kontraindiziert.",
+   "dis": {
+    "B": "β-Blocker, kann einen Bronchospasmus auslösen.",
+    "C": "Parasympatholytikum, kein β2-Mimetikum.",
+    "D": "Schleifendiuretikum.",
+    "E": "Kann bei manchen Patienten Asthma auslösen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-145-1",
+   "src": "F1-145",
+   "typ": "umkehrung",
+   "q": "Welcher der folgenden Rezeptoren ist ein ligandengesteuerter Ionenkanal?",
+   "o": [
+    "Muskarinerger Acetylcholin-Rezeptor",
+    "Nikotinerger Acetylcholin-Rezeptor",
+    "β2-Adrenozeptor",
+    "α1-Adrenozeptor",
+    "Histamin-H1-Rezeptor"
+   ],
+   "a": "B",
+   "expl": "Der nikotinerge Rezeptor öffnet nach Acetylcholinbindung direkt einen Kationenkanal. Er findet sich an der motorischen Endplatte und in vegetativen Ganglien.",
+   "dis": {
+    "A": "G-Protein-gekoppelt.",
+    "C": "G-Protein-gekoppelt.",
+    "D": "G-Protein-gekoppelt.",
+    "E": "G-Protein-gekoppelt."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-145-2",
+   "src": "F1-145",
+   "typ": "perspektive",
+   "q": "Wo befinden sich nikotinerge Acetylcholin-Rezeptoren typischerweise?",
+   "o": [
+    "Nur am Herzen",
+    "An den Schweißdrüsen",
+    "An der motorischen Endplatte und in vegetativen Ganglien",
+    "Nur an der glatten Darmmuskulatur",
+    "An den Bronchien"
+   ],
+   "a": "C",
+   "expl": "Präganglionäre Fasern beider vegetativer Systeme wirken nikotinerg auf das zweite Neuron. Postganglionäre parasympathische Fasern wirken an den Zielorganen muskarinerg.",
+   "dis": {
+    "A": "Dort sind muskarinerge Rezeptoren.",
+    "B": "Dort muskarinerg (sympathisch cholinerg).",
+    "D": "Dort muskarinerg.",
+    "E": "Dort muskarinerg."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-146-1",
+   "src": "F1-146",
+   "typ": "perspektive",
+   "q": "In welche Lymphknotenstation drainiert die Lymphe des Colon descendens am ehesten?",
+   "o": [
+    "Lnn. mesenterici superiores",
+    "Lnn. coeliaci",
+    "Lnn. inguinales superficiales",
+    "Lnn. mesenterici inferiores",
+    "Lnn. axillares"
+   ],
+   "a": "D",
+   "expl": "Die Lymphe folgt den versorgenden Arterien. Das Colon descendens wird von der A. mesenterica inferior versorgt, also drainiert es über die gleichnamigen Lymphknoten.",
+   "dis": {
+    "A": "Für Dünndarm bis zum mittleren Colon transversum.",
+    "B": "Für Magen, Leber, Milz und Pankreas.",
+    "C": "Für die untere Extremität und den Analkanal unterhalb der Linea pectinata.",
+    "E": "Für Arm und Brust."
+   },
+   "merk": "Lymphe folgt der Arterie.",
+   "img": null
+  },
+  {
+   "id": "V-F1-146-2",
+   "src": "F1-146",
+   "typ": "nachbarschaft",
+   "q": "In welchem Gekröse verlaufen die Lymphgefäße der Appendix vermiformis?",
+   "o": [
+    "Mesocolon sigmoideum",
+    "Mesocolon transversum",
+    "Omentum minus",
+    "Lig. gastrosplenicum",
+    "Mesoappendix"
+   ],
+   "a": "E",
+   "expl": "In der Mesoappendix ziehen A. appendicularis und Lymphgefäße zu den ileokolischen Lymphknoten, die zur Gruppe der Lnn. mesenterici superiores gehören.",
+   "dis": {
+    "A": "Gehört zum Sigma.",
+    "B": "Gehört zum Colon transversum.",
+    "C": "Zwischen Leber und Magen.",
+    "D": "Zwischen Magen und Milz."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-147-1",
+   "src": "F1-147",
+   "typ": "perspektive",
+   "q": "Wie heißt der Vorgang, bei dem Leukozyten durch die Gefäßwand ins Gewebe auswandern?",
+   "o": [
+    "Diapedese",
+    "Phagozytose",
+    "Hämolyse",
+    "Chemotaxis",
+    "Transzytose"
+   ],
+   "a": "A",
+   "expl": "Die Leukozyten rollen zuerst über Selektine, haften dann fest über Integrine und wandern schließlich zwischen den Endothelzellen hindurch. Das geschieht in postkapillären Venolen.",
+   "dis": {
+    "B": "Aufnahme von Partikeln in die Zelle.",
+    "C": "Zerfall von Erythrozyten.",
+    "D": "Gerichtete Bewegung entlang eines Konzentrationsgradienten, nicht der Durchtritt.",
+    "E": "Vesikulärer Transport durch eine Zelle."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-147-2",
+   "src": "F1-147",
+   "typ": "perspektive",
+   "q": "Welche Moleküle vermitteln das erste Rollen der Leukozyten am Endothel?",
+   "o": [
+    "Integrine",
+    "Selektine",
+    "Immunglobuline",
+    "Kollagen",
+    "Albumin"
+   ],
+   "a": "B",
+   "expl": "Selektine binden locker und schnell, die Leukozyten rollen dadurch langsamer. Chemokine aktivieren dann die Integrine, die eine feste Bindung an ICAM vermitteln.",
+   "dis": {
+    "A": "Vermitteln die feste Adhäsion.",
+    "C": "Antikörper, keine Adhäsionsmoleküle für das Rollen.",
+    "D": "Bestandteil der Basalmembran.",
+    "E": "Plasmaprotein."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-148-1",
+   "src": "F1-148",
+   "typ": "umkehrung",
+   "q": "Welches der folgenden Organe ist ein primäres lymphatisches Organ?",
+   "o": [
+    "Lymphknoten",
+    "Milz",
+    "Thymus",
+    "Peyer-Plaques",
+    "Tonsilla pharyngea"
+   ],
+   "a": "C",
+   "expl": "In den primären lymphatischen Organen (Knochenmark, Thymus) entstehen und reifen die Lymphozyten antigenunabhängig. In den sekundären treffen sie auf Antigen.",
+   "dis": {
+    "A": "Sekundär.",
+    "B": "Sekundär.",
+    "D": "Sekundär (MALT).",
+    "E": "Sekundär."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-148-2",
+   "src": "F1-148",
+   "typ": "perspektive",
+   "q": "Was geschieht in den sekundären lymphatischen Organen?",
+   "o": [
+    "T-Lymphozyten reifen heran.",
+    "Die Blutbildung beginnt.",
+    "B-Lymphozyten entstehen aus Stammzellen.",
+    "Reife Lymphozyten treffen auf Antigen und werden aktiviert.",
+    "Erythrozyten werden gebildet."
+   ],
+   "a": "D",
+   "expl": "Lymphknoten, Milz und MALT sind die Orte der Immunantwort. Dort werden Lymphozyten durch Antigenkontakt aktiviert und vermehren sich klonal.",
+   "dis": {
+    "A": "Geschieht im Thymus.",
+    "B": "Geschieht im Knochenmark.",
+    "C": "Geschieht im Knochenmark.",
+    "E": "Geschieht im Knochenmark."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-149-1",
+   "src": "F1-149",
+   "typ": "bild",
+   "q": "Wie heißt das markierte Gefäß im Lymphknoten?",
+   "o": [
+    "Zentralarterie",
+    "Randsinus",
+    "Marksinus",
+    "Vas lymphaticum efferens",
+    "Hochendotheliale Venole (HEV)"
+   ],
+   "a": "E",
+   "expl": "Die HEV haben ein auffallend hohes, kubisches Endothel. Sie liegen im Parakortex und sind die Eintrittspforte der rezirkulierenden Lymphozyten aus dem Blut.",
+   "dis": {
+    "A": "Kennzeichen der Milz.",
+    "B": "Liegt unter der Kapsel.",
+    "C": "Liegt im Mark, ohne kubisches Endothel.",
+    "D": "Verlässt den Lymphknoten am Hilus."
+   },
+   "merk": "",
+   "img": "img/i44.jpg"
+  },
+  {
+   "id": "V-F1-149-2",
+   "src": "F1-149",
+   "typ": "bild",
+   "q": "In welcher Zone des Lymphknotens liegt das markierte Gefäß?",
+   "o": [
+    "Im Parakortex (T-Zell-Zone)",
+    "Im Randsinus",
+    "Im Keimzentrum eines Follikels",
+    "In der Kapsel",
+    "Im Hilus"
+   ],
+   "a": "A",
+   "expl": "Die hochendothelialen Venolen liegen im Parakortex. Über sie treten naive T- und B-Lymphozyten aus dem Blut in den Lymphknoten ein.",
+   "dis": {
+    "B": "Liegt direkt unter der Kapsel.",
+    "C": "B-Zell-Zone ohne HEV.",
+    "D": "Bindegewebe.",
+    "E": "Dort verlassen die Vasa efferentia den Knoten."
+   },
+   "merk": "",
+   "img": "img/i44.jpg"
+  },
+  {
+   "id": "V-F1-150-1",
+   "src": "F1-150",
+   "typ": "perspektive",
+   "q": "Welche Zellen präsentieren in den Keimzentren den B-Zellen Antigen in Form von Immunkomplexen?",
+   "o": [
+    "Interdigitierende dendritische Zellen",
+    "Follikuläre dendritische Zellen",
+    "Fibroblastische Retikulumzellen",
+    "Erythrozyten",
+    "Thrombozyten"
+   ],
+   "a": "B",
+   "expl": "Follikuläre dendritische Zellen halten Antigen-Antikörper-Komplexe lange an ihrer Oberfläche. Sie stammen nicht aus dem Knochenmark und tragen kein MHC II.",
+   "dis": {
+    "A": "Präsentieren T-Zellen Antigen in der T-Zone.",
+    "C": "Bilden das Gerüst.",
+    "D": "Keine Antigenpräsentation.",
+    "E": "Keine Antigenpräsentation."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-150-2",
+   "src": "F1-150",
+   "typ": "perspektive",
+   "q": "Woran erkennt man einen sekundären Lymphfollikel?",
+   "o": [
+    "An einem Hassall-Körperchen",
+    "An einer Zentralarterie",
+    "An einem hellen Keimzentrum mit Mantelzone",
+    "Am Fehlen von B-Zellen",
+    "An einem Randsinus im Zentrum"
+   ],
+   "a": "C",
+   "expl": "Ein Primärfollikel ist eine dichte B-Zell-Ansammlung. Nach Antigenkontakt entsteht ein Keimzentrum mit proliferierenden B-Zellen; das ist der Sekundärfollikel.",
+   "dis": {
+    "A": "Kennzeichen des Thymus.",
+    "B": "Kennzeichen der Milz.",
+    "D": "Follikel bestehen aus B-Zellen.",
+    "E": "Der Randsinus liegt subkapsulär."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-151-1",
+   "src": "F1-151",
+   "typ": "perspektive",
+   "q": "Wie liegt die Milz in Bezug auf das Peritoneum?",
+   "o": [
+    "Primär retroperitoneal",
+    "Sekundär retroperitoneal",
+    "Extraperitoneal im Becken",
+    "Intraperitoneal",
+    "Im Thorax"
+   ],
+   "a": "D",
+   "expl": "Die Milz ist bis auf den Hilus vom Peritoneum überzogen. Sie liegt im linken Oberbauch unter dem Zwerchfell, ihre Längsachse folgt der 10. Rippe.",
+   "dis": {
+    "A": "Trifft auf die Nieren zu.",
+    "B": "Trifft z. B. auf das Pankreas zu.",
+    "C": "Falsche Region.",
+    "E": "Sie liegt unter dem Zwerchfell."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-151-2",
+   "src": "F1-151",
+   "typ": "perspektive",
+   "q": "In Höhe welcher Rippen liegt die Milz?",
+   "o": [
+    "1. bis 3. Rippe links",
+    "9. bis 11. Rippe rechts",
+    "5. bis 7. Rippe links",
+    "Unterhalb der 12. Rippe",
+    "9. bis 11. Rippe links"
+   ],
+   "a": "E",
+   "expl": "Die Milz liegt hinten links zwischen 9. und 11. Rippe, ihre Längsachse verläuft entlang der 10. Rippe. Eine gesunde Milz ist unter dem Rippenbogen nicht tastbar.",
+   "dis": {
+    "A": "Viel zu hoch.",
+    "B": "Falsche Seite.",
+    "C": "Zu hoch.",
+    "D": "Zu tief."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-152-1",
+   "src": "F1-152",
+   "typ": "perspektive",
+   "q": "Woraus besteht die weiße Pulpa der Milz?",
+   "o": [
+    "Aus PALS und Milzfollikeln",
+    "Aus Milzsträngen und Milzsinus",
+    "Aus Hassall-Körperchen",
+    "Aus Rand- und Marksinus",
+    "Nur aus Erythrozyten"
+   ],
+   "a": "A",
+   "expl": "Die weiße Pulpa ist das lymphatische Gewebe der Milz: T-Zell-Scheiden um die Zentralarterien (PALS) und B-Zell-Follikel.",
+   "dis": {
+    "B": "Bestandteile der roten Pulpa.",
+    "C": "Kennzeichen des Thymus.",
+    "D": "Bestandteile des Lymphknotens.",
+    "E": "Kennzeichnet die rote Pulpa."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-152-2",
+   "src": "F1-152",
+   "typ": "perspektive",
+   "q": "Welche Zone liegt zwischen weißer und roter Pulpa der Milz?",
+   "o": [
+    "Parakortex",
+    "Marginalzone",
+    "Thymusmark",
+    "Randsinus",
+    "Lamina propria"
+   ],
+   "a": "B",
+   "expl": "In die Marginalzone münden viele Arteriolen. Hier filtern Makrophagen und spezialisierte B-Zellen Antigen aus dem Blut, vor allem bekapselte Bakterien.",
+   "dis": {
+    "A": "Liegt im Lymphknoten.",
+    "C": "Liegt im Thymus.",
+    "D": "Liegt im Lymphknoten.",
+    "E": "Bindegewebe der Schleimhaut."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-153-1",
+   "src": "F1-153",
+   "typ": "umkehrung",
+   "q": "Für welchen Vorgang ist das somatische Nervensystem zuständig?",
+   "o": [
+    "Herzfrequenzsteuerung",
+    "Darmperistaltik",
+    "Willkürliche Beugung des Ellbogens",
+    "Pupillenverengung",
+    "Schweißsekretion"
+   ],
+   "a": "C",
+   "expl": "Das somatische Nervensystem steuert die Skelettmuskulatur und die bewusste Wahrnehmung. Das vegetative regelt die Funktionen der inneren Organe unwillkürlich.",
+   "dis": {
+    "A": "Vegetativ.",
+    "B": "Vegetativ bzw. enterisch.",
+    "D": "Vegetativ.",
+    "E": "Vegetativ."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-153-2",
+   "src": "F1-153",
+   "typ": "perspektive",
+   "q": "Wie wirkt der Parasympathikus auf den Magen-Darm-Trakt?",
+   "o": [
+    "Er hemmt Peristaltik und Sekretion.",
+    "Er kontrahiert alle Sphinkteren dauerhaft.",
+    "Er hat keinen Einfluss.",
+    "Er fördert Peristaltik und Drüsensekretion.",
+    "Er wirkt nur auf die Skelettmuskulatur."
+   ],
+   "a": "D",
+   "expl": "Der Parasympathikus ist das System für Ruhe und Verdauung (rest and digest). Er steigert Motilität und Sekretion, der Sympathikus hemmt sie.",
+   "dis": {
+    "A": "Das ist die Wirkung des Sympathikus.",
+    "B": "Er erschlafft sie eher.",
+    "C": "Der Vagus ist der Hauptnerv für die Verdauung.",
+    "E": "Vegetative Nerven wirken auf glatte Muskulatur."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-154-1",
+   "src": "F1-154",
+   "typ": "perspektive",
+   "q": "Wo liegen die präganglionären Neurone des Parasympathikus?",
+   "o": [
+    "Im Thorakal- und Lumbalmark Th1–L2",
+    "Nur im Zervikalmark",
+    "In den Grenzstrangganglien",
+    "Im Kleinhirn",
+    "Im Hirnstamm und im Sakralmark S2–S4"
+   ],
+   "a": "E",
+   "expl": "Der Parasympathikus ist kraniosakral organisiert (Hirnnerven III, VII, IX, X und S2–S4). Der Sympathikus ist thorakolumbal organisiert.",
+   "dis": {
+    "A": "Ursprung des Sympathikus.",
+    "B": "Falsch.",
+    "C": "Dort liegen sympathische Neurone.",
+    "D": "Kein vegetativer Ursprung."
+   },
+   "merk": "Parasympathikus kraniosakral, Sympathikus thorakolumbal.",
+   "img": null
+  },
+  {
+   "id": "V-F1-154-2",
+   "src": "F1-154",
+   "typ": "perspektive",
+   "q": "Bis wohin reicht ungefähr das parasympathische Versorgungsgebiet des N. vagus im Darm?",
+   "o": [
+    "Bis zur linken Kolonflexur (Cannon-Böhm-Punkt)",
+    "Nur bis zum Magen",
+    "Bis zum Anus",
+    "Nur bis zum Duodenum",
+    "Bis zum Rektum"
+   ],
+   "a": "A",
+   "expl": "Distal der linken Kolonflexur übernehmen die Nn. splanchnici pelvici (S2–S4) die parasympathische Versorgung. Die Grenze entspricht etwa dem Wechsel von A. mesenterica superior zu inferior.",
+   "dis": {
+    "B": "Er reicht weiter.",
+    "C": "Distal übernimmt der sakrale Parasympathikus.",
+    "D": "Er reicht weiter.",
+    "E": "Das Rektum versorgen die Nn. splanchnici pelvici."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-155-1",
+   "src": "F1-155",
+   "typ": "umkehrung",
+   "q": "Welcher der folgenden Nerven führt präganglionäre sympathische Fasern zum Plexus coeliacus?",
+   "o": [
+    "N. vagus",
+    "N. splanchnicus major",
+    "Nn. splanchnici pelvici",
+    "N. phrenicus",
+    "N. pudendus"
+   ],
+   "a": "B",
+   "expl": "Der N. splanchnicus major entspringt aus den Grenzstrangganglien Th5–Th9 und durchzieht sie ohne Umschaltung. Umgeschaltet wird erst im Ganglion coeliacum.",
+   "dis": {
+    "A": "Parasympathisch.",
+    "C": "Sakral parasympathisch.",
+    "D": "Somatisch, Zwerchfell.",
+    "E": "Somatisch, Beckenboden."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-155-2",
+   "src": "F1-155",
+   "typ": "perspektive",
+   "q": "Welche Nerven sind die parasympathischen Fasern aus dem Sakralmark?",
+   "o": [
+    "Nn. splanchnici lumbales",
+    "N. splanchnicus minor",
+    "Nn. splanchnici pelvici",
+    "N. splanchnicus imus",
+    "N. ischiadicus"
+   ],
+   "a": "C",
+   "expl": "Die Nn. splanchnici pelvici (Nn. erigentes) ziehen aus S2–S4 zum Plexus hypogastricus inferior. Sie versorgen Beckenorgane und das Kolon distal der linken Flexur.",
+   "dis": {
+    "A": "Sympathisch.",
+    "B": "Sympathisch.",
+    "D": "Sympathisch.",
+    "E": "Somatisch."
+   },
+   "merk": "Nur die pelvici sind parasympathisch.",
+   "img": null
+  },
+  {
+   "id": "V-F1-156-1",
+   "src": "F1-156",
+   "typ": "perspektive",
+   "q": "Aus welchen Fasern erhält der Plexus hypogastricus inferior seine parasympathischen Anteile?",
+   "o": [
+    "Aus dem N. vagus",
+    "Aus dem N. splanchnicus major",
+    "Aus dem N. femoralis",
+    "Aus den Nn. splanchnici pelvici",
+    "Aus dem N. obturatorius"
+   ],
+   "a": "D",
+   "expl": "Der Plexus hypogastricus inferior (Plexus pelvicus) ist gemischt: Sympathische Fasern kommen über die Nn. hypogastrici, parasympathische aus S2–S4.",
+   "dis": {
+    "A": "Reicht nicht ins Becken.",
+    "B": "Sympathisch.",
+    "C": "Somatisch.",
+    "E": "Somatisch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-156-2",
+   "src": "F1-156",
+   "typ": "klinik",
+   "q": "Welche Funktionsstörung droht bei Verletzung des Plexus hypogastricus inferior, z. B. bei einer Rektumoperation?",
+   "o": [
+    "Lähmung des Zwerchfells",
+    "Heiserkeit",
+    "Fußheberschwäche",
+    "Ptosis",
+    "Blasenentleerungs- und Sexualfunktionsstörungen"
+   ],
+   "a": "E",
+   "expl": "Der Plexus liegt seitlich von Rektum, Blase und Uterus bzw. Prostata. Bei der totalen mesorektalen Exzision werden die Nerven deshalb gezielt geschont.",
+   "dis": {
+    "A": "N. phrenicus.",
+    "B": "N. laryngeus recurrens.",
+    "C": "N. fibularis.",
+    "D": "Sympathikus am Hals oder N. oculomotorius."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-48-1",
+   "src": "F3-48",
+   "typ": "bild",
+   "q": "Aus welchem Organ stammt das gezeigte Präparat?",
+   "o": [
+    "Thymus",
+    "Milz",
+    "Lymphknoten",
+    "Tonsilla palatina",
+    "Schilddrüse"
+   ],
+   "a": "A",
+   "expl": "Das zwiebelschalenartig geschichtete, eosinophile Gebilde ist ein Hassall-Körperchen. Es kommt nur im Thymusmark vor.",
+   "dis": {
+    "B": "Ohne Hassall-Körperchen.",
+    "C": "Ohne Hassall-Körperchen.",
+    "D": "Hat Krypten und Plattenepithel.",
+    "E": "Hat Follikel mit Kolloid."
+   },
+   "merk": "",
+   "img": "img/i45.jpg"
+  },
+  {
+   "id": "V-F3-48-2",
+   "src": "F3-48",
+   "typ": "bild",
+   "q": "Welche Zellen bilden das gezeigte geschichtete Körperchen?",
+   "o": [
+    "Plasmazellen",
+    "Epithelretikulumzellen",
+    "Erythrozyten",
+    "Hepatozyten",
+    "Osteoblasten"
+   ],
+   "a": "B",
+   "expl": "Hassall-Körperchen bestehen aus konzentrisch geschichteten, teils verhornten Epithelretikulumzellen. Sie sind ein Merkmal des Thymusmarks.",
+   "dis": {
+    "A": "Bilden Antikörper.",
+    "C": "Kein Aufbau aus Blutzellen.",
+    "D": "Leberzellen.",
+    "E": "Knochenbildende Zellen."
+   },
+   "merk": "",
+   "img": "img/i45.jpg"
+  },
+  {
+   "id": "V-F3-49-1",
+   "src": "F3-49",
+   "typ": "perspektive",
+   "q": "Wie werden die Fette aus dem Darm überwiegend abtransportiert?",
+   "o": [
+    "Direkt über die V. portae zur Leber",
+    "Über die A. mesenterica superior",
+    "Als Chylomikronen über die Lymphgefäße (Chylusgefäße)",
+    "Über die Galle",
+    "Über die Nieren"
+   ],
+   "a": "C",
+   "expl": "Langkettige Fette werden in den Enterozyten zu Chylomikronen verpackt. Diese gelangen in die zentralen Chylusgefäße der Zotten und über den Ductus thoracicus ins Blut.",
+   "dis": {
+    "A": "Gilt für kurz- und mittelkettige Fettsäuren.",
+    "B": "Arterie, kein Abtransport.",
+    "D": "Ausscheidungsweg.",
+    "E": "Kein Fetttransport."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-49-2",
+   "src": "F3-49",
+   "typ": "klinik",
+   "q": "Was entsteht, wenn der Lymphabfluss einer Extremität gestört ist?",
+   "o": [
+    "Eine Thrombose",
+    "Eine Anämie",
+    "Ein Ikterus",
+    "Ein Lymphödem",
+    "Eine Zyanose"
+   ],
+   "a": "D",
+   "expl": "Das Lymphsystem führt täglich etwa 2 Liter Gewebsflüssigkeit und Proteine zurück. Fällt es aus, z. B. nach Lymphknotenentfernung, staut sich proteinreiche Flüssigkeit im Gewebe.",
+   "dis": {
+    "A": "Betrifft Venen.",
+    "B": "Blutbildungsstörung.",
+    "C": "Bilirubinanstieg.",
+    "E": "Sauerstoffmangel."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-50-1",
+   "src": "F3-50",
+   "typ": "bild",
+   "q": "Welches Organ ist mit A markiert?",
+   "o": [
+    "Milz",
+    "Magen",
+    "Rechte Niere",
+    "Pankreas",
+    "Leber"
+   ],
+   "a": "E",
+   "expl": "Im CT blickt man von kaudal auf den Patienten, rechts im Bild ist links im Körper. Das große homogene Organ rechts im Patienten ist die Leber.",
+   "dis": {
+    "A": "Liegt links.",
+    "B": "Ist mit B markiert.",
+    "C": "Liegt tiefer und weiter dorsal.",
+    "D": "Liegt tiefer vor der Wirbelsäule."
+   },
+   "merk": "CT: Blick von den Füßen.",
+   "img": "img/i46.jpg"
+  },
+  {
+   "id": "V-F3-50-2",
+   "src": "F3-50",
+   "typ": "bild",
+   "q": "Welches Organ ist mit B markiert?",
+   "o": [
+    "Magen",
+    "Leber",
+    "Milz",
+    "Aorta",
+    "Rechte Niere"
+   ],
+   "a": "A",
+   "expl": "Links im Patienten liegt unter dem Zwerchfell der Magen mit Luft- und Speiseanteilen. Mit D ist der Wirbelkörper markiert, davor liegt die Aorta.",
+   "dis": {
+    "B": "Ist mit A markiert.",
+    "C": "Ist in diesem Schnitt nicht markiert.",
+    "D": "Liegt rund vor dem Wirbelkörper.",
+    "E": "Liegt rechts dorsal."
+   },
+   "merk": "",
+   "img": "img/i46.jpg"
+  },
+  {
+   "id": "V-F3-51-1",
+   "src": "F3-51",
+   "typ": "perspektive",
+   "q": "Welche der folgenden Flächen gehört zur Milz?",
+   "o": [
+    "Area nuda",
+    "Facies colica",
+    "Facies sternocostalis",
+    "Facies pulmonalis",
+    "Facies patellaris"
+   ],
+   "a": "B",
+   "expl": "Die viszerale Fläche der Milz hat Kontaktflächen zu Magen, Niere und linker Kolonflexur. Die Facies diaphragmatica liegt dem Zwerchfell an.",
+   "dis": {
+    "A": "Liegt an der Leber.",
+    "C": "Fläche des Herzens.",
+    "D": "Fläche des Herzens.",
+    "E": "Fläche des Femurs."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-51-2",
+   "src": "F3-51",
+   "typ": "perspektive",
+   "q": "Welche Fläche der Milz liegt dem Zwerchfell an?",
+   "o": [
+    "Facies renalis",
+    "Facies gastrica",
+    "Facies diaphragmatica",
+    "Facies colica",
+    "Hilum splenicum"
+   ],
+   "a": "C",
+   "expl": "Die konvexe Facies diaphragmatica liegt unter dem Zwerchfell. Über die Pleura ist sie den Rippen 9 bis 11 benachbart.",
+   "dis": {
+    "A": "Liegt der linken Niere an.",
+    "B": "Liegt dem Magen an.",
+    "D": "Liegt der Kolonflexur an.",
+    "E": "Gefäßein- und -austritt."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-52-1",
+   "src": "F3-52",
+   "typ": "nachbarschaft",
+   "q": "Welche Vene vereinigt sich hinter dem Pankreashals mit der V. splenica zur V. portae?",
+   "o": [
+    "V. renalis sinistra",
+    "V. cava inferior",
+    "V. gonadalis",
+    "V. mesenterica superior",
+    "V. azygos"
+   ],
+   "a": "D",
+   "expl": "Hinter dem Pankreashals bilden V. splenica und V. mesenterica superior die V. portae. Die V. mesenterica inferior mündet meist in die V. splenica.",
+   "dis": {
+    "A": "Mündet in die V. cava inferior.",
+    "B": "Kein Pfortaderzufluss.",
+    "C": "Mündet links in die Nierenvene.",
+    "E": "Thorakale Vene."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-52-2",
+   "src": "F3-52",
+   "typ": "klinik",
+   "q": "Was entsteht typischerweise bei einer Thrombose der V. splenica?",
+   "o": [
+    "Eine Lungenembolie",
+    "Ösophagusvarizen ohne Milzvergrößerung",
+    "Ein Budd-Chiari-Syndrom",
+    "Hämorrhoiden",
+    "Eine linksseitige portale Hypertension mit Magenfundusvarizen"
+   ],
+   "a": "E",
+   "expl": "Das Milzvenenblut weicht über die Vv. gastricae breves zum Magenfundus aus. Es entstehen isolierte Fundusvarizen und eine Splenomegalie. Häufige Ursache ist eine Pankreatitis.",
+   "dis": {
+    "A": "Kein direkter Weg über das Pfortadersystem.",
+    "B": "Typisch sind Splenomegalie und Fundusvarizen.",
+    "C": "Betrifft die Lebervenen.",
+    "D": "Kein typischer Befund."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-53-1",
+   "src": "F3-53",
+   "typ": "perspektive",
+   "q": "Aus welchem Gefäß entspringt die A. splenica?",
+   "o": [
+    "Truncus coeliacus",
+    "A. mesenterica superior",
+    "Aorta direkt unterhalb der Nierenarterien",
+    "A. gastrica sinistra",
+    "A. hepatica communis"
+   ],
+   "a": "A",
+   "expl": "Der Truncus coeliacus teilt sich in A. gastrica sinistra, A. hepatica communis und A. splenica. Die A. splenica verläuft geschlängelt am Pankreasoberrand zur Milz.",
+   "dis": {
+    "B": "Versorgt den Dünndarm.",
+    "C": "Dort entspringen die Gonadenarterien.",
+    "D": "Ast des Truncus coeliacus.",
+    "E": "Ast des Truncus coeliacus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-53-2",
+   "src": "F3-53",
+   "typ": "perspektive",
+   "q": "Welche Arterien gibt die A. splenica zum Magenfundus ab?",
+   "o": [
+    "A. gastrica dextra",
+    "Aa. gastricae breves",
+    "A. gastroduodenalis",
+    "A. gastroomentalis dextra",
+    "A. cystica"
+   ],
+   "a": "B",
+   "expl": "Aus der A. splenica gehen die Aa. gastricae breves zum Fundus und die A. gastroomentalis sinistra zur großen Kurvatur ab, außerdem Äste zum Pankreas.",
+   "dis": {
+    "A": "Aus der A. hepatica propria.",
+    "C": "Aus der A. hepatica communis.",
+    "D": "Aus der A. gastroduodenalis.",
+    "E": "Versorgt die Gallenblase."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-54-1",
+   "src": "F3-54",
+   "typ": "nachbarschaft",
+   "q": "Wo liegt die Tonsilla palatina?",
+   "o": [
+    "Am Rachendach",
+    "Am Zungengrund",
+    "Zwischen Arcus palatoglossus und Arcus palatopharyngeus",
+    "An der Tubenöffnung",
+    "Im Kehlkopf"
+   ],
+   "a": "C",
+   "expl": "Die Gaumenmandel liegt in der Fossa tonsillaris zwischen vorderem und hinterem Gaumenbogen. Zusammen mit den übrigen Tonsillen bildet sie den Waldeyer-Rachenring.",
+   "dis": {
+    "A": "Ort der Tonsilla pharyngea.",
+    "B": "Ort der Tonsilla lingualis.",
+    "D": "Ort der Tonsilla tubaria.",
+    "E": "Keine Tonsille."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-54-2",
+   "src": "F3-54",
+   "typ": "klinik",
+   "q": "Welche Tonsille ist bei Kindern als \"Polypen\" vergrößert und kann die Nasenatmung behindern?",
+   "o": [
+    "Tonsilla palatina",
+    "Tonsilla lingualis",
+    "Tonsilla tubaria",
+    "Tonsilla pharyngea",
+    "Peyer-Plaques"
+   ],
+   "a": "D",
+   "expl": "Die vergrößerte Rachenmandel (Adenoide) verlegt den Nasenrachen und die Tubenöffnung. Folgen sind Mundatmung und Paukenergüsse; sie wird dann durch Adenotomie entfernt.",
+   "dis": {
+    "A": "Liegt im Oropharynx.",
+    "B": "Liegt am Zungengrund.",
+    "C": "Sehr klein, an der Tubenöffnung.",
+    "E": "Liegen im Ileum."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-55-1",
+   "src": "F3-55",
+   "typ": "perspektive",
+   "q": "Welcher der folgenden Begriffe bezeichnet schleimhautassoziiertes lymphatisches Gewebe (MALT)?",
+   "o": [
+    "Thymus",
+    "Knochenmark",
+    "Ductus thoracicus",
+    "Cisterna chyli",
+    "Peyer-Plaques"
+   ],
+   "a": "E",
+   "expl": "Zum MALT gehören Tonsillen, Peyer-Plaques und die Appendix. Diese Ansammlungen liegen direkt unter der Schleimhaut und haben keine Kapsel.",
+   "dis": {
+    "A": "Primäres lymphatisches Organ.",
+    "B": "Primäres lymphatisches Organ.",
+    "C": "Lymphgefäß.",
+    "D": "Erweiterung am Beginn des Ductus thoracicus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-55-2",
+   "src": "F3-55",
+   "typ": "perspektive",
+   "q": "Wohin münden die großen Lymphstämme schließlich?",
+   "o": [
+    "In die Venenwinkel",
+    "In die Aorta",
+    "In die V. portae",
+    "In den rechten Vorhof direkt",
+    "In die Nierenvenen"
+   ],
+   "a": "A",
+   "expl": "Ductus thoracicus und Ductus lymphaticus dexter münden in den Zusammenfluss von V. jugularis interna und V. subclavia, den Angulus venosus.",
+   "dis": {
+    "B": "Keine Mündung in Arterien.",
+    "C": "Kein Mündungsort.",
+    "D": "Mündung erfolgt vorher.",
+    "E": "Kein Mündungsort."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-56-1",
+   "src": "F3-56",
+   "typ": "perspektive",
+   "q": "Auf welcher Seite der Darmwand liegen die Peyer-Plaques?",
+   "o": [
+    "Am Mesenterialansatz",
+    "Gegenüber dem Mesenterialansatz (antimesenterial)",
+    "Nur in der Serosa",
+    "Nur in der Tunica muscularis",
+    "Gleichmäßig zirkulär"
+   ],
+   "a": "B",
+   "expl": "Die Peyer-Plaques sind Ansammlungen von Lymphfollikeln in Mukosa und Submukosa. Sie liegen gegenüber dem Mesenterium, am dichtesten im Ileum.",
+   "dis": {
+    "A": "Dort treten die Gefäße ein.",
+    "C": "Sie liegen in Mukosa und Submukosa.",
+    "D": "Falsche Schicht.",
+    "E": "Sie liegen antimesenterial."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-56-2",
+   "src": "F3-56",
+   "typ": "perspektive",
+   "q": "Welche spezialisierten Epithelzellen über den Peyer-Plaques transportieren Antigene aus dem Darmlumen?",
+   "o": [
+    "Becherzellen",
+    "Paneth-Zellen",
+    "M-Zellen",
+    "Enterochromaffine Zellen",
+    "Belegzellen"
+   ],
+   "a": "C",
+   "expl": "M-Zellen (Microfold-Zellen) nehmen Antigene auf und geben sie an darunterliegende Immunzellen weiter. Sie haben keinen typischen Bürstensaum.",
+   "dis": {
+    "A": "Bilden Schleim.",
+    "B": "Bilden antimikrobielle Peptide.",
+    "D": "Bilden Hormone wie Serotonin.",
+    "E": "Liegen im Magen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-57-1",
+   "src": "F3-57",
+   "typ": "umkehrung",
+   "q": "Welcher Lymphstamm fließt in den Ductus lymphaticus dexter?",
+   "o": [
+    "Truncus intestinalis",
+    "Truncus lumbalis sinister",
+    "Truncus jugularis sinister",
+    "Truncus bronchomediastinalis dexter",
+    "Truncus subclavius sinister"
+   ],
+   "a": "D",
+   "expl": "Der Ductus lymphaticus dexter sammelt die Trunci jugularis, subclavius und bronchomediastinalis der rechten Seite. Alles andere fließt in den Ductus thoracicus.",
+   "dis": {
+    "A": "Zufluss des Ductus thoracicus.",
+    "B": "Zufluss des Ductus thoracicus.",
+    "C": "Zufluss des Ductus thoracicus.",
+    "E": "Zufluss des Ductus thoracicus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-57-2",
+   "src": "F3-57",
+   "typ": "perspektive",
+   "q": "Welche Lymphe führt der Truncus intestinalis?",
+   "o": [
+    "Die Lymphe des rechten Arms",
+    "Die Lymphe des Kopfes",
+    "Die Lymphe der Beine",
+    "Die Lymphe der Lunge",
+    "Die fettreiche Lymphe (Chylus) aus dem Darm"
+   ],
+   "a": "E",
+   "expl": "Der Truncus intestinalis kommt aus den präaortalen Lymphknoten der unpaaren Bauchorgane. Er mündet in die Cisterna chyli, den Beginn des Ductus thoracicus.",
+   "dis": {
+    "A": "Truncus subclavius dexter.",
+    "B": "Trunci jugulares.",
+    "C": "Trunci lumbales.",
+    "D": "Trunci bronchomediastinales."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-58-1",
+   "src": "F3-58",
+   "typ": "nachbarschaft",
+   "q": "Zwischen welchen Strukturen steigt der Ductus thoracicus im hinteren Mediastinum auf?",
+   "o": [
+    "Zwischen Aorta und V. azygos",
+    "Zwischen Trachea und Ösophagus",
+    "Zwischen Herz und Sternum",
+    "Zwischen Lunge und Rippen",
+    "Im Perikard"
+   ],
+   "a": "A",
+   "expl": "Der Ductus thoracicus tritt mit der Aorta durch den Hiatus aorticus und steigt hinter dem Ösophagus zwischen Aorta und V. azygos auf. Er kreuzt auf Höhe von etwa Th4/5 nach links.",
+   "dis": {
+    "B": "Er liegt dorsal des Ösophagus.",
+    "C": "Vorderes Mediastinum.",
+    "D": "Pleuraraum.",
+    "E": "Liegt außerhalb."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-58-2",
+   "src": "F3-58",
+   "typ": "klinik",
+   "q": "Was ist ein Chylothorax?",
+   "o": [
+    "Luft in der Pleurahöhle",
+    "Eine Ansammlung von Lymphe in der Pleurahöhle nach Verletzung des Ductus thoracicus",
+    "Blut in der Pleurahöhle",
+    "Eiter in der Pleurahöhle",
+    "Flüssigkeit im Perikard"
+   ],
+   "a": "B",
+   "expl": "Ein Chylothorax kann nach Thorax- oder Ösophagusoperationen auftreten. Der Erguss ist milchig-trüb und triglyzeridreich.",
+   "dis": {
+    "A": "Pneumothorax.",
+    "C": "Hämatothorax.",
+    "D": "Pleuraempyem.",
+    "E": "Perikarderguss."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-59-1",
+   "src": "F3-59",
+   "typ": "bild",
+   "q": "Welches Epithel überzieht das gezeigte Organ an seiner Oberfläche und in den Krypten?",
+   "o": [
+    "Mehrreihiges Flimmerepithel",
+    "Einschichtiges Zylinderepithel",
+    "Mehrschichtiges unverhorntes Plattenepithel",
+    "Urothel",
+    "Verhorntes Plattenepithel"
+   ],
+   "a": "C",
+   "expl": "Die Gaumenmandel trägt das Plattenepithel der Mundhöhle und hat tiefe, verzweigte Krypten mit vielen Sekundärfollikeln. Die Rachenmandel trägt dagegen respiratorisches Epithel.",
+   "dis": {
+    "A": "Typisch für die Rachenmandel.",
+    "B": "Typisch für den Darm.",
+    "D": "Typisch für die ableitenden Harnwege.",
+    "E": "Typisch für die Haut."
+   },
+   "merk": "",
+   "img": "img/i47.jpg"
+  },
+  {
+   "id": "V-F3-59-2",
+   "src": "F3-59",
+   "typ": "bild",
+   "q": "Welche lymphatischen Strukturen sieht man im gezeigten Präparat als runde, helle Areale?",
+   "o": [
+    "Hassall-Körperchen",
+    "Zentralarterien mit PALS",
+    "Glomeruli",
+    "Sekundärfollikel mit Keimzentren",
+    "Kolloidgefüllte Follikel"
+   ],
+   "a": "D",
+   "expl": "Die hellen Zentren sind Keimzentren aktivierter B-Zell-Follikel. Sie liegen dicht unter dem Kryptenepithel, wo ständig Antigenkontakt besteht.",
+   "dis": {
+    "A": "Kennzeichen des Thymus.",
+    "B": "Kennzeichen der Milz.",
+    "C": "Kennzeichen der Niere.",
+    "E": "Kennzeichen der Schilddrüse."
+   },
+   "merk": "",
+   "img": "img/i47.jpg"
+  },
+  {
+   "id": "V-F3-60-1",
+   "src": "F3-60",
+   "typ": "perspektive",
+   "q": "Aus welchem Gebiet sammelt der Ductus lymphaticus dexter die Lymphe?",
+   "o": [
+    "Die gesamte untere Körperhälfte",
+    "Die linke obere Körperhälfte",
+    "Nur den Darm",
+    "Die gesamte rechte Körperhälfte",
+    "Rechte obere Körperhälfte: rechte Kopf-Hals-Seite, rechter Arm und rechte Thoraxhälfte"
+   ],
+   "a": "E",
+   "expl": "Der Ductus lymphaticus dexter ist nur etwa 1 cm lang. Etwa drei Viertel der Körperlymphe fließen über den Ductus thoracicus in den linken Venenwinkel.",
+   "dis": {
+    "A": "Ductus thoracicus.",
+    "B": "Ductus thoracicus.",
+    "C": "Truncus intestinalis.",
+    "D": "Das rechte Bein drainiert in den Ductus thoracicus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-60-2",
+   "src": "F3-60",
+   "typ": "perspektive",
+   "q": "Wo mündet der Ductus thoracicus?",
+   "o": [
+    "In den linken Venenwinkel",
+    "In den rechten Venenwinkel",
+    "In die V. cava inferior",
+    "In die V. azygos",
+    "In den rechten Vorhof"
+   ],
+   "a": "A",
+   "expl": "Der Ductus thoracicus mündet zwischen V. jugularis interna und V. subclavia links. Bei Anlage eines linksseitigen zentralen Venenkatheters kann er verletzt werden.",
+   "dis": {
+    "B": "Mündung des Ductus lymphaticus dexter.",
+    "C": "Kein Mündungsort.",
+    "D": "Kein regulärer Mündungsort.",
+    "E": "Kein Mündungsort."
+   },
+   "merk": "",
+   "img": null
+  }
+ ]
+}

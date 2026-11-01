@@ -1,0 +1,1340 @@
+{
+ "chapter": "A15",
+ "status": "review",
+ "cards": [
+  {
+   "id": "V-F1-201-1",
+   "src": "F1-201",
+   "typ": "perspektive",
+   "q": "Wie heißen die queren Sehnenstreifen, die den M. rectus abdominis unterteilen?",
+   "o": [
+    "Intersectiones tendineae",
+    "Linea alba",
+    "Linea arcuata",
+    "Linea semilunaris",
+    "Lig. inguinale"
+   ],
+   "a": "A",
+   "expl": "Meist drei Zwischensehnen gliedern den Rektus in Bäuche (Sixpack). Sie sind mit dem vorderen Blatt der Rektusscheide verwachsen.",
+   "dis": {
+    "B": "Mittellinie zwischen beiden Rekti.",
+    "C": "Unterrand des hinteren Rektusscheidenblatts.",
+    "D": "Seitenrand des Rektus.",
+    "E": "Leistenband."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-201-2",
+   "src": "F1-201",
+   "typ": "perspektive",
+   "q": "Wo entspringt und wo setzt der M. rectus abdominis an?",
+   "o": [
+    "Ursprung an der Crista iliaca, Ansatz an der 12. Rippe",
+    "Ursprung an Symphyse und Os pubis, Ansatz an den Rippenknorpeln 5–7 und am Proc. xiphoideus",
+    "Ursprung an den Lendenwirbeln, Ansatz am Trochanter minor",
+    "Ursprung an der Clavicula, Ansatz am Humerus",
+    "Ursprung an der Linea alba, Ansatz an der Crista iliaca"
+   ],
+   "a": "B",
+   "expl": "Der Rektus spannt sich längs zwischen Becken und Thorax. Er beugt den Rumpf und richtet das Becken auf.",
+   "dis": {
+    "A": "Beschreibt den M. quadratus lumborum.",
+    "C": "Beschreibt den M. psoas major.",
+    "D": "Schultermuskel.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-202-1",
+   "src": "F1-202",
+   "typ": "perspektive",
+   "q": "Wie verlaufen die Fasern des M. transversus abdominis?",
+   "o": [
+    "Von oben außen nach unten innen",
+    "Von unten außen nach oben innen",
+    "Quer (horizontal)",
+    "Längs von der Symphyse zum Sternum",
+    "Spiralig um den Rumpf"
+   ],
+   "a": "C",
+   "expl": "Der Transversus wirkt wie ein Korsett. Er erhöht den intraabdominellen Druck und stabilisiert die Lendenwirbelsäule.",
+   "dis": {
+    "A": "Verlauf des M. obliquus externus.",
+    "B": "Verlauf des M. obliquus internus.",
+    "D": "Verlauf des M. rectus abdominis.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-202-2",
+   "src": "F1-202",
+   "typ": "perspektive",
+   "q": "In welcher Reihenfolge liegen die seitlichen Bauchmuskeln von außen nach innen?",
+   "o": [
+    "M. obliquus internus, M. obliquus externus, M. transversus abdominis",
+    "M. transversus abdominis, M. obliquus internus, M. obliquus externus",
+    "M. obliquus externus, M. transversus abdominis, M. obliquus internus",
+    "M. obliquus externus, M. obliquus internus, M. transversus abdominis",
+    "M. rectus abdominis, M. obliquus externus, M. obliquus internus"
+   ],
+   "a": "D",
+   "expl": "Innen auf dem Transversus liegt die Fascia transversalis, dann das Peritoneum. Zwischen Internus und Transversus verlaufen die Nerven der Bauchwand.",
+   "dis": {
+    "A": "Externus liegt außen.",
+    "B": "Umgekehrt.",
+    "C": "Falsch.",
+    "E": "Rektus liegt vorne, nicht seitlich."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-203-1",
+   "src": "F1-203",
+   "typ": "perspektive",
+   "q": "Welche Faszie liegt zwischen M. transversus abdominis und Peritoneum?",
+   "o": [
+    "Fascia thoracolumbalis",
+    "Scarpa-Faszie",
+    "Fascia renalis",
+    "Fascia lata",
+    "Fascia transversalis"
+   ],
+   "a": "E",
+   "expl": "Die Fascia transversalis kleidet die Bauchhöhle von innen aus. Am inneren Leistenring stülpt sie sich als Fascia spermatica interna aus.",
+   "dis": {
+    "A": "Liegt am Rücken.",
+    "B": "Oberflächliche Bauchwandfaszie.",
+    "C": "Umhüllt die Niere.",
+    "D": "Oberschenkelfaszie."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-203-2",
+   "src": "F1-203",
+   "typ": "klinik",
+   "q": "Warum eignet sich die Linea alba für einen medianen Bauchschnitt?",
+   "o": [
+    "Weil sie gefäß- und nervenarm ist",
+    "Weil dort Muskeln durchtrennt werden müssen",
+    "Weil sie besonders gut durchblutet ist",
+    "Weil dort große Nerven verlaufen",
+    "Weil sie nach der Naht nie Hernien bildet"
+   ],
+   "a": "A",
+   "expl": "Über die Linea alba erreicht man rasch und unblutig die ganze Bauchhöhle. Wegen der schlechten Durchblutung heilt sie aber langsam.",
+   "dis": {
+    "B": "Es werden keine Muskeln durchtrennt.",
+    "C": "Sie ist schlecht durchblutet.",
+    "D": "Falsch.",
+    "E": "Narbenhernien sind möglich."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-204-1",
+   "src": "F1-204",
+   "typ": "perspektive",
+   "q": "Wie verlaufen die Fasern des M. obliquus internus abdominis überwiegend?",
+   "o": [
+    "Von oben außen nach unten innen",
+    "Von unten außen nach oben innen (fächerförmig)",
+    "Quer",
+    "Längs",
+    "Ringförmig um den Nabel"
+   ],
+   "a": "B",
+   "expl": "Externus und Internus verlaufen etwa rechtwinklig zueinander. Der Externus verläuft wie Hände in den Hosentaschen.",
+   "dis": {
+    "A": "Verlauf des Externus.",
+    "C": "Verlauf des Transversus.",
+    "D": "Verlauf des Rektus.",
+    "E": "Falsch."
+   },
+   "merk": "Externus = Hände in den Hosentaschen.",
+   "img": null
+  },
+  {
+   "id": "V-F1-204-2",
+   "src": "F1-204",
+   "typ": "perspektive",
+   "q": "Welche Muskeln drehen den Rumpf gemeinsam nach rechts?",
+   "o": [
+    "Rechter M. obliquus externus und linker M. obliquus internus",
+    "Beide Mm. recti abdominis",
+    "Rechter M. obliquus internus und linker M. obliquus externus",
+    "Beide Mm. transversi abdominis",
+    "Beide Mm. psoas majores"
+   ],
+   "a": "C",
+   "expl": "Der Internus dreht zur eigenen Seite, der Externus zur Gegenseite. Sie bilden eine schräge Muskelkette über die Mittellinie.",
+   "dis": {
+    "A": "Drehen nach links.",
+    "B": "Beugen den Rumpf.",
+    "D": "Erhöhen den Bauchdruck.",
+    "E": "Beugen die Hüfte."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-205-1",
+   "src": "F1-205",
+   "typ": "perspektive",
+   "q": "Welche Nerven versorgen die untersten Anteile der Bauchmuskeln oberhalb des Leistenbands?",
+   "o": [
+    "N. femoralis",
+    "N. obturatorius",
+    "N. pudendus",
+    "N. iliohypogastricus und N. ilioinguinalis (L1)",
+    "N. phrenicus"
+   ],
+   "a": "D",
+   "expl": "Die Bauchwand wird segmental von Th7–Th12 (Nn. intercostales, N. subcostalis) und L1 versorgt. Die L1-Nerven verlaufen in der Leistenregion.",
+   "dis": {
+    "A": "Versorgt den vorderen Oberschenkel.",
+    "B": "Versorgt die Adduktoren.",
+    "C": "Versorgt den Damm.",
+    "E": "Versorgt das Zwerchfell."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-205-2",
+   "src": "F1-205",
+   "typ": "perspektive",
+   "q": "Welches Dermatom liegt in Höhe des Nabels?",
+   "o": [
+    "Th4",
+    "L1",
+    "C5",
+    "S1",
+    "Th10"
+   ],
+   "a": "E",
+   "expl": "Merkpunkte: Th4 Mamillen, Th6 Proc. xiphoideus, Th10 Nabel, L1 Leiste. Schmerzen bei beginnender Appendizitis werden um den Nabel empfunden (Th10).",
+   "dis": {
+    "A": "Höhe der Brustwarzen.",
+    "B": "Höhe der Leiste.",
+    "C": "Schulter.",
+    "D": "Fußaußenrand."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-206-1",
+   "src": "F1-206",
+   "typ": "perspektive",
+   "q": "Welche zwei Arterien anastomosieren in der Rektusscheide?",
+   "o": [
+    "A. epigastrica superior und A. epigastrica inferior",
+    "A. femoralis und A. poplitea",
+    "A. renalis und A. suprarenalis",
+    "A. splenica und A. hepatica",
+    "A. carotis communis und A. vertebralis"
+   ],
+   "a": "A",
+   "expl": "Die A. epigastrica superior kommt aus der A. thoracica interna, die inferior aus der A. iliaca externa. Diese Anastomose ist ein Kollateralweg bei Aortenisthmusstenose.",
+   "dis": {
+    "B": "Liegen am Bein.",
+    "C": "Liegen retroperitoneal.",
+    "D": "Liegen im Oberbauch.",
+    "E": "Liegen am Hals."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-206-2",
+   "src": "F1-206",
+   "typ": "klinik",
+   "q": "Was zeigt das Caput medusae bei Leberzirrhose an?",
+   "o": [
+    "Eine Thrombose der A. femoralis",
+    "Einen portokavalen Umgehungskreislauf über erweiterte Nabelvenen",
+    "Eine Herzinsuffizienz links",
+    "Einen Verschluss der V. jugularis",
+    "Eine Lymphknotenvergrößerung"
+   ],
+   "a": "B",
+   "expl": "Bei Pfortaderhochdruck öffnen sich die Vv. paraumbilicales im Lig. teres hepatis wieder. Das Blut fließt über erweiterte Bauchwandvenen um den Nabel ab.",
+   "dis": {
+    "A": "Falsch.",
+    "C": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-207-1",
+   "src": "F1-207",
+   "typ": "perspektive",
+   "q": "Aus welchem Gewebe besteht die Symphyse zwischen den beiden Schambeinen?",
+   "o": [
+    "Hyaliner Gelenkknorpel mit Gelenkhöhle",
+    "Knochen",
+    "Faserknorpel (Discus interpubicus)",
+    "Elastischer Knorpel",
+    "Muskelgewebe"
+   ],
+   "a": "C",
+   "expl": "Die Symphyse ist eine Knorpelhaft (Synchondrose). Sie wird oben vom Lig. pubicum superius und unten vom Lig. pubicum inferius (arcuatum) verstärkt.",
+   "dis": {
+    "A": "Typisch für echte Gelenke.",
+    "B": "Sie ist nicht verknöchert.",
+    "D": "Typisch für Ohrmuschel und Epiglottis.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-207-2",
+   "src": "F1-207",
+   "typ": "perspektive",
+   "q": "Was geschieht mit der Symphyse in der Schwangerschaft?",
+   "o": [
+    "Sie verknöchert vollständig.",
+    "Sie verschwindet.",
+    "Sie wird zu einem Kugelgelenk.",
+    "Sie lockert sich hormonell bedingt und wird etwas beweglicher.",
+    "Sie verändert sich nicht."
+   ],
+   "a": "D",
+   "expl": "Relaxin und Östrogene lockern die Beckenbänder und erweitern so den Geburtskanal etwas. Dabei kann es zu Symphysenschmerzen kommen.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "E": "Sie lockert sich."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-208-1",
+   "src": "F1-208",
+   "typ": "perspektive",
+   "q": "Welche Hernie tritt unterhalb des Leistenbands medial der V. femoralis aus?",
+   "o": [
+    "Indirekte Leistenhernie",
+    "Direkte Leistenhernie",
+    "Nabelhernie",
+    "Spieghel-Hernie",
+    "Hernia femoralis"
+   ],
+   "a": "E",
+   "expl": "Die Schenkelhernie tritt durch die Lacuna vasorum in den Canalis femoralis. Sie kommt häufiger bei Frauen vor und klemmt wegen der engen Bruchpforte oft ein.",
+   "dis": {
+    "A": "Oberhalb des Leistenbands lateral.",
+    "B": "Oberhalb des Leistenbands medial.",
+    "C": "Am Nabel.",
+    "D": "An der Linea semilunaris."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-208-2",
+   "src": "F1-208",
+   "typ": "perspektive",
+   "q": "Durch welche Öffnung tritt eine indirekte Leistenhernie in den Leistenkanal ein?",
+   "o": [
+    "Anulus inguinalis profundus",
+    "Anulus inguinalis superficialis",
+    "Hiatus oesophageus",
+    "Anulus umbilicalis",
+    "Foramen obturatum"
+   ],
+   "a": "A",
+   "expl": "Die indirekte Hernie tritt lateral der Vasa epigastrica inferiora durch den inneren Leistenring und folgt dem Samenstrang durch den Kanal.",
+   "dis": {
+    "B": "Ausgang des Kanals.",
+    "C": "Im Zwerchfell.",
+    "D": "Am Nabel.",
+    "E": "Im Becken."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-209-1",
+   "src": "F1-209",
+   "typ": "perspektive",
+   "q": "Was gehört zum Aufbau jeder Hernie?",
+   "o": [
+    "Nur eine Bauchwandlücke",
+    "Bruchpforte, Bruchsack und Bruchinhalt",
+    "Nur verlagerte Organe ohne Peritonealsack",
+    "Ein Tumor und ein Gefäß",
+    "Ein Hämatom"
+   ],
+   "a": "B",
+   "expl": "Bei einer echten Hernie stülpt sich das Peritoneum als Bruchsack durch die Bruchpforte. Ohne Bruchsack spricht man von einem Prolaps.",
+   "dis": {
+    "A": "Unvollständig.",
+    "C": "Das wäre ein Prolaps.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-209-2",
+   "src": "F1-209",
+   "typ": "klinik",
+   "q": "Welche Zeichen sprechen für eine eingeklemmte (inkarzerierte) Hernie?",
+   "o": [
+    "Weiche, schmerzlose, leicht reponierbare Vorwölbung",
+    "Vorwölbung nur beim Husten, dann verschwindend",
+    "Harte, schmerzhafte, nicht reponierbare Vorwölbung, oft mit Ileus",
+    "Fehlende Vorwölbung",
+    "Juckreiz der Haut"
+   ],
+   "a": "C",
+   "expl": "Bei der Inkarzeration wird der Bruchinhalt abgeschnürt, die Durchblutung leidet. Es handelt sich um einen chirurgischen Notfall.",
+   "dis": {
+    "A": "Typisch für eine unkomplizierte Hernie.",
+    "B": "Typisch für eine reponible Hernie.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-210-1",
+   "src": "F1-210",
+   "typ": "nachbarschaft",
+   "q": "Entlang welcher Linie tritt eine Spieghel-Hernie auf?",
+   "o": [
+    "Linea alba",
+    "Linea terminalis",
+    "Linea pectinata",
+    "Linea semilunaris",
+    "Linea aspera"
+   ],
+   "a": "D",
+   "expl": "Die Linea semilunaris ist der seitliche Rand der Rektusscheide. Spieghel-Hernien treten meist unterhalb des Nabels nahe der Linea arcuata auf.",
+   "dis": {
+    "A": "Ort der epigastrischen Hernie.",
+    "B": "Beckeneingang.",
+    "C": "Analkanal.",
+    "E": "Femur."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-210-2",
+   "src": "F1-210",
+   "typ": "perspektive",
+   "q": "Wo tritt eine epigastrische Hernie auf?",
+   "o": [
+    "In der Leiste",
+    "Unterhalb des Leistenbands",
+    "Im Zwerchfell",
+    "An der Linea semilunaris",
+    "In der Linea alba oberhalb des Nabels"
+   ],
+   "a": "E",
+   "expl": "Durch Lücken zwischen den sich kreuzenden Aponeurosefasern der Linea alba kann präperitoneales Fett oder Peritoneum austreten.",
+   "dis": {
+    "A": "Leistenhernie.",
+    "B": "Schenkelhernie.",
+    "C": "Hiatushernie.",
+    "D": "Spieghel-Hernie."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-211-1",
+   "src": "F1-211",
+   "typ": "perspektive",
+   "q": "Welcher Muskel kleidet die seitliche Wand des kleinen Beckens aus und verlässt es durch das Foramen ischiadicum minus?",
+   "o": [
+    "M. obturatorius internus",
+    "M. psoas major",
+    "M. gluteus maximus",
+    "M. rectus abdominis",
+    "M. quadratus lumborum"
+   ],
+   "a": "A",
+   "expl": "Der M. obturatorius internus entspringt an der Innenseite der Membrana obturatoria. Seine Faszie bildet den Alcock-Kanal.",
+   "dis": {
+    "B": "Liegt im großen Becken.",
+    "C": "Liegt außen.",
+    "D": "Bauchmuskel.",
+    "E": "Liegt an der hinteren Bauchwand."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-211-2",
+   "src": "F1-211",
+   "typ": "perspektive",
+   "q": "Welcher Muskel bildet einen Großteil der Hinterwand des kleinen Beckens und verlässt es durch das Foramen ischiadicum majus?",
+   "o": [
+    "M. obturatorius internus",
+    "M. piriformis",
+    "M. iliacus",
+    "M. levator ani",
+    "M. rectus femoris"
+   ],
+   "a": "B",
+   "expl": "Der M. piriformis unterteilt das Foramen ischiadicum majus in ein Foramen supra- und infrapiriforme. Durch Letzteres zieht u. a. der N. ischiadicus.",
+   "dis": {
+    "A": "Liegt an der Seitenwand.",
+    "C": "Liegt im großen Becken.",
+    "D": "Bildet den Beckenboden.",
+    "E": "Oberschenkelmuskel."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-212-1",
+   "src": "F1-212",
+   "typ": "perspektive",
+   "q": "Um welchen Gelenktyp handelt es sich beim Iliosakralgelenk?",
+   "o": [
+    "Kugelgelenk",
+    "Scharniergelenk",
+    "Straffes Gelenk (Amphiarthrose)",
+    "Sattelgelenk",
+    "Zapfengelenk"
+   ],
+   "a": "C",
+   "expl": "Das Iliosakralgelenk ist durch kräftige Bänder fast unbeweglich. Es überträgt das Gewicht des Rumpfes auf das Becken.",
+   "dis": {
+    "A": "Typisch für Hüfte und Schulter.",
+    "B": "Typisch für den Ellenbogen.",
+    "D": "Typisch für das Daumengrundgelenk.",
+    "E": "Typisch für das Atlantoaxialgelenk."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-212-2",
+   "src": "F1-212",
+   "typ": "perspektive",
+   "q": "Welche Bänder stabilisieren das Iliosakralgelenk besonders kräftig von hinten?",
+   "o": [
+    "Lig. inguinale",
+    "Lig. pubicum superius",
+    "Lig. teres uteri",
+    "Ligg. sacroiliaca interossea und posteriora",
+    "Lig. capitis femoris"
+   ],
+   "a": "D",
+   "expl": "Die Ligg. sacroiliaca interossea sind die stärksten Bänder des Körpers. Zusätzlich sichern Lig. sacrotuberale und sacrospinale das Kreuzbein gegen Kippen.",
+   "dis": {
+    "A": "Liegt vorne in der Leiste.",
+    "B": "An der Symphyse.",
+    "C": "Uterushalteband.",
+    "E": "Im Hüftgelenk."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-213-1",
+   "src": "F1-213",
+   "typ": "perspektive",
+   "q": "Welche Faszie umhüllt den M. quadratus lumborum und die autochthone Rückenmuskulatur?",
+   "o": [
+    "Fascia transversalis",
+    "Fascia lata",
+    "Fascia renalis",
+    "Fascia endothoracica",
+    "Fascia thoracolumbalis"
+   ],
+   "a": "E",
+   "expl": "Die Fascia thoracolumbalis hat mehrere Blätter. Das vordere Blatt liegt vor dem Quadratus lumborum, das hintere hinter der Rückenstrecker-Muskulatur.",
+   "dis": {
+    "A": "Kleidet die Bauchhöhle innen aus.",
+    "B": "Oberschenkelfaszie.",
+    "C": "Nierenfaszie.",
+    "D": "Thoraxfaszie."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-213-2",
+   "src": "F1-213",
+   "typ": "nachbarschaft",
+   "q": "Welches Organ liegt dem M. quadratus lumborum ventral auf?",
+   "o": [
+    "Niere",
+    "Milz",
+    "Harnblase",
+    "Magen",
+    "Herz"
+   ],
+   "a": "A",
+   "expl": "Die Niere liegt in der Aussparung zwischen M. psoas major und M. quadratus lumborum. Auf dem Quadratus verlaufen N. subcostalis, N. iliohypogastricus und N. ilioinguinalis.",
+   "dis": {
+    "B": "Liegt weiter lateral oben.",
+    "C": "Liegt im Becken.",
+    "D": "Liegt intraperitoneal vorne.",
+    "E": "Liegt im Thorax."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-214-1",
+   "src": "F1-214",
+   "typ": "perspektive",
+   "q": "Welcher Nerv zieht durch den Canalis obturatorius?",
+   "o": [
+    "N. femoralis",
+    "N. obturatorius",
+    "N. ischiadicus",
+    "N. pudendus",
+    "N. genitofemoralis"
+   ],
+   "a": "B",
+   "expl": "Das Foramen obturatum ist bis auf den Canalis obturatorius von der Membrana obturatoria verschlossen. Durch den Kanal ziehen N., A. und V. obturatoria.",
+   "dis": {
+    "A": "Zieht durch die Lacuna musculorum.",
+    "C": "Zieht durch das Foramen infrapiriforme.",
+    "D": "Zieht durch das Foramen infrapiriforme.",
+    "E": "Verläuft auf dem M. psoas."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-214-2",
+   "src": "F1-214",
+   "typ": "perspektive",
+   "q": "Welche Strukturen ziehen durch das Foramen infrapiriforme?",
+   "o": [
+    "N. femoralis",
+    "N. obturatorius",
+    "N. ischiadicus, N. pudendus und Vasa glutea inferiora",
+    "Ductus deferens",
+    "Vasa glutea superiora"
+   ],
+   "a": "C",
+   "expl": "Unterhalb des M. piriformis verlassen N. ischiadicus, N. pudendus, Vasa pudenda interna, N. gluteus inferior und N. cutaneus femoris posterior das Becken.",
+   "dis": {
+    "A": "Lacuna musculorum.",
+    "B": "Canalis obturatorius.",
+    "D": "Leistenkanal.",
+    "E": "Foramen suprapiriforme."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-106-1",
+   "src": "F3-106",
+   "typ": "perspektive",
+   "q": "Wie unterstützt die Bauchwand die Ausatmung?",
+   "o": [
+    "Sie senkt das Zwerchfell.",
+    "Sie erweitert den Thorax.",
+    "Sie hat keinen Einfluss auf die Atmung.",
+    "Sie erhöht den Bauchdruck und schiebt das Zwerchfell nach oben.",
+    "Sie bildet Surfactant."
+   ],
+   "a": "D",
+   "expl": "Bei forcierter Exspiration, z. B. beim Husten, pressen die Bauchmuskeln die Bauchorgane gegen das Zwerchfell. Das Zwerchfell steigt und Luft wird ausgepresst.",
+   "dis": {
+    "A": "Gegenteil.",
+    "B": "Gegenteil.",
+    "C": "Sie ist wichtige Hilfsmuskulatur.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-106-2",
+   "src": "F3-106",
+   "typ": "perspektive",
+   "q": "Was versteht man unter der Bauchpresse?",
+   "o": [
+    "Massage des Bauches von außen",
+    "Erschlaffen aller Bauchmuskeln",
+    "Einziehen des Bauches bei Inspiration",
+    "Druck der Leber auf den Magen",
+    "Erhöhung des Bauchdrucks durch gleichzeitige Kontraktion von Bauchmuskeln, Zwerchfell und Beckenboden"
+   ],
+   "a": "E",
+   "expl": "Die Bauchpresse unterstützt Defäkation, Miktion, Geburt und Erbrechen. Bei schwacher Bauchwand fördert sie die Hernienbildung.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Gegenteil.",
+    "C": "Falsch.",
+    "D": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-107-1",
+   "src": "F3-107",
+   "typ": "perspektive",
+   "q": "Welcher kleine dreieckige Muskel liegt vor dem unteren Ende des M. rectus abdominis und spannt die Linea alba?",
+   "o": [
+    "M. pyramidalis",
+    "M. cremaster",
+    "M. psoas minor",
+    "M. quadratus lumborum",
+    "M. iliacus"
+   ],
+   "a": "A",
+   "expl": "Der M. pyramidalis entspringt am Schambein und strahlt in die Linea alba ein. Er fehlt bei etwa 10–20 % der Menschen.",
+   "dis": {
+    "B": "Hodenheber.",
+    "C": "Liegt auf dem Psoas major.",
+    "D": "Liegt hinten.",
+    "E": "Liegt in der Darmbeingrube."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-107-2",
+   "src": "F3-107",
+   "typ": "perspektive",
+   "q": "Welcher Nerv versorgt den M. rectus abdominis?",
+   "o": [
+    "N. femoralis",
+    "Nn. intercostales Th7–Th12",
+    "N. phrenicus",
+    "N. accessorius",
+    "N. pudendus"
+   ],
+   "a": "B",
+   "expl": "Die unteren Interkostalnerven ziehen zwischen M. obliquus internus und M. transversus nach vorne und treten von hinten in die Rektusscheide ein.",
+   "dis": {
+    "A": "Versorgt den Oberschenkel.",
+    "C": "Versorgt das Zwerchfell.",
+    "D": "Versorgt Trapezius und Sternocleidomastoideus.",
+    "E": "Versorgt den Damm."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-108-1",
+   "src": "F3-108",
+   "typ": "perspektive",
+   "q": "Welche Struktur bildet der freie Unterrand der Aponeurose des M. obliquus externus abdominis?",
+   "o": [
+    "Linea arcuata",
+    "Lig. pectineum",
+    "Lig. inguinale",
+    "Linea alba",
+    "Falx inguinalis"
+   ],
+   "a": "C",
+   "expl": "Das Leistenband spannt sich zwischen Spina iliaca anterior superior und Tuberculum pubicum. Es bildet den Boden des Leistenkanals.",
+   "dis": {
+    "A": "Unterrand des hinteren Rektusblatts.",
+    "B": "Am Pecten ossis pubis.",
+    "D": "Mittellinie.",
+    "E": "Aus Internus und Transversus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-108-2",
+   "src": "F3-108",
+   "typ": "perspektive",
+   "q": "Welche Öffnung in der Externusaponeurose bildet den äußeren Leistenring?",
+   "o": [
+    "Anulus inguinalis profundus",
+    "Anulus umbilicalis",
+    "Hiatus saphenus",
+    "Anulus inguinalis superficialis",
+    "Canalis obturatorius"
+   ],
+   "a": "D",
+   "expl": "Der äußere Leistenring liegt oberhalb des Tuberculum pubicum zwischen Crus mediale und Crus laterale der Externusaponeurose.",
+   "dis": {
+    "A": "Liegt in der Fascia transversalis.",
+    "B": "Nabelring.",
+    "C": "In der Fascia lata.",
+    "E": "Im Becken."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-109-1",
+   "src": "F3-109",
+   "typ": "perspektive",
+   "q": "Von welchem Rand des M. obliquus internus spalten sich die Fasern des M. cremaster ab?",
+   "o": [
+    "Vom Oberrand",
+    "Vom Hinterrand an der Fascia thoracolumbalis",
+    "Aus dem M. rectus abdominis",
+    "Aus dem M. transversus abdominis allein",
+    "Vom Unterrand"
+   ],
+   "a": "E",
+   "expl": "Am Unterrand des Internus lösen sich Fasern ab und begleiten den Samenstrang als M. cremaster. Er hebt den Hoden reflektorisch an.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "D": "Er stammt überwiegend vom Internus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-109-2",
+   "src": "F3-109",
+   "typ": "perspektive",
+   "q": "Was bildet die Falx inguinalis (Conjoint tendon)?",
+   "o": [
+    "Die vereinigten Sehnen von M. obliquus internus und M. transversus abdominis",
+    "Die Aponeurose des M. obliquus externus allein",
+    "Die Sehne des M. rectus abdominis",
+    "Die Fascia transversalis allein",
+    "Das Peritoneum"
+   ],
+   "a": "A",
+   "expl": "Die Falx inguinalis bildet medial die Hinterwand des Leistenkanals und setzt am Os pubis an. Sie verstärkt das Hesselbach-Dreieck.",
+   "dis": {
+    "B": "Bildet das Leistenband.",
+    "C": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-110-1",
+   "src": "F3-110",
+   "typ": "perspektive",
+   "q": "In welcher Höhe liegt die Linea arcuata ungefähr?",
+   "o": [
+    "In Höhe des Proc. xiphoideus",
+    "Etwa eine Handbreit unterhalb des Nabels",
+    "Genau in Nabelhöhe",
+    "Am Leistenband",
+    "In Höhe der 10. Rippe"
+   ],
+   "a": "B",
+   "expl": "An der Linea arcuata endet das hintere Blatt der Rektusscheide. Darunter liegt der Rektus hinten nur der Fascia transversalis auf.",
+   "dis": {
+    "A": "Zu hoch.",
+    "C": "Zu hoch.",
+    "D": "Zu tief.",
+    "E": "Zu hoch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-110-2",
+   "src": "F3-110",
+   "typ": "nachbarschaft",
+   "q": "Welches Gefäß tritt etwa in Höhe der Linea arcuata von hinten in die Rektusscheide ein?",
+   "o": [
+    "A. epigastrica superior",
+    "A. femoralis",
+    "A. epigastrica inferior",
+    "A. circumflexa ilium profunda",
+    "A. testicularis"
+   ],
+   "a": "C",
+   "expl": "Die A. epigastrica inferior zieht von der A. iliaca externa nach oben, medial des inneren Leistenrings. Sie trennt direkte von indirekten Leistenhernien.",
+   "dis": {
+    "A": "Tritt oben ein.",
+    "B": "Liegt am Oberschenkel.",
+    "D": "Verläuft entlang der Crista iliaca.",
+    "E": "Verläuft im Samenstrang."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-111-1",
+   "src": "F3-111",
+   "typ": "perspektive",
+   "q": "Welcher Nerv versorgt den M. quadratus lumborum?",
+   "o": [
+    "N. femoralis",
+    "N. ischiadicus",
+    "N. vagus",
+    "Rami ventrales Th12–L3 (Plexus lumbalis)",
+    "N. phrenicus"
+   ],
+   "a": "D",
+   "expl": "Der Quadratus lumborum wird direkt aus Ästen von Th12 und dem Plexus lumbalis versorgt. Er bildet einen Teil der hinteren Bauchwand.",
+   "dis": {
+    "A": "Versorgt den Oberschenkel vorne.",
+    "B": "Versorgt das Bein hinten.",
+    "C": "Kein somatischer Muskelnerv.",
+    "E": "Versorgt das Zwerchfell."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-111-2",
+   "src": "F3-111",
+   "typ": "klinik",
+   "q": "Welche Funktion übernimmt der M. quadratus lumborum bei der Atmung?",
+   "o": [
+    "Er hebt das Sternum an.",
+    "Er erweitert die oberen Rippen.",
+    "Er hat keine Funktion bei der Atmung.",
+    "Er senkt das Zwerchfell direkt.",
+    "Er fixiert die 12. Rippe und gibt dem Zwerchfell einen festen Ansatz."
+   ],
+   "a": "E",
+   "expl": "Durch die Fixierung der 12. Rippe kann das Zwerchfell kräftiger kontrahieren. Er gilt deshalb als Atemhilfsmuskel.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Aufgabe der Mm. scaleni.",
+    "C": "Er stabilisiert die 12. Rippe.",
+    "D": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-112-1",
+   "src": "F3-112",
+   "typ": "perspektive",
+   "q": "Wo setzt der M. iliopsoas an?",
+   "o": [
+    "Am Trochanter minor des Femurs",
+    "Am Trochanter major",
+    "An der Tuberositas tibiae",
+    "Am Tuber ischiadicum",
+    "An der Crista iliaca"
+   ],
+   "a": "A",
+   "expl": "M. psoas major und M. iliacus vereinigen sich zum M. iliopsoas. Er zieht durch die Lacuna musculorum zum Trochanter minor und ist der stärkste Hüftbeuger.",
+   "dis": {
+    "B": "Ansatz der Glutealmuskeln.",
+    "C": "Ansatz des Quadrizeps.",
+    "D": "Ursprung der ischiokruralen Muskeln.",
+    "E": "Ursprung des M. iliacus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-112-2",
+   "src": "F3-112",
+   "typ": "klinik",
+   "q": "Was spricht für ein positives Psoaszeichen?",
+   "o": [
+    "Schmerz in der linken Schulter",
+    "Schmerz bei Hüftbeugung gegen Widerstand durch Reizung des M. psoas",
+    "Schmerz bei Druck auf den Nabel",
+    "Atemstopp bei Palpation des rechten Oberbauchs",
+    "Bläuliche Verfärbung der Flanke"
+   ],
+   "a": "B",
+   "expl": "Eine retrozäkale Appendizitis oder ein Psoasabszess reizen den Muskel. Die Hüftbeugung gegen Widerstand ist dann schmerzhaft.",
+   "dis": {
+    "A": "Kehr-Zeichen.",
+    "C": "Unspezifisch.",
+    "D": "Murphy-Zeichen.",
+    "E": "Grey-Turner-Zeichen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-113-1",
+   "src": "F3-113",
+   "typ": "perspektive",
+   "q": "Welche Aponeurosen bilden die Linea alba?",
+   "o": [
+    "Nur die Sehnen des M. rectus abdominis",
+    "Nur die Fascia transversalis",
+    "Die Aponeurosen der drei seitlichen Bauchmuskeln beider Seiten",
+    "Die Fascia thoracolumbalis",
+    "Das Lig. inguinale"
+   ],
+   "a": "C",
+   "expl": "Die Aponeurosen von Externus, Internus und Transversus umhüllen den Rektus als Rektusscheide und verflechten sich in der Mittellinie zur Linea alba.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Falsch.",
+    "D": "Liegt am Rücken.",
+    "E": "Liegt in der Leiste."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-113-2",
+   "src": "F3-113",
+   "typ": "klinik",
+   "q": "Wie nennt man das Auseinanderweichen der beiden Mm. recti abdominis?",
+   "o": [
+    "Leistenhernie",
+    "Spieghel-Hernie",
+    "Hiatushernie",
+    "Rektusdiastase",
+    "Rektumprolaps"
+   ],
+   "a": "D",
+   "expl": "Bei der Rektusdiastase ist die Linea alba verbreitert, z. B. nach Schwangerschaften. Es gibt keine echte Bruchpforte, die Bauchwand wölbt sich beim Anspannen vor.",
+   "dis": {
+    "A": "Durch den Leistenkanal.",
+    "B": "An der Linea semilunaris.",
+    "C": "Am Zwerchfell.",
+    "E": "Vorfall des Mastdarms."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-114-1",
+   "src": "F3-114",
+   "typ": "perspektive",
+   "q": "Wie ist die Rektusscheide unterhalb der Linea arcuata aufgebaut?",
+   "o": [
+    "Alle Aponeurosen ziehen hinter dem Rektus vorbei.",
+    "Es gibt ein kräftiges hinteres Blatt aus Transversus und Internus.",
+    "Es gibt keine Rektusscheide.",
+    "Der Rektus liegt direkt der Haut auf.",
+    "Alle Aponeurosen ziehen vor dem Rektus vorbei; hinten liegt nur die Fascia transversalis."
+   ],
+   "a": "E",
+   "expl": "Unterhalb der Linea arcuata fehlt das hintere Blatt. Diese Stelle ist schwächer, und hier können Spieghel-Hernien entstehen.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Gilt oberhalb der Linea arcuata.",
+    "C": "Das vordere Blatt bleibt.",
+    "D": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-114-2",
+   "src": "F3-114",
+   "typ": "perspektive",
+   "q": "Welche Gefäße verlaufen innerhalb der Rektusscheide?",
+   "o": [
+    "Vasa epigastrica superiora und inferiora",
+    "Vasa femoralia",
+    "Vasa renalia",
+    "Vasa testicularia",
+    "Vasa iliaca communia"
+   ],
+   "a": "A",
+   "expl": "Die epigastrischen Gefäße liegen hinter dem Rektus in der Scheide. Bei Bauchwandpunktionen (z. B. Trokare) können sie verletzt werden.",
+   "dis": {
+    "B": "Am Oberschenkel.",
+    "C": "Retroperitoneal.",
+    "D": "Im Samenstrang.",
+    "E": "Retroperitoneal."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-115-1",
+   "src": "F3-115",
+   "typ": "perspektive",
+   "q": "Wo tritt eine direkte Leistenhernie aus?",
+   "o": [
+    "Lateral der Vasa epigastrica inferiora durch den inneren Leistenring",
+    "Medial der Vasa epigastrica inferiora durch das Hesselbach-Dreieck",
+    "Unterhalb des Leistenbands",
+    "Am Nabel",
+    "Durch das Zwerchfell"
+   ],
+   "a": "B",
+   "expl": "Die direkte Hernie drückt die Hinterwand des Leistenkanals senkrecht nach vorne durch. Sie ist immer erworben.",
+   "dis": {
+    "A": "Indirekte Hernie.",
+    "C": "Schenkelhernie.",
+    "D": "Nabelhernie.",
+    "E": "Hiatushernie."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-115-2",
+   "src": "F3-115",
+   "typ": "perspektive",
+   "q": "Welche Strukturen begrenzen das Hesselbach-Dreieck?",
+   "o": [
+    "Ductus cysticus, Ductus hepaticus und Leberunterrand",
+    "M. sartorius, M. adductor longus und Lig. inguinale",
+    "Lig. inguinale, Vasa epigastrica inferiora und lateraler Rand des M. rectus abdominis",
+    "Crista iliaca, M. latissimus dorsi und M. obliquus externus",
+    "Clavicula, M. sternocleidomastoideus und M. trapezius"
+   ],
+   "a": "C",
+   "expl": "Das Hesselbach-Dreieck entspricht der Fossa inguinalis medialis. Durch diese schwache Stelle der Bauchwand treten direkte Leistenhernien aus.",
+   "dis": {
+    "A": "Calot-Dreieck.",
+    "B": "Trigonum femorale.",
+    "D": "Trigonum lumbale.",
+    "E": "Seitliches Halsdreieck."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-116-1",
+   "src": "F3-116",
+   "typ": "perspektive",
+   "q": "Welche Hernie entsteht durch einen offenen Processus vaginalis peritonei?",
+   "o": [
+    "Direkte Leistenhernie",
+    "Schenkelhernie",
+    "Narbenhernie",
+    "Angeborene indirekte Leistenhernie",
+    "Epigastrische Hernie"
+   ],
+   "a": "D",
+   "expl": "Normalerweise verschließt sich der Processus vaginalis nach dem Hodendeszensus. Bleibt er offen, kann sich Bauchinhalt bis ins Skrotum vorschieben.",
+   "dis": {
+    "A": "Immer erworben.",
+    "B": "Andere Bruchpforte.",
+    "C": "Erworben nach Operation.",
+    "E": "An der Linea alba."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-116-2",
+   "src": "F3-116",
+   "typ": "klinik",
+   "q": "Was entsteht, wenn sich im teilweise offenen Processus vaginalis Flüssigkeit sammelt?",
+   "o": [
+    "Eine Varikozele",
+    "Ein Hodentumor",
+    "Eine Hodentorsion",
+    "Eine Epididymitis",
+    "Eine Hydrozele"
+   ],
+   "a": "E",
+   "expl": "Die Hydrozele lässt sich mit einer Taschenlampe durchleuchten (positive Diaphanoskopie). Bei Säuglingen bildet sie sich oft spontan zurück.",
+   "dis": {
+    "A": "Venenerweiterung.",
+    "B": "Falsch.",
+    "C": "Drehung des Samenstrangs.",
+    "D": "Entzündung des Nebenhodens."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-117-1",
+   "src": "F3-117",
+   "typ": "perspektive",
+   "q": "Warum sind Leistenhernien bei Männern deutlich häufiger als bei Frauen?",
+   "o": [
+    "Weil der Leistenkanal durch den Samenstrang weiter ist und der Hodendeszensus eine Schwachstelle hinterlässt",
+    "Weil Frauen keinen Leistenkanal haben",
+    "Weil Männer keine Fascia transversalis haben",
+    "Weil die Bauchmuskeln bei Frauen stärker sind",
+    "Weil Männer ein breiteres Becken haben"
+   ],
+   "a": "A",
+   "expl": "Der Samenstrang braucht einen weiteren Kanal als das dünne Lig. teres uteri. Frauen haben dagegen häufiger Schenkelhernien.",
+   "dis": {
+    "B": "Sie haben einen (mit Lig. teres uteri).",
+    "C": "Falsch.",
+    "D": "Kein Grund.",
+    "E": "Frauen haben ein breiteres Becken."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-117-2",
+   "src": "F3-117",
+   "typ": "perspektive",
+   "q": "Welche Struktur verläuft bei der Frau durch den Leistenkanal?",
+   "o": [
+    "Lig. ovarii proprium",
+    "Lig. teres uteri",
+    "Lig. suspensorium ovarii",
+    "A. ovarica",
+    "Ureter"
+   ],
+   "a": "B",
+   "expl": "Das Lig. teres uteri zieht durch den Leistenkanal zu den großen Schamlippen. Zusammen mit dem N. ilioinguinalis bildet es den Inhalt des weiblichen Leistenkanals.",
+   "dis": {
+    "A": "Zwischen Ovar und Uterus.",
+    "C": "Zur Beckenwand.",
+    "D": "Im Lig. suspensorium ovarii.",
+    "E": "Retroperitoneal im Becken."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-118-1",
+   "src": "F3-118",
+   "typ": "perspektive",
+   "q": "Was ist eine innere Hernie?",
+   "o": [
+    "Durchtritt von Darm durch die vordere Bauchwand",
+    "Vorfall des Rektums aus dem Anus",
+    "Verlagerung von Darm in eine Bauchfelltasche oder Lücke innerhalb der Bauchhöhle",
+    "Vorwölbung der Linea alba",
+    "Vorwölbung am Nabel"
+   ],
+   "a": "C",
+   "expl": "Innere Hernien sind von außen nicht sichtbar. Sie entstehen z. B. im Recessus duodenalis, im Foramen omentale oder durch Lücken nach Darmoperationen.",
+   "dis": {
+    "A": "Äußere Hernie.",
+    "B": "Rektumprolaps.",
+    "D": "Epigastrische Hernie oder Rektusdiastase.",
+    "E": "Nabelhernie."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-118-2",
+   "src": "F3-118",
+   "typ": "perspektive",
+   "q": "Durch welche natürliche Öffnung kann eine innere Hernie in die Bursa omentalis gelangen?",
+   "o": [
+    "Hiatus oesophageus",
+    "Canalis inguinalis",
+    "Foramen obturatum",
+    "Foramen omentale (Winslow)",
+    "Anulus umbilicalis"
+   ],
+   "a": "D",
+   "expl": "Das Foramen omentale liegt hinter dem Lig. hepatoduodenale. Dünndarmschlingen können hindurchrutschen und dort einklemmen.",
+   "dis": {
+    "A": "Im Zwerchfell.",
+    "B": "Äußere Hernie.",
+    "C": "Im Becken.",
+    "E": "Am Nabel."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-119-1",
+   "src": "F3-119",
+   "typ": "perspektive",
+   "q": "Welche Hernie ist ein typisches Beispiel für eine angeborene Hernie beim Säugling?",
+   "o": [
+    "Narbenhernie nach Laparotomie",
+    "Direkte Leistenhernie",
+    "Hiatushernie durch Adipositas",
+    "Schenkelhernie nach Schwangerschaften",
+    "Nabelhernie durch unvollständigen Verschluss des Nabelrings"
+   ],
+   "a": "E",
+   "expl": "Säuglingsnabelhernien schließen sich meist bis zum 2.–3. Lebensjahr von selbst. Bei Erwachsenen entstehen Nabelhernien durch erhöhten Bauchdruck.",
+   "dis": {
+    "A": "Erworben.",
+    "B": "Erworben.",
+    "C": "Erworben.",
+    "D": "Erworben."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-119-2",
+   "src": "F3-119",
+   "typ": "perspektive",
+   "q": "Welche Hernie ist immer erworben?",
+   "o": [
+    "Direkte Leistenhernie",
+    "Indirekte Leistenhernie",
+    "Nabelhernie beim Säugling",
+    "Kongenitale Zwerchfellhernie",
+    "Omphalozele"
+   ],
+   "a": "A",
+   "expl": "Die direkte Hernie entsteht durch eine erworbene Schwäche der Hinterwand des Leistenkanals, meist bei älteren Männern.",
+   "dis": {
+    "B": "Kann angeboren sein.",
+    "C": "Angeboren.",
+    "D": "Angeboren.",
+    "E": "Angeborene Fehlbildung."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-120-1",
+   "src": "F3-120",
+   "typ": "klinik",
+   "q": "Welcher Faktor erhöht das Risiko für eine Narbenhernie besonders?",
+   "o": [
+    "Normalgewicht",
+    "Eine Wundinfektion",
+    "Nichtraucherstatus",
+    "Eine gut heilende Wunde",
+    "Schonung in den ersten Wochen"
+   ],
+   "a": "B",
+   "expl": "Wundinfektionen, Adipositas, Rauchen, Diabetes und Kortison verschlechtern die Heilung. Narbenhernien treten bei etwa 10–20 % der medianen Laparotomien auf.",
+   "dis": {
+    "A": "Kein Risikofaktor.",
+    "C": "Kein Risikofaktor.",
+    "D": "Kein Risikofaktor.",
+    "E": "Senkt eher das Risiko."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-120-2",
+   "src": "F3-120",
+   "typ": "klinik",
+   "q": "Wie werden größere Narbenhernien heute meist versorgt?",
+   "o": [
+    "Nur mit einer Bandage",
+    "Durch Entfernung der Bauchmuskulatur",
+    "Mit einem Kunststoffnetz zur Verstärkung der Bauchwand",
+    "Ausschließlich mit Medikamenten",
+    "Durch Bestrahlung"
+   ],
+   "a": "C",
+   "expl": "Netze senken das Rezidivrisiko deutlich im Vergleich zur einfachen Naht. Sie können offen oder minimalinvasiv eingesetzt werden.",
+   "dis": {
+    "A": "Keine definitive Therapie.",
+    "B": "Falsch.",
+    "D": "Keine Therapie.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  }
+ ]
+}
