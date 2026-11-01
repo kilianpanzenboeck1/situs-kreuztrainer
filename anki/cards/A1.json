@@ -1,0 +1,1386 @@
+{
+ "chapter": "A1",
+ "status": "draft",
+ "cards": [
+  {
+   "id": "V-F1-0-1",
+   "src": "F1-0",
+   "typ": "nachbarschaft",
+   "q": "Welche Strukturen liegen im Mediastinum anterius (zwischen Sternum und Perikard)?",
+   "o": [
+    "Vasa thoracica interna (bzw. ihre Äste) und Nodi lymphoidei parasternales",
+    "Aorta thoracica descendens",
+    "Ösophagus",
+    "Herz und Herzbeutel",
+    "Trachea"
+   ],
+   "a": "A",
+   "expl": "Das vordere Mediastinum ist ein schmaler Raum zwischen Sternum und Perikard. Es enthält lockeres Bindegewebe, Äste der Vasa thoracica interna und parasternale Lymphknoten, beim Kind auch Anteile des Thymus.",
+   "dis": {
+    "B": "Liegt im Mediastinum posterius.",
+    "C": "Liegt im Mediastinum superius und posterius.",
+    "D": "Bilden das Mediastinum medium.",
+    "E": "Liegt im Mediastinum superius."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-0-2",
+   "src": "F1-0",
+   "typ": "umkehrung",
+   "q": "Welche Struktur liegt im Mediastinum posterius?",
+   "o": [
+    "Herz",
+    "Aorta thoracica descendens",
+    "Thymus",
+    "Arcus aortae",
+    "Truncus pulmonalis"
+   ],
+   "a": "B",
+   "expl": "Im hinteren Mediastinum hinter dem Perikard liegen Aorta descendens, Ösophagus, Ductus thoracicus, V. azygos und V. hemiazygos, Nn. vagi und Truncus sympathicus.",
+   "dis": {
+    "A": "Liegt im Mediastinum medium.",
+    "C": "Liegt im Mediastinum superius bzw. anterius.",
+    "D": "Liegt im Mediastinum superius.",
+    "E": "Liegt im Mediastinum medium (innerhalb des Perikards)."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-1-1",
+   "src": "F1-1",
+   "typ": "perspektive",
+   "q": "Welcher Herzanteil bildet überwiegend die Facies diaphragmatica?",
+   "o": [
+    "Atrium dextrum",
+    "Atrium sinistrum",
+    "Ventriculus sinister",
+    "Auricula dextra",
+    "Truncus pulmonalis"
+   ],
+   "a": "C",
+   "expl": "Die Facies diaphragmatica liegt dem Zwerchfell auf. Sie wird überwiegend vom linken, zu einem kleineren Teil vom rechten Ventrikel gebildet; darin verläuft der R. interventricularis posterior.",
+   "dis": {
+    "A": "Bildet den rechten Herzrand.",
+    "B": "Bildet die Herzbasis (dorsal).",
+    "D": "Liegt vorne neben der Aortenwurzel.",
+    "E": "Liegt kranial-ventral."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-1-2",
+   "src": "F1-1",
+   "typ": "perspektive",
+   "q": "Welcher Herzanteil bildet überwiegend die Herzbasis (Basis cordis)?",
+   "o": [
+    "Ventriculus dexter",
+    "Apex cordis",
+    "Auricula dextra",
+    "Atrium sinistrum",
+    "Conus arteriosus"
+   ],
+   "a": "D",
+   "expl": "Die Herzbasis zeigt nach dorsal-kranial-rechts. Sie wird vor allem vom linken Vorhof mit den einmündenden Vv. pulmonales gebildet und liegt dem Ösophagus an.",
+   "dis": {
+    "A": "Bildet die Facies sternocostalis.",
+    "B": "Die Spitze liegt der Basis gegenüber.",
+    "C": "Liegt ventral.",
+    "E": "Ausflusstrakt des rechten Ventrikels."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-2-1",
+   "src": "F1-2",
+   "typ": "perspektive",
+   "q": "Welcher Herzanteil bildet die Herzspitze (Apex cordis)?",
+   "o": [
+    "Ventriculus dexter",
+    "Atrium sinistrum",
+    "Atrium dextrum",
+    "Auricula sinistra",
+    "Ventriculus sinister"
+   ],
+   "a": "E",
+   "expl": "Die Herzspitze wird vom linken Ventrikel gebildet. Sie zeigt nach links-vorne-unten; dort ist der Herzspitzenstoß tastbar.",
+   "dis": {
+    "A": "Bildet den größten Teil der Vorderfläche, erreicht die Spitze aber nicht.",
+    "B": "Liegt an der Herzbasis dorsal.",
+    "C": "Bildet den rechten Herzrand.",
+    "D": "Liegt am linken oberen Herzrand."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-2-2",
+   "src": "F1-2",
+   "typ": "klinik",
+   "q": "Wo ist der Herzspitzenstoß beim Erwachsenen normalerweise tastbar?",
+   "o": [
+    "Im 5. ICR links, etwas medial der Medioklavikularlinie",
+    "Im 2. ICR rechts parasternal",
+    "Im 3. ICR links parasternal",
+    "Am Proc. xiphoideus",
+    "Im 7. ICR in der vorderen Axillarlinie"
+   ],
+   "a": "A",
+   "expl": "Die Herzspitze projiziert sich auf den 5. ICR links knapp medial der Medioklavikularlinie. Eine Verlagerung nach lateral-unten spricht für eine Vergrößerung des linken Ventrikels.",
+   "dis": {
+    "B": "Auskultationsort der Aortenklappe.",
+    "C": "Erb-Punkt (Auskultation).",
+    "D": "Dort ist allenfalls der rechte Ventrikel bei Hypertrophie tastbar.",
+    "E": "Zu tief und zu lateral; spräche für einen stark vergrößerten linken Ventrikel."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-3-1",
+   "src": "F1-3",
+   "typ": "umkehrung",
+   "q": "Welche Herzklappe besitzt zwei Segel?",
+   "o": [
+    "Trikuspidalklappe",
+    "Mitralklappe",
+    "Aortenklappe",
+    "Pulmonalklappe",
+    "Valvula venae cavae inferioris"
+   ],
+   "a": "B",
+   "expl": "Die Mitralklappe (Valva bicuspidalis) hat ein vorderes und ein hinteres Segel und liegt zwischen linkem Vorhof und linkem Ventrikel. Die Trikuspidalklappe hat drei Segel.",
+   "dis": {
+    "A": "Hat drei Segel.",
+    "C": "Taschenklappe mit drei Taschen.",
+    "D": "Taschenklappe mit drei Taschen.",
+    "E": "Rudimentäre Klappe ohne Segelfunktion."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-3-2",
+   "src": "F1-3",
+   "typ": "perspektive",
+   "q": "Was verhindert, dass die Segelklappen in der Systole in den Vorhof durchschlagen?",
+   "o": [
+    "Das Herzskelett allein",
+    "Noduli valvularum semilunarium",
+    "Chordae tendineae und Mm. papillares",
+    "Trabecula septomarginalis",
+    "Sinus aortae"
+   ],
+   "a": "C",
+   "expl": "Die Papillarmuskeln kontrahieren mit dem Ventrikel und spannen über die Chordae tendineae die Segelränder. Reißt ein Papillarmuskel (z. B. beim Infarkt), schlägt das Segel durch, und es entsteht eine akute Insuffizienz.",
+   "dis": {
+    "A": "Verankert die Klappenringe, hält aber nicht die Segelränder.",
+    "B": "Knötchen an den Taschenklappen.",
+    "D": "Muskelbalken mit dem rechten Tawara-Schenkel.",
+    "E": "Ausbuchtungen hinter den Aortentaschen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-4-1",
+   "src": "F1-4",
+   "typ": "klinik",
+   "q": "Wo wird die Mitralklappe am besten auskultiert?",
+   "o": [
+    "Im 2. ICR rechts parasternal",
+    "Im 2. ICR links parasternal",
+    "Im 4. ICR rechts parasternal",
+    "Im 5. ICR links in der Medioklavikularlinie (Herzspitze)",
+    "Im 3. ICR links parasternal"
+   ],
+   "a": "D",
+   "expl": "Die Auskultationsorte liegen dort, wohin der Schall mit dem Blutstrom fortgeleitet wird, nicht über der anatomischen Klappenlage. Die Mitralklappe hört man am besten an der Herzspitze.",
+   "dis": {
+    "A": "Auskultationsort der Aortenklappe.",
+    "B": "Auskultationsort der Pulmonalklappe.",
+    "C": "Auskultationsort der Trikuspidalklappe.",
+    "E": "Erb-Punkt, für alle Klappen."
+   },
+   "merk": "„Anton Pulmann trinkt Milch um 22:45“: Aorta 2. ICR re, Pulmonalis 2. ICR li, Trikuspidalis 4. ICR re, Mitralis 5. ICR li.",
+   "img": null
+  },
+  {
+   "id": "V-F1-4-2",
+   "src": "F1-4",
+   "typ": "perspektive",
+   "q": "Wie viele Papillarmuskeln besitzt der linke Ventrikel typischerweise?",
+   "o": [
+    "Einen",
+    "Drei",
+    "Vier",
+    "Keinen",
+    "Zwei (M. papillaris anterior und posterior)"
+   ],
+   "a": "E",
+   "expl": "Der linke Ventrikel hat zwei kräftige Papillarmuskeln für die zwei Segel der Mitralklappe. Der rechte Ventrikel hat drei Papillarmuskeln für die drei Segel der Trikuspidalklappe.",
+   "dis": {
+    "A": "Zu wenig.",
+    "B": "Typisch für den rechten Ventrikel.",
+    "C": "Zu viele.",
+    "D": "Ohne Papillarmuskeln könnte die Mitralklappe nicht dicht schließen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-6-1",
+   "src": "F1-6",
+   "typ": "umkehrung",
+   "q": "Welches Gebiet versorgt die A. coronaria dextra typischerweise (ausgeglichener Versorgungstyp)?",
+   "o": [
+    "Rechten Vorhof und den größten Teil des rechten Ventrikels",
+    "Den größten Teil des linken Ventrikels",
+    "Die vorderen zwei Drittel des Ventrikelseptums",
+    "Ausschließlich den linken Vorhof",
+    "Die Herzspitze"
+   ],
+   "a": "A",
+   "expl": "Die rechte Koronararterie versorgt rechten Vorhof, rechten Ventrikel, das hintere Drittel des Septums und meist Sinus- und AV-Knoten. Die linke versorgt linken Vorhof, den größten Teil des linken Ventrikels und die vorderen zwei Drittel des Septums.",
+   "dis": {
+    "B": "Versorgungsgebiet der A. coronaria sinistra.",
+    "C": "Versorgungsgebiet des R. interventricularis anterior.",
+    "D": "Wird überwiegend vom R. circumflexus versorgt.",
+    "E": "Meist vom R. interventricularis anterior versorgt."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-6-2",
+   "src": "F1-6",
+   "typ": "klinik",
+   "q": "Ein akuter Verschluss des R. interventricularis anterior führt am ehesten zu welchem Infarkt?",
+   "o": [
+    "Hinterwandinfarkt",
+    "Vorderwandinfarkt des linken Ventrikels mit Beteiligung der vorderen zwei Drittel des Septums",
+    "Isolierter Infarkt des rechten Vorhofs",
+    "Seitenwandinfarkt des rechten Ventrikels",
+    "Isolierte Ischämie des Sinusknotens"
+   ],
+   "a": "B",
+   "expl": "Der R. interventricularis anterior (RIVA, LAD) versorgt die Vorderwand des linken Ventrikels, die Herzspitze und die vorderen zwei Drittel des Septums. Sein proximaler Verschluss verursacht große Vorderwandinfarkte.",
+   "dis": {
+    "A": "Typisch für einen Verschluss der A. coronaria dextra bzw. des R. interventricularis posterior.",
+    "C": "Versorgt von der A. coronaria dextra.",
+    "D": "Versorgt von der A. coronaria dextra.",
+    "E": "Meist aus der A. coronaria dextra versorgt."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-7-1",
+   "src": "F1-7",
+   "typ": "nachbarschaft",
+   "q": "In welcher Furche verläuft der R. circumflexus der A. coronaria sinistra?",
+   "o": [
+    "Im Sulcus interventricularis anterior",
+    "Im Sulcus interventricularis posterior",
+    "Im linken Teil des Sulcus coronarius",
+    "Im Sulcus terminalis",
+    "Im rechten Teil des Sulcus coronarius"
+   ],
+   "a": "C",
+   "expl": "Der R. circumflexus zieht im linken Sulcus coronarius um den linken Herzrand nach dorsal. Er gibt Äste an den linken Vorhof und die Seiten- und Hinterwand des linken Ventrikels ab.",
+   "dis": {
+    "A": "Dort verläuft der R. interventricularis anterior.",
+    "B": "Dort verläuft der R. interventricularis posterior.",
+    "D": "Grenze zwischen Sinus venarum und rechtem Herzohr.",
+    "E": "Dort verläuft die A. coronaria dextra."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-7-2",
+   "src": "F1-7",
+   "typ": "perspektive",
+   "q": "Aus welchem Gefäß stammt beim Rechtsversorgungstyp der R. interventricularis posterior?",
+   "o": [
+    "R. circumflexus",
+    "R. interventricularis anterior",
+    "A. thoracica interna",
+    "A. coronaria dextra",
+    "Truncus pulmonalis"
+   ],
+   "a": "D",
+   "expl": "Der Versorgungstyp richtet sich danach, welche Koronararterie den R. interventricularis posterior abgibt. Am häufigsten ist das die A. coronaria dextra (Rechts- bzw. ausgeglichener Typ).",
+   "dis": {
+    "A": "Gibt ihn nur beim Linksversorgungstyp ab.",
+    "B": "Verläuft auf der Vorderseite.",
+    "C": "Keine Koronararterie.",
+    "E": "Führt venöses Blut zur Lunge."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-8-1",
+   "src": "F1-8",
+   "typ": "nachbarschaft",
+   "q": "Mit welcher Arterie verläuft die V. cardiaca magna im Sulcus interventricularis anterior?",
+   "o": [
+    "A. coronaria dextra",
+    "R. interventricularis posterior",
+    "R. marginalis dexter",
+    "A. thoracica interna",
+    "R. interventricularis anterior"
+   ],
+   "a": "E",
+   "expl": "Die V. cardiaca magna steigt mit dem R. interventricularis anterior auf, biegt dann mit dem R. circumflexus nach links in den Sulcus coronarius und mündet in den Sinus coronarius.",
+   "dis": {
+    "A": "Verläuft im rechten Sulcus coronarius.",
+    "B": "Verläuft auf der Hinterseite mit der V. cardiaca media.",
+    "C": "Verläuft am rechten Herzrand.",
+    "D": "Verläuft hinter dem Sternum, nicht am Herzen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-8-2",
+   "src": "F1-8",
+   "typ": "umkehrung",
+   "q": "Welche Vene begleitet den R. interventricularis posterior?",
+   "o": [
+    "V. cardiaca media",
+    "V. cardiaca magna",
+    "V. cardiaca parva",
+    "Vv. cardiacae minimae",
+    "V. obliqua atrii sinistri"
+   ],
+   "a": "A",
+   "expl": "Die V. cardiaca media liegt im Sulcus interventricularis posterior und mündet nahe der Mündung des Sinus coronarius. Die V. cardiaca parva begleitet die A. coronaria dextra.",
+   "dis": {
+    "B": "Begleitet den R. interventricularis anterior.",
+    "C": "Verläuft im rechten Sulcus coronarius mit der A. coronaria dextra.",
+    "D": "Kleine Venen, die direkt in die Herzhöhlen münden.",
+    "E": "Kleine Vene an der Hinterwand des linken Vorhofs."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-9-1",
+   "src": "F1-9",
+   "typ": "nachbarschaft",
+   "q": "Wo liegt der Sinus coronarius?",
+   "o": [
+    "Im Sulcus interventricularis anterior",
+    "Im dorsalen Abschnitt des Sulcus coronarius an der Facies diaphragmatica",
+    "Im Septum interatriale",
+    "An der Herzspitze",
+    "Im Sulcus terminalis"
+   ],
+   "a": "B",
+   "expl": "Der Sinus coronarius ist ein etwa 2–3 cm langes Sammelgefäß im hinteren Sulcus coronarius zwischen linkem Vorhof und Ventrikel. Er mündet in den rechten Vorhof.",
+   "dis": {
+    "A": "Dort liegen R. interventricularis anterior und V. cardiaca magna.",
+    "C": "Dort liegt die Fossa ovalis.",
+    "D": "Keine großen Venen.",
+    "E": "Dort liegt der Sinusknoten."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-9-2",
+   "src": "F1-9",
+   "typ": "perspektive",
+   "q": "Welche Klappe befindet sich an der Mündung des Sinus coronarius?",
+   "o": [
+    "Valvula venae cavae inferioris (Eustachius)",
+    "Valva tricuspidalis",
+    "Valvula sinus coronarii (Thebesius)",
+    "Valva mitralis",
+    "Valvula foraminis ovalis"
+   ],
+   "a": "C",
+   "expl": "Die Valvula sinus coronarii ist eine kleine Endokardfalte an der Mündung des Sinus coronarius in den rechten Vorhof. Sie begrenzt zusammen mit der Sehne von Todaro das Koch-Dreieck.",
+   "dis": {
+    "A": "Liegt an der Mündung der unteren Hohlvene.",
+    "B": "Liegt zwischen rechtem Vorhof und Ventrikel.",
+    "D": "Liegt im linken Herzen.",
+    "E": "Rest des Septum primum an der Fossa ovalis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-10-1",
+   "src": "F1-10",
+   "typ": "perspektive",
+   "q": "Welche Herzwandschicht entspricht der Lamina visceralis des Pericardium serosum?",
+   "o": [
+    "Endokard",
+    "Myokard",
+    "Pericardium fibrosum",
+    "Epikard",
+    "Lamina parietalis pericardii serosi"
+   ],
+   "a": "D",
+   "expl": "Das Pericardium serosum hat ein parietales Blatt (innen am Pericardium fibrosum) und ein viszerales Blatt, das dem Herzen direkt aufliegt und Epikard heißt.",
+   "dis": {
+    "A": "Innerste Schicht, kleidet die Herzhöhlen aus.",
+    "B": "Muskelschicht.",
+    "C": "Äußere, straffe Hülle des Herzbeutels.",
+    "E": "Kleidet das Pericardium fibrosum von innen aus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-10-2",
+   "src": "F1-10",
+   "typ": "perspektive",
+   "q": "Welche Herzwandschicht überzieht die Herzklappen?",
+   "o": [
+    "Epikard",
+    "Myokard",
+    "Pericardium fibrosum",
+    "Lamina parietalis pericardii serosi",
+    "Endokard"
+   ],
+   "a": "E",
+   "expl": "Die Klappen sind Endokardduplikaturen mit einer bindegewebigen Platte. Deshalb betrifft eine Endokarditis typischerweise die Klappen.",
+   "dis": {
+    "A": "Überzieht die Herzoberfläche außen.",
+    "B": "Klappen enthalten kein Arbeitsmyokard.",
+    "C": "Äußere Hülle des Herzbeutels.",
+    "D": "Kleidet den Herzbeutel innen aus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-11-1",
+   "src": "F1-11",
+   "typ": "perspektive",
+   "q": "Woraus besteht das Pericardium serosum?",
+   "o": [
+    "Aus einer Lamina parietalis und einer Lamina visceralis (Epikard)",
+    "Aus Pericardium fibrosum und Epikard",
+    "Aus Endokard und Myokard",
+    "Aus Pleura parietalis und visceralis",
+    "Nur aus einer Lamina parietalis"
+   ],
+   "a": "A",
+   "expl": "Das seröse Perikard ist ein geschlossener Sack aus parietalem und viszeralem Blatt. Dazwischen liegt die Perikardhöhle mit etwas seröser Flüssigkeit. Außen umhüllt das straffe Pericardium fibrosum das Ganze.",
+   "dis": {
+    "B": "Das Pericardium fibrosum ist eine eigene Schicht.",
+    "C": "Das sind Schichten der Herzwand.",
+    "D": "Das ist die Pleura.",
+    "E": "Es gibt zusätzlich die Lamina visceralis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-11-2",
+   "src": "F1-11",
+   "typ": "klinik",
+   "q": "Bei einer Herzbeuteltamponade sammelt sich Blut zwischen welchen Schichten?",
+   "o": [
+    "Zwischen Pericardium fibrosum und Pleura mediastinalis",
+    "Zwischen Lamina parietalis und Lamina visceralis des Pericardium serosum",
+    "Zwischen Myokard und Endokard",
+    "Zwischen Epikard und Myokard",
+    "Zwischen Pleura parietalis und visceralis"
+   ],
+   "a": "B",
+   "expl": "Die Perikardhöhle liegt zwischen den beiden Blättern des serösen Perikards. Weil das Pericardium fibrosum kaum dehnbar ist, behindern schon geringe Mengen Blut die diastolische Füllung (Beck-Trias: Hypotonie, gestaute Halsvenen, leise Herztöne).",
+   "dis": {
+    "A": "Dort verläuft der N. phrenicus.",
+    "C": "Kein präformierter Raum.",
+    "D": "Hier liegt subepikardiales Fett mit Koronargefäßen.",
+    "E": "Das wäre ein Hämatothorax."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-12-1",
+   "src": "F1-12",
+   "typ": "perspektive",
+   "q": "Etwa wie viel Prozent des Körpergewichts macht das Herz eines Erwachsenen aus?",
+   "o": [
+    "Etwa 5 %",
+    "Etwa 10 %",
+    "Etwa 0,5 %",
+    "Etwa 0,05 %",
+    "Etwa 2 %"
+   ],
+   "a": "C",
+   "expl": "Das Herz wiegt beim Erwachsenen etwa 300–350 g, also rund 0,5 % des Körpergewichts.",
+   "dis": {
+    "A": "Das wären bei 70 kg 3,5 kg.",
+    "B": "Viel zu viel.",
+    "D": "Das wären nur 35 g.",
+    "E": "Das wären bei 70 kg 1,4 kg."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-12-2",
+   "src": "F1-12",
+   "typ": "klinik",
+   "q": "Ab welchem Herzgewicht spricht man vom „kritischen Herzgewicht“, bei dem die Koronardurchblutung nicht mehr mit der Hypertrophie Schritt hält?",
+   "o": [
+    "Etwa 200 g",
+    "Etwa 300 g",
+    "Etwa 1000 g",
+    "Etwa 500 g",
+    "Etwa 1500 g"
+   ],
+   "a": "D",
+   "expl": "Ab etwa 500 g wächst die Kapillarisierung nicht mehr ausreichend mit, das hypertrophierte Myokard wird relativ minderdurchblutet. Das erhöht das Risiko für Ischämie und Herzinsuffizienz.",
+   "dis": {
+    "A": "Liegt unter dem Normalgewicht.",
+    "B": "Normales Herzgewicht.",
+    "C": "Weit oberhalb der kritischen Grenze.",
+    "E": "Kommt praktisch nicht vor."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-13-1",
+   "src": "F1-13",
+   "typ": "umkehrung",
+   "q": "Welche sind die beiden Taschenklappen des Herzens?",
+   "o": [
+    "Mitralklappe und Trikuspidalklappe",
+    "Mitralklappe und Aortenklappe",
+    "Trikuspidalklappe und Pulmonalklappe",
+    "Valvula venae cavae inferioris und Valvula sinus coronarii",
+    "Aortenklappe und Pulmonalklappe"
+   ],
+   "a": "E",
+   "expl": "Die Taschenklappen liegen am Ausgang der Ventrikel in Aorta und Truncus pulmonalis. Sie haben je drei halbmondförmige Taschen ohne Chordae tendineae.",
+   "dis": {
+    "A": "Das sind die Segelklappen (Lösung der Originalfrage).",
+    "B": "Eine Segel- und eine Taschenklappe.",
+    "C": "Eine Segel- und eine Taschenklappe.",
+    "D": "Rudimentäre Venenklappen im rechten Vorhof."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-13-2",
+   "src": "F1-13",
+   "typ": "perspektive",
+   "q": "In welcher Phase des Herzzyklus sind die Segelklappen geschlossen?",
+   "o": [
+    "In der Systole (Anspannungs- und Austreibungsphase)",
+    "In der Füllungsphase",
+    "Während der gesamten Diastole",
+    "Nur bei Inspiration",
+    "Ständig"
+   ],
+   "a": "A",
+   "expl": "Die Segelklappen schließen zu Beginn der Systole (1. Herzton) und bleiben in Anspannungs- und Austreibungsphase geschlossen. Die Taschenklappen schließen zu Beginn der Diastole (2. Herzton).",
+   "dis": {
+    "B": "Dann sind sie offen, Blut strömt in die Ventrikel.",
+    "C": "In der Diastole öffnen sie sich nach der Entspannungsphase.",
+    "D": "Die Klappenstellung hängt vom Herzzyklus ab, nicht von der Atmung.",
+    "E": "Dann wäre keine Ventrikelfüllung möglich."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-14-1",
+   "src": "F1-14",
+   "typ": "perspektive",
+   "q": "Aus welchem Gefäß stammt beim Rechtsversorgungstyp der R. nodi atrioventricularis?",
+   "o": [
+    "R. interventricularis anterior",
+    "A. coronaria dextra",
+    "R. circumflexus",
+    "A. thoracica interna",
+    "R. marginalis sinister"
+   ],
+   "a": "B",
+   "expl": "Der R. nodi atrioventricularis entspringt meist an der Crux cordis aus der A. coronaria dextra. Deshalb treten bei Hinterwandinfarkten häufig AV-Blockierungen auf.",
+   "dis": {
+    "A": "Versorgt Vorderwand und vorderes Septum.",
+    "C": "Gibt den AV-Knoten-Ast nur beim Linksversorgungstyp ab.",
+    "D": "Keine Koronararterie.",
+    "E": "Ast des R. circumflexus zur Seitenwand."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-14-2",
+   "src": "F1-14",
+   "typ": "klinik",
+   "q": "Welche Rhythmusstörungen sind bei einem Verschluss der A. coronaria dextra besonders typisch?",
+   "o": [
+    "Isoliertes Vorhofflimmern ohne Leitungsstörung",
+    "Sinustachykardie durch Reizung des Sinusknotens",
+    "Bradykardie und AV-Blockierungen",
+    "Gar keine, da die A. coronaria dextra keine Leitungsstrukturen versorgt",
+    "Long-QT-Syndrom"
+   ],
+   "a": "C",
+   "expl": "Die A. coronaria dextra versorgt bei den meisten Menschen Sinus- und AV-Knoten. Ein Verschluss (Hinterwandinfarkt) führt deshalb oft zu Sinusbradykardie und AV-Blockierungen.",
+   "dis": {
+    "A": "Kann auftreten, ist aber nicht typisch für die Lage der Knotenarterien.",
+    "B": "Ischämie lähmt den Sinusknoten eher.",
+    "D": "Sie versorgt meist Sinus- und AV-Knoten.",
+    "E": "Meist genetisch oder medikamentös bedingt."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-0/F2-0-1",
+   "src": "D2-0/F2-0",
+   "typ": "nachbarschaft",
+   "q": "Wo liegt der AV-Knoten?",
+   "o": [
+    "Im Sulcus terminalis",
+    "An der Herzspitze",
+    "Im muskulären Ventrikelseptum",
+    "Im Koch-Dreieck im Vorhofseptum nahe der Mündung des Sinus coronarius",
+    "Im linken Herzohr"
+   ],
+   "a": "D",
+   "expl": "Das Koch-Dreieck wird von Sehne von Todaro, Ansatz des septalen Trikuspidalsegels und Mündung des Sinus coronarius begrenzt. An seiner Spitze liegt der AV-Knoten, der in das His-Bündel übergeht.",
+   "dis": {
+    "A": "Dort liegt der Sinusknoten.",
+    "B": "Dort verzweigen sich Purkinje-Fasern.",
+    "C": "Dort verlaufen die Tawara-Schenkel.",
+    "E": "Keine Leitungsstrukturen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-0/F2-0-2",
+   "src": "D2-0/F2-0",
+   "typ": "perspektive",
+   "q": "Welche Struktur des Erregungsleitungssystems durchbricht das Herzskelett und verbindet Vorhof- und Kammererregung?",
+   "o": [
+    "Purkinje-Fasern",
+    "Tawara-Schenkel",
+    "Bachmann-Bündel",
+    "Sinusknoten",
+    "His-Bündel"
+   ],
+   "a": "E",
+   "expl": "Das His-Bündel ist die einzige normale muskuläre Verbindung zwischen Vorhöfen und Kammern. Es durchbricht das Herzskelett im Trigonum fibrosum dextrum und teilt sich in die Tawara-Schenkel.",
+   "dis": {
+    "A": "Liegen subendokardial in den Ventrikeln.",
+    "B": "Liegen distal des His-Bündels im Septum.",
+    "C": "Interatriale Leitungsbahn zum linken Vorhof.",
+    "D": "Liegt im rechten Vorhof."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-1/F2-1-1",
+   "src": "D2-1/F2-1",
+   "typ": "klinik",
+   "q": "Warum eignet sich die transösophageale Echokardiographie besonders gut zur Darstellung des linken Vorhofs (z. B. Thrombensuche im Herzohr)?",
+   "o": [
+    "Weil der linke Vorhof direkt ventral des Ösophagus liegt",
+    "Weil der Ösophagus durch den linken Vorhof zieht",
+    "Weil der linke Ventrikel hinter dem Ösophagus liegt",
+    "Weil die Aorta ascendens dorsal des Ösophagus liegt",
+    "Weil die Herzspitze nach dorsal zeigt"
+   ],
+   "a": "A",
+   "expl": "Die Schallsonde im Ösophagus liegt nur wenige Millimeter hinter dem linken Vorhof. Dadurch lassen sich linker Vorhof, Herzohr und Mitralklappe ohne störende Rippen und Lunge darstellen.",
+   "dis": {
+    "B": "Er liegt nur dahinter.",
+    "C": "Der linke Ventrikel liegt weiter vorne-links-unten.",
+    "D": "Die Aorta ascendens liegt ventral im Mediastinum.",
+    "E": "Die Spitze zeigt nach links-vorne-unten."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-1/F2-1-2",
+   "src": "D2-1/F2-1",
+   "typ": "klinik",
+   "q": "Ein stark vergrößerter linker Vorhof (z. B. bei Mitralstenose) kann eine Nachbarstruktur einengen. Welches Symptom ist dabei typisch?",
+   "o": [
+    "Hämaturie",
+    "Dysphagie durch Kompression des Ösophagus",
+    "Diarrhoe",
+    "Hyperakusis",
+    "Miosis"
+   ],
+   "a": "B",
+   "expl": "Der linke Vorhof drückt bei Vergrößerung auf den Ösophagus (Schluckbeschwerden, sichtbar im Ösophagusbreischluck). Selten wird auch der linke N. laryngeus recurrens gedehnt (Ortner-Syndrom, Heiserkeit).",
+   "dis": {
+    "A": "Betrifft die Harnwege.",
+    "C": "Kein Zusammenhang mit dem Ösophagus.",
+    "D": "Typisch für Fazialisparese (M. stapedius).",
+    "E": "Typisch für ein Horner-Syndrom."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-2/F2-2-1",
+   "src": "D2-2/F2-2",
+   "typ": "umkehrung",
+   "q": "Welche Struktur liegt im Mediastinum superius?",
+   "o": [
+    "Herz",
+    "Nodi lymphoidei parasternales",
+    "Arcus aortae",
+    "Aorta thoracica descendens unterhalb Th5",
+    "Truncus pulmonalis"
+   ],
+   "a": "C",
+   "expl": "Das obere Mediastinum reicht von der oberen Thoraxapertur bis zur Ebene Angulus sterni – Th4/5. Es enthält u. a. Thymus, Vv. brachiocephalicae, V. cava superior, Arcus aortae mit seinen Ästen, Trachea, Ösophagus und Nn. vagi und phrenici.",
+   "dis": {
+    "A": "Liegt im Mediastinum medium.",
+    "B": "Liegen im Mediastinum anterius.",
+    "D": "Liegt im Mediastinum posterius.",
+    "E": "Liegt im Mediastinum medium innerhalb des Perikards."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-2/F2-2-2",
+   "src": "D2-2/F2-2",
+   "typ": "perspektive",
+   "q": "Welche Ebene trennt das obere vom unteren Mediastinum?",
+   "o": [
+    "Die Ebene durch Incisura jugularis und Th2",
+    "Die Ebene durch Proc. xiphoideus und Th10",
+    "Das Zwerchfell",
+    "Die Ebene durch Angulus sterni und Zwischenwirbelscheibe Th4/Th5",
+    "Die Ebene durch die 1. Rippe"
+   ],
+   "a": "D",
+   "expl": "Die Ebene durch den Angulus sterni (2. Rippe) und Th4/5 markiert auch die Trachealbifurkation und den Anfang und das Ende des Aortenbogens.",
+   "dis": {
+    "A": "Liegt im oberen Mediastinum bzw. an der Apertur.",
+    "B": "Liegt im unteren Mediastinum.",
+    "C": "Begrenzt das Mediastinum nach unten.",
+    "E": "Entspricht der oberen Thoraxapertur."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-3/F2-3-1",
+   "src": "D2-3/F2-3",
+   "typ": "umkehrung",
+   "q": "Welche Venen münden direkt in den rechten Vorhof, ohne über den Sinus coronarius zu laufen?",
+   "o": [
+    "V. cardiaca magna",
+    "V. cardiaca media",
+    "V. cardiaca parva",
+    "V. obliqua atrii sinistri",
+    "Vv. cardiacae anteriores (Vv. ventriculi dextri anteriores)"
+   ],
+   "a": "E",
+   "expl": "Die Vv. cardiacae anteriores sammeln Blut von der Vorderwand des rechten Ventrikels und münden direkt in den rechten Vorhof. Die Vv. cardiacae minimae münden direkt in alle Herzhöhlen.",
+   "dis": {
+    "A": "Mündet in den Sinus coronarius.",
+    "B": "Mündet in den Sinus coronarius bzw. an dessen Mündung.",
+    "C": "Mündet in den Sinus coronarius.",
+    "D": "Mündet in den Sinus coronarius."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-3/F2-3-2",
+   "src": "D2-3/F2-3",
+   "typ": "perspektive",
+   "q": "Welche kleine Vene an der Hinterwand des linken Vorhofs ist ein Rest der embryonalen linken V. cava superior?",
+   "o": [
+    "V. obliqua atrii sinistri (Marshall)",
+    "V. cardiaca parva",
+    "V. azygos",
+    "V. hemiazygos accessoria",
+    "V. cardiaca magna"
+   ],
+   "a": "A",
+   "expl": "Die linke vordere Kardinalvene bildet sich zurück; ihr Rest ist die V. obliqua atrii sinistri. Bleibt sie offen, entsteht eine persistierende linke V. cava superior, die in den Sinus coronarius mündet.",
+   "dis": {
+    "B": "Begleitet die A. coronaria dextra.",
+    "C": "Verläuft im hinteren Mediastinum.",
+    "D": "Verläuft links im hinteren Mediastinum.",
+    "E": "Begleitet den R. interventricularis anterior."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-4/F2-4-1",
+   "src": "D2-4/F2-4",
+   "typ": "perspektive",
+   "q": "Welcher Teil des Erregungsleitungssystems verläuft in der Trabecula septomarginalis?",
+   "o": [
+    "Linker Tawara-Schenkel",
+    "Rechter Tawara-Schenkel",
+    "His-Bündel",
+    "Sinusknoten",
+    "AV-Knoten"
+   ],
+   "a": "B",
+   "expl": "Die Trabecula septomarginalis (Moderatorband) zieht im rechten Ventrikel vom Septum zum vorderen Papillarmuskel. Sie führt den rechten Tawara-Schenkel und verkürzt so den Leitungsweg.",
+   "dis": {
+    "A": "Verläuft auf der linken Septumseite.",
+    "C": "Liegt proximal am Herzskelett.",
+    "D": "Liegt im rechten Vorhof.",
+    "E": "Liegt im Koch-Dreieck."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-4/F2-4-2",
+   "src": "D2-4/F2-4",
+   "typ": "umkehrung",
+   "q": "Welche Struktur findet man typischerweise im rechten Vorhof?",
+   "o": [
+    "Trabecula septomarginalis",
+    "Conus arteriosus",
+    "Crista terminalis",
+    "Mitralklappe",
+    "Valva aortae"
+   ],
+   "a": "C",
+   "expl": "Die Crista terminalis trennt im rechten Vorhof den glatten Sinus venarum vom trabekulierten Teil mit den Mm. pectinati. Außen entspricht ihr der Sulcus terminalis mit dem Sinusknoten.",
+   "dis": {
+    "A": "Liegt im rechten Ventrikel.",
+    "B": "Ausflusstrakt des rechten Ventrikels.",
+    "D": "Liegt im linken Herzen.",
+    "E": "Liegt am Ausgang des linken Ventrikels."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-5/F2-5-1",
+   "src": "D2-5/F2-5",
+   "typ": "perspektive",
+   "q": "Welcher Herzanteil bildet im p.-a.-Röntgenbild den größten Teil des linken Herzrands?",
+   "o": [
+    "Atrium dextrum",
+    "Ventriculus dexter",
+    "V. cava superior",
+    "Ventriculus sinister",
+    "Atrium sinistrum"
+   ],
+   "a": "D",
+   "expl": "Der linke Herzrand wird von kranial nach kaudal von Aortenbogen, Truncus pulmonalis, linkem Herzohr und linkem Ventrikel gebildet. Der rechte Rand von V. cava superior und rechtem Vorhof.",
+   "dis": {
+    "A": "Bildet den rechten Herzrand.",
+    "B": "Ist im p.-a.-Bild nicht randbildend.",
+    "C": "Bildet den oberen rechten Gefäßrand.",
+    "E": "Ist nur mit dem Herzohr randbildend."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-5/F2-5-2",
+   "src": "D2-5/F2-5",
+   "typ": "nachbarschaft",
+   "q": "Welche Furche trennt auf der Facies sternocostalis den rechten vom linken Ventrikel?",
+   "o": [
+    "Sulcus coronarius",
+    "Sulcus terminalis",
+    "Sulcus interventricularis posterior",
+    "Crista terminalis",
+    "Sulcus interventricularis anterior"
+   ],
+   "a": "E",
+   "expl": "Im Sulcus interventricularis anterior verlaufen R. interventricularis anterior und V. cardiaca magna. Rechts davon liegt der rechte Ventrikel, der den größten Teil der Vorderfläche bildet.",
+   "dis": {
+    "A": "Trennt Vorhöfe und Kammern.",
+    "B": "Liegt am rechten Vorhof.",
+    "C": "Liegt an der Facies diaphragmatica.",
+    "D": "Leiste im Inneren des rechten Vorhofs."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-5-1",
+   "src": "F1-5",
+   "typ": "perspektive",
+   "q": "Welcher Herzanteil bildet im p.-a.-Röntgenbild den rechten Herzrand?",
+   "o": [
+    "Atrium dextrum",
+    "Ventriculus dexter",
+    "Atrium sinistrum",
+    "Ventriculus sinister",
+    "Truncus pulmonalis"
+   ],
+   "a": "A",
+   "expl": "Rechts sind V. cava superior und darunter der rechte Vorhof randbildend. Der rechte Ventrikel liegt hinter dem Sternum und ist im p.-a.-Bild nicht randbildend.",
+   "dis": {
+    "B": "Liegt vorne, ist aber nicht randbildend.",
+    "C": "Liegt dorsal.",
+    "D": "Bildet den linken Herzrand.",
+    "E": "Bildet einen Bogen am linken Rand."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-5-2",
+   "src": "F1-5",
+   "typ": "klinik",
+   "q": "An welcher Stelle wird die klassische Perikardpunktion nach Larrey durchgeführt?",
+   "o": [
+    "Im 2. ICR rechts parasternal",
+    "Im Winkel zwischen Proc. xiphoideus und linkem Rippenbogen",
+    "Im 5. ICR in der mittleren Axillarlinie",
+    "In der Fossa jugularis",
+    "Im 2. ICR in der Medioklavikularlinie"
+   ],
+   "a": "B",
+   "expl": "Unterhalb des Proc. xiphoideus erreicht man die Perikardhöhle, ohne Pleura und Lunge zu durchstechen. Die Nadel wird Richtung linke Schulter vorgeschoben.",
+   "dis": {
+    "A": "Auskultationsort der Aortenklappe.",
+    "C": "Typischer Ort einer Thoraxdrainage (Bülau).",
+    "D": "Zugang zur Trachea (Koniotomie liegt höher).",
+    "E": "Ort der Pleurapunktion nach Monaldi."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-6/F2-6-1",
+   "src": "D2-6/F2-6",
+   "typ": "nachbarschaft",
+   "q": "Zwischen welchen Strukturen liegt der Sinus transversus pericardii?",
+   "o": [
+    "Zwischen den Vv. pulmonales",
+    "Zwischen Pericardium fibrosum und Pleura",
+    "Zwischen Aorta und Truncus pulmonalis (vorne) und Vorhöfen bzw. V. cava superior (hinten)",
+    "Zwischen Myokard und Epikard",
+    "Zwischen Ösophagus und Aorta descendens"
+   ],
+   "a": "C",
+   "expl": "Der Sinus transversus entsteht, weil arterielle und venöse Pforte des Herzens getrennt vom Perikard umschlagen werden. Er verbindet beide Seiten der Perikardhöhle hinter den großen Arterien.",
+   "dis": {
+    "A": "Dort liegt der Sinus obliquus.",
+    "B": "Kein Teil der Perikardhöhle.",
+    "D": "Kein präformierter Raum.",
+    "E": "Liegt im hinteren Mediastinum."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-6/F2-6-2",
+   "src": "D2-6/F2-6",
+   "typ": "nachbarschaft",
+   "q": "Welcher Nerv verläuft zwischen Pericardium fibrosum und Pleura mediastinalis?",
+   "o": [
+    "N. vagus",
+    "Truncus sympathicus",
+    "N. laryngeus recurrens",
+    "N. phrenicus",
+    "Nn. intercostales"
+   ],
+   "a": "D",
+   "expl": "Der N. phrenicus zieht mit den Vasa pericardiacophrenica vor der Lungenwurzel zwischen Perikard und Pleura mediastinalis zum Zwerchfell. Er liegt nicht zwischen den Perikardschichten.",
+   "dis": {
+    "A": "Verläuft hinter der Lungenwurzel.",
+    "B": "Liegt paravertebral auf den Rippenköpfchen.",
+    "C": "Steigt zwischen Trachea und Ösophagus auf.",
+    "E": "Verlaufen in den Interkostalräumen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-7-1",
+   "src": "F2-7",
+   "typ": "perspektive",
+   "q": "Welcher Ast entspringt als erster (am weitesten rechts) aus dem Arcus aortae?",
+   "o": [
+    "A. carotis communis sinistra",
+    "A. subclavia sinistra",
+    "A. vertebralis",
+    "A. coronaria dextra",
+    "Truncus brachiocephalicus"
+   ],
+   "a": "E",
+   "expl": "Aus dem Aortenbogen gehen von rechts nach links Truncus brachiocephalicus, A. carotis communis sinistra und A. subclavia sinistra ab. Der Truncus teilt sich hinter dem rechten Sternoklavikulargelenk.",
+   "dis": {
+    "A": "Zweiter Ast.",
+    "B": "Dritter Ast.",
+    "C": "Ast der A. subclavia.",
+    "D": "Entspringt aus der Aortenwurzel (Sinus aortae)."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-7-2",
+   "src": "F2-7",
+   "typ": "nachbarschaft",
+   "q": "Welche Struktur verbindet den Arcus aortae mit der A. pulmonalis sinistra?",
+   "o": [
+    "Lig. arteriosum",
+    "Lig. venosum",
+    "Lig. teres hepatis",
+    "Lig. pulmonale",
+    "Chorda tendinea"
+   ],
+   "a": "A",
+   "expl": "Das Lig. arteriosum ist der Rest des Ductus arteriosus (Botalli), der pränatal Blut aus dem Truncus pulmonalis in die Aorta umleitete. Der linke N. laryngeus recurrens schlingt sich lateral davon um den Aortenbogen.",
+   "dis": {
+    "B": "Rest des Ductus venosus an der Leber.",
+    "C": "Rest der V. umbilicalis.",
+    "D": "Pleurafalte unterhalb der Lungenwurzel.",
+    "E": "Sehnenfaden der Segelklappen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-7/F2-8-1",
+   "src": "D2-7/F2-8",
+   "typ": "bild",
+   "q": "Zwischen welchen Herzräumen liegt die in der Abbildung mit C markierte Klappe?",
+   "o": [
+    "Zwischen rechtem Vorhof und rechtem Ventrikel",
+    "Zwischen linkem Vorhof und linkem Ventrikel",
+    "Zwischen linkem Ventrikel und Aorta",
+    "Zwischen rechtem Ventrikel und Truncus pulmonalis",
+    "Zwischen linkem und rechtem Vorhof"
+   ],
+   "a": "B",
+   "expl": "C markiert die Valva mitralis. Sie trennt linken Vorhof und linken Ventrikel und ist im Anulus fibrosus sinister verankert.",
+   "dis": {
+    "A": "Lage der Trikuspidalklappe.",
+    "C": "Lage der Aortenklappe.",
+    "D": "Lage der Pulmonalklappe.",
+    "E": "Dort liegt das Vorhofseptum mit der Fossa ovalis."
+   },
+   "merk": "",
+   "img": "img/i7.jpg"
+  },
+  {
+   "id": "V-D2-7/F2-8-2",
+   "src": "D2-7/F2-8",
+   "typ": "bild",
+   "q": "Was passiert bei einer Insuffizienz der in der Abbildung mit C markierten Klappe?",
+   "o": [
+    "Blut fließt in den rechten Vorhof zurück.",
+    "Blut fließt in der Diastole aus der Aorta in den Ventrikel zurück.",
+    "Blut fließt in der Systole zurück in den linken Vorhof (Stauung in die Lunge).",
+    "Es entsteht ein Links-rechts-Shunt auf Vorhofebene.",
+    "Blut staut sich in die V. cava inferior."
+   ],
+   "a": "C",
+   "expl": "Bei Mitralinsuffizienz pendelt in jeder Systole Blut in den linken Vorhof zurück. Der Vorhof wird groß, der Druck staut sich in die Lungenvenen zurück (Dyspnoe, Lungenödem).",
+   "dis": {
+    "A": "Das wäre eine Trikuspidalinsuffizienz.",
+    "B": "Das wäre eine Aorteninsuffizienz.",
+    "D": "Das wäre ein Vorhofseptumdefekt.",
+    "E": "Folge einer Rechtsherzinsuffizienz."
+   },
+   "merk": "",
+   "img": "img/i7.jpg"
+  },
+  {
+   "id": "V-D2-8/F2-9-1",
+   "src": "D2-8/F2-9",
+   "typ": "nachbarschaft",
+   "q": "An der Einmündung welches Gefäßes in den rechten Vorhof liegt der Sinusknoten?",
+   "o": [
+    "V. cava inferior",
+    "Sinus coronarius",
+    "Vv. pulmonales",
+    "V. cava superior",
+    "Aorta"
+   ],
+   "a": "D",
+   "expl": "Der Sinusknoten liegt subepikardial im Sulcus terminalis an der Mündung der V. cava superior. Er wird vom R. nodi sinuatrialis versorgt, meist aus der A. coronaria dextra.",
+   "dis": {
+    "A": "Mündet unten in den rechten Vorhof.",
+    "B": "Nahe dem AV-Knoten.",
+    "C": "Münden in den linken Vorhof.",
+    "E": "Entspringt aus dem linken Ventrikel."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-8/F2-9-2",
+   "src": "D2-8/F2-9",
+   "typ": "perspektive",
+   "q": "Mit welcher Frequenz bildet der Sinusknoten in Ruhe etwa Erregungen?",
+   "o": [
+    "40–50/min",
+    "20–40/min",
+    "120–150/min",
+    "5–10/min",
+    "60–80/min"
+   ],
+   "a": "E",
+   "expl": "Der Sinusknoten hat die höchste Spontanfrequenz und gibt deshalb den Takt vor. Fällt er aus, übernehmen AV-Knoten (40–50/min) oder Kammer (20–40/min).",
+   "dis": {
+    "A": "Eigenfrequenz des AV-Knotens.",
+    "B": "Eigenfrequenz der Kammerersatzrhythmen.",
+    "C": "Tachykardie.",
+    "D": "Kein physiologischer Herzrhythmus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-9/F2-10-1",
+   "src": "D2-9/F2-10",
+   "typ": "umkehrung",
+   "q": "Welche Funktion hat das Herzskelett nicht?",
+   "o": [
+    "Aktive Erregungsbildung",
+    "Elektrische Isolierung von Vorhof- und Kammermyokard",
+    "Verankerung der Herzklappen",
+    "Ursprung und Ansatz der Arbeitsmuskulatur",
+    "Stabilisierung der Klappenostien"
+   ],
+   "a": "A",
+   "expl": "Das Herzskelett ist eine Platte aus straffem Bindegewebe. Es trägt die Klappen, gibt dem Myokard Halt und isoliert Vorhöfe und Kammern elektrisch. Erregungen bildet es nicht.",
+   "dis": {
+    "B": "Wichtige Funktion des Herzskeletts.",
+    "C": "Die Klappen sind in den Anuli fibrosi befestigt.",
+    "D": "Das Myokard ist am Herzskelett verankert.",
+    "E": "Die Faserringe halten die Ostien offen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-9/F2-10-2",
+   "src": "D2-9/F2-10",
+   "typ": "perspektive",
+   "q": "Welche Funktion hatte die Valvula venae cavae inferioris (Eustachius) vor der Geburt?",
+   "o": [
+    "Sie lenkte das Blut in den rechten Ventrikel.",
+    "Sie lenkte das Blut der V. cava inferior durch das Foramen ovale in den linken Vorhof.",
+    "Sie leitete das Blut in den Sinus coronarius.",
+    "Sie verschloss den Ductus arteriosus.",
+    "Sie leitete das Blut direkt in die Lunge."
+   ],
+   "a": "B",
+   "expl": "Das sauerstoffreiche Blut aus der Plazenta kam über die V. cava inferior. Die Eustachi-Klappe lenkte es zum Foramen ovale, sodass es direkt ins linke Herz und zum Gehirn gelangte. Beim Erwachsenen ist sie rudimentär und gehört nicht zum Herzskelett.",
+   "dis": {
+    "A": "Das wurde gerade vermieden.",
+    "C": "Kein Zusammenhang.",
+    "D": "Liegt zwischen Truncus pulmonalis und Aorta.",
+    "E": "Die Lunge wurde pränatal kaum durchblutet."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-10/F2-11-1",
+   "src": "D2-10/F2-11",
+   "typ": "bild",
+   "q": "Welche Gefäße münden in den in der Abbildung mit C markierten Herzraum?",
+   "o": [
+    "V. cava superior und inferior",
+    "Sinus coronarius",
+    "Vv. pulmonales",
+    "Aa. pulmonales",
+    "Aorta"
+   ],
+   "a": "C",
+   "expl": "C markiert das Atrium sinistrum. In der Abbildung sieht man die hellen Vv. pulmonales von beiden Lungenhili zum linken Vorhof ziehen.",
+   "dis": {
+    "A": "Münden in den rechten Vorhof.",
+    "B": "Mündet in den rechten Vorhof.",
+    "D": "Entspringen aus dem Truncus pulmonalis.",
+    "E": "Entspringt aus dem linken Ventrikel."
+   },
+   "merk": "",
+   "img": "img/i8.jpg"
+  },
+  {
+   "id": "V-D2-10/F2-11-2",
+   "src": "D2-10/F2-11",
+   "typ": "bild",
+   "q": "Durch welche Klappe verlässt das Blut den in der Abbildung mit C markierten Herzraum?",
+   "o": [
+    "Valva tricuspidalis",
+    "Valva aortae",
+    "Valva trunci pulmonalis",
+    "Valva mitralis",
+    "Valvula foraminis ovalis"
+   ],
+   "a": "D",
+   "expl": "Aus dem linken Vorhof fließt das Blut in der Diastole durch die Mitralklappe in den linken Ventrikel.",
+   "dis": {
+    "A": "Rechtes Herz.",
+    "B": "Ausgang des linken Ventrikels.",
+    "C": "Ausgang des rechten Ventrikels.",
+    "E": "Postnatal verschlossen."
+   },
+   "merk": "",
+   "img": "img/i8.jpg"
+  },
+  {
+   "id": "V-D2-11/F2-12-1",
+   "src": "D2-11/F2-12",
+   "typ": "nachbarschaft",
+   "q": "Wo durchbricht das His-Bündel das Herzskelett?",
+   "o": [
+    "Im Trigonum fibrosum sinistrum",
+    "Im Faserring der Pulmonalklappe",
+    "An der Herzspitze",
+    "Im Conus arteriosus",
+    "Im Trigonum fibrosum dextrum"
+   ],
+   "a": "E",
+   "expl": "Das Trigonum fibrosum dextrum (Corpus fibrosum centrale) verbindet Mitral-, Trikuspidal- und Aortenring. Durch es zieht das His-Bündel in die Kammerscheidewand.",
+   "dis": {
+    "A": "Linkes Faserdreieck zwischen Aorten- und Mitralring.",
+    "B": "Liegt ventral, ohne Leitungsbahn.",
+    "C": "Kein Herzskelett dort.",
+    "D": "Muskulärer Ausflusstrakt des rechten Ventrikels."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-11/F2-12-2",
+   "src": "D2-11/F2-12",
+   "typ": "perspektive",
+   "q": "Welche Aussage zum Herzskelett trifft zu?",
+   "o": [
+    "Es besteht aus straffem kollagenem Bindegewebe.",
+    "Es besteht beim Menschen aus hyalinem Knorpel.",
+    "Es leitet die Erregung von den Vorhöfen auf die Kammern.",
+    "Es liegt an der Herzspitze.",
+    "Es umgibt nur die Taschenklappen."
+   ],
+   "a": "A",
+   "expl": "Das Herzskelett liegt in der Ventilebene und besteht aus Anuli fibrosi und Trigona fibrosa aus straffem Bindegewebe. Es trennt die Muskulatur von Vorhöfen und Kammern.",
+   "dis": {
+    "B": "Knorpel oder Knochen kommt nur bei manchen Tieren vor (z. B. Os cordis beim Rind).",
+    "C": "Es isoliert; geleitet wird nur über das His-Bündel.",
+    "D": "Es liegt in der Ventilebene.",
+    "E": "Es umgibt alle vier Klappen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-12/F2-13-1",
+   "src": "D2-12/F2-13",
+   "typ": "nachbarschaft",
+   "q": "Wodurch wird der Sinus obliquus pericardii begrenzt?",
+   "o": [
+    "Durch Aorta und Truncus pulmonalis",
+    "Durch die Umschlagfalten des Perikards um die Vv. pulmonales und die V. cava inferior",
+    "Durch V. cava superior und Aorta",
+    "Durch die Herzspitze",
+    "Durch die beiden Herzohren"
+   ],
+   "a": "B",
+   "expl": "Der Sinus obliquus ist eine blind endende Bucht hinter dem linken Vorhof. Er liegt zwischen den Perikardumschlägen um die vier Lungenvenen und die V. cava inferior.",
+   "dis": {
+    "A": "Begrenzen den Sinus transversus vorne.",
+    "C": "Teil der Umschlagfalten, aber nicht des Sinus obliquus.",
+    "D": "Liegt ventral-kaudal.",
+    "E": "Liegen ventral neben den großen Arterien."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-12/F2-13-2",
+   "src": "D2-12/F2-13",
+   "typ": "klinik",
+   "q": "Bei einer Herzoperation soll ein Band hinter Aorta und Truncus pulmonalis hindurchgeführt werden. Durch welchen Raum wird es geführt?",
+   "o": [
+    "Sinus obliquus pericardii",
+    "Recessus costodiaphragmaticus",
+    "Sinus transversus pericardii",
+    "Spatium retrosternale",
+    "Fossa ovalis"
+   ],
+   "a": "C",
+   "expl": "Der Sinus transversus liegt direkt hinter Aorta und Truncus pulmonalis. Durch ihn kann der Chirurg beide Gefäße umfahren und abklemmen, z. B. für die Herz-Lungen-Maschine.",
+   "dis": {
+    "A": "Blind endend hinter dem linken Vorhof.",
+    "B": "Pleuraraum.",
+    "D": "Liegt vor dem Perikard.",
+    "E": "Liegt im Vorhofseptum."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-13/F2-14-1",
+   "src": "D2-13/F2-14",
+   "typ": "umkehrung",
+   "q": "Welche Klappe wird vom Anulus fibrosus sinister umrahmt?",
+   "o": [
+    "Trikuspidalklappe",
+    "Aortenklappe",
+    "Pulmonalklappe",
+    "Mitralklappe",
+    "Valvula venae cavae inferioris"
+   ],
+   "a": "D",
+   "expl": "Die Anuli fibrosi dexter und sinister umrahmen die Atrioventrikularklappen. Aorten- und Pulmonalklappe haben eigene Faserringe.",
+   "dis": {
+    "A": "Wird vom Anulus fibrosus dexter umrahmt.",
+    "B": "Hat einen eigenen Faserring (Anulus aorticus).",
+    "C": "Hat einen eigenen Faserring.",
+    "E": "Liegt im rechten Vorhof, nicht im Herzskelett."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-13/F2-14-2",
+   "src": "D2-13/F2-14",
+   "typ": "nachbarschaft",
+   "q": "Welche Herzklappe liegt am weitesten ventral und kranial?",
+   "o": [
+    "Aortenklappe",
+    "Mitralklappe",
+    "Trikuspidalklappe",
+    "Valvula sinus coronarii",
+    "Pulmonalklappe"
+   ],
+   "a": "E",
+   "expl": "Die Pulmonalklappe liegt am weitesten vorne-oben in Höhe des 3. Sternokostalgelenks links. Dahinter folgen Aortenklappe, Mitralklappe und Trikuspidalklappe.",
+   "dis": {
+    "A": "Liegt hinter und rechts der Pulmonalklappe.",
+    "B": "Liegt am weitesten dorsal.",
+    "C": "Liegt rechts kaudal.",
+    "D": "Liegt dorsal im rechten Vorhof."
+   },
+   "merk": "",
+   "img": null
+  }
+ ]
+}
