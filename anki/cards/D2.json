@@ -2209,6 +2209,558 @@
    },
    "merk": "„1½ Muskeln“: FCU und halber FDP für den N. ulnaris.",
    "img": "img/i142.jpg"
+  },
+  {
+   "id": "V-SD2-49-1",
+   "src": "SD2-49",
+   "typ": "nachbarschaft",
+   "q": "Welcher Nerv verläuft unter dem M. gluteus maximus etwa in der Mitte zwischen Tuber ischiadicum und Trochanter major nach distal?",
+   "o": [
+    "N. gluteus superior",
+    "N. pudendus",
+    "N. obturatorius",
+    "N. ischiadicus",
+    "N. femoralis"
+   ],
+   "a": "D",
+   "expl": "Der N. ischiadicus verlässt das Becken durch das Foramen infrapiriforme und zieht unter dem M. gluteus maximus zwischen Tuber ischiadicum und Trochanter major zur Oberschenkelrückseite. Deshalb ist der untere innere Gesäßquadrant für Injektionen gefährlich.",
+   "dis": {
+    "A": "Zieht oberhalb des M. piriformis zwischen M. gluteus medius und minimus nach lateral.",
+    "B": "Biegt sofort um die Spina ischiadica in die Fossa ischioanalis.",
+    "C": "Verläuft an der Beckenwand zum Canalis obturatorius.",
+    "E": "Zieht ventral unter dem Leistenband."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-49-2",
+   "src": "SD2-49",
+   "typ": "klinik",
+   "q": "Welcher Gesäßquadrant gilt bei der klassischen dorsoglutealen Injektion als am wenigsten gefährlich?",
+   "o": [
+    "Oberer äußerer Quadrant",
+    "Oberer innerer Quadrant",
+    "Unterer innerer Quadrant",
+    "Unterer äußerer Quadrant",
+    "Mitte des Gesäßes"
+   ],
+   "a": "A",
+   "expl": "Im oberen äußeren Quadranten liegen keine großen Nerven und Gefäße. Im unteren inneren Quadranten verläuft der N. ischiadicus, im oberen inneren treten Vasa und N. glutea superiora aus. Heute wird die ventrogluteale Technik nach von Hochstetter bevorzugt.",
+   "dis": {
+    "B": "Hier treten Vasa glutea superiora und N. gluteus superior aus dem Foramen suprapiriforme.",
+    "C": "Hier verläuft der N. ischiadicus.",
+    "D": "Nahe am Verlauf des N. ischiadicus zum Oberschenkel.",
+    "E": "Nahe am Foramen infrapiriforme."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-50-1",
+   "src": "SD2-50",
+   "typ": "perspektive",
+   "q": "In welche Endäste teilt sich der N. tibialis im Tarsaltunnel?",
+   "o": [
+    "Nn. plantares medialis und lateralis",
+    "N. fibularis superficialis und N. fibularis profundus",
+    "N. suralis und N. cutaneus dorsalis lateralis",
+    "N. saphenus und N. cutaneus surae medialis",
+    "Nn. digitales dorsales pedis"
+   ],
+   "a": "A",
+   "expl": "Unter dem Retinaculum musculorum flexorum teilt sich der N. tibialis in N. plantaris medialis und lateralis. Sie innervieren die kurzen Fußsohlenmuskeln und die Haut der Fußsohle einschließlich der plantaren Zehenflächen. Daher kommen die Sensibilitätsstörungen bei Druck hinter dem Malleolus medialis.",
+   "dis": {
+    "B": "Endäste des N. fibularis communis.",
+    "C": "Der N. suralis setzt sich als N. cutaneus dorsalis lateralis fort; beide sind keine Tibialis-Endäste.",
+    "D": "Der N. saphenus stammt aus dem N. femoralis.",
+    "E": "Stammen überwiegend aus den Nn. fibulares."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-50-2",
+   "src": "SD2-50",
+   "typ": "umkehrung",
+   "q": "Ein Gipsverband drückt am Collum fibulae auf den dort verlaufenden Nerv. Wo sind Sensibilitätsstörungen am ehesten zu erwarten?",
+   "o": [
+    "Auf der Fußsohle",
+    "Über der Ferse",
+    "Am medialen Fußrand und Innenknöchel",
+    "Auf dem Fußrücken einschließlich des Zwischenraums zwischen 1. und 2. Zehe sowie lateral am Unterschenkel",
+    "An der Oberschenkelinnenseite"
+   ],
+   "a": "D",
+   "expl": "Am Collum fibulae liegt der N. fibularis communis. Fällt er aus, betrifft das beide Endäste: den N. fibularis superficialis (Fußrücken, lateraler Unterschenkel) und den N. fibularis profundus (Zwischenraum 1./2. Zehe). Motorisch entstehen Fußheberschwäche und Steppergang.",
+   "dis": {
+    "A": "Nn. plantares (N. tibialis) – typisch bei Druck hinter dem Malleolus medialis.",
+    "B": "Rr. calcanei des N. tibialis.",
+    "C": "N. saphenus.",
+    "E": "N. obturatorius."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-51-1",
+   "src": "SD2-51",
+   "typ": "klinik",
+   "q": "Nach einer fehlerhaften Injektion ist bei einem Patienten die Hüftstreckung gegen Widerstand deutlich geschwächt, die Kniestreckung ist normal und das Becken bleibt im Einbeinstand horizontal. Welcher Nerv ist am ehesten geschädigt?",
+   "o": [
+    "N. gluteus superior",
+    "N. gluteus inferior",
+    "N. femoralis",
+    "N. obturatorius",
+    "N. pudendus"
+   ],
+   "a": "B",
+   "expl": "Der N. gluteus inferior innerviert den M. gluteus maximus, den kräftigsten Hüftstrecker. Sein Ausfall erschwert Treppensteigen, Aufstehen und Springen. Das Becken bleibt im Einbeinstand stabil, weil die kleinen Glutealmuskeln intakt sind.",
+   "dis": {
+    "A": "Ausfall → Trendelenburg-Zeichen (Becken sinkt ab).",
+    "C": "Ausfall → Schwäche der Kniestreckung.",
+    "D": "Ausfall → Adduktionsschwäche.",
+    "E": "Ausfall → Sphinkter- und Sensibilitätsstörungen am Damm."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-51-2",
+   "src": "SD2-51",
+   "typ": "perspektive",
+   "q": "Bei einem Ausfall der kleinen Glutealmuskeln kompensieren manche Patienten das Absinken des Beckens beim Gehen durch Verlagerung des Oberkörpers (Duchenne-Hinken). Wohin wird der Oberkörper geneigt?",
+   "o": [
+    "Zur Standbeinseite, also zur betroffenen Seite",
+    "Zur Spielbeinseite",
+    "Nach vorne",
+    "Nach hinten",
+    "Gar nicht; der Patient hebt das Spielbein höher"
+   ],
+   "a": "A",
+   "expl": "Durch Neigung des Oberkörpers zur betroffenen Standbeinseite verlagert sich der Schwerpunkt über das Hüftgelenk. Dadurch wird der Hebelarm kleiner, und die geschwächten Abduktoren müssen weniger leisten. Ohne Kompensation sinkt das Becken zur Spielbeinseite ab (Trendelenburg).",
+   "dis": {
+    "B": "Das würde den Hebelarm vergrößern und das Absinken verstärken.",
+    "C": "Kompensiert eher einen Ausfall der Hüftstrecker nicht in der Frontalebene.",
+    "D": "Typisch für den Ausfall des M. gluteus maximus (Rumpf nach hinten).",
+    "E": "Höheres Anheben des Spielbeins ist typisch für den Steppergang bei Fibularisparese."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-52-1",
+   "src": "SD2-52",
+   "typ": "nachbarschaft",
+   "q": "Wo wird der Puls der A. dorsalis pedis am Fußrücken typischerweise getastet?",
+   "o": [
+    "Medial der Sehne des M. tibialis anterior",
+    "Hinter dem Malleolus medialis",
+    "Lateral der Sehne des M. fibularis brevis",
+    "Auf der Fußsohle",
+    "Lateral der Sehne des M. extensor hallucis longus"
+   ],
+   "a": "E",
+   "expl": "Die A. dorsalis pedis setzt die A. tibialis anterior am Fußrücken fort. Sie ist zwischen der Sehne des M. extensor hallucis longus (medial) und der Sehne des M. extensor digitorum longus (lateral) tastbar.",
+   "dis": {
+    "A": "Dort liegt keine größere Arterie.",
+    "B": "Dort tastet man die A. tibialis posterior.",
+    "C": "Laterale Fußkante, keine tastbare Hauptarterie.",
+    "D": "Plantar verlaufen die Aa. plantares, nicht tastbar."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-52-2",
+   "src": "SD2-52",
+   "typ": "perspektive",
+   "q": "Die A. dorsalis pedis ist die direkte Fortsetzung welcher Arterie?",
+   "o": [
+    "A. tibialis posterior",
+    "A. fibularis",
+    "A. tibialis anterior",
+    "A. poplitea",
+    "A. plantaris medialis"
+   ],
+   "a": "C",
+   "expl": "Die A. tibialis anterior durchbricht die Membrana interossea, zieht in der Extensorenloge nach distal und heißt nach dem Retinaculum musculorum extensorum A. dorsalis pedis.",
+   "dis": {
+    "A": "Setzt sich hinter dem Malleolus medialis in die Aa. plantares fort.",
+    "B": "Ast der A. tibialis posterior an der Fibula.",
+    "D": "Teilt sich in A. tibialis anterior und posterior.",
+    "E": "Endast der A. tibialis posterior."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-53-1",
+   "src": "SD2-53",
+   "typ": "nachbarschaft",
+   "q": "Welche Leitungsbahn liegt in der Fossa poplitea am weitesten oberflächlich (dorsal)?",
+   "o": [
+    "A. poplitea",
+    "V. poplitea",
+    "N. tibialis",
+    "Kapsel des Kniegelenks",
+    "M. popliteus"
+   ],
+   "a": "C",
+   "expl": "In der Kniekehle liegen von oberflächlich nach tief: N. tibialis, V. poplitea, A. poplitea. Die Arterie liegt direkt auf Femur und Gelenkkapsel und ist deshalb bei suprakondylären Frakturen gefährdet.",
+   "dis": {
+    "A": "Liegt am tiefsten, direkt auf dem Knochen.",
+    "B": "Liegt zwischen Nerv und Arterie.",
+    "D": "Bildet den Boden der Fossa poplitea.",
+    "E": "Liegt im Boden der Fossa poplitea unterhalb des Gelenks."
+   },
+   "merk": "Von hinten nach vorne: „NIVEA“ – Nerv, Vene, Arterie.",
+   "img": null
+  },
+  {
+   "id": "V-SD2-53-2",
+   "src": "SD2-53",
+   "typ": "klinik",
+   "q": "Eine prall-elastische Schwellung in der Kniekehle (Baker-Zyste) geht meist von einer Bursa zwischen dem Caput mediale m. gastrocnemii und welchem anderen Muskel aus?",
+   "o": [
+    "M. biceps femoris",
+    "M. popliteus",
+    "M. sartorius",
+    "M. semimembranosus",
+    "M. plantaris"
+   ],
+   "a": "D",
+   "expl": "Die Baker-Zyste entsteht aus der Bursa m. semimembranosi bzw. der Bursa subtendinea m. gastrocnemii medialis. Sie kommuniziert oft mit der Gelenkhöhle und füllt sich bei Kniegelenkergüssen.",
+   "dis": {
+    "A": "Begrenzt die Fossa poplitea lateral.",
+    "B": "Liegt in der Tiefe des Bodens der Kniekehle.",
+    "C": "Liegt medial am Knie, außerhalb der Fossa poplitea.",
+    "E": "Kleiner lateraler Muskel."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-54-1",
+   "src": "SD2-54",
+   "typ": "umkehrung",
+   "q": "Welche Strukturen verlaufen durch den Canalis adductorius?",
+   "o": [
+    "A. und V. femoralis sowie N. saphenus",
+    "N. obturatorius und A. obturatoria",
+    "N. ischiadicus",
+    "V. saphena magna und N. saphenus",
+    "A. profunda femoris und N. femoralis"
+   ],
+   "a": "A",
+   "expl": "Durch den Adduktorenkanal ziehen A. und V. femoralis und der N. saphenus (mit der A. descendens genus). Die Gefäße treten durch den Hiatus adductorius in die Kniekehle; der N. saphenus durchbricht die Membrana vastoadductoria nach vorne.",
+   "dis": {
+    "B": "Ziehen durch den Canalis obturatorius in die Adduktorenloge (Lösung der Originalfrage).",
+    "C": "Verläuft an der Oberschenkelrückseite.",
+    "D": "Die V. saphena magna verläuft epifaszial.",
+    "E": "Die A. profunda femoris zieht dorsal zu den Aa. perforantes; der N. femoralis teilt sich schon im Trigonum femorale."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-54-2",
+   "src": "SD2-54",
+   "typ": "nachbarschaft",
+   "q": "Welche Struktur bildet die ventrale Wand (das Dach) des Canalis adductorius?",
+   "o": [
+    "Lig. inguinale",
+    "Fascia lata allein",
+    "Septum intermusculare femoris laterale",
+    "Tractus iliotibialis",
+    "Membrana vastoadductoria"
+   ],
+   "a": "E",
+   "expl": "Der Adduktorenkanal liegt zwischen M. vastus medialis (lateral) und M. adductor longus bzw. magnus (dorsal). Sein Dach bildet die Membrana vastoadductoria, die vom M. sartorius bedeckt ist.",
+   "dis": {
+    "A": "Begrenzt das Trigonum femorale kranial.",
+    "B": "Liegt oberflächlicher, bildet nicht die eigentliche Wand.",
+    "C": "Trennt Extensoren und Flexoren auf der lateralen Seite.",
+    "D": "Liegt lateral am Oberschenkel."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-55-1",
+   "src": "SD2-55",
+   "typ": "umkehrung",
+   "q": "Welche Struktur liegt in der Lacuna vasorum am weitesten lateral?",
+   "o": [
+    "A. femoralis",
+    "V. femoralis",
+    "R. femoralis n. genitofemoralis",
+    "Rosenmüller-Lymphknoten",
+    "N. femoralis"
+   ],
+   "a": "C",
+   "expl": "In der Lacuna vasorum liegen von lateral nach medial: R. femoralis n. genitofemoralis, A. femoralis, V. femoralis und Lymphgefäße mit dem Rosenmüller-Lymphknoten (Anulus femoralis).",
+   "dis": {
+    "A": "Liegt medial des R. femoralis.",
+    "B": "Liegt medial der Arterie.",
+    "D": "Liegt am weitesten medial im Anulus femoralis.",
+    "E": "Liegt in der Lacuna musculorum, nicht in der Lacuna vasorum."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-55-2",
+   "src": "SD2-55",
+   "typ": "perspektive",
+   "q": "Welcher Lymphknoten liegt im Anulus femoralis am medialen Ende der Lacuna vasorum?",
+   "o": [
+    "Virchow-Lymphknoten",
+    "Rosenmüller-Lymphknoten",
+    "Nodi lymphoidei inguinales superficiales",
+    "Nodi lymphoidei iliaci interni",
+    "Nodi lymphoidei poplitei"
+   ],
+   "a": "B",
+   "expl": "Der Rosenmüller-Lymphknoten (oberster tiefer Leistenlymphknoten) verschließt den Anulus femoralis. An dieser Stelle tritt die Schenkelhernie aus.",
+   "dis": {
+    "A": "Liegt supraklavikulär links (Magenkarzinom-Metastase).",
+    "C": "Liegen epifaszial unterhalb des Leistenbands.",
+    "D": "Liegen im Becken.",
+    "E": "Liegen in der Kniekehle."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-56-1",
+   "src": "SD2-56",
+   "typ": "perspektive",
+   "q": "Welcher Muskel setzt an der Sehne des M. flexor digitorum longus an und korrigiert deren schrägen Zug?",
+   "o": [
+    "M. flexor digitorum brevis",
+    "M. abductor hallucis",
+    "Mm. interossei plantares",
+    "M. extensor digitorum brevis",
+    "M. quadratus plantae"
+   ],
+   "a": "E",
+   "expl": "Der M. quadratus plantae entspringt am Calcaneus und setzt am lateralen Rand der Sehne des M. flexor digitorum longus an. Er richtet den schrägen Zug der Sehne in die Längsachse des Fußes aus. Im Chiasma plantare kreuzt diese Sehne die Sehne des M. flexor hallucis longus.",
+   "dis": {
+    "A": "Entspringt am Tuber calcanei, setzt an den Mittelphalangen an.",
+    "B": "Setzt an der Grundphalanx der Großzehe an.",
+    "C": "Setzen an den Grundphalangen an.",
+    "D": "Liegt am Fußrücken."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-56-2",
+   "src": "SD2-56",
+   "typ": "umkehrung",
+   "q": "Wo setzt der M. flexor hallucis longus an?",
+   "o": [
+    "Basis der Grundphalanx der Großzehe",
+    "Os metatarsi I",
+    "Os cuneiforme mediale",
+    "Basis der Endphalanx der Großzehe",
+    "Tuber calcanei"
+   ],
+   "a": "D",
+   "expl": "Der M. flexor hallucis longus entspringt an der Fibula. Seine Sehne zieht hinter dem Malleolus medialis und unter dem Sustentaculum tali zur Basis der Endphalanx der Großzehe. Er verspannt zusätzlich das Längsgewölbe.",
+   "dis": {
+    "A": "Ansatz von M. flexor hallucis brevis und M. abductor hallucis.",
+    "B": "Ansatz des M. fibularis longus (und Teil des M. tibialis anterior).",
+    "C": "Ansatz von M. tibialis anterior und M. fibularis longus.",
+    "E": "Ansatz der Achillessehne."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-57-1",
+   "src": "SD2-57",
+   "typ": "perspektive",
+   "q": "Über welche Äste versorgt die A. profunda femoris die Muskeln der Oberschenkelrückseite?",
+   "o": [
+    "A. descendens genus",
+    "Aa. perforantes",
+    "A. circumflexa ilium superficialis",
+    "A. epigastrica superficialis",
+    "Aa. surales"
+   ],
+   "a": "B",
+   "expl": "Die Aa. perforantes (meist drei bis vier) durchbrechen die Adduktoren am Femur und versorgen die ischiokrurale Muskulatur. Sie sind die wichtigsten Äste der A. profunda femoris für die Oberschenkelrückseite.",
+   "dis": {
+    "A": "Ast der A. femoralis im Adduktorenkanal, versorgt das Knie.",
+    "C": "Ast der A. femoralis, versorgt die Haut der Leiste.",
+    "D": "Ast der A. femoralis, versorgt die Bauchhaut.",
+    "E": "Äste der A. poplitea zum M. gastrocnemius."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-57-2",
+   "src": "SD2-57",
+   "typ": "nachbarschaft",
+   "q": "Wo entspringt die A. profunda femoris typischerweise?",
+   "o": [
+    "Aus der A. iliaca externa oberhalb des Leistenbands",
+    "Aus der A. poplitea",
+    "Aus der A. obturatoria",
+    "Aus der A. iliaca interna",
+    "Aus der A. femoralis etwa 3–5 cm unterhalb des Leistenbands"
+   ],
+   "a": "E",
+   "expl": "Die A. profunda femoris entspringt im Trigonum femorale aus der lateralen bzw. dorsalen Wand der A. femoralis. Sie gibt die Aa. circumflexae femoris medialis und lateralis und die Aa. perforantes ab.",
+   "dis": {
+    "A": "Oberhalb des Leistenbands heißt das Gefäß noch A. iliaca externa und gibt andere Äste ab.",
+    "B": "Liegt weiter distal in der Kniekehle.",
+    "C": "Ast der A. iliaca interna zur Adduktorenloge.",
+    "D": "Versorgt Becken und Gesäß."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-58-1",
+   "src": "SD2-58",
+   "typ": "umkehrung",
+   "q": "Nach einem Anpralltrauma lässt sich der Unterschenkel bei gebeugtem Knie weit nach hinten schieben (hintere Schublade). Welches Band ist am ehesten verletzt?",
+   "o": [
+    "Lig. cruciatum anterius",
+    "Lig. cruciatum posterius",
+    "Lig. collaterale tibiale",
+    "Lig. patellae",
+    "Lig. popliteum obliquum"
+   ],
+   "a": "B",
+   "expl": "Das hintere Kreuzband verhindert die Verschiebung der Tibia nach dorsal. Typisch ist eine Verletzung beim Anprall des gebeugten Knies (z. B. Armaturenbrett).",
+   "dis": {
+    "A": "Ruptur → vordere Schublade (Lösung der Originalfrage).",
+    "C": "Ruptur → vermehrte Valgusaufklappbarkeit.",
+    "D": "Ruptur → Streckdefizit.",
+    "E": "Verstärkt die dorsale Kapsel, kein Schubladenstabilisator."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-58-2",
+   "src": "SD2-58",
+   "typ": "perspektive",
+   "q": "Welchen Verlauf hat das Lig. cruciatum anterius?",
+   "o": [
+    "Von der Innenfläche des Condylus medialis femoris zur Area intercondylaris posterior",
+    "Vom Epicondylus medialis femoris zur medialen Tibia",
+    "Von der Innenfläche des Condylus lateralis femoris zur Area intercondylaris anterior tibiae",
+    "Vom Epicondylus lateralis femoris zum Caput fibulae",
+    "Von der Patella zur Tuberositas tibiae"
+   ],
+   "a": "C",
+   "expl": "Das vordere Kreuzband zieht von der Innenfläche des lateralen Femurkondylus nach vorne-unten-medial zur Area intercondylaris anterior. Das hintere Kreuzband zieht von der Innenfläche des medialen Kondylus zur Area intercondylaris posterior.",
+   "dis": {
+    "A": "Verlauf des Lig. cruciatum posterius.",
+    "B": "Verlauf des Lig. collaterale tibiale.",
+    "D": "Verlauf des Lig. collaterale fibulare.",
+    "E": "Lig. patellae."
+   },
+   "merk": "„Hand in die Hosentasche“: Die rechte Hand in der rechten Hosentasche zeigt den Verlauf des vorderen Kreuzbands.",
+   "img": null
+  },
+  {
+   "id": "V-SD2-59-1",
+   "src": "SD2-59",
+   "typ": "perspektive",
+   "q": "Welche Arterie trägt beim Erwachsenen den größten Anteil zur Versorgung des Femurkopfes bei?",
+   "o": [
+    "A. ligamenti capitis femoris",
+    "A. circumflexa femoris lateralis",
+    "A. glutea superior",
+    "A. circumflexa femoris medialis",
+    "A. epigastrica inferior"
+   ],
+   "a": "D",
+   "expl": "Der Femurkopf wird beim Erwachsenen überwiegend über Retinakulumgefäße aus der A. circumflexa femoris medialis versorgt; die A. circumflexa femoris lateralis trägt weniger bei. Die A. lig. capitis femoris ist nur beim Kind bedeutsam.",
+   "dis": {
+    "A": "Beim Erwachsenen meist unbedeutend.",
+    "B": "Beteiligt, aber geringerer Anteil.",
+    "C": "Versorgt die kleinen Glutealmuskeln.",
+    "E": "Versorgt die vordere Bauchwand."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-59-2",
+   "src": "SD2-59",
+   "typ": "klinik",
+   "q": "Warum droht nach einer medialen Schenkelhalsfraktur eine Femurkopfnekrose?",
+   "o": [
+    "Weil die A. femoralis an der Bruchstelle reißt",
+    "Weil der N. femoralis die Gefäße nicht mehr steuert",
+    "Weil die V. femoralis thrombosiert",
+    "Weil die Aa. perforantes abgerissen werden",
+    "Weil die Retinakulumgefäße am Schenkelhals zerreißen und die A. lig. capitis femoris den Kopf nicht ausreichend versorgt"
+   ],
+   "a": "E",
+   "expl": "Die Äste der Aa. circumflexae femoris ziehen entlang des Schenkelhalses unter der Kapsel (Retinakulumgefäße) zum Kopf. Je weiter medial die Fraktur liegt, desto eher werden sie zerrissen. Die A. lig. capitis femoris kann den Kopf beim Erwachsenen nicht allein versorgen.",
+   "dis": {
+    "A": "Die A. femoralis verläuft ventral im Trigonum femorale, weit weg vom Schenkelhals.",
+    "B": "Nerven steuern die Femurkopfdurchblutung nicht.",
+    "C": "Venenthrombosen verursachen keine Kopfnekrose.",
+    "D": "Versorgen die Oberschenkelmuskulatur, nicht den Kopf."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-60-1",
+   "src": "SD2-60",
+   "typ": "perspektive",
+   "q": "Warum wird der Meniscus medialis häufiger verletzt als der Meniscus lateralis?",
+   "o": [
+    "Weil er mit dem Lig. collaterale tibiale und der Kapsel verwachsen und deshalb wenig verschieblich ist",
+    "Weil er O-förmig ist",
+    "Weil er nicht an der Tibia befestigt ist",
+    "Weil er mit der Sehne des M. popliteus verwachsen ist",
+    "Weil er keinerlei Blutgefäße besitzt"
+   ],
+   "a": "A",
+   "expl": "Der mediale Meniskus ist C-förmig, mit dem Lig. collaterale tibiale verwachsen und kann bei Rotation kaum ausweichen. Der laterale ist fast O-förmig, nicht mit dem Kollateralband verwachsen und deutlich beweglicher.",
+   "dis": {
+    "B": "Der laterale Meniskus ist eher O-förmig.",
+    "C": "Beide Menisken sind in der Area intercondylaris tibiae verankert.",
+    "D": "Das gilt für den lateralen Meniskus.",
+    "E": "Beide sind in der äußeren Zone durchblutet."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-60-2",
+   "src": "SD2-60",
+   "typ": "umkehrung",
+   "q": "Welcher Muskel steht über Fasern seiner Sehne mit dem Meniscus lateralis in Verbindung?",
+   "o": [
+    "M. semimembranosus",
+    "M. popliteus",
+    "M. biceps femoris",
+    "M. gastrocnemius",
+    "M. sartorius"
+   ],
+   "a": "B",
+   "expl": "Der M. popliteus zieht mit Fasern zum Hinterhorn des lateralen Meniskus und zieht ihn bei Beugung nach dorsal, sodass er nicht eingeklemmt wird. Zudem „entriegelt“ er das gestreckte Knie durch Innenrotation.",
+   "dis": {
+    "A": "Strahlt mit Fasern in den medialen Meniskus und die dorsale Kapsel ein.",
+    "C": "Setzt am Caput fibulae an.",
+    "D": "Entspringt an den Femurkondylen, ohne Meniskusverbindung.",
+    "E": "Setzt am Pes anserinus medial an."
+   },
+   "merk": "",
+   "img": null
   }
  ]
 }
