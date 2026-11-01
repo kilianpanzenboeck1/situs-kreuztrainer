@@ -1105,6 +1105,558 @@
    },
    "merk": "",
    "img": null
+  },
+  {
+   "id": "V-SD2-25-1",
+   "src": "SD2-25",
+   "typ": "bild",
+   "q": "Zwischen den beiden Köpfen des in der Abbildung mit 3 markierten Muskels tritt typischerweise welcher Nerv hindurch?",
+   "o": [
+    "N. ulnaris",
+    "N. medianus",
+    "R. profundus n. radialis",
+    "N. musculocutaneus",
+    "N. cutaneus antebrachii medialis"
+   ],
+   "a": "B",
+   "expl": "Nr. 3 ist der M. pronator teres. Der N. medianus zieht zwischen Caput humerale und Caput ulnare hindurch in die Tiefe des Unterarms. Dort kann er komprimiert werden (Pronator-teres-Syndrom).",
+   "dis": {
+    "A": "Zieht zwischen den Köpfen des M. flexor carpi ulnaris hindurch.",
+    "C": "Zieht durch den M. supinator (Frohse-Arkade).",
+    "D": "Durchbohrt den M. coracobrachialis am Oberarm.",
+    "E": "Rein sensibel, verläuft epifaszial."
+   },
+   "merk": "",
+   "img": "img/i135.jpg"
+  },
+  {
+   "id": "V-SD2-25-2",
+   "src": "SD2-25",
+   "typ": "perspektive",
+   "q": "Welche Aussage zum M. pronator teres trifft zu?",
+   "o": [
+    "Er entspringt mit einem Caput humerale am Epicondylus medialis und einem Caput ulnare am Proc. coronoideus.",
+    "Er setzt an der Tuberositas radii an.",
+    "Er wird vom N. radialis innerviert.",
+    "Er ist ein Supinator des Unterarms.",
+    "Er entspringt am Epicondylus lateralis humeri."
+   ],
+   "a": "A",
+   "expl": "Der M. pronator teres hat zwei Köpfe (Epicondylus medialis und Proc. coronoideus ulnae) und setzt lateral in der Mitte des Radiusschafts an. Er proniert und beugt schwach im Ellenbogen; innerviert wird er vom N. medianus.",
+   "dis": {
+    "B": "An der Tuberositas radii setzt der M. biceps brachii an.",
+    "C": "Innervation durch den N. medianus.",
+    "D": "Er ist ein Pronator.",
+    "E": "Am Epicondylus lateralis entspringen die Extensoren und der M. supinator."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-26-1",
+   "src": "SD2-26",
+   "typ": "bild",
+   "q": "Von welchem Nerv wird der in der Abbildung mit Stern markierte Muskel innerviert?",
+   "o": [
+    "N. axillaris",
+    "N. dorsalis scapulae",
+    "Nn. subscapulares",
+    "N. suprascapularis",
+    "N. accessorius"
+   ],
+   "a": "D",
+   "expl": "Der Stern markiert den M. supraspinatus in der Fossa supraspinata. Der N. suprascapularis zieht unter dem Lig. transversum scapulae superius durch die Incisura scapulae und versorgt M. supraspinatus und M. infraspinatus.",
+   "dis": {
+    "A": "Innerviert M. deltoideus und M. teres minor.",
+    "B": "Innerviert Mm. rhomboidei und M. levator scapulae.",
+    "C": "Innervieren M. subscapularis und M. teres major.",
+    "E": "Innerviert M. trapezius und M. sternocleidomastoideus."
+   },
+   "merk": "",
+   "img": "img/i136.jpg"
+  },
+  {
+   "id": "V-SD2-26-2",
+   "src": "SD2-26",
+   "typ": "perspektive",
+   "q": "Welche Funktion hat der M. supraspinatus vor allem?",
+   "o": [
+    "Innenrotation im Schultergelenk",
+    "Retroversion des Arms",
+    "Einleitung der Abduktion und Zentrierung des Humeruskopfes",
+    "Adduktion im Schultergelenk",
+    "Elevation der Scapula"
+   ],
+   "a": "C",
+   "expl": "Der M. supraspinatus leitet die Abduktion ein und drückt den Humeruskopf in die Pfanne, sodass der M. deltoideus effektiv abduzieren kann. Er setzt am Tuberculum majus an.",
+   "dis": {
+    "A": "Innenrotation: v. a. M. subscapularis.",
+    "B": "Retroversion: M. latissimus dorsi, M. teres major, Pars spinalis m. deltoidei.",
+    "D": "Er abduziert; Adduktoren sind z. B. M. pectoralis major und M. latissimus dorsi.",
+    "E": "Elevation der Scapula: M. trapezius, M. levator scapulae."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-27-1",
+   "src": "SD2-27",
+   "typ": "bild",
+   "q": "Von welchem Nerv wird der in der Abbildung mit Stern markierte Muskel innerviert?",
+   "o": [
+    "R. profundus n. ulnaris",
+    "R. superficialis n. radialis",
+    "N. interosseus anterior",
+    "N. medianus (R. thenaris)",
+    "N. musculocutaneus"
+   ],
+   "a": "D",
+   "expl": "Der Stern markiert den M. abductor pollicis brevis, den oberflächlichsten Thenarmuskel. Er wird wie M. opponens pollicis und Caput superficiale m. flexoris pollicis brevis vom N. medianus innerviert (motorischer Thenarast nach dem Karpaltunnel).",
+   "dis": {
+    "A": "Innerviert u. a. M. adductor pollicis, Hypothenar und Mm. interossei.",
+    "B": "Rein sensibel (Handrücken radial).",
+    "C": "Innerviert die tiefen Beuger am Unterarm (M. flexor pollicis longus, M. pronator quadratus).",
+    "E": "Innerviert die Oberarmbeuger."
+   },
+   "merk": "",
+   "img": "img/i137.jpg"
+  },
+  {
+   "id": "V-SD2-27-2",
+   "src": "SD2-27",
+   "typ": "umkehrung",
+   "q": "Welcher Muskel des Daumens wird vom R. profundus n. ulnaris innerviert?",
+   "o": [
+    "M. abductor pollicis brevis",
+    "M. opponens pollicis",
+    "M. adductor pollicis",
+    "Caput superficiale m. flexoris pollicis brevis",
+    "M. abductor pollicis longus"
+   ],
+   "a": "C",
+   "expl": "Der M. adductor pollicis (und das Caput profundum m. flexoris pollicis brevis) wird vom R. profundus n. ulnaris innerviert. Ein Ausfall zeigt sich im Froment-Zeichen.",
+   "dis": {
+    "A": "N. medianus.",
+    "B": "N. medianus.",
+    "D": "N. medianus.",
+    "E": "Langer Daumenmuskel am Unterarm, N. radialis (R. profundus)."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-28-1",
+   "src": "SD2-28",
+   "typ": "bild",
+   "q": "Wo entspringt der in der Abbildung mit 6 markierte Muskel?",
+   "o": [
+    "An der Sehne des M. flexor digitorum superficialis",
+    "An den Ossa metacarpalia",
+    "An der Aponeurosis palmaris",
+    "An der Sehne des M. flexor digitorum profundus",
+    "Am Retinaculum flexorum"
+   ],
+   "a": "D",
+   "expl": "Nr. 6 ist ein M. lumbricalis. Die Mm. lumbricales entspringen an den Sehnen des M. flexor digitorum profundus und strahlen radial in die Dorsalaponeurose der Finger ein.",
+   "dis": {
+    "A": "Die oberflächlichen Beugesehnen sind kein Ursprung der Lumbricales.",
+    "B": "Hier entspringen die Mm. interossei.",
+    "C": "Hier entspringt der M. palmaris brevis (über die Haut).",
+    "E": "Hier entspringen Thenar- und Hypothenarmuskeln."
+   },
+   "merk": "",
+   "img": "img/i138.jpg"
+  },
+  {
+   "id": "V-SD2-28-2",
+   "src": "SD2-28",
+   "typ": "perspektive",
+   "q": "Welche Funktion haben die Mm. lumbricales der Hand?",
+   "o": [
+    "Beugung in allen drei Fingergelenken",
+    "Beugung im Grundgelenk und Streckung in Mittel- und Endgelenk",
+    "Abspreizen der Finger",
+    "Streckung im Grundgelenk und Beugung in Mittel- und Endgelenk",
+    "Adduktion der Finger zur Mittelfingerachse"
+   ],
+   "a": "B",
+   "expl": "Die Mm. lumbricales ziehen palmar der Querachse der Grundgelenke vorbei und dorsal der Mittel- und Endgelenke (über die Dorsalaponeurose). Deshalb beugen sie im Grundgelenk und strecken in Mittel- und Endgelenken. Mm. lumbricales I und II werden vom N. medianus, III und IV vom N. ulnaris innerviert.",
+   "dis": {
+    "A": "Das tun die langen Beuger zusammen.",
+    "C": "Mm. interossei dorsales.",
+    "D": "Genau umgekehrt (Krallenstellung bei Lähmung der Intrinsics).",
+    "E": "Mm. interossei palmares."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-29-1",
+   "src": "SD2-29",
+   "typ": "bild",
+   "q": "Welche Muskeln der Hand innerviert die in der Abbildung mit 3 markierte Struktur motorisch?",
+   "o": [
+    "Alle Mm. interossei",
+    "Die Thenarmuskeln außer M. adductor pollicis (und Caput profundum m. flexoris pollicis brevis) sowie Mm. lumbricales I und II",
+    "Die Hypothenarmuskeln",
+    "M. adductor pollicis und Mm. lumbricales III und IV",
+    "Keine, sie ist rein sensibel"
+   ],
+   "a": "B",
+   "expl": "Nr. 3 ist der N. medianus im Karpaltunnel. In der Hand innerviert er M. abductor pollicis brevis, M. opponens pollicis, Caput superficiale m. flexoris pollicis brevis sowie Mm. lumbricales I und II. Sensibel versorgt er palmar die radialen 3½ Finger.",
+   "dis": {
+    "A": "R. profundus n. ulnaris.",
+    "C": "R. profundus n. ulnaris.",
+    "D": "R. profundus n. ulnaris.",
+    "E": "Er führt auch motorische Fasern."
+   },
+   "merk": "",
+   "img": "img/i139.jpg"
+  },
+  {
+   "id": "V-SD2-29-2",
+   "src": "SD2-29",
+   "typ": "bild",
+   "q": "Unter welchem Band verläuft die in der Abbildung mit 3 markierte Struktur am Handgelenk?",
+   "o": [
+    "Retinaculum extensorum",
+    "Lig. carpi palmare",
+    "Aponeurosis palmaris",
+    "Lig. pisohamatum",
+    "Retinaculum flexorum"
+   ],
+   "a": "E",
+   "expl": "Der N. medianus verläuft mit den langen Fingerbeugesehnen unter dem Retinaculum flexorum durch den Canalis carpi. Bei Enge drückt das Retinaculum auf den Nerv (Karpaltunnelsyndrom).",
+   "dis": {
+    "A": "Liegt auf der Streckseite.",
+    "B": "Bildet das Dach der Loge de Guyon (N. ulnaris).",
+    "C": "Liegt distal in der Hohlhand.",
+    "D": "Verbindet Os pisiforme und Hamulus, Boden der Loge de Guyon."
+   },
+   "merk": "",
+   "img": "img/i139.jpg"
+  },
+  {
+   "id": "V-SD2-30-1",
+   "src": "SD2-30",
+   "typ": "bild",
+   "q": "Wo setzt der Muskel der in der Abbildung mit 11 markierten Sehne an?",
+   "o": [
+    "Tuberositas ossis metatarsi V",
+    "Tuber calcanei",
+    "Dorsalaponeurose der Großzehe",
+    "Os cuneiforme mediale und Basis ossis metatarsi I",
+    "Tuberositas ossis navicularis"
+   ],
+   "a": "D",
+   "expl": "Nr. 11 ist die Sehne des M. tibialis anterior. Sie zieht am weitesten medial unter den Retinacula zum Os cuneiforme mediale und zur Basis des Os metatarsi I (plantar-medial).",
+   "dis": {
+    "A": "Ansatz des M. fibularis brevis.",
+    "B": "Ansatz der Achillessehne (M. triceps surae).",
+    "C": "Ansatz des M. extensor hallucis longus.",
+    "E": "Hauptansatz des M. tibialis posterior."
+   },
+   "merk": "",
+   "img": "img/i140.jpg"
+  },
+  {
+   "id": "V-SD2-30-2",
+   "src": "SD2-30",
+   "typ": "perspektive",
+   "q": "Welche Funktion hat der M. tibialis anterior?",
+   "o": [
+    "Plantarflexion und Pronation",
+    "Dorsalextension und Supination",
+    "Reine Plantarflexion",
+    "Dorsalextension und Pronation",
+    "Beugung der Zehen"
+   ],
+   "a": "B",
+   "expl": "Der M. tibialis anterior ist der kräftigste Dorsalextensor im oberen Sprunggelenk. Wegen seines medialen Ansatzes supiniert (invertiert) er zusätzlich im unteren Sprunggelenk und verspannt das Längsgewölbe.",
+   "dis": {
+    "A": "M. fibularis longus und brevis.",
+    "C": "M. triceps surae.",
+    "D": "M. extensor digitorum longus bzw. M. fibularis tertius.",
+    "E": "Lange und kurze Zehenbeuger."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-31-1",
+   "src": "SD2-31",
+   "typ": "nachbarschaft",
+   "q": "Welcher Schleimbeutel liegt zwischen dem Fornix humeri und der Sehne des M. supraspinatus?",
+   "o": [
+    "Bursa subacromialis",
+    "Bursa olecrani",
+    "Bursa subtendinea m. subscapularis",
+    "Bursa praepatellaris",
+    "Bursa trochanterica"
+   ],
+   "a": "A",
+   "expl": "Die Bursa subacromialis liegt unter Acromion und Lig. coracoacromiale und dient als Gleitlager für die Supraspinatussehne (häufig verbunden mit der Bursa subdeltoidea). Bei chronischer Bursitis wird die Sehne mitbetroffen.",
+   "dis": {
+    "B": "Liegt über dem Olecranon am Ellenbogen.",
+    "C": "Liegt ventral zwischen Subscapularissehne und Scapulahals.",
+    "D": "Liegt vor der Patella.",
+    "E": "Liegt über dem Trochanter major."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-31-2",
+   "src": "SD2-31",
+   "typ": "perspektive",
+   "q": "Welcher Schleimbeutel kommuniziert regelmäßig mit der Gelenkhöhle des Schultergelenks?",
+   "o": [
+    "Bursa subacromialis",
+    "Bursa subdeltoidea",
+    "Bursa olecrani",
+    "Bursa subcutanea acromialis",
+    "Bursa subtendinea m. subscapularis"
+   ],
+   "a": "E",
+   "expl": "Die Bursa subtendinea m. subscapularis steht regelmäßig mit dem Schultergelenk in Verbindung. Die Bursa subacromialis dagegen ist normalerweise vom Gelenk getrennt. Eine Kommunikation spricht für eine Ruptur der Rotatorenmanschette.",
+   "dis": {
+    "A": "Normalerweise vom Gelenk getrennt; Verbindung nur bei Rotatorenmanschettenruptur.",
+    "B": "Normalerweise vom Gelenk getrennt (oft mit der Bursa subacromialis verbunden).",
+    "C": "Liegt am Ellenbogen.",
+    "D": "Liegt subkutan über dem Acromion."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-32-1",
+   "src": "SD2-32",
+   "typ": "umkehrung",
+   "q": "Welcher Muskel entspringt nicht am Epicondylus lateralis humeri?",
+   "o": [
+    "M. extensor carpi radialis brevis",
+    "M. extensor digitorum",
+    "M. extensor carpi ulnaris",
+    "M. pronator teres",
+    "M. supinator"
+   ],
+   "a": "D",
+   "expl": "Am Epicondylus lateralis entspringen die oberflächlichen Extensoren (u. a. M. extensor carpi radialis brevis, M. extensor digitorum, M. extensor carpi ulnaris) und der M. supinator. Der M. pronator teres entspringt mit den Flexoren am Epicondylus medialis.",
+   "dis": {
+    "A": "Entspringt am Epicondylus lateralis; bei der Epicondylitis am häufigsten betroffen.",
+    "B": "Entspringt am Epicondylus lateralis.",
+    "C": "Entspringt am Epicondylus lateralis (und an der Ulna).",
+    "E": "Entspringt am Epicondylus lateralis und an der Crista m. supinatoris."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-32-2",
+   "src": "SD2-32",
+   "typ": "klinik",
+   "q": "Bei einem Golferellenbogen (Epicondylitis humeri medialis) verstärken sich die Schmerzen am ehesten bei welcher Bewegung gegen Widerstand?",
+   "o": [
+    "Dorsalextension im Handgelenk",
+    "Palmarflexion im Handgelenk und Pronation",
+    "Supination",
+    "Streckung der Finger",
+    "Abduktion im Schultergelenk"
+   ],
+   "a": "B",
+   "expl": "Am Epicondylus medialis entspringen die oberflächlichen Flexoren und der M. pronator teres. Werden sie gegen Widerstand angespannt (Palmarflexion, Pronation), verstärkt sich der Schmerz am Sehnenursprung.",
+   "dis": {
+    "A": "Typisch für den Tennisellenbogen (lateral).",
+    "C": "Die Supinatoren entspringen lateral bzw. am Radius.",
+    "D": "Fingerstrecker entspringen lateral.",
+    "E": "Betrifft nicht die Unterarmmuskulatur."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-33-1",
+   "src": "SD2-33",
+   "typ": "klinik",
+   "q": "Ein Finger soll nach einer Verletzung mehrere Wochen ruhiggestellt werden, ohne dass die Kollateralbänder schrumpfen. In welcher Stellung wird typischerweise fixiert (Intrinsic-plus-Stellung)?",
+   "o": [
+    "Alle Fingergelenke gestreckt",
+    "Grundgelenke überstreckt, Mittel- und Endgelenke gebeugt",
+    "Grundgelenke gebeugt, Mittel- und Endgelenke gestreckt",
+    "Vollständiger Faustschluss",
+    "Grundgelenke abgespreizt"
+   ],
+   "a": "C",
+   "expl": "Die Kollateralbänder der Grundgelenke sind in Beugung gespannt, die der Mittel- und Endgelenke in Streckung. In der Intrinsic-plus-Stellung bleiben daher alle Kollateralbänder auf Länge und schrumpfen nicht.",
+   "dis": {
+    "A": "In Streckung erschlaffen die Kollateralbänder der Grundgelenke und können schrumpfen.",
+    "B": "Fördert eine Krallenstellung und Kontrakturen.",
+    "D": "Die Kollateralbänder von Mittel- und Endgelenken wären erschlafft.",
+    "E": "Abspreizen ist für die Kollateralbänder ungünstig und klinisch nicht üblich."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-33-2",
+   "src": "SD2-33",
+   "typ": "perspektive",
+   "q": "Warum lassen sich die Finger bei gebeugten Grundgelenken kaum abspreizen?",
+   "o": [
+    "Weil die Mm. interossei in dieser Stellung gelähmt sind",
+    "Weil die Kollateralbänder der Grundgelenke in Beugung gespannt sind",
+    "Weil die Palmaraponeurose die Grundgelenke blockiert",
+    "Weil die Grundgelenke reine Scharniergelenke sind",
+    "Weil die Beugesehnen die Finger zusammendrücken"
+   ],
+   "a": "B",
+   "expl": "Die Kollateralbänder setzen exzentrisch am Metakarpalkopf an, der zudem palmar breiter ist. In Beugung sind sie deshalb straff und verhindern die Ab- und Adduktion, in Streckung sind sie locker.",
+   "dis": {
+    "A": "Die Muskeln sind funktionsfähig, werden aber mechanisch gebremst.",
+    "C": "Die Palmaraponeurose blockiert die Grundgelenke nicht (außer bei Dupuytren-Kontraktur).",
+    "D": "Die Grundgelenke sind Kugelgelenke mit eingeschränkter Rotation.",
+    "E": "Die Beugesehnen haben darauf keinen wesentlichen Einfluss."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-34-1",
+   "src": "SD2-34",
+   "typ": "perspektive",
+   "q": "Welche Strukturen bilden den Fornix humeri (Schulterdach)?",
+   "o": [
+    "Acromion, Lig. coracoacromiale und Proc. coracoideus",
+    "Clavicula und Lig. conoideum",
+    "Spina scapulae und Lig. transversum scapulae superius",
+    "Tuberculum majus und Tuberculum minus",
+    "Labrum glenoidale und Gelenkkapsel"
+   ],
+   "a": "A",
+   "expl": "Das Schulterdach besteht aus Acromion, Lig. coracoacromiale und Proc. coracoideus. Darunter gleitet die Supraspinatussehne mit der Bursa subacromialis; zwischen Tuberculum majus und Fornix kommt es zum Impingement.",
+   "dis": {
+    "B": "Gehört zur Verbindung zwischen Clavicula und Proc. coracoideus.",
+    "C": "Das Band überbrückt die Incisura scapulae (N. suprascapularis).",
+    "D": "Sind Teile des Humerus, nicht des Daches.",
+    "E": "Gehören zum Gelenk selbst."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-34-2",
+   "src": "SD2-34",
+   "typ": "umkehrung",
+   "q": "Welches Band verbindet Proc. coracoideus und Acromion?",
+   "o": [
+    "Lig. coracoclaviculare",
+    "Lig. acromioclaviculare",
+    "Lig. coracohumerale",
+    "Lig. transversum scapulae superius",
+    "Lig. coracoacromiale"
+   ],
+   "a": "E",
+   "expl": "Das Lig. coracoacromiale spannt sich zwischen Proc. coracoideus und Acromion aus und schließt den Fornix humeri. Zwischen ihm und dem Tuberculum majus wird die Supraspinatussehne bei Abduktion eingeengt.",
+   "dis": {
+    "A": "Verbindet Proc. coracoideus und Clavicula (Lig. trapezoideum und conoideum).",
+    "B": "Verstärkt das Schultereckgelenk zwischen Acromion und Clavicula.",
+    "C": "Verbindet Proc. coracoideus und Humerus, verstärkt die Kapsel kranial.",
+    "D": "Überbrückt die Incisura scapulae."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-35-1",
+   "src": "SD2-35",
+   "typ": "umkehrung",
+   "q": "Welcher Muskel der Rotatorenmanschette setzt als einziger am Tuberculum minus an?",
+   "o": [
+    "M. supraspinatus",
+    "M. infraspinatus",
+    "M. teres minor",
+    "M. subscapularis",
+    "M. teres major"
+   ],
+   "a": "D",
+   "expl": "Der M. subscapularis setzt am Tuberculum minus an. M. supraspinatus, M. infraspinatus und M. teres minor setzen von kranial nach kaudal am Tuberculum majus an.",
+   "dis": {
+    "A": "Setzt an der oberen Facette des Tuberculum majus an.",
+    "B": "Setzt an der mittleren Facette des Tuberculum majus an.",
+    "C": "Setzt an der unteren Facette des Tuberculum majus an.",
+    "E": "Setzt an der Crista tuberculi minoris an und gehört nicht zur Rotatorenmanschette."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-35-2",
+   "src": "SD2-35",
+   "typ": "perspektive",
+   "q": "Welche Aussage zur Rotatorenmanschette trifft zu?",
+   "o": [
+    "Ihre Sehnen strahlen in die Gelenkkapsel ein und zentrieren den Humeruskopf in der Cavitas glenoidalis.",
+    "Zu ihr gehört der M. deltoideus.",
+    "Sie verstärkt die Gelenkkapsel vor allem kaudal.",
+    "Alle ihre Muskeln werden vom N. suprascapularis innerviert.",
+    "Sie ist der wichtigste Abduktor über 90°."
+   ],
+   "a": "A",
+   "expl": "Die Rotatorenmanschette (M. supraspinatus, M. infraspinatus, M. teres minor, M. subscapularis) verstärkt die Kapsel ventral, kranial und dorsal und hält den Kopf in der kleinen Pfanne. Kaudal fehlt eine muskuläre Verstärkung (Recessus axillaris), deshalb luxiert die Schulter meist nach vorne-unten.",
+   "dis": {
+    "B": "Der M. deltoideus liegt über der Manschette, gehört aber nicht dazu.",
+    "C": "Kaudal ist die Kapsel gerade nicht muskulär verstärkt.",
+    "D": "Nur M. supraspinatus und M. infraspinatus.",
+    "E": "Über 90° wird der Arm durch Drehung der Scapula (M. trapezius, M. serratus anterior) gehoben."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-36-1",
+   "src": "SD2-36",
+   "typ": "perspektive",
+   "q": "Von welchem Nerv wird der M. flexor pollicis longus innerviert?",
+   "o": [
+    "N. interosseus anterior (aus dem N. medianus)",
+    "R. profundus n. ulnaris",
+    "R. profundus n. radialis",
+    "N. musculocutaneus",
+    "N. ulnaris (am Unterarm)"
+   ],
+   "a": "A",
+   "expl": "Der N. interosseus anterior zweigt im proximalen Unterarm vom N. medianus ab und innerviert die tiefen Beuger: M. flexor pollicis longus, den radialen Teil des M. flexor digitorum profundus und den M. pronator quadratus.",
+   "dis": {
+    "B": "Innerviert Hand-Binnenmuskeln (u. a. M. adductor pollicis).",
+    "C": "Innerviert die Extensoren am Unterarm.",
+    "D": "Innerviert die Oberarmbeuger.",
+    "E": "Innerviert am Unterarm nur M. flexor carpi ulnaris und den ulnaren Teil des M. flexor digitorum profundus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-36-2",
+   "src": "SD2-36",
+   "typ": "perspektive",
+   "q": "Wo setzt der M. flexor pollicis longus an?",
+   "o": [
+    "Basis der Grundphalanx des Daumens",
+    "Os metacarpi I",
+    "Os trapezium",
+    "Sesambeine des Daumengrundgelenks",
+    "Basis der Endphalanx des Daumens"
+   ],
+   "a": "E",
+   "expl": "Der M. flexor pollicis longus entspringt an der Vorderfläche des Radius und zieht in eigener Sehnenscheide durch den Karpaltunnel zur Basis der Endphalanx des Daumens. Er ist der einzige Beuger des Daumenendgelenks.",
+   "dis": {
+    "A": "Ansatz von M. abductor pollicis brevis und M. flexor pollicis brevis (über Sesambeine).",
+    "B": "Ansatz des M. opponens pollicis.",
+    "C": "Ursprung kurzer Thenarmuskeln.",
+    "D": "Ansatz von M. flexor pollicis brevis und M. adductor pollicis."
+   },
+   "merk": "",
+   "img": null
   }
  ]
 }
