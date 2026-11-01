@@ -1335,6 +1335,52 @@
    },
    "merk": "",
    "img": null
+  },
+  {
+   "id": "V-F1-74-1",
+   "src": "F1-74",
+   "typ": "nachbarschaft",
+   "q": "Hinter welcher Struktur vereinigen sich die beiden Vv. brachiocephalicae zur V. cava superior?",
+   "o": [
+    "Hinter dem 1. rechten Rippenknorpel",
+    "Hinter dem linken Sternoklavikulargelenk",
+    "Hinter dem Proc. xiphoideus",
+    "Im 4. ICR links parasternal",
+    "Links neben dem Angulus sterni"
+   ],
+   "a": "A",
+   "expl": "Jede V. brachiocephalica entsteht hinter dem Sternoklavikulargelenk ihrer Seite. Beide vereinigen sich rechts hinter dem 1. Rippenknorpel zur V. cava superior, die dann zum rechten Vorhof absteigt.",
+   "dis": {
+    "B": "Dort entsteht die linke V. brachiocephalica.",
+    "C": "Viel zu tief.",
+    "D": "Dort liegt das Herz.",
+    "E": "Die V. cava superior liegt rechts."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-74-2",
+   "src": "F1-74",
+   "typ": "perspektive",
+   "q": "Welche Schilddrüsenvene mündet typischerweise in die linke V. brachiocephalica?",
+   "o": [
+    "V. thyroidea superior",
+    "V. thyroidea inferior",
+    "V. facialis",
+    "V. azygos",
+    "V. lingualis"
+   ],
+   "a": "B",
+   "expl": "Die Vv. thyroideae inferiores bilden vor der Trachea einen Venenplexus und münden in die V. brachiocephalica, meist links. Bei der unteren Tracheotomie können sie bluten.",
+   "dis": {
+    "A": "Mündet in die V. jugularis interna.",
+    "C": "Mündet in die V. jugularis interna.",
+    "D": "Mündet in die V. cava superior.",
+    "E": "Mündet in die V. jugularis interna."
+   },
+   "merk": "",
+   "img": null
   }
  ]
 }

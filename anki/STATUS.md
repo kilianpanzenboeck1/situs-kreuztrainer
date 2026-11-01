@@ -15,7 +15,7 @@
 - [ ] A2 2. Lunge – 62/62 Karten – review
 - [ ] A3 3. Mediastinum – 58/58 Karten – review
 - [ ] A4 4. Großarterien – 62/62 Karten – review
-- [ ] A5 5. Großvenen – 58/60 Karten – review
+- [ ] A5 5. Großvenen – 60/60 Karten – review
 
 ## Etappe 3b – Teil A Abdomen
 - [ ] A6 6. Peritoneum – 0/30 Karten – offen
