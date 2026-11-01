@@ -2761,6 +2761,466 @@
    },
    "merk": "",
    "img": null
+  },
+  {
+   "id": "V-SD2-61-1",
+   "src": "SD2-61",
+   "typ": "umkehrung",
+   "q": "Die Chopart-Gelenklinie (Articulatio tarsi transversa) verläuft zwischen",
+   "o": [
+    "Talus und Os naviculare sowie Calcaneus und Os cuboideum",
+    "Ossa cuneiformia und Ossa metatarsi I–III",
+    "Tibia und Talus",
+    "Talus und Calcaneus",
+    "Ossa metatarsi und Phalanges proximales"
+   ],
+   "a": "A",
+   "expl": "Die Chopart-Linie besteht aus Articulatio talonavicularis und Articulatio calcaneocuboidea und trennt hintere und mittlere Fußwurzel. Die Lisfranc-Linie (Articulationes tarsometatarsales) liegt weiter distal.",
+   "dis": {
+    "B": "Teil der Lisfranc-Linie (Lösung der Originalfrage).",
+    "C": "Oberes Sprunggelenk.",
+    "D": "Hintere Kammer des unteren Sprunggelenks.",
+    "E": "Zehengrundgelenke."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-61-2",
+   "src": "SD2-61",
+   "typ": "klinik",
+   "q": "Bei einer Vorfußamputation in der Lisfranc-Gelenklinie bleiben welche Knochen erhalten?",
+   "o": [
+    "Nur Talus und Calcaneus",
+    "Alle Fußwurzelknochen (Ossa tarsi)",
+    "Fußwurzel- und Mittelfußknochen",
+    "Nur der Talus",
+    "Die Grundphalangen der Zehen"
+   ],
+   "a": "B",
+   "expl": "Die Lisfranc-Linie liegt zwischen Fußwurzel (Ossa cuneiformia, Os cuboideum) und Mittelfuß. Bei einer Amputation dort bleiben alle Ossa tarsi erhalten; die Ossa metatarsi und Zehen werden entfernt.",
+   "dis": {
+    "A": "Das entspräche einer Amputation in der Chopart-Linie.",
+    "C": "Die Mittelfußknochen liegen distal der Linie und werden entfernt.",
+    "D": "Entspräche einer noch weiter proximal gelegenen Amputation.",
+    "E": "Liegen distal und werden entfernt."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-62-1",
+   "src": "SD2-62",
+   "typ": "bild",
+   "q": "Welcher Muskel ist in dem Oberschenkelquerschnitt mit X markiert?",
+   "o": [
+    "M. gracilis",
+    "M. adductor longus",
+    "M. sartorius",
+    "M. vastus medialis",
+    "M. rectus femoris"
+   ],
+   "a": "C",
+   "expl": "Das X markiert den M. sartorius, der schräg über die Vorderseite des Oberschenkels zieht. Im mittleren Drittel bedeckt er den Adduktorenkanal mit A. und V. femoralis und N. saphenus.",
+   "dis": {
+    "A": "Liegt weiter medial und dorsal, schlank.",
+    "B": "Liegt unter bzw. dorsal des Gefäßstrangs.",
+    "D": "Liegt lateral des Adduktorenkanals am Femur.",
+    "E": "Liegt ventral in der Mitte."
+   },
+   "merk": "",
+   "img": "img/i143.jpg"
+  },
+  {
+   "id": "V-SD2-62-2",
+   "src": "SD2-62",
+   "typ": "bild",
+   "q": "Durch welche Öffnung gelangt der unter dem mit X markierten Muskel liegende Gefäßstrang in die Kniekehle?",
+   "o": [
+    "Hiatus saphenus",
+    "Canalis obturatorius",
+    "Foramen infrapiriforme",
+    "Hiatus adductorius",
+    "Lacuna musculorum"
+   ],
+   "a": "D",
+   "expl": "A. und V. femoralis verlassen den Adduktorenkanal durch den Hiatus adductorius im Ansatz des M. adductor magnus und heißen danach A. und V. poplitea. Proximal liegt der Gefäßstrang im Trigonum femorale.",
+   "dis": {
+    "A": "Durchtrittsstelle der V. saphena magna in die Tiefe.",
+    "B": "Verbindung Becken – Adduktorenloge.",
+    "C": "Verbindung Becken – Gesäßregion.",
+    "E": "Durchtritt von M. iliopsoas und N. femoralis unter dem Leistenband."
+   },
+   "merk": "",
+   "img": "img/i143.jpg"
+  },
+  {
+   "id": "V-SD2-63-1",
+   "src": "SD2-63",
+   "typ": "perspektive",
+   "q": "Welche bindegewebige Struktur verschließt den Anulus femoralis zur Bauchhöhle hin?",
+   "o": [
+    "Lig. lacunare",
+    "Fascia cribrosa",
+    "Arcus iliopectineus",
+    "Lig. pectineum",
+    "Septum femorale (Cloquet)"
+   ],
+   "a": "E",
+   "expl": "Das Septum femorale ist ein Teil der Fascia transversalis, der den Schenkelring abdichtet. Darunter liegt der Rosenmüller-Lymphknoten. Bei der Schenkelhernie wird das Septum vorgestülpt.",
+   "dis": {
+    "A": "Begrenzt den Anulus femoralis medial.",
+    "B": "Siebartige Faszie über dem Hiatus saphenus am Oberschenkel.",
+    "C": "Trennt Lacuna musculorum und Lacuna vasorum.",
+    "D": "Bildet die dorsale Begrenzung des Anulus femoralis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-63-2",
+   "src": "SD2-63",
+   "typ": "klinik",
+   "q": "Wo tritt eine Schenkelhernie typischerweise unter der Haut des Oberschenkels hervor?",
+   "o": [
+    "Im Hiatus saphenus",
+    "Am Anulus inguinalis superficialis",
+    "Am Canalis obturatorius",
+    "Im Trigonum lumbale",
+    "Am Hiatus adductorius"
+   ],
+   "a": "A",
+   "expl": "Die Schenkelhernie tritt durch den Anulus femoralis in den Canalis femoralis und kommt im Hiatus saphenus unterhalb des Leistenbands an die Oberfläche. Wegen der engen Bruchpforte klemmt sie leicht ein.",
+   "dis": {
+    "B": "Austrittsstelle der Leistenhernien oberhalb des Leistenbands.",
+    "C": "Bruchpforte der Hernia obturatoria, tief unter den Adduktoren.",
+    "D": "Ort der Lumbalhernie.",
+    "E": "Verbindung Adduktorenkanal – Kniekehle."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-64-1",
+   "src": "SD2-64",
+   "typ": "perspektive",
+   "q": "Welcher Muskel liegt im Spatium profundum perinei (Region des Diaphragma urogenitale)?",
+   "o": [
+    "M. bulbospongiosus",
+    "M. transversus perinei profundus",
+    "M. ischiocavernosus",
+    "M. levator ani",
+    "M. coccygeus"
+   ],
+   "a": "B",
+   "expl": "Im tiefen Dammraum liegen M. transversus perinei profundus und M. sphincter urethrae externus. M. bulbospongiosus und M. ischiocavernosus liegen im oberflächlichen Dammraum; M. levator ani und M. coccygeus bilden das Diaphragma pelvis.",
+   "dis": {
+    "A": "Liegt im Spatium superficiale perinei.",
+    "C": "Liegt im Spatium superficiale perinei.",
+    "D": "Teil des Diaphragma pelvis.",
+    "E": "Teil des Diaphragma pelvis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-64-2",
+   "src": "SD2-64",
+   "typ": "perspektive",
+   "q": "Welcher Nerv innerviert die Dammmuskeln (z. B. M. transversus perinei profundus und M. bulbospongiosus)?",
+   "o": [
+    "N. obturatorius",
+    "N. genitofemoralis",
+    "N. pudendus (Nn. perineales)",
+    "N. ilioinguinalis",
+    "Plexus hypogastricus inferior"
+   ],
+   "a": "C",
+   "expl": "Der N. pudendus (S2–S4) gibt im Alcock-Kanal die Nn. perineales ab. Sie innervieren die Muskeln des Damms und die Haut des Perineums. Der Plexus hypogastricus inferior ist vegetativ.",
+   "dis": {
+    "A": "Innerviert die Adduktoren.",
+    "B": "Innerviert M. cremaster und die Haut der Leiste.",
+    "D": "Sensibel für Leiste und äußeres Genitale ventral.",
+    "E": "Vegetatives Geflecht für die Beckenorgane."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-65-1",
+   "src": "SD2-65",
+   "typ": "nachbarschaft",
+   "q": "Welche Leitungsbahn liegt unmittelbar lateral der Bruchpforte einer Schenkelhernie?",
+   "o": [
+    "A. femoralis",
+    "N. femoralis",
+    "Lig. lacunare",
+    "V. femoralis",
+    "Funiculus spermaticus"
+   ],
+   "a": "D",
+   "expl": "Der Anulus femoralis liegt am medialen Ende der Lacuna vasorum. Lateral grenzt er an die V. femoralis, medial an das Lig. lacunare. Eine große Schenkelhernie kann deshalb die Vene komprimieren.",
+   "dis": {
+    "A": "Liegt lateral der Vene, nicht direkt an der Bruchpforte.",
+    "B": "Liegt in der Lacuna musculorum.",
+    "C": "Begrenzt die Bruchpforte medial.",
+    "E": "Verläuft oberhalb des Leistenbands im Leistenkanal."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-65-2",
+   "src": "SD2-65",
+   "typ": "klinik",
+   "q": "Bei der operativen Erweiterung einer eingeklemmten Schenkelhernie nach medial (Einkerbung des Lig. lacunare) kann ein Gefäß verletzt werden, das früher gefürchtet war (Corona mortis). Worum handelt es sich?",
+   "o": [
+    "A. femoralis",
+    "A. testicularis",
+    "A. circumflexa ilium superficialis",
+    "A. iliaca interna",
+    "Anastomose zwischen A. epigastrica inferior und A. obturatoria"
+   ],
+   "a": "E",
+   "expl": "Die Corona mortis ist eine Gefäßverbindung zwischen A. (bzw. V.) epigastrica inferior und A. obturatoria. Sie zieht über den Pecten ossis pubis hinter dem Lig. lacunare. Wird sie verletzt, kann es stark bluten.",
+   "dis": {
+    "A": "Liegt lateral der Vene, nicht am Lig. lacunare.",
+    "B": "Verläuft im Samenstrang.",
+    "C": "Oberflächliche Hautarterie der Leiste.",
+    "D": "Liegt tief im kleinen Becken."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-67-1",
+   "src": "SD2-67",
+   "typ": "perspektive",
+   "q": "Wo setzt die Sehne des M. semitendinosus an?",
+   "o": [
+    "Am Pes anserinus superficialis an der medialen Tibia",
+    "Am Caput fibulae",
+    "Dorsal am Condylus medialis tibiae (Pes anserinus profundus)",
+    "An der Tuberositas tibiae",
+    "Am Tuberculum adductorium"
+   ],
+   "a": "A",
+   "expl": "Der M. semitendinosus setzt mit M. sartorius und M. gracilis am Pes anserinus superficialis medial der Tuberositas tibiae an. Der M. semimembranosus setzt tiefer am Condylus medialis an (Pes anserinus profundus).",
+   "dis": {
+    "B": "Ansatz des M. biceps femoris.",
+    "C": "Ansatz des M. semimembranosus.",
+    "D": "Ansatz des Lig. patellae.",
+    "E": "Ansatz der Pars tendinea des M. adductor magnus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-67-2",
+   "src": "SD2-67",
+   "typ": "klinik",
+   "q": "Für den Ersatz eines vorderen Kreuzbands wird häufig die Sehne des M. gracilis zusammen mit der Sehne welches Muskels entnommen?",
+   "o": [
+    "M. biceps femoris",
+    "M. semitendinosus",
+    "M. sartorius",
+    "M. rectus femoris",
+    "M. popliteus"
+   ],
+   "a": "B",
+   "expl": "Die langen, schlanken Sehnen von M. semitendinosus und M. gracilis lassen sich gut entnehmen, ohne die Kniefunktion stark zu beeinträchtigen. Daraus wird das Kreuzbandtransplantat geflochten (ST-G-Plastik).",
+   "dis": {
+    "A": "Wichtig für die laterale Stabilität und Außenrotation, wird nicht entnommen.",
+    "C": "Breiter, flacher Muskel mit kurzer Sehne.",
+    "D": "Teil des Quadrizeps; genutzt wird eher die Quadrizeps- bzw. Patellarsehne.",
+    "E": "Kurzer Muskel in der Tiefe der Kniekehle."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-68-1",
+   "src": "SD2-68",
+   "typ": "umkehrung",
+   "q": "Welche Skelettverbindung ist eine Synchondrose?",
+   "o": [
+    "Articulatio talocruralis",
+    "Membrana interossea antebrachii",
+    "Y-Fuge im Acetabulum (vor der Verknöcherung)",
+    "Sutura sagittalis",
+    "Articulatio humeri"
+   ],
+   "a": "C",
+   "expl": "Synchondrosen sind Verbindungen aus hyalinem Knorpel, z. B. Epiphysenfugen und die Y-Fuge im Acetabulum, die später verknöchern (Synostose). Syndesmosen sind bindegewebig, Suturen sind Nähte des Schädels.",
+   "dis": {
+    "A": "Echtes Gelenk (Diarthrose).",
+    "B": "Syndesmose.",
+    "D": "Sutur (bindegewebige Knochennaht).",
+    "E": "Echtes Gelenk (Kugelgelenk)."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-68-2",
+   "src": "SD2-68",
+   "typ": "klinik",
+   "q": "Bei einer Außenknöchelfraktur oberhalb der Syndesmose (Weber C) ist typischerweise welche Struktur mitverletzt?",
+   "o": [
+    "Lig. collaterale tibiale",
+    "Achillessehne",
+    "Lig. patellae",
+    "Syndesmosis tibiofibularis",
+    "Aponeurosis plantaris"
+   ],
+   "a": "D",
+   "expl": "Die Syndesmosis tibiofibularis (Lig. tibiofibulare anterius und posterius) hält die Malleolengabel zusammen. Bei Weber-C-Frakturen reißt sie immer mit; die Gabel muss operativ stabilisiert werden.",
+   "dis": {
+    "A": "Innenband des Kniegelenks.",
+    "B": "Kein Bestandteil der Malleolengabel.",
+    "C": "Liegt am Knie.",
+    "E": "Liegt an der Fußsohle."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-69-1",
+   "src": "SD2-69",
+   "typ": "perspektive",
+   "q": "Welche Struktur setzt am Tuberculum adductorium des Femurs an?",
+   "o": [
+    "M. adductor longus",
+    "M. gracilis",
+    "M. vastus medialis",
+    "Lig. collaterale tibiale",
+    "Pars tendinea des M. adductor magnus"
+   ],
+   "a": "E",
+   "expl": "Der sehnige (ischiokrurale) Anteil des M. adductor magnus setzt am Tuberculum adductorium oberhalb des Epicondylus medialis an. Zwischen ihm und dem Femur liegt der Hiatus adductorius.",
+   "dis": {
+    "A": "Setzt an der Linea aspera an.",
+    "B": "Setzt am Pes anserinus an.",
+    "C": "Entspringt an der Linea aspera und setzt an der Patella an.",
+    "D": "Entspringt am Epicondylus medialis, nicht am Tuberculum adductorium."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-69-2",
+   "src": "SD2-69",
+   "typ": "umkehrung",
+   "q": "Welche Struktur setzt an der Tuberositas tibiae an?",
+   "o": [
+    "Lig. patellae",
+    "Tractus iliotibialis",
+    "Pes anserinus superficialis",
+    "M. biceps femoris",
+    "M. popliteus"
+   ],
+   "a": "A",
+   "expl": "Das Lig. patellae ist die Fortsetzung der Quadrizepssehne von der Patella zur Tuberositas tibiae. Über sie streckt der M. quadriceps femoris im Kniegelenk (Patellarsehnenreflex L3/L4).",
+   "dis": {
+    "B": "Setzt am Tuberculum tractus iliotibialis (Gerdy) lateral an.",
+    "C": "Setzt medial der Tuberositas tibiae an.",
+    "D": "Setzt am Caput fibulae an.",
+    "E": "Setzt dorsal an der Facies posterior tibiae an."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-71-1",
+   "src": "SD2-71",
+   "typ": "perspektive",
+   "q": "Wo entspringt der M. brachialis?",
+   "o": [
+    "Am Proc. coracoideus",
+    "An der distalen Hälfte der Vorderfläche des Humerus und den Septa intermuscularia",
+    "Am Tuberculum supraglenoidale",
+    "Am Epicondylus medialis humeri",
+    "An der Tuberositas ulnae"
+   ],
+   "a": "B",
+   "expl": "Der M. brachialis entspringt an der distalen Vorderfläche des Humerus und setzt an der Tuberositas ulnae und der Gelenkkapsel an („Kapselspanner“). Am Proc. coracoideus entspringen nur M. coracobrachialis und Caput breve m. bicipitis.",
+   "dis": {
+    "A": "Ursprung von M. coracobrachialis und Caput breve m. bicipitis (die falsche Aussage im Original).",
+    "C": "Ursprung des Caput longum m. bicipitis.",
+    "D": "Ursprung der Flexoren und des M. pronator teres.",
+    "E": "Ansatz, nicht Ursprung des M. brachialis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-71-2",
+   "src": "SD2-71",
+   "typ": "umkehrung",
+   "q": "Aus welchem Faszikel des Plexus brachialis geht der N. radialis hervor?",
+   "o": [
+    "Fasciculus lateralis",
+    "Fasciculus medialis",
+    "Fasciculus posterior",
+    "Direkt aus dem Truncus superior",
+    "Aus Fasciculus lateralis und medialis gemeinsam"
+   ],
+   "a": "C",
+   "expl": "Der Fasciculus posterior gibt N. axillaris und N. radialis ab, die alle Strecker von Oberarm und Unterarm innervieren. Aus Fasciculus lateralis und medialis entsteht gemeinsam der N. medianus.",
+   "dis": {
+    "A": "Gibt N. musculocutaneus und die laterale Medianuswurzel ab.",
+    "B": "Gibt N. ulnaris und die mediale Medianuswurzel ab.",
+    "D": "Aus dem Truncus superior stammt direkt der N. suprascapularis.",
+    "E": "So entsteht der N. medianus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-72-1",
+   "src": "SD2-72",
+   "typ": "nachbarschaft",
+   "q": "Mit welcher Arterie verläuft der N. fibularis profundus am Unterschenkel?",
+   "o": [
+    "A. tibialis posterior",
+    "A. fibularis",
+    "A. poplitea",
+    "A. tibialis anterior",
+    "A. plantaris lateralis"
+   ],
+   "a": "D",
+   "expl": "Der N. fibularis profundus zieht um das Collum fibulae in die Extensorenloge und verläuft dort auf der Membrana interossea zusammen mit der A. tibialis anterior zum Fußrücken.",
+   "dis": {
+    "A": "Begleitet den N. tibialis in der tiefen Flexorenloge.",
+    "B": "Verläuft in der Flexorenloge an der Fibula.",
+    "C": "Liegt in der Kniekehle, mit dem N. tibialis.",
+    "E": "Verläuft an der Fußsohle mit dem N. plantaris lateralis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-72-2",
+   "src": "SD2-72",
+   "typ": "klinik",
+   "q": "Welcher Befund passt zu einer isolierten Läsion des N. fibularis profundus?",
+   "o": [
+    "Pronationsschwäche bei erhaltener Fußhebung",
+    "Plantarflexionsschwäche",
+    "Sensibilitätsstörung der Fußsohle",
+    "Trendelenburg-Zeichen",
+    "Fußheberschwäche bei erhaltener Pronation"
+   ],
+   "a": "E",
+   "expl": "Der N. fibularis profundus innerviert die Extensoren (Fußheber), aber nicht die Fibularismuskeln. Bei isolierter Läsion fällt der Fuß beim Gehen herab (Steppergang), die Pronation bleibt erhalten. Sensibel fällt nur der Zwischenraum zwischen 1. und 2. Zehe aus.",
+   "dis": {
+    "A": "Spricht für eine Läsion des N. fibularis superficialis.",
+    "B": "Spricht für eine Läsion des N. tibialis.",
+    "C": "Nn. plantares (N. tibialis).",
+    "D": "N. gluteus superior."
+   },
+   "merk": "",
+   "img": null
   }
  ]
 }
