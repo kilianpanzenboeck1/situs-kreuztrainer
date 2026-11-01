@@ -1,0 +1,19 @@
+{
+  "deck_root": "Situs",
+  "variants_per_question": 2,
+  "include_originals": true,
+  "batch_size_originals": 12,
+  "order": ["D1", "D2", "D3", "D4",
+            "A1", "A2", "A3", "A4", "A5", "A6", "A7", "A8", "A9", "A10", "A11", "A12", "A13", "A14", "A15",
+            "B1", "B2", "B3", "C1"],
+  "stages": [
+    {"name": "Etappe 1 – Probe", "chapters": ["D1"]},
+    {"name": "Etappe 2 – Teil D", "chapters": ["D2", "D3", "D4"]},
+    {"name": "Etappe 3a – Teil A Thorax", "chapters": ["A1", "A2", "A3", "A4", "A5"]},
+    {"name": "Etappe 3b – Teil A Abdomen", "chapters": ["A6", "A7", "A8", "A9", "A10"]},
+    {"name": "Etappe 3c – Teil A Rest", "chapters": ["A11", "A12", "A13", "A14", "A15"]},
+    {"name": "Etappe 4 – Teil B + C", "chapters": ["B1", "B2", "B3", "C1"]}
+  ],
+  "model_id": 1730468401,
+  "deck_id_base": 1730468500
+}

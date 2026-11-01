@@ -1,0 +1,5 @@
+{
+  "_info": "Originalfragen-IDs (wie in source/quiz.json) mit strittiger Lösung -> Hinweistext. Wird auf der Rückseite der Original- und aller Variantenkarten angezeigt. Quelle: Doc 'Situs – Fragen zur Abklärung mit Dr. Sebestény'. Fragen mit notes/src=korr in quiz.json werden automatisch zusätzlich markiert.",
+  "SD2-36": "Abweichende Lehrbuchmeinung – Lösung laut Prof. bleibt. Mit Dr. Sebestény abklären.",
+  "SD3-7": "Abweichende Lehrbuchmeinung – Lösung laut Prof. bleibt. Mit Dr. Sebestény abklären."
+}
