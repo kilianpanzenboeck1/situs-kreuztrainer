@@ -1657,6 +1657,558 @@
    },
    "merk": "",
    "img": null
+  },
+  {
+   "id": "V-SD2-37-1",
+   "src": "SD2-37",
+   "typ": "nachbarschaft",
+   "q": "Welche Sehne liegt am distalen Unterarm beugeseitig am oberflächlichsten und fehlt bei etwa 15 % der Menschen?",
+   "o": [
+    "Sehne des M. flexor pollicis longus",
+    "Sehne des M. flexor digitorum profundus",
+    "M. pronator quadratus",
+    "Sehne des M. flexor digitorum superficialis",
+    "Sehne des M. palmaris longus"
+   ],
+   "a": "E",
+   "expl": "Die Sehne des M. palmaris longus liegt in der Mitte des Handgelenks direkt unter der Haut und strahlt in die Palmaraponeurose ein. Sie fehlt häufig und wird gern als Sehnentransplantat genutzt.",
+   "dis": {
+    "A": "Liegt tief, radial neben den tiefen Beugern.",
+    "B": "Liegt am tiefsten der Fingerbeuger.",
+    "C": "Liegt ganz in der Tiefe direkt auf Radius und Ulna.",
+    "D": "Liegt unter der Palmaris-longus-Sehne."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-37-2",
+   "src": "SD2-37",
+   "typ": "klinik",
+   "q": "Nach einer tiefen Schnittverletzung am radialen distalen Unterarm kann ein Patient das Endgelenk des Daumens nicht mehr beugen. Welche Sehne ist durchtrennt?",
+   "o": [
+    "M. flexor pollicis brevis",
+    "M. abductor pollicis longus",
+    "M. flexor pollicis longus",
+    "M. flexor carpi radialis",
+    "M. palmaris longus"
+   ],
+   "a": "C",
+   "expl": "Das Daumenendgelenk wird ausschließlich vom M. flexor pollicis longus gebeugt. Seine Sehne liegt am distalen Unterarm tief, wird bei tiefen Schnitten aber mitverletzt.",
+   "dis": {
+    "A": "Kurzer Handmuskel, beugt nur im Grundgelenk.",
+    "B": "Abduziert den Daumen, liegt streckseitig-radial.",
+    "D": "Beugt im Handgelenk.",
+    "E": "Spannt die Palmaraponeurose, kein Daumenbeuger."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-38-1",
+   "src": "SD2-38",
+   "typ": "umkehrung",
+   "q": "Welche Strukturen ziehen durch die laterale Achsellücke?",
+   "o": [
+    "N. axillaris und A. circumflexa humeri posterior",
+    "A. circumflexa scapulae",
+    "N. radialis und A. profunda brachii",
+    "N. suprascapularis und A. suprascapularis",
+    "N. thoracodorsalis und A. thoracodorsalis"
+   ],
+   "a": "A",
+   "expl": "Durch die laterale (viereckige) Achsellücke ziehen N. axillaris und A. circumflexa humeri posterior nach dorsal zum M. deltoideus und M. teres minor. Durch die mediale (dreieckige) Lücke zieht die A. circumflexa scapulae.",
+   "dis": {
+    "B": "Zieht durch die mediale Achsellücke (Lösung der Originalfrage).",
+    "C": "Ziehen durch den Trizepsschlitz.",
+    "D": "Ziehen über bzw. unter dem Lig. transversum scapulae superius.",
+    "E": "Verlaufen an der lateralen Thoraxwand zum M. latissimus dorsi."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-38-2",
+   "src": "SD2-38",
+   "typ": "nachbarschaft",
+   "q": "Von welchen Strukturen wird die mediale Achsellücke begrenzt?",
+   "o": [
+    "M. teres minor, M. teres major und Humerus",
+    "M. teres major, Caput longum m. tricipitis und Humerus",
+    "M. teres minor, M. teres major und Caput longum m. tricipitis brachii",
+    "M. subscapularis, M. latissimus dorsi und Caput laterale m. tricipitis",
+    "M. supraspinatus, Spina scapulae und Acromion"
+   ],
+   "a": "C",
+   "expl": "Die mediale Achsellücke ist dreieckig: kranial M. teres minor, kaudal M. teres major, lateral Caput longum m. tricipitis brachii. Die laterale Lücke ist viereckig und wird zusätzlich lateral vom Humerus begrenzt.",
+   "dis": {
+    "A": "Zusammen mit dem Caput longum medial ergibt das die laterale Achsellücke.",
+    "B": "Das ist der Trizepsschlitz (N. radialis, A. profunda brachii).",
+    "D": "Keine Begrenzung einer Achsellücke.",
+    "E": "Begrenzen die Fossa supraspinata."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-39-1",
+   "src": "SD2-39",
+   "typ": "nachbarschaft",
+   "q": "Wo tastet man am Handgelenk den Puls der A. ulnaris?",
+   "o": [
+    "Ulnar der Sehne des M. flexor carpi radialis",
+    "Zwischen den Sehnen von M. palmaris longus und M. flexor carpi radialis",
+    "Radial der Sehne des M. flexor carpi ulnaris",
+    "In der Tabatière",
+    "Dorsal über dem Os pisiforme"
+   ],
+   "a": "C",
+   "expl": "Die A. ulnaris verläuft am distalen Unterarm unter dem M. flexor carpi ulnaris und ist am Handgelenk radial seiner Sehne tastbar. Danach zieht sie mit dem N. ulnaris durch die Loge de Guyon.",
+   "dis": {
+    "A": "Dort liegt der N. medianus bzw. die Sehne des M. palmaris longus.",
+    "B": "Dort liegt der N. medianus.",
+    "D": "Dort tastet man die A. radialis.",
+    "E": "Dorsal tastet man keine Ulnarispulse."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-39-2",
+   "src": "SD2-39",
+   "typ": "perspektive",
+   "q": "Aus welcher Arterie geht die A. radialis hervor?",
+   "o": [
+    "A. axillaris",
+    "A. brachialis",
+    "A. profunda brachii",
+    "A. ulnaris",
+    "A. interossea communis"
+   ],
+   "a": "B",
+   "expl": "Die A. brachialis teilt sich in der Ellenbeuge in A. radialis und A. ulnaris. Die A. radialis zieht unter dem M. brachioradialis nach distal und ist am Handgelenk zwischen Brachioradialis- und Flexor-carpi-radialis-Sehne tastbar.",
+   "dis": {
+    "A": "Setzt sich am Unterrand des M. teres major in die A. brachialis fort.",
+    "C": "Ast der A. brachialis am Oberarm, zieht mit dem N. radialis.",
+    "D": "Schwesterast der A. radialis.",
+    "E": "Ast der A. ulnaris."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-40-1",
+   "src": "SD2-40",
+   "typ": "umkehrung",
+   "q": "Die Sehne welches Muskels begrenzt die Tabatière ulnarwärts?",
+   "o": [
+    "M. extensor pollicis brevis",
+    "M. abductor pollicis longus",
+    "M. extensor pollicis longus",
+    "M. extensor carpi radialis longus",
+    "M. brachioradialis"
+   ],
+   "a": "C",
+   "expl": "Die Tabatière wird radial von den Sehnen des M. abductor pollicis longus und M. extensor pollicis brevis (1. Strecksehnenfach) und ulnar von der Sehne des M. extensor pollicis longus (3. Fach) begrenzt.",
+   "dis": {
+    "A": "Radiale Begrenzung (Lösung der Originalfrage).",
+    "B": "Radiale Begrenzung.",
+    "D": "Liegt im Boden bzw. ulnar unter der EPL-Sehne, begrenzt nicht.",
+    "E": "Setzt proximal am Proc. styloideus radii an."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-40-2",
+   "src": "SD2-40",
+   "typ": "klinik",
+   "q": "Nach einem Sturz auf die ausgestreckte Hand besteht ein Druckschmerz in der Tabatière. Welche Fraktur muss vor allem ausgeschlossen werden?",
+   "o": [
+    "Fraktur des Os scaphoideum",
+    "Fraktur des Os lunatum",
+    "Fraktur des Hamulus ossis hamati",
+    "Fraktur des Os pisiforme",
+    "Fraktur des Os capitatum"
+   ],
+   "a": "A",
+   "expl": "Im Boden der Tabatière liegen das Os scaphoideum (und das Os trapezium) sowie die A. radialis. Der Kahnbeinbruch ist die häufigste Handwurzelfraktur. Weil die Blutversorgung von distal kommt, droht eine Nekrose des proximalen Fragments.",
+   "dis": {
+    "B": "Liegt weiter ulnar, eher Luxation als Fraktur.",
+    "C": "Typisch bei Golf- oder Schlägersport, Druckschmerz in der Hohlhand.",
+    "D": "Druckschmerz palmar-ulnar.",
+    "E": "Selten, Druckschmerz in der Mitte des Handrückens."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-41-1",
+   "src": "SD2-41",
+   "typ": "bild",
+   "q": "Welche Funktion hat der in der Abbildung mit Stern markierte Muskel am Zeigefinger?",
+   "o": [
+    "Adduktion zur Mittelfingerachse",
+    "Streckung im Grundgelenk",
+    "Abduktion (Abspreizen) und Beugung im Grundgelenk",
+    "Opposition",
+    "Beugung im Endgelenk"
+   ],
+   "a": "C",
+   "expl": "Der Stern markiert den M. interosseus dorsalis I zwischen Os metacarpi I und II. Er spreizt den Zeigefinger nach radial ab, beugt im Grundgelenk und streckt über die Dorsalaponeurose in Mittel- und Endgelenk.",
+   "dis": {
+    "A": "Funktion der Mm. interossei palmares.",
+    "B": "Streckung im Grundgelenk: M. extensor digitorum, M. extensor indicis.",
+    "D": "Opposition ist eine Daumenbewegung (M. opponens pollicis).",
+    "E": "Beugung im Endgelenk: M. flexor digitorum profundus."
+   },
+   "merk": "„DAB/PAD“: Dorsale ABduzieren, Palmare ADduzieren.",
+   "img": "img/i141.jpg"
+  },
+  {
+   "id": "V-SD2-41-2",
+   "src": "SD2-41",
+   "typ": "bild",
+   "q": "Von welchem Nerv wird der in der Abbildung mit Stern markierte Muskel innerviert?",
+   "o": [
+    "R. superficialis n. radialis",
+    "N. medianus",
+    "R. profundus n. radialis",
+    "R. profundus n. ulnaris",
+    "N. interosseus anterior"
+   ],
+   "a": "D",
+   "expl": "Alle Mm. interossei werden vom R. profundus n. ulnaris innerviert. Der auf dem Bild über den Muskel ziehende sensible Nerv ist der R. superficialis n. radialis; er versorgt die Haut, nicht den Muskel.",
+   "dis": {
+    "A": "Rein sensibel; zieht im Bild oberflächlich über den Muskel.",
+    "B": "Innerviert Thenar (teilweise) und Mm. lumbricales I–II.",
+    "C": "Innerviert die Extensoren am Unterarm.",
+    "E": "Innerviert die tiefen Beuger am Unterarm."
+   },
+   "merk": "",
+   "img": "img/i141.jpg"
+  },
+  {
+   "id": "V-SD2-42-1",
+   "src": "SD2-42",
+   "typ": "perspektive",
+   "q": "Aus welchen Rückenmarkssegmenten wird der Truncus inferior des Plexus brachialis gebildet?",
+   "o": [
+    "C5 und C6",
+    "C7",
+    "C8 und Th1",
+    "C4 und C5",
+    "Th1 und Th2"
+   ],
+   "a": "C",
+   "expl": "Der Truncus superior entsteht aus C5/C6, der Truncus medius aus C7 und der Truncus inferior aus C8/Th1. Bei der unteren Plexuslähmung (Klumpke) fallen deshalb vor allem die Hand-Binnenmuskeln und Fingerbeuger aus.",
+   "dis": {
+    "A": "Truncus superior.",
+    "B": "Truncus medius.",
+    "D": "C4 beteiligt sich nur variabel (präfixierter Plexus) am Truncus superior.",
+    "E": "Th2 beteiligt sich nur variabel (postfixierter Plexus)."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-42-2",
+   "src": "SD2-42",
+   "typ": "klinik",
+   "q": "Bei einer Klumpke-Lähmung findet sich zusätzlich häufig ein Horner-Syndrom (Ptosis, Miosis, Enophthalmus) auf derselben Seite. Wie ist das zu erklären?",
+   "o": [
+    "Durch Mitverletzung des N. facialis",
+    "Durch Schädigung präganglionärer sympathischer Fasern, die das Rückenmark über die Wurzel Th1 verlassen",
+    "Durch Schädigung des N. phrenicus",
+    "Durch Schädigung des N. accessorius",
+    "Durch Schädigung des Ganglion ciliare"
+   ],
+   "a": "B",
+   "expl": "Die präganglionären sympathischen Fasern für Kopf und Auge verlassen das Rückenmark vor allem über die Vorderwurzel Th1 und ziehen zum Ganglion cervicale superius. Wird die Wurzel Th1 ausgerissen, fällt die sympathische Versorgung des Auges aus.",
+   "dis": {
+    "A": "Der N. facialis verursacht keine Miosis und keine Ptosis im Sinne des Horner-Syndroms.",
+    "C": "Folge wäre ein Zwerchfellhochstand.",
+    "D": "Folge wäre eine Lähmung von M. trapezius und M. sternocleidomastoideus.",
+    "E": "Das Ganglion ciliare ist parasympathisch; sein Ausfall führt zur Mydriasis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-43-1",
+   "src": "SD2-43",
+   "typ": "perspektive",
+   "q": "Aus welchen Rückenmarkssegmenten wird der Truncus superior des Plexus brachialis gebildet?",
+   "o": [
+    "C5 und C6",
+    "C7",
+    "C8 und Th1",
+    "C3 und C4",
+    "C6 bis C8"
+   ],
+   "a": "A",
+   "expl": "Der Truncus superior entsteht aus den Rr. ventrales C5 und C6. Aus ihm stammen u. a. N. suprascapularis, Teile von N. axillaris und N. musculocutaneus. Sein Ausfall (Erb-Lähmung) betrifft vor allem Schulter- und Oberarmmuskeln.",
+   "dis": {
+    "B": "Truncus medius.",
+    "C": "Truncus inferior.",
+    "D": "Plexus cervicalis (u. a. N. phrenicus aus C3–C5).",
+    "E": "Kein Truncus wird so gebildet."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-43-2",
+   "src": "SD2-43",
+   "typ": "klinik",
+   "q": "Welche Armhaltung ist typisch für eine obere Plexuslähmung (Erb-Duchenne)?",
+   "o": [
+    "Arm abduziert und außenrotiert",
+    "Krallenhand bei normaler Schulterfunktion",
+    "Fallhand bei normaler Schulterfunktion",
+    "Arm hängt herab, ist innenrotiert, im Ellenbogen gestreckt und der Unterarm proniert",
+    "Schwurhand"
+   ],
+   "a": "D",
+   "expl": "Bei der Erb-Lähmung fallen Abduktoren und Außenrotatoren der Schulter, Ellenbogenbeuger und Supinatoren aus. Der Arm hängt deshalb innenrotiert, gestreckt und proniert herab (Kellner-Trinkgeld-Stellung).",
+   "dis": {
+    "A": "Das Gegenteil; Abduktoren und Außenrotatoren sind gelähmt.",
+    "B": "Typisch für N.-ulnaris-Läsion bzw. untere Plexuslähmung.",
+    "C": "Typisch für N.-radialis-Läsion.",
+    "E": "Typisch für hohe N.-medianus-Läsion."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-44-1",
+   "src": "SD2-44",
+   "typ": "nachbarschaft",
+   "q": "Zwischen welchen Knochenvorsprüngen liegt die Loge de Guyon?",
+   "o": [
+    "Os scaphoideum und Os trapezium",
+    "Os lunatum und Os capitatum",
+    "Radius und Ulna",
+    "Os triquetrum und Os lunatum",
+    "Os pisiforme und Hamulus ossis hamati"
+   ],
+   "a": "E",
+   "expl": "Die Loge de Guyon liegt am ulnaren Handgelenk zwischen Os pisiforme (ulnar) und Hamulus ossis hamati (radial). Ihr Dach bildet das Lig. carpi palmare, ihren Boden Retinaculum flexorum und Lig. pisohamatum. In ihr verlaufen N. und A. ulnaris.",
+   "dis": {
+    "A": "Bilden die radiale Begrenzung des Karpaltunnels (Eminentia carpi radialis).",
+    "B": "Liegen zentral im Karpus.",
+    "C": "Proximal des Handgelenks.",
+    "D": "Liegen in der proximalen Reihe, bilden keine Loge."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-44-2",
+   "src": "SD2-44",
+   "typ": "klinik",
+   "q": "Ein Patient soll ein Blatt Papier zwischen Daumen und Zeigefinger festhalten. Dabei beugt er kompensatorisch das Daumenendgelenk (Froment-Zeichen). Welcher Muskel ist ausgefallen?",
+   "o": [
+    "M. flexor pollicis longus",
+    "M. adductor pollicis",
+    "M. opponens pollicis",
+    "M. abductor pollicis brevis",
+    "M. extensor pollicis longus"
+   ],
+   "a": "B",
+   "expl": "Fällt der M. adductor pollicis aus (R. profundus n. ulnaris), ersetzt der Patient die Adduktion durch Beugung im Endgelenk mit dem M. flexor pollicis longus (N. medianus). Das Froment-Zeichen ist ein typischer Hinweis auf eine Ulnarisläsion.",
+   "dis": {
+    "A": "Er ist gerade aktiv und erzeugt die kompensatorische Beugung.",
+    "C": "Medianus-Muskel; Ausfall stört die Opposition.",
+    "D": "Medianus-Muskel; Ausfall stört die Abduktion.",
+    "E": "Radialis-Muskel; Ausfall stört die Streckung des Endgelenks."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-45-1",
+   "src": "SD2-45",
+   "typ": "perspektive",
+   "q": "Welche Muskeln spreizen die Finger von der Mittelfingerachse ab?",
+   "o": [
+    "Mm. interossei palmares",
+    "Mm. lumbricales",
+    "M. extensor digitorum",
+    "Mm. interossei dorsales",
+    "M. flexor digitorum superficialis"
+   ],
+   "a": "D",
+   "expl": "Die Mm. interossei dorsales (vier, zweiköpfig) abduzieren die Finger von der Mittelfingerachse. Die Mm. interossei palmares adduzieren. Beide werden vom R. profundus n. ulnaris innerviert.",
+   "dis": {
+    "A": "Adduzieren die Finger zur Mittelfingerachse.",
+    "B": "Beugen im Grundgelenk und strecken Mittel- und Endgelenke.",
+    "C": "Streckt die Finger; leichtes Spreizen ist nur ein Nebeneffekt.",
+    "E": "Beugt in Mittel- und Grundgelenk."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-45-2",
+   "src": "SD2-45",
+   "typ": "klinik",
+   "q": "Welche Handstellung entsteht typischerweise bei einer länger bestehenden Läsion des N. ulnaris?",
+   "o": [
+    "Fallhand",
+    "Schwurhand",
+    "Krallenhand mit Überstreckung der Grundgelenke und Beugung der Mittel- und Endgelenke, vor allem an Ring- und Kleinfinger",
+    "Affenhand mit Thenaratrophie",
+    "Beugekontraktur durch Verkürzung der Palmaraponeurose"
+   ],
+   "a": "C",
+   "expl": "Fallen die Mm. interossei und die ulnaren Mm. lumbricales aus, überwiegen die langen Strecker im Grundgelenk und die langen Beuger in Mittel- und Endgelenken. Es entsteht die Krallenhand, betont an Ring- und Kleinfinger.",
+   "dis": {
+    "A": "N. radialis.",
+    "B": "Hohe N.-medianus-Läsion.",
+    "D": "N.-medianus-Läsion.",
+    "E": "Dupuytren-Kontraktur, keine Nervenläsion."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-46-1",
+   "src": "SD2-46",
+   "typ": "nachbarschaft",
+   "q": "Welcher Nerv verläuft im Sulcus bicipitalis medialis direkt neben der A. brachialis und überkreuzt sie von lateral nach medial?",
+   "o": [
+    "N. medianus",
+    "N. radialis",
+    "N. musculocutaneus",
+    "N. axillaris",
+    "N. cutaneus antebrachii lateralis"
+   ],
+   "a": "A",
+   "expl": "Der N. medianus begleitet die A. brachialis im Sulcus bicipitalis medialis. Er liegt proximal lateral der Arterie und überkreuzt sie zur Ellenbeuge hin, sodass er dort medial der Arterie liegt.",
+   "dis": {
+    "B": "Zieht mit der A. profunda brachii im Sulcus n. radialis um den Humerus.",
+    "C": "Verläuft zwischen M. biceps brachii und M. brachialis.",
+    "D": "Zieht durch die laterale Achsellücke nach dorsal.",
+    "E": "Endast des N. musculocutaneus, lateral in der Ellenbeuge."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-46-2",
+   "src": "SD2-46",
+   "typ": "perspektive",
+   "q": "Welcher Nerv durchbohrt den M. coracobrachialis und verläuft dann zwischen M. biceps brachii und M. brachialis nach distal?",
+   "o": [
+    "N. medianus",
+    "N. ulnaris",
+    "N. radialis",
+    "N. cutaneus antebrachii medialis",
+    "N. musculocutaneus"
+   ],
+   "a": "E",
+   "expl": "Der N. musculocutaneus durchbohrt den M. coracobrachialis und zieht lateral zwischen M. biceps und M. brachialis. Weil er nicht im Sulcus bicipitalis medialis liegt, bleibt der M. brachialis bei Verletzungen dort meist verschont.",
+   "dis": {
+    "A": "Verläuft im Sulcus bicipitalis medialis.",
+    "B": "Verläuft medial und zieht hinter den Epicondylus medialis.",
+    "C": "Zieht um den Humerus im Sulcus n. radialis.",
+    "D": "Verläuft epifaszial medial mit der V. basilica."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-47-1",
+   "src": "SD2-47",
+   "typ": "umkehrung",
+   "q": "Welcher Muskel ist bei einer Schädigung des N. medianus im Karpaltunnel am ehesten betroffen?",
+   "o": [
+    "M. adductor pollicis",
+    "M. opponens pollicis",
+    "M. flexor pollicis longus",
+    "M. pronator quadratus",
+    "M. abductor digiti minimi"
+   ],
+   "a": "B",
+   "expl": "Im Karpaltunnel sind nur die Äste distal davon betroffen: die Thenarmuskeln (M. abductor pollicis brevis, M. opponens pollicis, Caput superficiale m. flexoris pollicis brevis) und Mm. lumbricales I–II. Muskeln, die weiter proximal innerviert werden, bleiben intakt.",
+   "dis": {
+    "A": "R. profundus n. ulnaris (Lösung der Originalfrage).",
+    "C": "Wird proximal vom N. interosseus anterior innerviert.",
+    "D": "Wird proximal vom N. interosseus anterior innerviert.",
+    "E": "R. profundus n. ulnaris."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-47-2",
+   "src": "SD2-47",
+   "typ": "klinik",
+   "q": "Bei einer hohen Läsion des N. medianus oberhalb des Ellenbogens entsteht beim Versuch des Faustschlusses die Schwurhand. Welche Finger bleiben dabei gestreckt?",
+   "o": [
+    "Nur der Kleinfinger",
+    "Ring- und Kleinfinger",
+    "Daumen, Zeigefinger und teilweise der Mittelfinger",
+    "Alle Finger",
+    "Nur der Daumen"
+   ],
+   "a": "C",
+   "expl": "Bei hoher Medianusläsion fallen M. flexor digitorum superficialis, der radiale Teil des M. flexor digitorum profundus und M. flexor pollicis longus aus. Ring- und Kleinfinger können über den ulnar innervierten Profundusanteil noch gebeugt werden.",
+   "dis": {
+    "A": "Der Kleinfinger wird über den ulnaren Anteil des M. flexor digitorum profundus gebeugt.",
+    "B": "Diese können noch gebeugt werden (ulnar innerviert).",
+    "D": "Ring- und Kleinfinger sind beugefähig.",
+    "E": "Auch der Zeigefinger bleibt gestreckt."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-48-1",
+   "src": "SD2-48",
+   "typ": "bild",
+   "q": "Die in der Abbildung mit dem blauen Pfeil markierte Struktur verläuft am Handgelenk",
+   "o": [
+    "durch den Canalis carpi",
+    "durch die Tabatière",
+    "unter dem Retinaculum extensorum",
+    "durch die Loge de Guyon",
+    "hinter dem Epicondylus medialis"
+   ],
+   "a": "D",
+   "expl": "Der blaue Pfeil markiert den N. ulnaris. Er zieht am Handgelenk oberflächlich des Retinaculum flexorum mit der A. ulnaris durch die Loge de Guyon und teilt sich dort in R. superficialis und R. profundus.",
+   "dis": {
+    "A": "Durch den Karpaltunnel zieht der N. medianus.",
+    "B": "In der Tabatière verläuft die A. radialis.",
+    "C": "Unter dem Retinaculum extensorum ziehen die Strecksehnen.",
+    "E": "Dort verläuft der N. ulnaris am Ellenbogen, nicht am Handgelenk."
+   },
+   "merk": "",
+   "img": "img/i142.jpg"
+  },
+  {
+   "id": "V-SD2-48-2",
+   "src": "SD2-48",
+   "typ": "bild",
+   "q": "Welcher Muskel am Unterarm wird von der in der Abbildung mit dem blauen Pfeil markierten Struktur innerviert?",
+   "o": [
+    "M. flexor carpi radialis",
+    "M. palmaris longus",
+    "M. pronator teres",
+    "M. flexor pollicis longus",
+    "M. flexor carpi ulnaris"
+   ],
+   "a": "E",
+   "expl": "Der N. ulnaris innerviert am Unterarm nur zwei Muskeln: den M. flexor carpi ulnaris und den ulnaren Anteil des M. flexor digitorum profundus. Alle anderen Beuger versorgt der N. medianus.",
+   "dis": {
+    "A": "N. medianus.",
+    "B": "N. medianus.",
+    "C": "N. medianus.",
+    "D": "N. interosseus anterior (N. medianus)."
+   },
+   "merk": "„1½ Muskeln“: FCU und halber FDP für den N. ulnaris.",
+   "img": "img/i142.jpg"
   }
  ]
 }
