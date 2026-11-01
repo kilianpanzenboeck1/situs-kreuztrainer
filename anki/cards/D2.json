@@ -1,0 +1,1110 @@
+{
+ "chapter": "D2",
+ "status": "draft",
+ "cards": [
+  {
+   "id": "V-SD2-1-1",
+   "src": "SD2-1",
+   "typ": "perspektive",
+   "q": "Welcher Muskel der Rotatorenmanschette wird vom N. axillaris innerviert?",
+   "o": [
+    "M. teres minor",
+    "M. supraspinatus",
+    "M. infraspinatus",
+    "M. subscapularis",
+    "M. teres major"
+   ],
+   "a": "A",
+   "expl": "Der N. axillaris zieht durch die laterale Achsellücke und innerviert den M. deltoideus und den M. teres minor. Die übrigen Muskeln der Rotatorenmanschette werden vom N. suprascapularis (supra-/infraspinatus) bzw. von den Nn. subscapulares (subscapularis) versorgt.",
+   "dis": {
+    "B": "N. suprascapularis.",
+    "C": "N. suprascapularis.",
+    "D": "Nn. subscapulares.",
+    "E": "N. subscapularis bzw. N. thoracodorsalis; gehört außerdem nicht zur Rotatorenmanschette."
+   },
+   "merk": "Rotatorenmanschette = SITS: Supraspinatus, Infraspinatus, Teres minor, Subscapularis.",
+   "img": null
+  },
+  {
+   "id": "V-SD2-1-2",
+   "src": "SD2-1",
+   "typ": "klinik",
+   "q": "Ein 55-jähriger Maler hat Schmerzen bei der seitlichen Armhebung zwischen etwa 60° und 120° („painful arc“). Die Sehne welches Muskels ist beim subakromialen Impingement am häufigsten betroffen?",
+   "o": [
+    "M. infraspinatus",
+    "M. supraspinatus",
+    "M. subscapularis",
+    "Caput longum m. bicipitis brachii",
+    "M. teres minor"
+   ],
+   "a": "B",
+   "expl": "Die Sehne des M. supraspinatus zieht unter dem Fornix humeri (Acromion und Lig. coracoacromiale) zum Tuberculum majus. Bei der Abduktion wird sie dort eingeengt, deshalb ist sie beim Impingement und bei Rupturen der Rotatorenmanschette am häufigsten betroffen.",
+   "dis": {
+    "A": "Liegt dorsal und wird seltener eingeengt.",
+    "C": "Setzt ventral am Tuberculum minus an, außerhalb des subakromialen Engpasses.",
+    "D": "Kann mitbetroffen sein, ist aber nicht der typische Hauptbefund.",
+    "E": "Liegt dorsal-kaudal, kaum eingeengt."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-2-1",
+   "src": "SD2-2",
+   "typ": "umkehrung",
+   "q": "Welche Struktur verläuft nicht durch den Canalis carpi?",
+   "o": [
+    "N. medianus",
+    "Sehne des M. flexor pollicis longus",
+    "Sehnen des M. flexor digitorum profundus",
+    "N. ulnaris",
+    "Sehnen des M. flexor digitorum superficialis"
+   ],
+   "a": "D",
+   "expl": "Durch den Karpaltunnel ziehen der N. medianus sowie die Sehnen von M. flexor pollicis longus, M. flexor digitorum superficialis und profundus. N. und A. ulnaris verlaufen oberflächlich davon in der Loge de Guyon.",
+   "dis": {
+    "A": "Verläuft durch den Karpaltunnel (Lösung der Originalfrage).",
+    "B": "Verläuft in eigener Sehnenscheide durch den Karpaltunnel.",
+    "C": "Vier Sehnen ziehen durch den Karpaltunnel.",
+    "E": "Vier Sehnen ziehen durch den Karpaltunnel."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-2-2",
+   "src": "SD2-2",
+   "typ": "klinik",
+   "q": "Eine 50-jährige Patientin wacht nachts mit Kribbeln in der Hand auf. Bei der Untersuchung fällt eine Atrophie des Thenars auf. Welcher Befund passt am besten zu einem Karpaltunnelsyndrom?",
+   "o": [
+    "Hypothenaratrophie mit Sensibilitätsstörung am Kleinfinger",
+    "Fallhand",
+    "Krallenhand",
+    "Sensibilitätsstörung am Handrücken zwischen Daumen und Zeigefinger",
+    "Sensibilitätsstörung palmar an Daumen, Zeige-, Mittelfinger und radialer Hälfte des Ringfingers"
+   ],
+   "a": "E",
+   "expl": "Beim Karpaltunnelsyndrom wird der N. medianus unter dem Retinaculum flexorum komprimiert. Typisch sind Missempfindungen im palmaren Versorgungsgebiet (radiale 3½ Finger) und eine Thenaratrophie (M. abductor pollicis brevis, M. opponens pollicis). Die Haut über dem Thenar bleibt meist ausgespart, weil der R. palmaris vor dem Karpaltunnel abgeht.",
+   "dis": {
+    "A": "Spricht für eine Läsion des N. ulnaris.",
+    "B": "Spricht für eine Läsion des N. radialis.",
+    "C": "Typisch für eine Läsion des N. ulnaris.",
+    "D": "Versorgungsgebiet des R. superficialis n. radialis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-3-1",
+   "src": "SD2-3",
+   "typ": "nachbarschaft",
+   "q": "In welche Vene mündet die V. saphena magna?",
+   "o": [
+    "V. poplitea",
+    "V. iliaca externa",
+    "V. femoralis",
+    "V. profunda femoris",
+    "V. iliaca interna"
+   ],
+   "a": "C",
+   "expl": "Die V. saphena magna verläuft epifaszial vor dem Malleolus medialis und an der Innenseite von Unter- und Oberschenkel. Sie tritt durch den Hiatus saphenus und mündet unterhalb des Leistenbands in die V. femoralis (Venenstern).",
+   "dis": {
+    "A": "Hier mündet die V. saphena parva in der Kniekehle.",
+    "B": "Die V. femoralis setzt sich oberhalb des Leistenbands in die V. iliaca externa fort; die V. saphena magna mündet vorher.",
+    "D": "Tiefe Vene, mündet selbst in die V. femoralis.",
+    "E": "Sammelt Blut aus Becken und Gesäß."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-3-2",
+   "src": "SD2-3",
+   "typ": "perspektive",
+   "q": "Welche Aussage zur V. cephalica trifft zu?",
+   "o": [
+    "Sie verläuft an der ulnaren Seite des Unterarms.",
+    "Sie verläuft im Sulcus deltoideopectoralis und mündet in die V. axillaris.",
+    "Sie durchbricht im Hiatus basilicus die Fascia brachii.",
+    "Sie liegt subfaszial neben der A. brachialis.",
+    "Sie mündet in der Ellenbeuge in die V. brachialis."
+   ],
+   "a": "B",
+   "expl": "Die V. cephalica ist eine epifasziale Vene der radialen Armseite. Sie verläuft im Sulcus deltoideopectoralis (Mohrenheim-Grube), durchbricht dort die Fascia clavipectoralis und mündet in die V. axillaris.",
+   "dis": {
+    "A": "Ulnar verläuft die V. basilica.",
+    "C": "Das tut die V. basilica am Oberarm.",
+    "D": "Sie ist eine oberflächliche, epifasziale Vene.",
+    "E": "In der Ellenbeuge ist sie über die V. mediana cubiti mit der V. basilica verbunden."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-4-1",
+   "src": "SD2-4",
+   "typ": "umkehrung",
+   "q": "Welche Struktur gehört nicht zum Os coxae?",
+   "o": [
+    "Acetabulum",
+    "Spina ischiadica",
+    "Promontorium",
+    "Tuber ischiadicum",
+    "Spina iliaca anterior superior"
+   ],
+   "a": "C",
+   "expl": "Das Promontorium ist der vorspringende Oberrand des Os sacrum. Es gehört zum knöchernen Becken, aber nicht zum Hüftbein (Os coxae aus Os ilium, Os ischii, Os pubis).",
+   "dis": {
+    "A": "Gelenkpfanne des Os coxae.",
+    "B": "Teil des Os ischii.",
+    "D": "Teil des Os ischii.",
+    "E": "Teil des Os ilium."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-4-2",
+   "src": "SD2-4",
+   "typ": "perspektive",
+   "q": "Welche Knochen sind am Aufbau des Acetabulums beteiligt?",
+   "o": [
+    "Nur Os ilium und Os ischii",
+    "Os ilium, Os pubis und Os sacrum",
+    "Os ischii, Os pubis und Femur",
+    "Nur das Os ilium",
+    "Os ilium, Os ischii und Os pubis"
+   ],
+   "a": "E",
+   "expl": "Alle drei Anteile des Os coxae treffen sich im Acetabulum in der Y-Fuge, die in der Pubertät verknöchert. Das Femur artikuliert nur mit dem Acetabulum.",
+   "dis": {
+    "A": "Das Os pubis ist ebenfalls beteiligt.",
+    "B": "Das Os sacrum bildet das Iliosakralgelenk, nicht das Acetabulum.",
+    "C": "Das Femur ist der Gelenkpartner, nicht Bestandteil der Pfanne.",
+    "D": "Alle drei Hüftbeinanteile sind beteiligt."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-5-1",
+   "src": "SD2-5",
+   "typ": "umkehrung",
+   "q": "Welcher Knochen gehört zu den Ossa tarsi?",
+   "o": [
+    "Os lunatum",
+    "Os cuboideum",
+    "Os hamatum",
+    "Os pisiforme",
+    "Os scaphoideum"
+   ],
+   "a": "B",
+   "expl": "Fußwurzelknochen sind Talus, Calcaneus, Os naviculare, Os cuboideum und drei Ossa cuneiformia. Alle anderen genannten Knochen sind Handwurzelknochen.",
+   "dis": {
+    "A": "Handwurzelknochen (Lösung der Originalfrage).",
+    "C": "Handwurzelknochen mit Hamulus.",
+    "D": "Handwurzelknochen (Sesambein in der Sehne des M. flexor carpi ulnaris).",
+    "E": "Handwurzelknochen; am Fuß heißt der „Kahnknochen“ Os naviculare."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-5-2",
+   "src": "SD2-5",
+   "typ": "nachbarschaft",
+   "q": "Mit welchem Knochen artikuliert der Taluskopf in der Articulatio talocalcaneonavicularis nach distal?",
+   "o": [
+    "Os cuboideum",
+    "Os cuneiforme mediale",
+    "Os naviculare",
+    "Os metatarsale I",
+    "Fibula"
+   ],
+   "a": "C",
+   "expl": "Das Caput tali artikuliert nach distal mit dem Os naviculare und nach unten mit dem Calcaneus (und dem Lig. calcaneonaviculare plantare). Das ist das untere Sprunggelenk (vordere Kammer).",
+   "dis": {
+    "A": "Artikuliert mit dem Calcaneus (Articulatio calcaneocuboidea).",
+    "B": "Artikuliert mit dem Os naviculare, nicht mit dem Talus.",
+    "D": "Gehört zum Mittelfuß.",
+    "E": "Bildet mit dem Talus das obere Sprunggelenk (Malleolengabel)."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-6-1",
+   "src": "SD2-6",
+   "typ": "perspektive",
+   "q": "Welcher Nerv innerviert den M. rhomboideus major?",
+   "o": [
+    "N. accessorius",
+    "N. thoracodorsalis",
+    "Rr. dorsales der Spinalnerven",
+    "N. dorsalis scapulae",
+    "N. thoracicus longus"
+   ],
+   "a": "D",
+   "expl": "Die Mm. rhomboidei und der M. levator scapulae werden vom N. dorsalis scapulae (Plexus brachialis, C4/C5) innerviert. Sie sind eingewanderte Muskeln und gehören deshalb nicht zur autochthonen Rückenmuskulatur.",
+   "dis": {
+    "A": "Innerviert M. trapezius und M. sternocleidomastoideus.",
+    "B": "Innerviert den M. latissimus dorsi.",
+    "C": "Innervieren die autochthone Rückenmuskulatur.",
+    "E": "Innerviert den M. serratus anterior."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-6-2",
+   "src": "SD2-6",
+   "typ": "umkehrung",
+   "q": "Welches Merkmal unterscheidet die autochthone Rückenmuskulatur grundsätzlich von den eingewanderten Rückenmuskeln?",
+   "o": [
+    "Innervation durch die Rr. dorsales der Spinalnerven",
+    "Innervation durch die Rr. ventrales der Spinalnerven",
+    "Ansatz an der Scapula",
+    "Ursprung am Humerus",
+    "Lage oberflächlich der Fascia thoracolumbalis"
+   ],
+   "a": "A",
+   "expl": "Die autochthone (genuine) Rückenmuskulatur ist am Rücken entstanden und wird ausschließlich von Rr. dorsales innerviert. Die eingewanderten Muskeln (z. B. Mm. rhomboidei, M. latissimus dorsi, M. trapezius) stammen aus Extremitäten- bzw. Kopfanlage und werden von Rr. ventrales bzw. Hirnnerven versorgt.",
+   "dis": {
+    "B": "Kennzeichen der eingewanderten Muskeln.",
+    "C": "Typisch für eingewanderte Schultergürtelmuskeln.",
+    "D": "Kein Muskel der autochthonen Gruppe entspringt am Humerus.",
+    "E": "Die autochthone Muskulatur liegt in der osteofibrösen Loge unter dem oberflächlichen Blatt der Fascia thoracolumbalis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-7-1",
+   "src": "SD2-7",
+   "typ": "perspektive",
+   "q": "Aus welchem Gefäß entspringt die A. sacralis mediana?",
+   "o": [
+    "A. iliaca interna",
+    "A. iliaca communis dextra",
+    "A. mesenterica inferior",
+    "A. iliaca externa",
+    "Aorta abdominalis"
+   ],
+   "a": "E",
+   "expl": "Die A. sacralis mediana entspringt unpaar von der Hinterwand der Aorta abdominalis kurz oberhalb der Bifurkation (L4). Sie zieht vor dem Os sacrum nach kaudal bis zum Steißbein.",
+   "dis": {
+    "A": "Aus ihr stammt die A. sacralis lateralis.",
+    "B": "Gibt keine A. sacralis mediana ab.",
+    "C": "Versorgt das linke Kolon und das obere Rektum.",
+    "D": "Gibt A. epigastrica inferior und A. circumflexa ilium profunda ab."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-7-2",
+   "src": "SD2-7",
+   "typ": "umkehrung",
+   "q": "Welche Arterie ist ein Ast der A. iliaca interna?",
+   "o": [
+    "A. epigastrica inferior",
+    "A. pudenda interna",
+    "A. circumflexa ilium profunda",
+    "A. testicularis",
+    "A. mesenterica inferior"
+   ],
+   "a": "B",
+   "expl": "Die A. pudenda interna ist ein Ast des vorderen Stammes der A. iliaca interna. Sie verlässt das Becken durch das Foramen infrapiriforme und zieht im Alcock-Kanal zum Perineum.",
+   "dis": {
+    "A": "Ast der A. iliaca externa.",
+    "C": "Ast der A. iliaca externa.",
+    "D": "Entspringt direkt aus der Aorta abdominalis.",
+    "E": "Unpaarer Ast der Aorta abdominalis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-8-1",
+   "src": "SD2-8",
+   "typ": "perspektive",
+   "q": "Von welchem Nerv wird der M. brachialis überwiegend innerviert?",
+   "o": [
+    "N. radialis",
+    "N. medianus",
+    "N. musculocutaneus",
+    "N. ulnaris",
+    "N. axillaris"
+   ],
+   "a": "C",
+   "expl": "Der M. brachialis wird überwiegend vom N. musculocutaneus innerviert, sein lateraler Anteil häufig zusätzlich vom N. radialis. Er setzt an der Tuberositas ulnae an und beugt daher unabhängig von Pro- oder Supination.",
+   "dis": {
+    "A": "Versorgt allenfalls einen kleinen lateralen Anteil.",
+    "B": "Innerviert die Beuger am Unterarm, nicht den M. brachialis.",
+    "D": "Innerviert u. a. M. flexor carpi ulnaris.",
+    "E": "Innerviert M. deltoideus und M. teres minor."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-8-2",
+   "src": "SD2-8",
+   "typ": "umkehrung",
+   "q": "Welcher Muskel ist bei gebeugtem Ellenbogengelenk der kräftigste Supinator des Unterarms?",
+   "o": [
+    "M. supinator",
+    "M. brachioradialis",
+    "M. brachialis",
+    "M. pronator teres",
+    "M. biceps brachii"
+   ],
+   "a": "E",
+   "expl": "Der M. biceps brachii setzt an der Tuberositas radii an und wickelt bei Supination den Radius ab. Bei gebeugtem Ellenbogen ist er der stärkste Supinator, bei gestrecktem überwiegt der M. supinator.",
+   "dis": {
+    "A": "Wirkt vor allem bei gestrecktem Ellenbogen, ist insgesamt schwächer.",
+    "B": "Bringt den Unterarm in Mittelstellung, ist kein kräftiger Supinator.",
+    "C": "Setzt an der Ulna an und hat keine Rotationswirkung.",
+    "D": "Pronator."
+   },
+   "merk": "„Korkenzieher“: Mit Supination (Bizeps) dreht man die Schraube rein.",
+   "img": null
+  },
+  {
+   "id": "V-SD2-9-1",
+   "src": "SD2-9",
+   "typ": "perspektive",
+   "q": "Welcher Muskel der Adduktorengruppe wird vom N. obturatorius innerviert und zieht als einziger von ihnen über das Kniegelenk?",
+   "o": [
+    "M. adductor longus",
+    "M. pectineus",
+    "M. adductor brevis",
+    "M. gracilis",
+    "M. sartorius"
+   ],
+   "a": "D",
+   "expl": "Der M. gracilis entspringt am Ramus inferior ossis pubis und setzt über den Pes anserinus superficialis an der medialen Tibia an. Er adduziert im Hüftgelenk und beugt und rotiert im Kniegelenk nach innen.",
+   "dis": {
+    "A": "Setzt am Labium mediale der Linea aspera an.",
+    "B": "Setzt an der Linea pectinea an; Innervation vorwiegend N. femoralis.",
+    "C": "Setzt an der Linea aspera an.",
+    "E": "Zieht über das Knie, gehört aber zur Extensorengruppe und wird vom N. femoralis innerviert."
+   },
+   "merk": "Pes anserinus: „Say Grace before Tea“ – Sartorius, Gracilis, Semitendinosus.",
+   "img": null
+  },
+  {
+   "id": "V-SD2-9-2",
+   "src": "SD2-9",
+   "typ": "umkehrung",
+   "q": "Welcher Muskel bildet gemeinsam mit dem M. gastrocnemius den M. triceps surae?",
+   "o": [
+    "M. tibialis posterior",
+    "M. popliteus",
+    "M. soleus",
+    "M. flexor hallucis longus",
+    "M. fibularis longus"
+   ],
+   "a": "C",
+   "expl": "Der M. triceps surae besteht aus den beiden Köpfen des M. gastrocnemius und dem M. soleus. Er setzt über die Achillessehne am Tuber calcanei an und ist der stärkste Plantarflexor.",
+   "dis": {
+    "A": "Tiefer Flexor des Unterschenkels.",
+    "B": "Kleiner Muskel der Kniekehle, „entriegelt“ das Knie.",
+    "D": "Tiefer Flexor.",
+    "E": "Laterale Gruppe (Fibularismuskeln)."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-10-1",
+   "src": "SD2-10",
+   "typ": "perspektive",
+   "q": "Welcher Nerv innerviert den M. subscapularis?",
+   "o": [
+    "Nn. subscapulares",
+    "N. suprascapularis",
+    "N. axillaris",
+    "N. thoracodorsalis",
+    "N. musculocutaneus"
+   ],
+   "a": "A",
+   "expl": "Die Nn. subscapulares aus dem Fasciculus posterior innervieren den M. subscapularis und den M. teres major. Der Muskel entspringt in der Fossa subscapularis und setzt am Tuberculum minus an.",
+   "dis": {
+    "B": "Innerviert M. supraspinatus und M. infraspinatus.",
+    "C": "Innerviert M. deltoideus und M. teres minor.",
+    "D": "Innerviert den M. latissimus dorsi.",
+    "E": "Innerviert M. coracobrachialis, M. biceps brachii und M. brachialis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-10-2",
+   "src": "SD2-10",
+   "typ": "umkehrung",
+   "q": "Welcher Muskel ist der kräftigste Außenrotator im Schultergelenk?",
+   "o": [
+    "M. teres major",
+    "M. subscapularis",
+    "M. latissimus dorsi",
+    "M. infraspinatus",
+    "M. pectoralis major"
+   ],
+   "a": "D",
+   "expl": "Der M. infraspinatus entspringt in der Fossa infraspinata und setzt am Tuberculum majus an. Er ist der stärkste Außenrotator, unterstützt vom M. teres minor und der Pars spinalis des M. deltoideus.",
+   "dis": {
+    "A": "Innenrotator.",
+    "B": "Kräftigster Innenrotator (Lösung der Originalfrage).",
+    "C": "Innenrotator.",
+    "E": "Innenrotator."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-11-1",
+   "src": "SD2-11",
+   "typ": "umkehrung",
+   "q": "Die Palmarflexion der Hand erfolgt v. a. in der",
+   "o": [
+    "Articulatio radioulnaris distalis",
+    "Articulatio radiocarpalis",
+    "Articulatio mediocarpalis",
+    "Articulationes carpometacarpales",
+    "Articulationes metacarpophalangeae"
+   ],
+   "a": "B",
+   "expl": "Das proximale Handgelenk (Articulatio radiocarpalis) trägt vor allem zur Palmarflexion bei, das distale Handgelenk (Articulatio mediocarpalis) vor allem zur Dorsalextension.",
+   "dis": {
+    "A": "Dient der Pro- und Supination.",
+    "C": "Hauptgelenk der Dorsalextension (Lösung der Originalfrage).",
+    "D": "Bis auf das Daumensattelgelenk straffe Amphiarthrosen.",
+    "E": "Fingergrundgelenke, nicht Handgelenk."
+   },
+   "merk": "Palmarflexion proximal, Dorsalextension distal (mediokarpal).",
+   "img": null
+  },
+  {
+   "id": "V-SD2-11-2",
+   "src": "SD2-11",
+   "typ": "nachbarschaft",
+   "q": "Welche Knochen bilden die proximale Gelenkpartnerschaft der Articulatio radiocarpalis mit dem Radius?",
+   "o": [
+    "Os scaphoideum, Os trapezium und Os trapezoideum",
+    "Os capitatum und Os hamatum",
+    "Os pisiforme und Os triquetrum",
+    "Ulna direkt mit dem Os triquetrum",
+    "Os scaphoideum, Os lunatum und Os triquetrum (über den Discus articularis)"
+   ],
+   "a": "E",
+   "expl": "Der Radius und der Discus articularis bilden die Pfanne. Gelenkkopf ist die proximale Handwurzelreihe aus Os scaphoideum, Os lunatum und Os triquetrum. Die Ulna ist durch den Discus vom Gelenk getrennt.",
+   "dis": {
+    "A": "Os trapezium und Os trapezoideum gehören zur distalen Reihe.",
+    "B": "Distale Reihe, Teil der Articulatio mediocarpalis.",
+    "C": "Das Os pisiforme ist ein Sesambein und nicht am Radiokarpalgelenk beteiligt.",
+    "D": "Der Discus articularis trennt Ulna und Karpus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-12-1",
+   "src": "SD2-12",
+   "typ": "perspektive",
+   "q": "Von welchem Nerv wird das Caput breve des M. biceps femoris innerviert?",
+   "o": [
+    "N. tibialis",
+    "N. fibularis communis (Pars fibularis n. ischiadici)",
+    "N. femoralis",
+    "N. obturatorius",
+    "N. gluteus inferior"
+   ],
+   "a": "B",
+   "expl": "Das Caput breve wird vom fibularen Anteil des N. ischiadicus versorgt, das Caput longum und die übrigen ischiokruralen Muskeln vom tibialen Anteil. Das Caput breve überspringt nur das Kniegelenk.",
+   "dis": {
+    "A": "Innerviert das Caput longum, M. semitendinosus und M. semimembranosus.",
+    "C": "Innerviert den M. quadriceps femoris.",
+    "D": "Innerviert die Adduktoren.",
+    "E": "Innerviert den M. gluteus maximus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-12-2",
+   "src": "SD2-12",
+   "typ": "umkehrung",
+   "q": "Welcher Muskel bewirkt im gebeugten Kniegelenk eine Innenrotation?",
+   "o": [
+    "M. biceps femoris",
+    "M. vastus lateralis",
+    "M. rectus femoris",
+    "M. semitendinosus",
+    "M. soleus"
+   ],
+   "a": "D",
+   "expl": "Innenrotatoren im Kniegelenk sind M. semitendinosus, M. semimembranosus, M. gracilis, M. sartorius und M. popliteus. Einziger Außenrotator ist der M. biceps femoris.",
+   "dis": {
+    "A": "Einziger Außenrotator (Lösung der Originalfrage).",
+    "C": "Streckt im Kniegelenk, rotiert nicht.",
+    "B": "Streckt im Kniegelenk, rotiert nicht.",
+    "E": "Zieht nicht über das Kniegelenk."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-13-1",
+   "src": "SD2-13",
+   "typ": "nachbarschaft",
+   "q": "Welcher Nerv begleitet die V. saphena magna epifaszial vor dem Malleolus medialis?",
+   "o": [
+    "N. saphenus",
+    "N. suralis",
+    "N. fibularis superficialis",
+    "N. tibialis",
+    "N. fibularis profundus"
+   ],
+   "a": "A",
+   "expl": "Der N. saphenus ist der längste sensible Endast des N. femoralis. Er begleitet die V. saphena magna am medialen Unterschenkel und zieht mit ihr vor dem Malleolus medialis zum medialen Fußrand.",
+   "dis": {
+    "B": "Begleitet die V. saphena parva hinter dem Malleolus lateralis.",
+    "C": "Versorgt den Fußrücken, zieht vor dem oberen Sprunggelenk lateral.",
+    "D": "Verläuft subfaszial hinter dem Malleolus medialis im Tarsaltunnel.",
+    "E": "Verläuft subfaszial mit der A. tibialis anterior."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-13-2",
+   "src": "SD2-13",
+   "typ": "nachbarschaft",
+   "q": "Welche Struktur verläuft subfaszial hinter dem Malleolus medialis durch den Tarsaltunnel?",
+   "o": [
+    "N. suralis",
+    "N. fibularis profundus",
+    "N. tibialis",
+    "V. saphena magna",
+    "Sehne des M. fibularis longus"
+   ],
+   "a": "C",
+   "expl": "Unter dem Retinaculum musculorum flexorum ziehen hinter dem Malleolus medialis die Sehnen von M. tibialis posterior, M. flexor digitorum longus und M. flexor hallucis longus sowie A., V. und N. tibialis (posterior). Eine Kompression des Nervs dort ist das Tarsaltunnelsyndrom.",
+   "dis": {
+    "A": "Verläuft epifaszial hinter dem Malleolus lateralis.",
+    "B": "Zieht vorne auf den Fußrücken.",
+    "D": "Verläuft epifaszial vor dem Malleolus medialis.",
+    "E": "Zieht hinter dem Malleolus lateralis."
+   },
+   "merk": "Tarsaltunnel von vorne nach hinten: „Tom, Dick and very nervous Harry“ – Tibialis posterior, Digitorum longus, Vasa, Nervus, Hallucis longus.",
+   "img": null
+  },
+  {
+   "id": "V-SD2-14-1",
+   "src": "SD2-14",
+   "typ": "umkehrung",
+   "q": "Welche der folgenden Leitungsbahnen liegt unterhalb des Leistenbands am weitesten medial?",
+   "o": [
+    "A. femoralis",
+    "N. femoralis",
+    "R. femoralis n. genitofemoralis",
+    "N. cutaneus femoris lateralis",
+    "V. femoralis"
+   ],
+   "a": "E",
+   "expl": "Unterhalb des Leistenbands liegen von medial nach lateral: V. femoralis, A. femoralis, N. femoralis (Vene – Arterie – Nerv). Noch weiter medial liegen nur Lymphgefäße im Anulus femoralis.",
+   "dis": {
+    "A": "Liegt lateral der Vene.",
+    "B": "Liegt am weitesten lateral der drei Hauptleitungsbahnen (Lacuna musculorum).",
+    "C": "Liegt lateral, auf bzw. neben der A. femoralis.",
+    "D": "Zieht ganz lateral nahe der Spina iliaca anterior superior."
+   },
+   "merk": "Von medial: „IVAN“ – Innen Vene, Arterie, Nerv.",
+   "img": null
+  },
+  {
+   "id": "V-SD2-14-2",
+   "src": "SD2-14",
+   "typ": "klinik",
+   "q": "Für einen zentralvenösen Zugang soll die V. femoralis punktiert werden. Man tastet den Puls der A. femoralis knapp unterhalb des Leistenbands. Wo wird punktiert?",
+   "o": [
+    "Etwa 1 cm medial des Pulses",
+    "Etwa 1 cm lateral des Pulses",
+    "Direkt am Ort des stärksten Pulses",
+    "Oberhalb des Leistenbands",
+    "In der Kniekehle"
+   ],
+   "a": "A",
+   "expl": "Die V. femoralis liegt unterhalb des Leistenbands medial der A. femoralis. Deshalb punktiert man knapp medial des getasteten Pulses. Oberhalb des Leistenbands drohen retroperitoneale Blutungen.",
+   "dis": {
+    "B": "Lateral liegt der N. femoralis.",
+    "C": "Hier würde die Arterie punktiert.",
+    "D": "Gefahr einer nicht komprimierbaren retroperitonealen Blutung.",
+    "E": "Dort liegt die V. poplitea, nicht die V. femoralis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-15-1",
+   "src": "SD2-15",
+   "typ": "umkehrung",
+   "q": "Welche Struktur dient dem Caput longum des M. biceps brachii als Ursprung?",
+   "o": [
+    "Tuberculum infraglenoidale",
+    "Proc. coracoideus",
+    "Tuberculum supraglenoidale",
+    "Tuberculum minus",
+    "Sulcus intertubercularis"
+   ],
+   "a": "C",
+   "expl": "Das Caput longum entspringt am Tuberculum supraglenoidale und zieht intraartikulär durch das Schultergelenk und dann im Sulcus intertubercularis. Das Tuberculum ist beim Lebenden nicht tastbar, weil es im Gelenk oberhalb der Cavitas glenoidalis liegt.",
+   "dis": {
+    "A": "Ursprung des Caput longum m. tricipitis brachii.",
+    "B": "Ursprung des Caput breve m. bicipitis brachii.",
+    "D": "Ansatz des M. subscapularis.",
+    "E": "Hier verläuft die Sehne, sie entspringt nicht dort."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-15-2",
+   "src": "SD2-15",
+   "typ": "perspektive",
+   "q": "Welcher tastbare Knochenpunkt liegt in der Fossa infraclavicularis (Mohrenheim-Grube) unterhalb des lateralen Drittels der Clavicula?",
+   "o": [
+    "Proc. coracoideus",
+    "Acromion",
+    "Tuberculum majus",
+    "Angulus inferior scapulae",
+    "Tuberculum supraglenoidale"
+   ],
+   "a": "A",
+   "expl": "Der Proc. coracoideus ist in der Mohrenheim-Grube etwa 2 cm unterhalb der Clavicula tastbar. Er ist Ursprung von M. coracobrachialis und Caput breve m. bicipitis sowie Ansatz des M. pectoralis minor.",
+   "dis": {
+    "B": "Liegt als Schulterhöhe lateral am Ende der Spina scapulae.",
+    "C": "Liegt lateral am Humeruskopf unter dem M. deltoideus.",
+    "D": "Liegt am Rücken etwa in Höhe Th7.",
+    "E": "Liegt intraartikulär, nicht tastbar."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-16-1",
+   "src": "SD2-16",
+   "typ": "nachbarschaft",
+   "q": "Durch welche Öffnung verlässt der N. gluteus superior das kleine Becken?",
+   "o": [
+    "Foramen infrapiriforme",
+    "Foramen suprapiriforme",
+    "Foramen ischiadicum minus",
+    "Canalis obturatorius",
+    "Lacuna musculorum"
+   ],
+   "a": "B",
+   "expl": "Der N. gluteus superior zieht mit den Vasa glutea superiora durch das Foramen suprapiriforme. Danach verläuft er zwischen M. gluteus medius und minimus nach lateral bis zum M. tensor fasciae latae.",
+   "dis": {
+    "A": "Hier ziehen N. gluteus inferior, N. ischiadicus, N. pudendus und N. cutaneus femoris posterior.",
+    "C": "Durch dieses Foramen ziehen N. pudendus und Vasa pudenda interna in die Fossa ischioanalis.",
+    "D": "Hier zieht der N. obturatorius.",
+    "E": "Hier ziehen N. femoralis und M. iliopsoas."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-16-2",
+   "src": "SD2-16",
+   "typ": "umkehrung",
+   "q": "Welche Muskeln innerviert der N. gluteus superior?",
+   "o": [
+    "M. gluteus maximus und M. tensor fasciae latae",
+    "M. gluteus medius und M. quadratus femoris",
+    "M. obturatorius internus und Mm. gemelli",
+    "M. gluteus medius, M. gluteus minimus und M. tensor fasciae latae",
+    "Nur den M. gluteus maximus"
+   ],
+   "a": "D",
+   "expl": "Der N. gluteus superior versorgt die drei Muskeln, die das Becken beim Einbeinstand halten: M. gluteus medius, M. gluteus minimus und M. tensor fasciae latae. Sein Ausfall führt zum Trendelenburg-Zeichen.",
+   "dis": {
+    "A": "Der M. gluteus maximus wird vom N. gluteus inferior innerviert.",
+    "B": "Der M. quadratus femoris erhält einen eigenen Ast aus dem Plexus sacralis.",
+    "C": "Werden von eigenen Ästen des Plexus sacralis versorgt.",
+    "E": "Das ist der N. gluteus inferior."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-17-1",
+   "src": "SD2-17",
+   "typ": "klinik",
+   "q": "Nach einer Axillardissektion steht beim Abstützen an der Wand der mediale Rand des Schulterblatts flügelartig ab (Scapula alata). Welcher Muskel ist ausgefallen?",
+   "o": [
+    "M. serratus anterior",
+    "M. rhomboideus major",
+    "M. latissimus dorsi",
+    "M. levator scapulae",
+    "M. pectoralis major"
+   ],
+   "a": "A",
+   "expl": "Der M. serratus anterior hält die Scapula am Thorax und dreht sie bei der Elevation über 90°. Sein Nerv, der N. thoracicus longus, verläuft auf der lateralen Thoraxwand und ist bei Eingriffen in der Achsel gefährdet.",
+   "dis": {
+    "B": "Ausfall führt zu leichtem Abstehen des Margo medialis ohne typische Scapula alata.",
+    "C": "Ausfall schwächt Adduktion und Retroversion des Arms.",
+    "D": "Ausfall schwächt das Heben der Scapula.",
+    "E": "Ausfall schwächt Adduktion und Anteversion, nicht die Scapulafixation."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-17-2",
+   "src": "SD2-17",
+   "typ": "perspektive",
+   "q": "Welcher Nerv innerviert den M. latissimus dorsi?",
+   "o": [
+    "N. dorsalis scapulae",
+    "N. thoracicus longus",
+    "N. accessorius",
+    "N. axillaris",
+    "N. thoracodorsalis"
+   ],
+   "a": "E",
+   "expl": "Der N. thoracodorsalis aus dem Fasciculus posterior (C6–C8) zieht mit der A. thoracodorsalis zum M. latissimus dorsi. Der Muskel ist ein Rumpf-Arm-Muskel und gehört nicht zur Schultergürtelmuskulatur im engeren Sinn.",
+   "dis": {
+    "A": "Innerviert Mm. rhomboidei und M. levator scapulae.",
+    "B": "Innerviert den M. serratus anterior.",
+    "C": "Innerviert M. trapezius und M. sternocleidomastoideus.",
+    "D": "Innerviert M. deltoideus und M. teres minor."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-18-1",
+   "src": "SD2-18",
+   "typ": "perspektive",
+   "q": "Welche Struktur vergrößert die knöcherne Gelenkfläche der Cavitas glenoidalis des Schultergelenks?",
+   "o": [
+    "Labrum glenoidale",
+    "Lig. transversum humeri",
+    "Discus articularis",
+    "Meniscus lateralis",
+    "Lig. conoideum"
+   ],
+   "a": "A",
+   "expl": "Das Labrum glenoidale ist eine faserknorpelige Gelenklippe am Rand der Cavitas glenoidalis. Sie vergrößert und vertieft die kleine Pfanne des Kugelgelenks. Bei vorderer Luxation kann sie abreißen (Bankart-Läsion).",
+   "dis": {
+    "B": "Überbrückt den Sulcus intertubercularis.",
+    "C": "Kommt z. B. im Sternoklavikular- und Kiefergelenk vor, nicht im Schultergelenk.",
+    "D": "Gehört zum Kniegelenk.",
+    "E": "Teil des Lig. coracoclaviculare, verbindet Clavicula und Proc. coracoideus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-18-2",
+   "src": "SD2-18",
+   "typ": "klinik",
+   "q": "Ein Handballspieler luxiert sich die Schulter. In welche Richtung luxiert der Humeruskopf am häufigsten, und welcher Nerv ist dabei besonders gefährdet?",
+   "o": [
+    "Nach dorsal – N. radialis",
+    "Nach kranial – N. suprascapularis",
+    "Nach ventral-kaudal – N. axillaris",
+    "Nach dorsal – N. ulnaris",
+    "Nach kranial – N. musculocutaneus"
+   ],
+   "a": "C",
+   "expl": "Über 90 % der Schulterluxationen erfolgen nach vorne-unten, weil die Kapsel dort am schwächsten ist. Der N. axillaris zieht direkt unter dem Gelenk durch die laterale Achsellücke und kann gedehnt werden. Typisch sind ein Ausfall des M. deltoideus und Taubheit an der lateralen Schulter.",
+   "dis": {
+    "A": "Dorsale Luxationen sind selten (z. B. Krampfanfall); der N. radialis ist typischerweise bei Humerusschaftfrakturen gefährdet.",
+    "B": "Kranial verhindert der Fornix humeri eine Luxation.",
+    "D": "Der N. ulnaris ist am Ellenbogen gefährdet.",
+    "E": "Kraniale Luxationen kommen praktisch nicht vor."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-19-1",
+   "src": "SD2-19",
+   "typ": "perspektive",
+   "q": "Welche Funktion haben die ischiokruralen Muskeln (M. semitendinosus, M. semimembranosus, Caput longum m. bicipitis femoris) gemeinsam?",
+   "o": [
+    "Beugung im Hüftgelenk und Streckung im Kniegelenk",
+    "Streckung im Hüftgelenk und Beugung im Kniegelenk",
+    "Abduktion im Hüftgelenk",
+    "Streckung im Kniegelenk",
+    "Plantarflexion im oberen Sprunggelenk"
+   ],
+   "a": "B",
+   "expl": "Die ischiokruralen Muskeln entspringen am Tuber ischiadicum und setzen am Unterschenkel an. Als zweigelenkige Muskeln strecken sie im Hüftgelenk und beugen im Kniegelenk. Zusätzlich rotieren sie im Knie: der Bizeps nach außen, die Semi-Muskeln nach innen.",
+   "dis": {
+    "A": "Genau umgekehrt; das ist die Funktion des M. rectus femoris.",
+    "C": "Abduktion: M. gluteus medius und minimus.",
+    "D": "Kniestreckung: M. quadriceps femoris.",
+    "E": "Plantarflexion: M. triceps surae."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-19-2",
+   "src": "SD2-19",
+   "typ": "nachbarschaft",
+   "q": "Welcher Nerv verläuft in der Kniekehle am medialen Rand der Sehne des M. biceps femoris entlang und schlingt sich um das Collum fibulae?",
+   "o": [
+    "N. tibialis",
+    "N. saphenus",
+    "N. suralis",
+    "N. obturatorius",
+    "N. fibularis communis"
+   ],
+   "a": "E",
+   "expl": "Der N. fibularis communis folgt der Bizepssehne nach lateral und schlingt sich um das Collum fibulae, wo er nur von Haut bedeckt ist. Bei Fibulafrakturen oder Druck (z. B. Gips) wird er leicht geschädigt; typisch sind Fußheberschwäche und Steppergang.",
+   "dis": {
+    "A": "Verläuft mittig durch die Kniekehle zwischen den Gastrocnemiusköpfen.",
+    "B": "Verläuft an der medialen Seite des Knies.",
+    "C": "Entsteht erst distal aus Ästen von N. tibialis und N. fibularis communis.",
+    "D": "Verläuft an der Oberschenkelinnenseite und erreicht die Kniekehle nicht."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-20-1",
+   "src": "SD2-20",
+   "typ": "perspektive",
+   "q": "Welches Hautareal versorgt der N. fibularis profundus sensibel?",
+   "o": [
+    "Fußsohle",
+    "Lateraler Fußrand",
+    "Dorsale Haut zwischen 1. und 2. Zehe",
+    "Medialer Fußrand",
+    "Übriger Fußrücken"
+   ],
+   "a": "C",
+   "expl": "Der N. fibularis profundus ist überwiegend motorisch (Extensoren am Unterschenkel und Fußrücken). Sein einziges sensibles Areal ist die einander zugewandte Haut von 1. und 2. Zehe dorsal.",
+   "dis": {
+    "A": "Nn. plantares medialis und lateralis (aus dem N. tibialis).",
+    "B": "N. suralis.",
+    "D": "N. saphenus.",
+    "E": "N. fibularis superficialis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-20-2",
+   "src": "SD2-20",
+   "typ": "umkehrung",
+   "q": "Welcher Muskel wird nicht vom N. fibularis profundus innerviert?",
+   "o": [
+    "M. tibialis anterior",
+    "M. extensor hallucis longus",
+    "M. extensor digitorum longus",
+    "M. fibularis longus",
+    "M. extensor digitorum brevis"
+   ],
+   "a": "D",
+   "expl": "Der N. fibularis profundus innerviert die Extensorenloge des Unterschenkels und die kurzen Extensoren am Fußrücken. Die Fibularismuskeln (M. fibularis longus und brevis) werden vom N. fibularis superficialis versorgt.",
+   "dis": {
+    "A": "Extensorenloge, N. fibularis profundus.",
+    "B": "Extensorenloge, N. fibularis profundus.",
+    "C": "Extensorenloge, N. fibularis profundus.",
+    "E": "Kurzer Extensor am Fußrücken, N. fibularis profundus (Lösung der Originalfrage)."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-21-1",
+   "src": "SD2-21",
+   "typ": "perspektive",
+   "q": "Welcher Muskel entspringt an der Facies glutea des Os ilium zwischen Linea glutea anterior und Linea glutea inferior?",
+   "o": [
+    "M. gluteus maximus",
+    "M. gluteus medius",
+    "M. piriformis",
+    "M. tensor fasciae latae",
+    "M. gluteus minimus"
+   ],
+   "a": "E",
+   "expl": "Die drei Lineae gluteae teilen die Facies glutea: Der M. gluteus minimus entspringt zwischen Linea glutea anterior und inferior. Der M. gluteus medius entspringt zwischen Linea glutea anterior und posterior, der M. gluteus maximus dorsal der Linea glutea posterior.",
+   "dis": {
+    "A": "Entspringt dorsal der Linea glutea posterior sowie an Os sacrum und Lig. sacrotuberale.",
+    "B": "Entspringt zwischen Linea glutea anterior und posterior.",
+    "C": "Entspringt an der Facies pelvica des Os sacrum.",
+    "D": "Entspringt an der Spina iliaca anterior superior."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-21-2",
+   "src": "SD2-21",
+   "typ": "umkehrung",
+   "q": "Zwischen welchen Linien entspringt der M. gluteus medius?",
+   "o": [
+    "Linea glutea anterior und Linea glutea inferior",
+    "Linea glutea anterior und Linea glutea posterior",
+    "Linea glutea inferior und Rand des Acetabulums",
+    "Linea arcuata und Linea terminalis",
+    "Linea glutea posterior und Crista sacralis mediana"
+   ],
+   "a": "B",
+   "expl": "Der M. gluteus medius entspringt an der Facies glutea zwischen Linea glutea anterior und posterior sowie an der Crista iliaca. Er setzt am Trochanter major an und ist der wichtigste Abduktor im Hüftgelenk.",
+   "dis": {
+    "A": "Ursprungsfeld des M. gluteus minimus.",
+    "C": "Hier liegt kein großes Muskelursprungsfeld (Ursprungsnähe des M. gluteus minimus und der Gelenkkapsel).",
+    "D": "Liegen an der Innenseite des Beckens (Facies sacropelvica).",
+    "E": "Hier entspringt der M. gluteus maximus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-22-1",
+   "src": "SD2-22",
+   "typ": "bild",
+   "q": "In welche Vene mündet die in der Abbildung mit 2 markierte Vene typischerweise?",
+   "o": [
+    "V. saphena magna (Venenstern im Hiatus saphenus)",
+    "V. iliaca interna",
+    "V. thoracica interna",
+    "V. poplitea",
+    "V. profunda femoris"
+   ],
+   "a": "A",
+   "expl": "Nr. 2 ist die V. epigastrica superficialis. Sie mündet zusammen mit V. circumflexa ilium superficialis und Vv. pudendae externae im Venenstern in die V. saphena magna kurz vor deren Mündung in die V. femoralis.",
+   "dis": {
+    "B": "Sammelt Blut aus dem kleinen Becken.",
+    "C": "Begleitet die A. thoracica interna am Sternalrand.",
+    "D": "Liegt in der Kniekehle.",
+    "E": "Tiefe Oberschenkelvene."
+   },
+   "merk": "",
+   "img": "img/i132.jpg"
+  },
+  {
+   "id": "V-SD2-22-2",
+   "src": "SD2-22",
+   "typ": "bild",
+   "q": "Bei einem Verschluss der V. cava inferior kann die mit 2 markierte Vene erweitert sein, weil sie einen Umgehungskreislauf bildet. Mit welcher Vene anastomosiert sie dabei in der Bauchwand?",
+   "o": [
+    "V. portae",
+    "V. renalis",
+    "V. testicularis",
+    "V. thoracoepigastrica (Abfluss zur V. axillaris)",
+    "V. mesenterica inferior"
+   ],
+   "a": "D",
+   "expl": "Die V. epigastrica superficialis anastomosiert subkutan mit der V. thoracoepigastrica. So kann Blut aus dem Einzugsgebiet der V. cava inferior über die V. axillaris in die V. cava superior umgeleitet werden (kavokavale Anastomose).",
+   "dis": {
+    "A": "Portokavale Umgehungen laufen über die Vv. paraumbilicales (Caput medusae).",
+    "B": "Mündet direkt in die V. cava inferior.",
+    "C": "Mündet rechts in die V. cava inferior, links in die V. renalis.",
+    "E": "Gehört zum Pfortadersystem."
+   },
+   "merk": "",
+   "img": "img/i132.jpg"
+  },
+  {
+   "id": "V-SD2-23-1",
+   "src": "SD2-23",
+   "typ": "bild",
+   "q": "Die in der Abbildung mit 5 markierten Nervenäste innervieren vor allem",
+   "o": [
+    "den M. quadriceps femoris",
+    "die Mm. adductores und den M. gracilis",
+    "die ischiokrurale Muskulatur",
+    "den M. sartorius",
+    "den M. iliopsoas"
+   ],
+   "a": "B",
+   "expl": "Nr. 5 sind Rr. musculares des N. obturatorius. Er tritt durch den Canalis obturatorius und versorgt die Adduktorengruppe (Mm. adductores longus, brevis, magnus, M. gracilis, M. obturatorius externus) sowie die Haut an der Oberschenkelinnenseite.",
+   "dis": {
+    "A": "N. femoralis.",
+    "C": "N. ischiadicus (Pars tibialis bzw. fibularis).",
+    "D": "N. femoralis.",
+    "E": "Plexus lumbalis direkt bzw. N. femoralis."
+   },
+   "merk": "",
+   "img": "img/i133.jpg"
+  },
+  {
+   "id": "V-SD2-23-2",
+   "src": "SD2-23",
+   "typ": "perspektive",
+   "q": "Aus welchem Plexus und welchen Segmenten stammt der N. obturatorius?",
+   "o": [
+    "Plexus lumbalis, L2–L4",
+    "Plexus sacralis, L4–S3",
+    "Plexus lumbalis, Th12–L1",
+    "Plexus sacralis, S2–S4",
+    "Plexus coccygeus, S5–Co1"
+   ],
+   "a": "A",
+   "expl": "Der N. obturatorius entsteht aus dem Plexus lumbalis (L2–L4). Er verläuft medial des M. psoas major an der Beckenwand zum Canalis obturatorius.",
+   "dis": {
+    "B": "Segmente des N. ischiadicus.",
+    "C": "Segmente von N. iliohypogastricus und N. ilioinguinalis.",
+    "D": "Segmente des N. pudendus.",
+    "E": "Plexus coccygeus (Nn. anococcygei)."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD2-24-1",
+   "src": "SD2-24",
+   "typ": "bild",
+   "q": "Der in der Abbildung mit 5 markierte Muskel wird überwiegend innerviert vom",
+   "o": [
+    "N. femoralis",
+    "N. ischiadicus",
+    "N. gluteus superior",
+    "N. pudendus",
+    "N. cutaneus femoris lateralis"
+   ],
+   "a": "A",
+   "expl": "Nr. 5 ist der M. pectineus. Er wird überwiegend vom N. femoralis innerviert, häufig zusätzlich vom N. obturatorius (Doppelinnervation als Übergangsmuskel zwischen Extensoren und Adduktoren). Er beugt und adduziert im Hüftgelenk.",
+   "dis": {
+    "B": "Innerviert die ischiokrurale Muskulatur.",
+    "C": "Innerviert M. gluteus medius, minimus und M. tensor fasciae latae.",
+    "D": "Innerviert Beckenboden und Damm.",
+    "E": "Rein sensibler Nerv."
+   },
+   "merk": "",
+   "img": "img/i134.jpg"
+  },
+  {
+   "id": "V-SD2-24-2",
+   "src": "SD2-24",
+   "typ": "nachbarschaft",
+   "q": "Der M. pectineus bildet gemeinsam mit dem M. iliopsoas den Boden welcher Region?",
+   "o": [
+    "Fossa poplitea",
+    "Canalis adductorius",
+    "Trigonum inguinale (Hesselbach-Dreieck)",
+    "Fossa ischioanalis",
+    "Trigonum femorale (Fossa iliopectinea)"
+   ],
+   "a": "E",
+   "expl": "Das Trigonum femorale wird vom Lig. inguinale, M. sartorius und M. adductor longus begrenzt. Seinen Boden bilden lateral M. iliopsoas und medial M. pectineus (Fossa iliopectinea), darin verlaufen V., A. und N. femoralis.",
+   "dis": {
+    "A": "Boden: Facies poplitea femoris und Kniegelenkkapsel.",
+    "B": "Wird von M. vastus medialis, M. adductor longus/magnus und der Membrana vastoadductoria begrenzt.",
+    "C": "Liegt an der Innenseite der vorderen Bauchwand.",
+    "D": "Liegt unterhalb des Beckenbodens neben dem Anus."
+   },
+   "merk": "",
+   "img": null
+  }
+ ]
+}
