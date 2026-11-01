@@ -3,12 +3,12 @@
 (automatisch erzeugt von tools/status.py)
 
 ## Etappe 1 – Probe
-- [ ] D1 Truncus (Rumpf) – 48/48 Karten – review
+- [x] D1 Truncus (Rumpf) – 48/48 Karten – released
 
 ## Etappe 2 – Teil D
-- [ ] D2 Cingula et Membra (Gürtel und Extremitäten) – 0/140 Karten – offen
-- [ ] D3 Collum (Hals) – 0/48 Karten – offen
-- [ ] D4 Caput (Kopf) – 0/66 Karten – offen
+- [ ] D2 Cingula et Membra (Gürtel und Extremitäten) – 140/140 Karten – review
+- [ ] D3 Collum (Hals) – 48/48 Karten – review
+- [ ] D4 Caput (Kopf) – 66/66 Karten – review
 
 ## Etappe 3a – Teil A Thorax
 - [ ] A1 1. Herz – 0/60 Karten – offen
@@ -37,4 +37,4 @@
 - [ ] B3 Niere und ableitende Harnwege – 0/40 Karten – offen
 - [ ] C1 Altfragen 1–172 – 0/344 Karten – offen
 
-**Nächstes Kapitel:** D1
+**Nächstes Kapitel:** D2

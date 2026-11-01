@@ -1,0 +1,1524 @@
+{
+ "chapter": "D4",
+ "status": "review",
+ "cards": [
+  {
+   "id": "V-SD4-1-1",
+   "src": "SD4-1",
+   "typ": "perspektive",
+   "q": "Welcher Nerv innerviert die mimische Muskulatur?",
+   "o": [
+    "N. facialis",
+    "N. mandibularis (V3)",
+    "N. maxillaris (V2)",
+    "N. hypoglossus",
+    "N. accessorius"
+   ],
+   "a": "A",
+   "expl": "Die mimische Muskulatur stammt aus dem 2. Schlundbogen und wird deshalb vom N. facialis innerviert, einschließlich M. buccinator, M. occipitofrontalis und Platysma. Der M. temporalis ist ein Kaumuskel (1. Schlundbogen, N. mandibularis).",
+   "dis": {
+    "B": "Innerviert die Kaumuskulatur.",
+    "C": "Rein sensibel.",
+    "D": "Innerviert die Zungenmuskulatur.",
+    "E": "Innerviert M. sternocleidomastoideus und M. trapezius."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-1-2",
+   "src": "SD4-1",
+   "typ": "umkehrung",
+   "q": "Welcher Muskel gehört zur mimischen Muskulatur?",
+   "o": [
+    "M. masseter",
+    "M. buccinator",
+    "M. temporalis",
+    "M. pterygoideus lateralis",
+    "M. digastricus, Venter anterior"
+   ],
+   "a": "B",
+   "expl": "Der M. buccinator ist ein mimischer Muskel, obwohl er beim Kauen hilft (er hält die Nahrung zwischen den Zähnen). Er wird vom N. facialis innerviert und vom Ductus parotideus durchbohrt.",
+   "dis": {
+    "A": "Kaumuskel (N. mandibularis).",
+    "C": "Kaumuskel (Lösung der Originalfrage).",
+    "D": "Kaumuskel.",
+    "E": "Suprahyoidaler Muskel aus dem 1. Schlundbogen (N. mylohyoideus)."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-2-1",
+   "src": "SD4-2",
+   "typ": "perspektive",
+   "q": "Von welchem Nerv wird der M. mylohyoideus innerviert?",
+   "o": [
+    "N. hypoglossus",
+    "N. facialis",
+    "N. mylohyoideus (aus dem N. alveolaris inferior, V3)",
+    "Ansa cervicalis",
+    "N. lingualis"
+   ],
+   "a": "C",
+   "expl": "Der N. mylohyoideus zweigt vor dem Foramen mandibulae vom N. alveolaris inferior ab. Er innerviert den M. mylohyoideus und den Venter anterior m. digastrici, beide Abkömmlinge des 1. Schlundbogens.",
+   "dis": {
+    "A": "Innerviert die Zungenmuskulatur.",
+    "B": "Innerviert u. a. Venter posterior m. digastrici und M. stylohyoideus.",
+    "D": "Innerviert die infrahyoidale Muskulatur.",
+    "E": "Sensibler Ast des N. mandibularis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-2-2",
+   "src": "SD4-2",
+   "typ": "nachbarschaft",
+   "q": "Welche Struktur zieht um den Hinterrand des M. mylohyoideus von der Regio submandibularis in die Regio sublingualis?",
+   "o": [
+    "Ductus parotideus",
+    "A. facialis",
+    "N. facialis",
+    "Ductus submandibularis",
+    "V. jugularis externa"
+   ],
+   "a": "D",
+   "expl": "Die Glandula submandibularis liegt hakenförmig um den Hinterrand des M. mylohyoideus. Ihr Ausführungsgang zieht oberhalb des Muskels nach vorne und mündet auf der Caruncula sublingualis.",
+   "dis": {
+    "A": "Zieht über den M. masseter und durch den M. buccinator.",
+    "B": "Zieht um den Unterkieferrand ins Gesicht.",
+    "C": "Verläuft in der Glandula parotidea.",
+    "E": "Verläuft epifaszial über den M. sternocleidomastoideus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-3-1",
+   "src": "SD4-3",
+   "typ": "umkehrung",
+   "q": "Welcher Nerv zieht durch die Fissura orbitalis inferior?",
+   "o": [
+    "N. nasociliaris",
+    "N. oculomotorius",
+    "N. opticus",
+    "N. trochlearis",
+    "N. zygomaticus"
+   ],
+   "a": "E",
+   "expl": "Durch die Fissura orbitalis inferior gelangen Äste des N. maxillaris (N. infraorbitalis, N. zygomaticus) und die V. ophthalmica inferior von der Fossa pterygopalatina in die Orbita.",
+   "dis": {
+    "A": "Zieht durch die Fissura orbitalis superior (Lösung der Originalfrage).",
+    "B": "Zieht durch die Fissura orbitalis superior.",
+    "C": "Zieht durch den Canalis opticus.",
+    "D": "Zieht durch die Fissura orbitalis superior."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-3-2",
+   "src": "SD4-3",
+   "typ": "perspektive",
+   "q": "Welche Hirnnerven bzw. Hirnnervenäste ziehen durch die Fissura orbitalis superior?",
+   "o": [
+    "N. oculomotorius, N. trochlearis, N. ophthalmicus (V1) und N. abducens",
+    "N. opticus, N. oculomotorius, N. trochlearis",
+    "N. maxillaris und N. facialis",
+    "N. glossopharyngeus, N. vagus, N. accessorius",
+    "N. oculomotorius, N. maxillaris, N. abducens"
+   ],
+   "a": "A",
+   "expl": "Durch die Fissura orbitalis superior ziehen die Augenmuskelnerven III, IV, VI, die Äste des N. ophthalmicus (Nn. lacrimalis, frontalis, nasociliaris) und die V. ophthalmica superior.",
+   "dis": {
+    "B": "Der N. opticus zieht durch den Canalis opticus.",
+    "C": "Ziehen durch Foramen rotundum bzw. Meatus acusticus internus.",
+    "D": "Ziehen durch das Foramen jugulare.",
+    "E": "Der N. maxillaris zieht durch das Foramen rotundum."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-4-1",
+   "src": "SD4-4",
+   "typ": "umkehrung",
+   "q": "Welcher Nerv innerviert den M. stapedius?",
+   "o": [
+    "N. mandibularis",
+    "N. facialis",
+    "N. glossopharyngeus",
+    "N. vestibulocochlearis",
+    "N. vagus"
+   ],
+   "a": "B",
+   "expl": "Der M. stapedius (2. Schlundbogen) wird vom N. facialis innerviert, der M. tensor tympani (1. Schlundbogen) vom N. mandibularis. Bei Fazialisparese kann eine Hyperakusis auftreten.",
+   "dis": {
+    "A": "Innerviert den Gegenspieler M. tensor tympani (Lösung der Originalfrage).",
+    "C": "Sensibel für die Paukenhöhle (Plexus tympanicus).",
+    "D": "Rein sensorisch.",
+    "E": "Innerviert Pharynx- und Kehlkopfmuskeln."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-4-2",
+   "src": "SD4-4",
+   "typ": "perspektive",
+   "q": "Welcher Gaumenmuskel wird wie der M. tensor tympani vom N. mandibularis innerviert?",
+   "o": [
+    "M. levator veli palatini",
+    "M. uvulae",
+    "M. tensor veli palatini",
+    "M. palatoglossus",
+    "M. palatopharyngeus"
+   ],
+   "a": "C",
+   "expl": "Die beiden „Tensoren“ (M. tensor tympani und M. tensor veli palatini) stammen aus dem 1. Schlundbogen und werden vom N. mandibularis innerviert. Alle anderen Gaumenmuskeln versorgt der Plexus pharyngeus.",
+   "dis": {
+    "A": "Plexus pharyngeus (N. vagus).",
+    "B": "Plexus pharyngeus (N. vagus).",
+    "D": "Plexus pharyngeus (N. vagus).",
+    "E": "Plexus pharyngeus (N. vagus)."
+   },
+   "merk": "Die „Tensoren“ gehören zu V3.",
+   "img": null
+  },
+  {
+   "id": "V-SD4-5-1",
+   "src": "SD4-5",
+   "typ": "bild",
+   "q": "Durch welche Öffnung verlässt die markierte Struktur die Schädelhöhle?",
+   "o": [
+    "Fissura orbitalis superior",
+    "Foramen rotundum",
+    "Fissura orbitalis inferior",
+    "Canalis opticus",
+    "Foramen ovale"
+   ],
+   "a": "D",
+   "expl": "Die markierte Struktur ist der N. opticus. Er zieht mit der A. ophthalmica durch den Canalis opticus im kleinen Keilbeinflügel zur Orbita.",
+   "dis": {
+    "A": "Durchtritt von III, IV, V1, VI.",
+    "B": "Durchtritt des N. maxillaris.",
+    "C": "Verbindung Orbita – Fossa pterygopalatina.",
+    "E": "Durchtritt des N. mandibularis."
+   },
+   "merk": "",
+   "img": "img/i161.jpg"
+  },
+  {
+   "id": "V-SD4-5-2",
+   "src": "SD4-5",
+   "typ": "klinik",
+   "q": "Ein Hypophysenadenom drückt von unten auf die Sehnervenkreuzung (Chiasma opticum). Welcher Gesichtsfeldausfall ist typisch?",
+   "o": [
+    "Homonyme Hemianopsie",
+    "Einseitige Blindheit",
+    "Obere Quadrantenanopsie",
+    "Zentralskotom",
+    "Bitemporale Hemianopsie"
+   ],
+   "a": "E",
+   "expl": "Im Chiasma kreuzen die Fasern der nasalen Netzhauthälften, die das temporale Gesichtsfeld sehen. Druck von unten schädigt diese kreuzenden Fasern; es fallen beide temporalen Gesichtsfeldhälften aus.",
+   "dis": {
+    "A": "Entsteht bei Läsion hinter dem Chiasma (Tractus opticus, Sehstrahlung).",
+    "B": "Entsteht bei Läsion des N. opticus vor dem Chiasma.",
+    "C": "Typisch für Läsionen der Meyer-Schleife im Temporallappen.",
+    "D": "Typisch für Makula- oder Optikusneuritis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-6-1",
+   "src": "SD4-6",
+   "typ": "perspektive",
+   "q": "Welche Strukturen innervieren die im Ganglion ciliare umgeschalteten parasympathischen Fasern?",
+   "o": [
+    "M. sphincter pupillae und M. ciliaris",
+    "M. dilatator pupillae",
+    "Glandula lacrimalis",
+    "M. levator palpebrae superioris",
+    "M. tarsalis superior"
+   ],
+   "a": "A",
+   "expl": "Präganglionäre Fasern aus dem Nucleus accessorius n. oculomotorii (Edinger-Westphal) ziehen mit dem N. oculomotorius zum Ganglion ciliare. Die postganglionären Nn. ciliares breves steuern Pupillenverengung und Akkommodation.",
+   "dis": {
+    "B": "Sympathisch innerviert (Ganglion cervicale superius).",
+    "C": "Parasympathisch über das Ganglion pterygopalatinum.",
+    "D": "Somatomotorisch durch den N. oculomotorius, ohne Umschaltung.",
+    "E": "Sympathisch innerviert."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-6-2",
+   "src": "SD4-6",
+   "typ": "klinik",
+   "q": "Nach einem Schädel-Hirn-Trauma hat ein Patient auf einer Seite eine weite, lichtstarre Pupille, eine Ptosis, und das Auge steht nach außen-unten. Welcher Nerv ist geschädigt?",
+   "o": [
+    "N. abducens",
+    "N. oculomotorius",
+    "N. trochlearis",
+    "N. facialis",
+    "Sympathikus (Horner-Syndrom)"
+   ],
+   "a": "B",
+   "expl": "Der N. oculomotorius innerviert die meisten äußeren Augenmuskeln, den M. levator palpebrae und parasympathisch den M. sphincter pupillae. Bei seinem Ausfall überwiegen M. rectus lateralis (VI) und M. obliquus superior (IV): Das Auge steht außen-unten, die Pupille ist weit.",
+   "dis": {
+    "A": "Ausfall → Auge steht nach innen, keine Pupillenstörung.",
+    "C": "Ausfall → Doppelbilder beim Blick nach unten-innen.",
+    "D": "Ausfall → Lidschlussschwäche, keine Ptosis.",
+    "E": "Führt zu enger Pupille und nur leichter Ptosis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-7-1",
+   "src": "SD4-7",
+   "typ": "umkehrung",
+   "q": "Welcher Nerv vermittelt die allgemeine Sensibilität (Berührung, Schmerz) der vorderen zwei Drittel der Zunge?",
+   "o": [
+    "Chorda tympani",
+    "N. glossopharyngeus",
+    "N. lingualis (V3)",
+    "N. hypoglossus",
+    "N. vagus"
+   ],
+   "a": "C",
+   "expl": "Der N. lingualis aus dem N. mandibularis vermittelt Tast- und Schmerzempfindung der vorderen zwei Drittel der Zunge. Für den Geschmack legt sich ihm die Chorda tympani (N. facialis) an.",
+   "dis": {
+    "A": "Führt Geschmacksfasern, keine allgemeine Sensibilität.",
+    "B": "Versorgt das hintere Drittel (Lösung der Originalfrage).",
+    "D": "Rein motorisch.",
+    "E": "Versorgt den Zungengrund im Bereich der Epiglottis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-7-2",
+   "src": "SD4-7",
+   "typ": "perspektive",
+   "q": "Über welche Fasern wird der Geschmack der vorderen zwei Drittel der Zunge vermittelt?",
+   "o": [
+    "N. glossopharyngeus",
+    "N. hypoglossus",
+    "N. vagus",
+    "Chorda tympani (N. facialis)",
+    "N. maxillaris"
+   ],
+   "a": "D",
+   "expl": "Die Geschmacksfasern der vorderen zwei Drittel ziehen mit dem N. lingualis, dann über die Chorda tympani durch die Paukenhöhle zum N. facialis. Ihre Perikaryen liegen im Ganglion geniculi.",
+   "dis": {
+    "A": "Geschmack des hinteren Drittels (Papillae vallatae).",
+    "B": "Rein motorisch.",
+    "C": "Geschmack im Bereich der Epiglottis.",
+    "E": "Sensibel für den Oberkiefer, keine Zungenversorgung."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-8-1",
+   "src": "SD4-8",
+   "typ": "umkehrung",
+   "q": "Welche Struktur liegt an der medialen Wand der Paukenhöhle?",
+   "o": [
+    "Trommelfell",
+    "Tegmen tympani",
+    "Fossa jugularis",
+    "Canalis caroticus",
+    "Promontorium"
+   ],
+   "a": "E",
+   "expl": "Die mediale Wand (Paries labyrinthicus) wird durch die basale Schneckenwindung zum Promontorium vorgewölbt. Darüber liegt die Fenestra vestibuli (Steigbügelplatte), darunter die Fenestra cochleae.",
+   "dis": {
+    "A": "Bildet die laterale Wand (Lösung der Originalfrage).",
+    "B": "Bildet das Dach.",
+    "C": "Liegt unter dem Boden der Paukenhöhle.",
+    "D": "Liegt vor bzw. unter der vorderen Wand."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-8-2",
+   "src": "SD4-8",
+   "typ": "perspektive",
+   "q": "Welche Struktur bildet das Dach der Paukenhöhle?",
+   "o": [
+    "Tegmen tympani",
+    "Promontorium",
+    "Trommelfell",
+    "Fossa jugularis",
+    "Aditus ad antrum"
+   ],
+   "a": "A",
+   "expl": "Das Tegmen tympani ist eine dünne Knochenplatte der Pars petrosa. Es trennt die Paukenhöhle von der mittleren Schädelgrube; Mittelohrentzündungen können darüber auf die Hirnhäute übergreifen.",
+   "dis": {
+    "B": "Liegt an der medialen Wand.",
+    "C": "Bildet die laterale Wand.",
+    "D": "Liegt am Boden.",
+    "E": "Öffnung in der hinteren Wand zum Antrum mastoideum."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-9-1",
+   "src": "SD4-9",
+   "typ": "perspektive",
+   "q": "Welcher Knochen bildet den größten Teil der medialen Orbitawand?",
+   "o": [
+    "Os zygomaticum",
+    "Os ethmoidale (Lamina orbitalis)",
+    "Os frontale",
+    "Ala major ossis sphenoidalis",
+    "Maxilla"
+   ],
+   "a": "B",
+   "expl": "Die mediale Orbitawand besteht vor allem aus der papierdünnen Lamina orbitalis des Siebbeins sowie Os lacrimale, Proc. frontalis maxillae und Os sphenoidale. Siebbeinentzündungen können deshalb leicht in die Orbita durchbrechen.",
+   "dis": {
+    "A": "Bildet einen Teil der lateralen Wand und des Bodens.",
+    "C": "Bildet das Dach.",
+    "D": "Bildet den hinteren Teil der lateralen Wand.",
+    "E": "Bildet den größten Teil des Bodens."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-9-2",
+   "src": "SD4-9",
+   "typ": "klinik",
+   "q": "Ein Tennisball trifft das Auge. Bei der klassischen Blow-out-Fraktur bricht welche Orbitawand?",
+   "o": [
+    "Orbitadach",
+    "Laterale Orbitawand",
+    "Orbitaboden (Maxilla)",
+    "Ala major ossis sphenoidalis",
+    "Wand des Canalis opticus"
+   ],
+   "a": "C",
+   "expl": "Der dünne Orbitaboden über dem Sinus maxillaris gibt bei Druckerhöhung nach. Typisch sind Doppelbilder beim Blick nach oben durch Einklemmung des M. rectus inferior und Taubheit der Wange (N. infraorbitalis).",
+   "dis": {
+    "A": "Sehr stabil, bricht selten isoliert.",
+    "B": "Kräftig, bricht eher bei Jochbeinfrakturen.",
+    "D": "Liegt hinten-lateral und ist geschützt.",
+    "E": "Liegt tief in der Orbitaspitze."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-10-1",
+   "src": "SD4-10",
+   "typ": "perspektive",
+   "q": "Welcher Hirnsinus geht im Foramen jugulare in die V. jugularis interna über?",
+   "o": [
+    "Sinus sagittalis superior",
+    "Sinus cavernosus",
+    "Sinus rectus",
+    "Sinus sigmoideus",
+    "Sinus sphenoparietalis"
+   ],
+   "a": "D",
+   "expl": "Der Sinus transversus geht in den Sinus sigmoideus über, der im Foramen jugulare zum Bulbus superior der V. jugularis interna wird. Auch der Sinus petrosus inferior mündet dort.",
+   "dis": {
+    "A": "Mündet in den Confluens sinuum.",
+    "B": "Liegt neben der Sella; Abfluss über die Sinus petrosi.",
+    "C": "Mündet in den Confluens sinuum.",
+    "E": "Mündet in den Sinus cavernosus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-10-2",
+   "src": "SD4-10",
+   "typ": "klinik",
+   "q": "Ein Tumor im Foramen jugulare kann ein Foramen-jugulare-Syndrom verursachen. Welche Hirnnerven sind betroffen?",
+   "o": [
+    "N. facialis und N. vestibulocochlearis",
+    "N. hypoglossus allein",
+    "N. oculomotorius, N. trochlearis, N. abducens",
+    "N. maxillaris und N. mandibularis",
+    "N. glossopharyngeus, N. vagus, N. accessorius"
+   ],
+   "a": "E",
+   "expl": "Durch das Foramen jugulare ziehen die Hirnnerven IX, X und XI sowie V. jugularis interna und A. meningea posterior. Typisch sind Schluckstörung, Heiserkeit und Schwäche von M. trapezius und M. sternocleidomastoideus.",
+   "dis": {
+    "A": "Ziehen durch den Porus acusticus internus.",
+    "B": "Zieht durch den Canalis n. hypoglossi (Lösung der Originalfrage).",
+    "C": "Ziehen durch die Fissura orbitalis superior.",
+    "D": "Ziehen durch Foramen rotundum bzw. ovale."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-11-1",
+   "src": "SD4-11",
+   "typ": "perspektive",
+   "q": "Durch welches Foramen tritt der Endast des N. maxillaris ins Gesicht?",
+   "o": [
+    "Foramen infraorbitale",
+    "Foramen mentale",
+    "Incisura supraorbitalis",
+    "Foramen stylomastoideum",
+    "Foramen ovale"
+   ],
+   "a": "A",
+   "expl": "Der N. infraorbitalis setzt den N. maxillaris fort und tritt unterhalb des Orbitarands durch das Foramen infraorbitale. Er versorgt die Haut zwischen Lid- und Mundspalte.",
+   "dis": {
+    "B": "Austritt des N. mentalis (V3).",
+    "C": "Austritt des N. supraorbitalis (V1).",
+    "D": "Austritt des N. facialis.",
+    "E": "Austritt des N. mandibularis aus der Schädelhöhle."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-11-2",
+   "src": "SD4-11",
+   "typ": "klinik",
+   "q": "Bei der Prüfung der Trigeminusdruckpunkte drückt man auf das Foramen mentale. Welcher Nerv tritt dort aus?",
+   "o": [
+    "N. infraorbitalis (V2)",
+    "N. mentalis (aus dem N. alveolaris inferior, V3)",
+    "N. supraorbitalis (V1)",
+    "R. marginalis mandibulae (VII)",
+    "N. auricularis magnus"
+   ],
+   "a": "B",
+   "expl": "Die drei Trigeminusdruckpunkte liegen etwa senkrecht übereinander: Incisura supraorbitalis (V1), Foramen infraorbitale (V2) und Foramen mentale (V3). Der N. mentalis versorgt Kinn und Unterlippe.",
+   "dis": {
+    "A": "Tritt am Foramen infraorbitale aus.",
+    "C": "Tritt an der Incisura supraorbitalis aus.",
+    "D": "Motorischer Fazialisast, kein Druckpunkt.",
+    "E": "Sensibler Ast des Plexus cervicalis am Kieferwinkel."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-12-1",
+   "src": "SD4-12",
+   "typ": "klinik",
+   "q": "Vergrößerte Rachenmandeln (adenoide Vegetationen) führen bei Kindern häufig zu Paukenergüssen. Warum?",
+   "o": [
+    "Sie drücken auf den N. facialis.",
+    "Sie verlegen den Ductus nasolacrimalis.",
+    "Sie verlegen das Ostium pharyngeum tubae auditivae.",
+    "Sie verengen den Recessus piriformis.",
+    "Sie drücken direkt auf die Gehörknöchelchen."
+   ],
+   "a": "C",
+   "expl": "Die Tonsilla pharyngea liegt am Dach des Epipharynx nahe der Tubenöffnung. Ist die Tube verlegt, wird das Mittelohr nicht belüftet; es bildet sich ein Unterdruck und ein Erguss.",
+   "dis": {
+    "A": "Der N. facialis verläuft im Felsenbein, weit entfernt.",
+    "B": "Er mündet im unteren Nasengang.",
+    "D": "Liegt im Laryngopharynx.",
+    "E": "Diese liegen in der Paukenhöhle."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-12-2",
+   "src": "SD4-12",
+   "typ": "umkehrung",
+   "q": "Wodurch wird der Isthmus faucium (Schlundenge) begrenzt?",
+   "o": [
+    "Durch die Choanen",
+    "Durch die Plicae aryepiglotticae",
+    "Durch das Ostium pharyngeum tubae auditivae",
+    "Arcus palatoglossus, Velum palatinum und Zungengrund",
+    "Durch die Plica salpingopharyngea"
+   ],
+   "a": "D",
+   "expl": "Der Isthmus faucium verbindet Mundhöhle und Oropharynx. Er wird oben vom Gaumensegel, seitlich von den Arcus palatoglossi und unten vom Zungengrund begrenzt und liegt deshalb nicht im Epipharynx.",
+   "dis": {
+    "A": "Verbinden Nasenhöhle und Epipharynx.",
+    "B": "Begrenzen den Kehlkopfeingang.",
+    "C": "Liegt im Epipharynx.",
+    "E": "Liegt im Epipharynx hinter der Tubenöffnung."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-13-1",
+   "src": "SD4-13",
+   "typ": "bild",
+   "q": "Welcher Nerv zieht durch das markierte Foramen?",
+   "o": [
+    "N. mandibularis (V3)",
+    "N. ophthalmicus (V1)",
+    "N. facialis",
+    "N. petrosus major",
+    "N. maxillaris (V2)"
+   ],
+   "a": "E",
+   "expl": "Das markierte Foramen ist das Foramen rotundum in der Ala major ossis sphenoidalis. Durch es zieht der N. maxillaris von der mittleren Schädelgrube in die Fossa pterygopalatina.",
+   "dis": {
+    "A": "Zieht durch das Foramen ovale.",
+    "B": "Zieht durch die Fissura orbitalis superior.",
+    "C": "Zieht durch den Porus acusticus internus.",
+    "D": "Zieht über das Foramen lacerum zum Canalis pterygoideus."
+   },
+   "merk": "Reihenfolge in der mittleren Schädelgrube: Fissura orbitalis superior (V1) – Foramen rotundum (V2) – Foramen ovale (V3) – Foramen spinosum (A. meningea media).",
+   "img": "img/i162.jpg"
+  },
+  {
+   "id": "V-SD4-13-2",
+   "src": "SD4-13",
+   "typ": "bild",
+   "q": "In welchen Raum führt das markierte Foramen von der mittleren Schädelgrube aus?",
+   "o": [
+    "Fossa pterygopalatina",
+    "Orbita",
+    "Fossa infratemporalis",
+    "Paukenhöhle",
+    "Nasenhöhle"
+   ],
+   "a": "A",
+   "expl": "Das Foramen rotundum mündet in die Fossa pterygopalatina. Dort gibt der N. maxillaris seine Äste ab (N. infraorbitalis, N. zygomaticus, Rr. ganglionares zum Ganglion pterygopalatinum).",
+   "dis": {
+    "B": "Verbindung über Canalis opticus und Fissura orbitalis superior.",
+    "C": "Verbindung über Foramen ovale und Foramen spinosum.",
+    "D": "Verbindung über Tegmen tympani und kleine Kanälchen.",
+    "E": "Keine direkte Verbindung aus der mittleren Schädelgrube."
+   },
+   "merk": "",
+   "img": "img/i162.jpg"
+  },
+  {
+   "id": "V-SD4-14-1",
+   "src": "SD4-14",
+   "typ": "bild",
+   "q": "Welches Gefäß passiert das markierte Foramen an der Schädelbasis?",
+   "o": [
+    "V. jugularis interna",
+    "A. carotis interna",
+    "A. vertebralis",
+    "A. meningea media",
+    "A. carotis externa"
+   ],
+   "a": "B",
+   "expl": "Das markierte Foramen ist die äußere Öffnung des Canalis caroticus. Die A. carotis interna, ein Endast der A. carotis communis, zieht hindurch und verläuft dann im Sinus cavernosus.",
+   "dis": {
+    "A": "Zieht durch das Foramen jugulare.",
+    "C": "Zieht durch das Foramen magnum.",
+    "D": "Zieht durch das Foramen spinosum.",
+    "E": "Tritt nicht in den Schädel ein."
+   },
+   "merk": "",
+   "img": "img/i163.jpg"
+  },
+  {
+   "id": "V-SD4-14-2",
+   "src": "SD4-14",
+   "typ": "perspektive",
+   "q": "Welche vegetativen Fasern begleiten die A. carotis interna durch den Canalis caroticus?",
+   "o": [
+    "Präganglionäre parasympathische Fasern des N. vagus",
+    "Fasern des N. glossopharyngeus",
+    "Postganglionäre sympathische Fasern aus dem Ganglion cervicale superius",
+    "Chorda tympani",
+    "Postganglionäre Fasern aus dem Ganglion ciliare"
+   ],
+   "a": "C",
+   "expl": "Der Plexus caroticus internus besteht aus postganglionären sympathischen Fasern des Ganglion cervicale superius. Sie versorgen u. a. M. dilatator pupillae und M. tarsalis; außerdem zweigt hier der N. petrosus profundus ab.",
+   "dis": {
+    "A": "Der N. vagus zieht durch das Foramen jugulare.",
+    "B": "Ziehen durch das Foramen jugulare.",
+    "D": "Verlässt den Schädel durch die Fissura petrotympanica.",
+    "E": "Liegen in der Orbita."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-15-1",
+   "src": "SD4-15",
+   "typ": "bild",
+   "q": "Welche Muskeln innerviert der mit dem roten Pfeil markierte Nerv?",
+   "o": [
+    "Den M. mylohyoideus",
+    "Den Venter posterior m. digastrici",
+    "Den M. stylopharyngeus",
+    "Alle Zungenmuskeln außer dem M. palatoglossus",
+    "Die Kaumuskulatur"
+   ],
+   "a": "D",
+   "expl": "Der rote Pfeil markiert den N. hypoglossus. Er innerviert die äußeren (M. genioglossus, M. hyoglossus, M. styloglossus) und alle inneren Zungenmuskeln. Der M. palatoglossus wird vom Plexus pharyngeus (N. vagus) versorgt.",
+   "dis": {
+    "A": "N. mylohyoideus (V3).",
+    "B": "N. facialis.",
+    "C": "N. glossopharyngeus.",
+    "E": "N. mandibularis."
+   },
+   "merk": "",
+   "img": "img/i164.jpg"
+  },
+  {
+   "id": "V-SD4-15-2",
+   "src": "SD4-15",
+   "typ": "bild",
+   "q": "Welche Gefäße überkreuzt der mit dem roten Pfeil markierte Nerv im Trigonum caroticum lateral?",
+   "o": [
+    "V. jugularis externa",
+    "A. vertebralis",
+    "Truncus thyrocervicalis",
+    "A. subclavia",
+    "A. carotis interna und A. carotis externa"
+   ],
+   "a": "E",
+   "expl": "Der N. hypoglossus zieht nach dem Austritt aus dem Canalis n. hypoglossi bogenförmig nach vorne. Er überkreuzt lateral A. carotis interna und externa (oberhalb der Gabelung) und verläuft dann über dem großen Zungenbeinhorn zur Zunge.",
+   "dis": {
+    "A": "Liegt oberflächlich auf dem M. sternocleidomastoideus.",
+    "B": "Liegt tief in den Foramina transversaria.",
+    "C": "Liegt tief unten an der A. subclavia.",
+    "D": "Liegt an der oberen Thoraxapertur."
+   },
+   "merk": "",
+   "img": "img/i164.jpg"
+  },
+  {
+   "id": "V-SD4-16-1",
+   "src": "SD4-16",
+   "typ": "bild",
+   "q": "Welcher Nerv legt sich dem mit dem roten Pfeil markierten Nerv in der Fossa infratemporalis an und bringt Geschmacksfasern mit?",
+   "o": [
+    "Chorda tympani",
+    "N. alveolaris inferior",
+    "N. buccalis",
+    "N. auriculotemporalis",
+    "N. petrosus minor"
+   ],
+   "a": "A",
+   "expl": "Der rote Pfeil markiert den N. lingualis. Die Chorda tympani legt sich ihm an und führt Geschmacksfasern für die vorderen zwei Drittel der Zunge sowie präganglionäre parasympathische Fasern zum Ganglion submandibulare.",
+   "dis": {
+    "B": "Verläuft parallel dahinter in den Canalis mandibulae.",
+    "C": "Sensibel für die Wangenschleimhaut.",
+    "D": "Verläuft nach dorsal-kranial zur Schläfe.",
+    "E": "Zieht zum Ganglion oticum."
+   },
+   "merk": "",
+   "img": "img/i165.jpg"
+  },
+  {
+   "id": "V-SD4-16-2",
+   "src": "SD4-16",
+   "typ": "nachbarschaft",
+   "q": "Welche räumliche Beziehung hat der N. lingualis zum Ductus submandibularis?",
+   "o": [
+    "Er verläuft durch den Gang hindurch.",
+    "Er unterkreuzt den Gang, indem er sich von lateral nach medial unter ihm hindurchschlingt.",
+    "Er verläuft stets kranial parallel ohne Kontakt.",
+    "Er mündet mit dem Gang auf der Caruncula sublingualis.",
+    "Er verläuft im Canalis mandibulae unter dem Gang."
+   ],
+   "a": "B",
+   "expl": "Im Mundboden schlingt sich der N. lingualis von lateral unter dem Ductus submandibularis hindurch nach medial. Bei Operationen am Gang (z. B. Speichelsteine) ist er deshalb gefährdet.",
+   "dis": {
+    "A": "Nerven verlaufen nicht durch Drüsengänge.",
+    "C": "Beide überkreuzen sich typischerweise.",
+    "D": "Nerven münden nicht.",
+    "E": "Im Canalis mandibulae verläuft der N. alveolaris inferior."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-17-1",
+   "src": "SD4-17",
+   "typ": "bild",
+   "q": "Welche Arterie zieht durch die markierte Öffnung in die Nasenhöhle?",
+   "o": [
+    "A. ethmoidalis anterior",
+    "A. palatina descendens",
+    "A. sphenopalatina",
+    "A. infraorbitalis",
+    "A. facialis"
+   ],
+   "a": "C",
+   "expl": "Die markierte Öffnung ist das Foramen sphenopalatinum. Die A. sphenopalatina aus der A. maxillaris versorgt den hinteren Teil der Nasenhöhle und ist die Quelle hinterer, schwerer Nasenblutungen.",
+   "dis": {
+    "A": "Kommt aus der A. ophthalmica von oben durch die Lamina cribrosa.",
+    "B": "Zieht durch den Canalis palatinus major zum Gaumen.",
+    "D": "Zieht durch die Fissura orbitalis inferior in die Orbita.",
+    "E": "Verläuft im Gesicht außerhalb der Nasenhöhle."
+   },
+   "merk": "",
+   "img": "img/i166.jpg"
+  },
+  {
+   "id": "V-SD4-17-2",
+   "src": "SD4-17",
+   "typ": "bild",
+   "q": "Welcher Knochen bildet die mediale Wand der Fossa pterygopalatina, in der die markierte Öffnung liegt?",
+   "o": [
+    "Os lacrimale",
+    "Vomer",
+    "Os zygomaticum",
+    "Os palatinum (Lamina perpendicularis)",
+    "Mandibula"
+   ],
+   "a": "D",
+   "expl": "Die Lamina perpendicularis des Gaumenbeins bildet die mediale Wand der Fossa pterygopalatina. Ihre Incisura sphenopalatina bildet mit dem Keilbeinkörper das Foramen sphenopalatinum.",
+   "dis": {
+    "A": "Liegt an der medialen Orbitawand.",
+    "B": "Bildet den unteren hinteren Teil des Nasenseptums.",
+    "C": "Liegt lateral im Gesicht.",
+    "E": "Liegt weiter kaudal."
+   },
+   "merk": "",
+   "img": "img/i166.jpg"
+  },
+  {
+   "id": "V-SD4-18-1",
+   "src": "SD4-18",
+   "typ": "bild",
+   "q": "Wo entspringt der in der Abbildung mit Stern bezeichnete Muskel?",
+   "o": [
+    "An der Lamina lateralis des Proc. pterygoideus",
+    "In der Fossa temporalis",
+    "In der Fossa pterygoidea",
+    "Am Proc. styloideus",
+    "Am Arcus zygomaticus"
+   ],
+   "a": "E",
+   "expl": "Der Stern markiert den M. masseter. Er entspringt am Arcus zygomaticus und setzt an der Tuberositas masseterica am Kieferwinkel außen an. Er ist der kräftigste Kieferschließer.",
+   "dis": {
+    "A": "Ursprung des M. pterygoideus lateralis.",
+    "B": "Ursprung des M. temporalis.",
+    "C": "Ursprung des M. pterygoideus medialis.",
+    "D": "Ursprung von M. stylohyoideus, M. styloglossus, M. stylopharyngeus."
+   },
+   "merk": "",
+   "img": "img/i167.jpg"
+  },
+  {
+   "id": "V-SD4-18-2",
+   "src": "SD4-18",
+   "typ": "bild",
+   "q": "Mit welchem Muskel bildet der mit Stern bezeichnete Muskel eine Schlinge um den Kieferwinkel?",
+   "o": [
+    "M. pterygoideus medialis",
+    "M. pterygoideus lateralis",
+    "M. temporalis",
+    "M. buccinator",
+    "M. digastricus"
+   ],
+   "a": "A",
+   "expl": "Der M. masseter setzt außen, der M. pterygoideus medialis innen am Kieferwinkel an. Zusammen bilden sie die Kaumuskelschlinge, die den Kiefer kräftig schließt.",
+   "dis": {
+    "B": "Zieht horizontal zum Kiefergelenk; das war die falsche Aussage im Original.",
+    "C": "Setzt am Proc. coronoideus an.",
+    "D": "Mimischer Muskel der Wange.",
+    "E": "Suprahyoidaler Kieferöffner."
+   },
+   "merk": "",
+   "img": "img/i167.jpg"
+  },
+  {
+   "id": "V-SD4-19-1",
+   "src": "SD4-19",
+   "typ": "bild",
+   "q": "Im Pirogoff-Dreieck (zwischen Hinterrand des M. mylohyoideus, Zwischensehne des M. digastricus und dem mit dem roten Pfeil markierten Nerv) kann welche Arterie aufgesucht werden?",
+   "o": [
+    "A. facialis",
+    "A. lingualis",
+    "A. thyroidea superior",
+    "A. maxillaris",
+    "A. occipitalis"
+   ],
+   "a": "B",
+   "expl": "Der rote Pfeil markiert den N. hypoglossus. Im Pirogoff-Dreieck liegt die A. lingualis medial des M. hyoglossus und kann dort zur Unterbindung aufgesucht werden.",
+   "dis": {
+    "A": "Verläuft oberflächlicher durch die Glandula submandibularis.",
+    "C": "Liegt tiefer unten im Trigonum caroticum.",
+    "D": "Liegt in der Fossa infratemporalis.",
+    "E": "Zieht nach dorsal zum Hinterhaupt."
+   },
+   "merk": "",
+   "img": "img/i168.jpg"
+  },
+  {
+   "id": "V-SD4-19-2",
+   "src": "SD4-19",
+   "typ": "perspektive",
+   "q": "Welche Fasern legen sich dem N. hypoglossus nach seinem Austritt aus dem Schädel ein Stück weit an?",
+   "o": [
+    "Fasern aus C5",
+    "Fasern des N. phrenicus",
+    "Fasern aus C1 (Radix superior der Ansa cervicalis)",
+    "Sympathische Fasern aus dem Ganglion stellatum",
+    "Chorda tympani"
+   ],
+   "a": "C",
+   "expl": "C1-Fasern begleiten den N. hypoglossus. Sie verlassen ihn als Radix superior der Ansa cervicalis bzw. als Äste zum M. thyrohyoideus und M. geniohyoideus. Der N. hypoglossus selbst innerviert nur Zungenmuskeln.",
+   "dis": {
+    "A": "Gehören zum Plexus brachialis.",
+    "B": "Ziehen nach kaudal auf dem M. scalenus anterior.",
+    "D": "Ziehen mit den Arterien, nicht mit dem N. hypoglossus.",
+    "E": "Legt sich dem N. lingualis an."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-20-1",
+   "src": "SD4-20",
+   "typ": "bild",
+   "q": "Durch welche Öffnung verlässt der mit dem roten Pfeil markierte Nerv die Schädelbasis?",
+   "o": [
+    "Foramen jugulare",
+    "Porus acusticus internus",
+    "Foramen ovale",
+    "Foramen stylomastoideum",
+    "Canalis n. hypoglossi"
+   ],
+   "a": "D",
+   "expl": "Der rote Pfeil markiert den N. facialis im Canalis n. facialis. Er tritt durch den Porus acusticus internus ins Felsenbein ein, bildet das äußere Fazialisknie und verlässt den Schädel durch das Foramen stylomastoideum zur Glandula parotidea.",
+   "dis": {
+    "A": "Durchtritt der Hirnnerven IX–XI.",
+    "B": "Hier tritt der Nerv in das Felsenbein ein.",
+    "C": "Durchtritt des N. mandibularis.",
+    "E": "Durchtritt des N. hypoglossus."
+   },
+   "merk": "",
+   "img": "img/i169.jpg"
+  },
+  {
+   "id": "V-SD4-20-2",
+   "src": "SD4-20",
+   "typ": "klinik",
+   "q": "Bei einer peripheren Fazialisparese kann der Patient die Stirn auf der betroffenen Seite nicht runzeln, bei einer zentralen Parese schon. Warum?",
+   "o": [
+    "Die Stirn wird motorisch vom N. trigeminus innerviert.",
+    "Der M. frontalis wird vom N. oculomotorius innerviert.",
+    "Die Stirn hat keine mimische Muskulatur.",
+    "Die Chorda tympani innerviert die Stirn.",
+    "Der Kernanteil für die Stirnmuskulatur wird von beiden Großhirnhemisphären versorgt."
+   ],
+   "a": "E",
+   "expl": "Der Teil des Fazialiskerns für Stirn und Augenschluss erhält kortikobulbäre Fasern aus beiden Hemisphären. Bei einer zentralen Läsion (z. B. Schlaganfall) bleibt das Stirnrunzeln deshalb erhalten; bei einer peripheren Läsion fällt die ganze Gesichtshälfte aus.",
+   "dis": {
+    "A": "Der N. trigeminus innerviert die Stirn nur sensibel.",
+    "B": "Der N. oculomotorius innerviert den M. levator palpebrae, nicht den M. frontalis.",
+    "C": "Der M. occipitofrontalis ist ein mimischer Muskel.",
+    "D": "Sie führt Geschmacks- und parasympathische Fasern."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-21-1",
+   "src": "SD4-21",
+   "typ": "umkehrung",
+   "q": "Welche Öffnung liegt nicht in der Fossa cranii media?",
+   "o": [
+    "Foramen jugulare",
+    "Foramen rotundum",
+    "Foramen ovale",
+    "Foramen spinosum",
+    "Foramen lacerum"
+   ],
+   "a": "A",
+   "expl": "Das Foramen jugulare liegt in der hinteren Schädelgrube zwischen Felsenbein und Os occipitale. Zur mittleren Schädelgrube gehören u. a. Foramen rotundum, ovale, spinosum und lacerum.",
+   "dis": {
+    "B": "Liegt in der mittleren Schädelgrube (V2).",
+    "C": "Liegt in der mittleren Schädelgrube (V3).",
+    "D": "Liegt in der mittleren Schädelgrube (A. meningea media).",
+    "E": "Liegt an der Felsenbeinspitze in der mittleren Schädelgrube."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-21-2",
+   "src": "SD4-21",
+   "typ": "nachbarschaft",
+   "q": "Welcher venöse Blutleiter liegt in der mittleren Schädelgrube beidseits neben der Sella turcica?",
+   "o": [
+    "Sinus sigmoideus",
+    "Sinus cavernosus",
+    "Sinus rectus",
+    "Confluens sinuum",
+    "Sinus sagittalis inferior"
+   ],
+   "a": "B",
+   "expl": "Durch den Sinus cavernosus ziehen A. carotis interna und N. abducens; in seiner Wand verlaufen III, IV, V1 und V2. Eine Thrombose (z. B. nach Gesichtsinfektion) betrifft diese Nerven.",
+   "dis": {
+    "A": "Liegt in der hinteren Schädelgrube.",
+    "C": "Liegt im Tentorium cerebelli.",
+    "D": "Liegt an der Protuberantia occipitalis interna.",
+    "E": "Liegt im Unterrand der Falx cerebri."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-22-1",
+   "src": "SD4-22",
+   "typ": "bild",
+   "q": "Zu welchem Teil des Os temporale gehört der Ring, in dem die mit dem roten Pfeil markierte Struktur beim Neugeborenen eingespannt ist?",
+   "o": [
+    "Pars squamosa",
+    "Pars petrosa",
+    "Pars tympanica (Anulus tympanicus)",
+    "Proc. styloideus",
+    "Proc. mastoideus"
+   ],
+   "a": "C",
+   "expl": "Das Trommelfell ist beim Neugeborenen in den noch offenen Anulus tympanicus eingespannt. Aus ihm entsteht später die Pars tympanica, die den knöchernen äußeren Gehörgang bildet.",
+   "dis": {
+    "A": "Schläfenbeinschuppe, bildet die seitliche Schädelwand.",
+    "B": "Felsenbein mit Innenohr.",
+    "D": "Muskel- und Bandursprung unter dem Ohr.",
+    "E": "Beim Neugeborenen noch nicht ausgebildet."
+   },
+   "merk": "",
+   "img": "img/i171.jpg"
+  },
+  {
+   "id": "V-SD4-22-2",
+   "src": "SD4-22",
+   "typ": "bild",
+   "q": "Welcher Gehörknöchelchenanteil ist mit der Innenseite der mit dem roten Pfeil markierten Struktur verwachsen?",
+   "o": [
+    "Crus longum incudis",
+    "Basis stapedis",
+    "Caput stapedis",
+    "Manubrium mallei",
+    "Promontorium"
+   ],
+   "a": "D",
+   "expl": "Der Hammergriff ist in das Trommelfell eingewachsen und zieht es nach innen (Umbo). So werden Schwingungen über Hammer, Amboss und Steigbügel auf das ovale Fenster übertragen.",
+   "dis": {
+    "A": "Verbindet Hammer und Steigbügel, ohne Kontakt zum Trommelfell.",
+    "B": "Sitzt in der Fenestra vestibuli.",
+    "C": "Artikuliert mit dem Amboss.",
+    "E": "Teil der medialen Paukenhöhlenwand, kein Gehörknöchelchen."
+   },
+   "merk": "",
+   "img": "img/i171.jpg"
+  },
+  {
+   "id": "V-SD4-23-1",
+   "src": "SD4-23",
+   "typ": "perspektive",
+   "q": "Was mündet im Hiatus semilunaris (zwischen Proc. uncinatus und Bulla ethmoidalis) im mittleren Nasengang?",
+   "o": [
+    "Ductus nasolacrimalis",
+    "Sinus sphenoidalis",
+    "Hintere Siebbeinzellen",
+    "Tuba auditiva",
+    "Sinus maxillaris, Sinus frontalis und vordere Siebbeinzellen"
+   ],
+   "a": "E",
+   "expl": "Der Proc. uncinatus begrenzt den Hiatus semilunaris. Dort münden Kieferhöhle, Stirnhöhle und vordere Siebbeinzellen (ostiomeatale Einheit). Eine Schwellung dort kann deshalb mehrere Nebenhöhlen gleichzeitig verlegen.",
+   "dis": {
+    "A": "Mündet im unteren Nasengang.",
+    "B": "Mündet im Recessus sphenoethmoidalis.",
+    "C": "Münden im oberen Nasengang.",
+    "D": "Mündet im Epipharynx."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-23-2",
+   "src": "SD4-23",
+   "typ": "umkehrung",
+   "q": "Wo mündet der Ductus nasolacrimalis?",
+   "o": [
+    "Im Meatus nasi inferior",
+    "Im Meatus nasi medius",
+    "Im Meatus nasi superior",
+    "Im Recessus sphenoethmoidalis",
+    "Im Nasopharynx"
+   ],
+   "a": "A",
+   "expl": "Der Tränennasengang mündet unter der unteren Nasenmuschel in den unteren Nasengang. Deshalb läuft beim Weinen die Nase.",
+   "dis": {
+    "B": "Hier münden Kieferhöhle, Stirnhöhle und vordere Siebbeinzellen.",
+    "C": "Hier münden die hinteren Siebbeinzellen.",
+    "D": "Hier mündet die Keilbeinhöhle.",
+    "E": "Hier mündet die Tuba auditiva."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-24-1",
+   "src": "SD4-24",
+   "typ": "bild",
+   "q": "Welcher Ausführungsgang mündet auf der mit dem weißen Pfeil markierten Struktur?",
+   "o": [
+    "Ductus parotideus",
+    "Ductus submandibularis",
+    "Ductus nasolacrimalis",
+    "Ductus thyroglossus",
+    "Nur die Ductus sublinguales minores"
+   ],
+   "a": "B",
+   "expl": "Die Caruncula sublingualis liegt neben dem Zungenbändchen. Auf ihr münden der Ductus submandibularis und häufig der Ductus sublingualis major.",
+   "dis": {
+    "A": "Mündet gegenüber dem 2. oberen Molaren in der Wangenschleimhaut.",
+    "C": "Mündet im unteren Nasengang.",
+    "D": "Embryonaler Gang, Rest am Foramen caecum der Zunge.",
+    "E": "Münden auf der Plica sublingualis."
+   },
+   "merk": "",
+   "img": "img/i173.jpg"
+  },
+  {
+   "id": "V-SD4-24-2",
+   "src": "SD4-24",
+   "typ": "perspektive",
+   "q": "Über welchen Weg erreichen die sekretorischen parasympathischen Fasern die Glandula submandibularis?",
+   "o": [
+    "N. glossopharyngeus → Umschaltung im Ganglion oticum",
+    "N. vagus → Plexus pharyngeus",
+    "N. facialis → Chorda tympani → Umschaltung im Ganglion submandibulare",
+    "N. hypoglossus direkt",
+    "Eigene parasympathische Fasern des N. trigeminus"
+   ],
+   "a": "C",
+   "expl": "Präganglionäre Fasern aus dem Nucleus salivatorius superior ziehen mit dem N. facialis und der Chorda tympani zum N. lingualis und werden im Ganglion submandibulare umgeschaltet. Sie versorgen Glandula submandibularis und sublingualis.",
+   "dis": {
+    "A": "Weg zur Glandula parotidea.",
+    "B": "Versorgt Pharynx und Gaumen motorisch.",
+    "D": "Führt keine parasympathischen Fasern.",
+    "E": "Der N. trigeminus hat keine eigenen parasympathischen Kerne; er dient nur als Leitschiene."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-25-1",
+   "src": "SD4-25",
+   "typ": "bild",
+   "q": "Aus welcher Arterie erhält die mit dem weißen Pfeil markierte Struktur ihren Hauptzufluss?",
+   "o": [
+    "A. profunda linguae",
+    "A. thyroidea superior",
+    "A. ophthalmica",
+    "R. tonsillaris der A. facialis",
+    "A. vertebralis"
+   ],
+   "a": "D",
+   "expl": "Der Pfeil markiert die Tonsilla palatina. Sie wird hauptsächlich vom R. tonsillaris der A. facialis versorgt, dazu von Ästen der A. palatina ascendens, A. lingualis und A. pharyngea ascendens. Daher kommt die Nachblutungsgefahr nach Tonsillektomie.",
+   "dis": {
+    "A": "Versorgt den Zungenkörper.",
+    "B": "Versorgt Schilddrüse und Kehlkopf.",
+    "C": "Versorgt Orbita und Auge.",
+    "E": "Versorgt Rückenmark und Hirnstamm."
+   },
+   "merk": "",
+   "img": "img/i174.jpg"
+  },
+  {
+   "id": "V-SD4-25-2",
+   "src": "SD4-25",
+   "typ": "umkehrung",
+   "q": "Die Tonsilla palatina gehört zum Waldeyer-Rachenring. Welche Struktur gehört nicht dazu?",
+   "o": [
+    "Tonsilla pharyngea",
+    "Tonsilla lingualis",
+    "Tonsilla tubaria",
+    "Seitenstränge (Plicae salpingopharyngeae)",
+    "Glandula parotidea"
+   ],
+   "a": "E",
+   "expl": "Der Waldeyer-Rachenring besteht aus Tonsilla pharyngea, Tonsillae tubariae, Tonsillae palatinae, Tonsilla lingualis und den Seitensträngen. Die Glandula parotidea ist eine Speicheldrüse.",
+   "dis": {
+    "A": "Rachenmandel am Rachendach.",
+    "B": "Zungenmandel am Zungengrund.",
+    "C": "Lymphatisches Gewebe an der Tubenöffnung.",
+    "D": "Lymphatisches Gewebe in der Pharynxseitenwand."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-26-1",
+   "src": "SD4-26",
+   "typ": "bild",
+   "q": "Aus welchem Gefäß entspringt die markierte Arterie?",
+   "o": [
+    "A. carotis externa",
+    "A. carotis interna",
+    "A. facialis",
+    "A. subclavia",
+    "A. vertebralis"
+   ],
+   "a": "A",
+   "expl": "Die markierte Struktur ist die A. maxillaris, der größere Endast der A. carotis externa. Sie zieht hinter dem Collum mandibulae in die Fossa infratemporalis und endet in der Fossa pterygopalatina.",
+   "dis": {
+    "B": "Gibt am Hals keine Äste ab.",
+    "C": "Selbst ein Ast der A. carotis externa.",
+    "D": "Versorgt Arm, Schulter und Teile des Halses.",
+    "E": "Versorgt Hirnstamm und Kleinhirn."
+   },
+   "merk": "",
+   "img": "img/i175.jpg"
+  },
+  {
+   "id": "V-SD4-26-2",
+   "src": "SD4-26",
+   "typ": "klinik",
+   "q": "Bei einer Fraktur der Schläfenbeinschuppe reißt ein Ast der A. maxillaris, und es entsteht ein epidurales Hämatom. Welcher Ast?",
+   "o": [
+    "A. alveolaris inferior",
+    "A. meningea media",
+    "A. infraorbitalis",
+    "A. sphenopalatina",
+    "A. temporalis superficialis"
+   ],
+   "a": "B",
+   "expl": "Die A. meningea media zieht durch das Foramen spinosum in die mittlere Schädelgrube und verläuft zwischen Dura und Knochen unter dem Pterion. Reißt sie, entsteht ein arterielles epidurales Hämatom, oft mit freiem Intervall.",
+   "dis": {
+    "A": "Verläuft im Canalis mandibulae.",
+    "C": "Verläuft im Orbitaboden.",
+    "D": "Versorgt die Nasenhöhle.",
+    "E": "Verläuft extrakraniell vor dem Ohr."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-27-1",
+   "src": "SD4-27",
+   "typ": "perspektive",
+   "q": "Welcher Nerv zieht durch den Canalis pterygoideus zum Ganglion pterygopalatinum?",
+   "o": [
+    "N. petrosus minor",
+    "N. maxillaris",
+    "N. canalis pterygoidei (aus N. petrosus major und N. petrosus profundus)",
+    "Chorda tympani",
+    "N. nasociliaris"
+   ],
+   "a": "C",
+   "expl": "Der N. petrosus major (parasympathisch, N. facialis) und der N. petrosus profundus (sympathisch, Plexus caroticus) vereinigen sich am Foramen lacerum zum N. canalis pterygoidei. Der Kanal führt zur Schädelbasis, nicht zur Paukenhöhle.",
+   "dis": {
+    "A": "Zieht zum Ganglion oticum.",
+    "B": "Zieht durch das Foramen rotundum.",
+    "D": "Zieht zur Fossa infratemporalis.",
+    "E": "Zieht durch die Fissura orbitalis superior."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-27-2",
+   "src": "SD4-27",
+   "typ": "umkehrung",
+   "q": "Über welchen Kanal steht die Fossa pterygopalatina mit der Mundhöhle in Verbindung?",
+   "o": [
+    "Fissura orbitalis inferior",
+    "Foramen rotundum",
+    "Canalis pterygoideus",
+    "Canalis palatinus major",
+    "Foramen sphenopalatinum"
+   ],
+   "a": "D",
+   "expl": "Der Canalis palatinus major führt N. palatinus major und A. palatina descendens zum harten Gaumen; er öffnet sich mit Foramen palatinum majus und minora in die Mundhöhle.",
+   "dis": {
+    "A": "Verbindung zur Orbita.",
+    "B": "Verbindung zur mittleren Schädelgrube.",
+    "C": "Verbindung zur Schädelbasis bzw. zum Foramen lacerum.",
+    "E": "Verbindung zur Nasenhöhle."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-28-1",
+   "src": "SD4-28",
+   "typ": "perspektive",
+   "q": "Welche Strukturen bilden das Nasenseptum?",
+   "o": [
+    "Concha nasalis inferior und Maxilla",
+    "Os nasale und Os lacrimale",
+    "Os palatinum und Ala major ossis sphenoidalis",
+    "Lamina cribrosa und Crista galli",
+    "Lamina perpendicularis ossis ethmoidalis, Vomer und Cartilago septi nasi"
+   ],
+   "a": "E",
+   "expl": "Das knöcherne Septum besteht aus der Lamina perpendicularis des Siebbeins (oben-hinten) und dem Vomer (unten-hinten). Vorne ergänzt der Septumknorpel.",
+   "dis": {
+    "A": "Bilden die laterale Nasenwand.",
+    "B": "Nasenrücken bzw. mediale Orbitawand.",
+    "C": "Bilden nicht das Septum.",
+    "D": "Dach der Nasenhöhle bzw. Ansatz der Falx cerebri."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-28-2",
+   "src": "SD4-28",
+   "typ": "klinik",
+   "q": "Wo liegt der Locus Kiesselbachi, die häufigste Blutungsquelle bei Nasenbluten?",
+   "o": [
+    "Im vorderen unteren Abschnitt des Nasenseptums",
+    "Am hinteren Ende der unteren Nasenmuschel",
+    "Am Dach der Nasenhöhle",
+    "An den Choanen",
+    "Im Sinus maxillaris"
+   ],
+   "a": "A",
+   "expl": "Im vorderen Septum bilden Äste von A. sphenopalatina, A. ethmoidalis anterior, A. palatina major und A. labialis superior ein oberflächliches Gefäßgeflecht. Es blutet leicht und lässt sich gut von vorne komprimieren.",
+   "dis": {
+    "B": "Ort hinterer Blutungen (A. sphenopalatina).",
+    "C": "Versorgt von den Aa. ethmoidales.",
+    "D": "Hinterer Übergang zum Epipharynx.",
+    "E": "Liegt außerhalb der Nasenhöhle."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-29-1",
+   "src": "SD4-29",
+   "typ": "umkehrung",
+   "q": "Welche Struktur zieht durch das Foramen ovale?",
+   "o": [
+    "N. maxillaris (V2)",
+    "N. mandibularis (V3)",
+    "A. meningea media",
+    "N. petrosus major",
+    "V. ophthalmica superior"
+   ],
+   "a": "B",
+   "expl": "Das Foramen ovale liegt hinter dem Foramen rotundum in der Ala major. Durch es zieht der N. mandibularis von der mittleren Schädelgrube in die Fossa infratemporalis.",
+   "dis": {
+    "A": "Zieht durch das Foramen rotundum.",
+    "C": "Zieht durch das Foramen spinosum.",
+    "D": "Zieht über das Foramen lacerum.",
+    "E": "Zieht durch die Fissura orbitalis superior."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-29-2",
+   "src": "SD4-29",
+   "typ": "perspektive",
+   "q": "Welches Hautareal versorgt der N. maxillaris sensibel?",
+   "o": [
+    "Stirn und Nasenrücken",
+    "Kinn und Unterlippe",
+    "Die Haut zwischen Lidspalte und Mundspalte",
+    "Haut über dem Kieferwinkel",
+    "Hinterhaupt"
+   ],
+   "a": "C",
+   "expl": "Der N. maxillaris versorgt Unterlid, Wange, Nasenflügel und Oberlippe sowie die Oberkieferzähne. Er tritt durch das Foramen rotundum aus der Schädelhöhle aus.",
+   "dis": {
+    "A": "N. ophthalmicus (V1).",
+    "B": "N. mandibularis (V3).",
+    "D": "N. auricularis magnus (Plexus cervicalis).",
+    "E": "N. occipitalis major (C2)."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-30-1",
+   "src": "SD4-30",
+   "typ": "bild",
+   "q": "Warum liegt die mit dem roten Pfeil markierte Struktur beim Neugeborenen so oberflächlich?",
+   "o": [
+    "Weil die Paukenhöhle noch nicht angelegt ist",
+    "Weil das Trommelfell außerhalb des Schädels liegt",
+    "Weil eine Fontanelle über ihr liegt",
+    "Weil der knöcherne äußere Gehörgang noch fehlt; es besteht nur der Anulus tympanicus.",
+    "Weil der Canalis caroticus fehlt"
+   ],
+   "a": "D",
+   "expl": "Beim Neugeborenen fehlen der knöcherne Gehörgang und der Proc. mastoideus. Deshalb liegen Trommelfell und auch der austretende N. facialis sehr oberflächlich; der Nerv ist bei Zangengeburten gefährdet.",
+   "dis": {
+    "A": "Die Paukenhöhle ist bei Geburt bereits vorhanden.",
+    "B": "Es liegt im Anulus tympanicus des Schläfenbeins.",
+    "C": "Die Fontanellen liegen an den Schädelnähten.",
+    "E": "Er ist bei Geburt vorhanden und hat damit nichts zu tun."
+   },
+   "merk": "",
+   "img": "img/i178.jpg"
+  },
+  {
+   "id": "V-SD4-30-2",
+   "src": "SD4-30",
+   "typ": "bild",
+   "q": "Welcher Nerv zieht in der Paukenhöhle an der Innenseite der mit dem roten Pfeil markierten Struktur vorbei?",
+   "o": [
+    "N. petrosus major",
+    "N. vestibulocochlearis",
+    "N. glossopharyngeus (Stamm)",
+    "N. abducens",
+    "Chorda tympani"
+   ],
+   "a": "E",
+   "expl": "Die Chorda tympani zweigt im Canalis n. facialis ab, zieht zwischen Hammergriff und Amboss an der Innenseite des Trommelfells vorbei und verlässt die Paukenhöhle durch die Fissura petrotympanica.",
+   "dis": {
+    "A": "Zweigt am Ganglion geniculi ab und verlässt das Felsenbein nach vorne.",
+    "B": "Liegt im Meatus acusticus internus.",
+    "C": "Gibt nur den N. tympanicus zur medialen Paukenhöhlenwand ab.",
+    "D": "Verläuft im Sinus cavernosus."
+   },
+   "merk": "",
+   "img": "img/i178.jpg"
+  },
+  {
+   "id": "V-SD4-31-1",
+   "src": "SD4-31",
+   "typ": "bild",
+   "q": "Aus welchem Schlundbogen stammt der in der Abbildung mit X bezeichnete Muskel?",
+   "o": [
+    "1. Schlundbogen",
+    "2. Schlundbogen",
+    "3. Schlundbogen",
+    "4. Schlundbogen",
+    "6. Schlundbogen"
+   ],
+   "a": "A",
+   "expl": "Das X markiert den M. masseter. Alle Kaumuskeln stammen aus dem 1. Schlundbogen und werden deshalb vom N. mandibularis innerviert.",
+   "dis": {
+    "B": "Abkömmlinge: mimische Muskulatur (N. facialis); das war die falsche Aussage im Original.",
+    "C": "Abkömmling: M. stylopharyngeus (N. glossopharyngeus).",
+    "D": "Abkömmlinge: Pharynxmuskeln, M. cricothyroideus (N. vagus).",
+    "E": "Abkömmlinge: innere Kehlkopfmuskeln (N. laryngeus recurrens)."
+   },
+   "merk": "",
+   "img": "img/i179.jpg"
+  },
+  {
+   "id": "V-SD4-31-2",
+   "src": "SD4-31",
+   "typ": "bild",
+   "q": "Welche Leitungsbahn überquert den mit X bezeichneten Muskel oberflächlich in querer Richtung?",
+   "o": [
+    "A. carotis externa",
+    "Ductus parotideus",
+    "V. jugularis interna",
+    "N. lingualis",
+    "A. maxillaris"
+   ],
+   "a": "B",
+   "expl": "Der Ductus parotideus zieht etwa einen Querfinger unter dem Jochbogen über den M. masseter. Am Vorderrand biegt er nach innen, durchbohrt den M. buccinator und mündet gegenüber dem 2. oberen Molaren.",
+   "dis": {
+    "A": "Verläuft in der Tiefe hinter dem Unterkieferast.",
+    "C": "Verläuft am Hals in der Vagina carotica.",
+    "D": "Verläuft medial des Unterkiefers.",
+    "E": "Verläuft in der Fossa infratemporalis medial des Unterkiefers."
+   },
+   "merk": "",
+   "img": "img/i179.jpg"
+  },
+  {
+   "id": "V-SD4-32-1",
+   "src": "SD4-32",
+   "typ": "nachbarschaft",
+   "q": "Wodurch wird die Fossa pterygopalatina ventral begrenzt?",
+   "o": [
+    "Proc. pterygoideus ossis sphenoidalis",
+    "Lamina perpendicularis ossis palatini",
+    "Tuber maxillae",
+    "Os lacrimale",
+    "Ramus mandibulae"
+   ],
+   "a": "C",
+   "expl": "Die Fossa pterygopalatina liegt zwischen Tuber maxillae (vorne), Proc. pterygoideus (hinten), Os palatinum (medial) und Keilbeinkörper (oben). Lateral öffnet sie sich über die Fissura pterygomaxillaris zur Fossa infratemporalis.",
+   "dis": {
+    "A": "Bildet die dorsale Begrenzung.",
+    "B": "Bildet die mediale Begrenzung.",
+    "D": "Liegt an der medialen Orbitawand.",
+    "E": "Liegt lateral der Fossa infratemporalis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-32-2",
+   "src": "SD4-32",
+   "typ": "perspektive",
+   "q": "Welche Arterie verzweigt sich in der Fossa pterygopalatina in ihre Endäste?",
+   "o": [
+    "A. facialis",
+    "A. carotis interna",
+    "A. ophthalmica",
+    "A. maxillaris",
+    "A. temporalis superficialis"
+   ],
+   "a": "D",
+   "expl": "Die Pars pterygopalatina der A. maxillaris gibt in der Grube u. a. A. infraorbitalis, A. palatina descendens und A. sphenopalatina ab.",
+   "dis": {
+    "A": "Verläuft im Gesicht.",
+    "B": "Verläuft im Sinus cavernosus.",
+    "C": "Verläuft in der Orbita.",
+    "E": "Verläuft vor dem Ohr zur Schläfe."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-33-1",
+   "src": "SD4-33",
+   "typ": "perspektive",
+   "q": "Welcher Muskel des Mundbodens wird vom N. trigeminus innerviert?",
+   "o": [
+    "M. geniohyoideus",
+    "M. genioglossus",
+    "M. stylohyoideus",
+    "M. digastricus, Venter posterior",
+    "M. digastricus, Venter anterior"
+   ],
+   "a": "E",
+   "expl": "Venter anterior m. digastrici und M. mylohyoideus stammen aus dem 1. Schlundbogen und werden vom N. mylohyoideus (V3) innerviert. Der Venter posterior stammt aus dem 2. Schlundbogen und wird vom N. facialis innerviert.",
+   "dis": {
+    "A": "Fasern aus C1 über den N. hypoglossus.",
+    "B": "N. hypoglossus.",
+    "C": "N. facialis.",
+    "D": "N. facialis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD4-33-2",
+   "src": "SD4-33",
+   "typ": "umkehrung",
+   "q": "Welcher Muskel wird nicht vom N. trigeminus motorisch innerviert?",
+   "o": [
+    "M. buccinator",
+    "M. masseter",
+    "M. temporalis",
+    "M. mylohyoideus",
+    "M. tensor veli palatini"
+   ],
+   "a": "A",
+   "expl": "Der M. buccinator ist ein mimischer Muskel und wird vom N. facialis innerviert. Der N. buccalis (V3) durchbohrt ihn zwar, versorgt aber nur Haut und Schleimhaut der Wange sensibel.",
+   "dis": {
+    "B": "Kaumuskel, N. mandibularis.",
+    "C": "Kaumuskel, N. mandibularis.",
+    "D": "N. mylohyoideus (V3).",
+    "E": "N. mandibularis."
+   },
+   "merk": "",
+   "img": null
+  }
+ ]
+}
