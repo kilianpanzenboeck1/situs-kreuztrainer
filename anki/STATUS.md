@@ -18,11 +18,11 @@
 - [x] A5 5. Großvenen – 60/60 Karten – released
 
 ## Etappe 3b – Teil A Abdomen
-- [ ] A6 6. Peritoneum – 30/30 Karten – review
-- [ ] A7 7. Retrositus – 60/60 Karten – review
-- [ ] A8 8. Magen und Dünndarm – 72/72 Karten – review
-- [ ] A9 9. Dickdarm und Rektum – 64/64 Karten – review
-- [ ] A10 10. Leber, Pankreas und Galle – 60/60 Karten – review
+- [x] A6 6. Peritoneum – 30/30 Karten – released
+- [x] A7 7. Retrositus – 60/60 Karten – released
+- [x] A8 8. Magen und Dünndarm – 72/72 Karten – released
+- [x] A9 9. Dickdarm und Rektum – 64/64 Karten – released
+- [x] A10 10. Leber, Pankreas und Galle – 60/60 Karten – released
 
 ## Etappe 3c – Teil A Rest
 - [ ] A11 11. Das lymphatische System – 56/56 Karten – review
@@ -37,4 +37,4 @@
 - [ ] B3 Niere und ableitende Harnwege – 0/40 Karten – offen
 - [ ] C1 Altfragen 1–172 – 0/344 Karten – offen
 
-**Nächstes Kapitel:** A6
+**Nächstes Kapitel:** A11
