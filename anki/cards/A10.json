@@ -1,0 +1,1386 @@
+{
+ "chapter": "A10",
+ "status": "review",
+ "cards": [
+  {
+   "id": "V-F1-127-1",
+   "src": "F1-127",
+   "typ": "nachbarschaft",
+   "q": "Welche große Vene liegt im Bereich der Area nuda in einer Rinne an der Leberhinterfläche?",
+   "o": [
+    "V. cava inferior",
+    "V. portae",
+    "V. splenica",
+    "V. azygos",
+    "V. umbilicalis"
+   ],
+   "a": "A",
+   "expl": "Die V. cava inferior liegt im Sulcus venae cavae an der Area nuda und nimmt dort die Lebervenen auf. Bei Leberverletzungen in diesem Bereich drohen schwere Blutungen.",
+   "dis": {
+    "B": "Tritt an der Leberpforte ein.",
+    "C": "Liegt hinter dem Pankreas.",
+    "D": "Liegt im Thorax.",
+    "E": "Beim Erwachsenen obliteriert im Lig. teres hepatis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-127-2",
+   "src": "F1-127",
+   "typ": "perspektive",
+   "q": "In welche Bänder läuft das Lig. coronarium seitlich aus?",
+   "o": [
+    "Lig. teres hepatis",
+    "Lig. triangulare dextrum und sinistrum",
+    "Lig. venosum",
+    "Lig. hepatoduodenale",
+    "Lig. gastrocolicum"
+   ],
+   "a": "B",
+   "expl": "Das Lig. coronarium umrahmt die Area nuda. Seitlich legen sich seine Blätter zu den Ligg. triangularia zusammen, vorne geht es ins Lig. falciforme über.",
+   "dis": {
+    "A": "Rest der Nabelvene.",
+    "C": "Rest des Ductus venosus.",
+    "D": "Teil des Omentum minus.",
+    "E": "Teil des Omentum majus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-128-1",
+   "src": "F1-128",
+   "typ": "perspektive",
+   "q": "Wonach richtet sich die Einteilung der Leber in Segmente (nach Couinaud)?",
+   "o": [
+    "Nach den äußeren Lappengrenzen",
+    "Nach den Peritonealbändern",
+    "Nach der Aufzweigung der Glisson-Trias; die Lebervenen verlaufen zwischen den Segmenten.",
+    "Die Lebervenen verlaufen zentral im Segment.",
+    "Nach dem Verlauf des Peritoneums"
+   ],
+   "a": "C",
+   "expl": "Jedes der acht Segmente hat einen eigenen Ast von V. portae, A. hepatica propria und Gallengang. Deshalb können Segmente einzeln reseziert werden.",
+   "dis": {
+    "A": "Diese entsprechen nicht den funktionellen Grenzen.",
+    "B": "Diese sind keine Segmentgrenzen.",
+    "D": "Sie verlaufen intersegmental.",
+    "E": "Kein Kriterium."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-128-2",
+   "src": "F1-128",
+   "typ": "perspektive",
+   "q": "Welche Linie trennt die funktionell rechte von der linken Leber (Cantlie-Linie)?",
+   "o": [
+    "Der Ansatz des Lig. falciforme",
+    "Das Lig. teres hepatis",
+    "Eine horizontale Linie durch die Leberpforte",
+    "Die Linie vom Gallenblasenbett zur V. cava inferior",
+    "Das Lig. venosum"
+   ],
+   "a": "D",
+   "expl": "Funktionell gehört der Lobus quadratus zur linken Leber. In der Cantlie-Ebene verläuft die V. hepatica intermedia.",
+   "dis": {
+    "A": "Trennt nur die anatomischen Lappen.",
+    "B": "Liegt im linken Lappen.",
+    "C": "Trennt keine funktionellen Hälften.",
+    "E": "Trennt den Lobus caudatus vom linken Lappen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-129-1",
+   "src": "F1-129",
+   "typ": "nachbarschaft",
+   "q": "Welche Impression findet man an der Unterfläche des linken Leberlappens?",
+   "o": [
+    "Impressio renalis",
+    "Impressio colica",
+    "Impressio duodenalis",
+    "Impressio suprarenalis",
+    "Impressio gastrica"
+   ],
+   "a": "E",
+   "expl": "Der linke Leberlappen liegt über dem Magen. Hinten oben findet sich zusätzlich die Impressio oesophagea.",
+   "dis": {
+    "A": "Liegt am rechten Lappen.",
+    "B": "Liegt am rechten Lappen.",
+    "C": "Liegt am rechten Lappen neben der Gallenblase.",
+    "D": "Liegt am rechten Lappen hinten."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-129-2",
+   "src": "F1-129",
+   "typ": "nachbarschaft",
+   "q": "Welches Organ hinterlässt an der Hinterfläche des linken Leberlappens die Impressio oesophagea?",
+   "o": [
+    "Pars abdominalis des Ösophagus",
+    "Duodenum",
+    "Colon transversum",
+    "Rechte Niere",
+    "Rechte Nebenniere"
+   ],
+   "a": "A",
+   "expl": "Der kurze abdominelle Ösophagus zieht nach dem Hiatus hinter dem linken Leberlappen zur Cardia.",
+   "dis": {
+    "B": "Liegt rechts.",
+    "C": "Liegt unterhalb.",
+    "D": "Liegt rechts hinten.",
+    "E": "Liegt rechts hinten."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-130-1",
+   "src": "F1-130",
+   "typ": "nachbarschaft",
+   "q": "Welche Strukturen begrenzen den Lobus quadratus der Leber?",
+   "o": [
+    "Sulcus venae cavae und Fissura ligamenti venosi",
+    "Fossa vesicae biliaris, Fissura ligamenti teretis und Porta hepatis",
+    "Lig. coronarium und Ligg. triangularia",
+    "Area nuda",
+    "Nur das Lig. falciforme"
+   ],
+   "a": "B",
+   "expl": "An der Leberunterfläche bilden die Furchen ein H. Vor der Leberpforte liegt der Lobus quadratus, dahinter der Lobus caudatus.",
+   "dis": {
+    "A": "Begrenzen den Lobus caudatus.",
+    "C": "Begrenzen die Area nuda.",
+    "D": "Liegt hinten oben.",
+    "E": "Liegt an der Vorderfläche."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-130-2",
+   "src": "F1-130",
+   "typ": "nachbarschaft",
+   "q": "Welche Strukturen begrenzen den Lobus caudatus der Leber?",
+   "o": [
+    "Gallenblase und Lig. teres hepatis",
+    "Lig. coronarium und Lig. triangulare",
+    "Sulcus venae cavae, Fissura ligamenti venosi und Porta hepatis",
+    "Die Unterfläche des linken Lappens",
+    "Die Impressio renalis"
+   ],
+   "a": "C",
+   "expl": "Der Lobus caudatus liegt hinter der Leberpforte zwischen V. cava inferior und Lig. venosum. Er grenzt an die Bursa omentalis.",
+   "dis": {
+    "A": "Begrenzen den Lobus quadratus.",
+    "B": "Begrenzen die Area nuda.",
+    "D": "Liegt links vorne.",
+    "E": "Liegt am rechten Lappen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-131-1",
+   "src": "F1-131",
+   "typ": "umkehrung",
+   "q": "Welches Gefäß ist das Vas publicum der Leber?",
+   "o": [
+    "A. hepatica propria",
+    "V. hepatica",
+    "A. cystica",
+    "V. portae",
+    "V. cava inferior"
+   ],
+   "a": "D",
+   "expl": "Die Pfortader bringt nährstoffreiches Blut aus dem Darm zur Verarbeitung in die Leber (Vas publicum). Die A. hepatica propria versorgt das Organ selbst (Vas privatum).",
+   "dis": {
+    "A": "Vas privatum (Eigenversorgung).",
+    "B": "Führt das Blut ab.",
+    "C": "Versorgt die Gallenblase.",
+    "E": "Nimmt das Lebervenenblut auf."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-131-2",
+   "src": "F1-131",
+   "typ": "perspektive",
+   "q": "Welchen Anteil am Sauerstoffangebot der Leber liefert die A. hepatica propria etwa?",
+   "o": [
+    "Etwa 5 %",
+    "100 %",
+    "Etwa 90 %",
+    "Gar keinen",
+    "Etwa die Hälfte"
+   ],
+   "a": "E",
+   "expl": "Die A. hepatica liefert nur etwa ein Viertel des Leberblutes, aber wegen der höheren Sauerstoffsättigung etwa die Hälfte des Sauerstoffs.",
+   "dis": {
+    "A": "Zu wenig.",
+    "B": "Die Pfortader liefert ebenfalls Sauerstoff.",
+    "C": "Zu viel.",
+    "D": "Sie ist das sauerstoffreiche Gefäß der Leber."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-132-1",
+   "src": "F1-132",
+   "typ": "perspektive",
+   "q": "In welche Abschnitte gliedert sich das Pankreas?",
+   "o": [
+    "Caput mit Processus uncinatus, Collum, Corpus und Cauda",
+    "Fundus, Corpus und Antrum",
+    "Pars superior, descendens und horizontalis",
+    "Lobus dexter und sinister",
+    "Cortex und Medulla"
+   ],
+   "a": "A",
+   "expl": "Der Kopf liegt in der Duodenalschlinge, der Hals vor den Mesenterialgefäßen, der Körper vor der Aorta und der Schwanz reicht bis zum Milzhilus.",
+   "dis": {
+    "B": "Abschnitte des Magens.",
+    "C": "Abschnitte des Duodenums.",
+    "D": "Lappen der Leber.",
+    "E": "Gliederung von Niere bzw. Nebenniere."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-132-2",
+   "src": "F1-132",
+   "typ": "nachbarschaft",
+   "q": "Welche große Vene liegt dorsal des Pankreaskopfs?",
+   "o": [
+    "Magen",
+    "V. cava inferior",
+    "Milz",
+    "Colon transversum",
+    "Leber"
+   ],
+   "a": "B",
+   "expl": "Hinter dem Pankreaskopf liegen V. cava inferior, rechte Nierenvene und der Ductus choledochus. Die V. cava kreuzt das Pankreas nicht, sie liegt dahinter.",
+   "dis": {
+    "A": "Liegt ventral.",
+    "C": "Liegt links am Pankreasschwanz.",
+    "D": "Liegt ventral-kaudal.",
+    "E": "Liegt kranial."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-133-1",
+   "src": "F1-133",
+   "typ": "perspektive",
+   "q": "Wie heißt der Hauptausführungsgang des Pankreas?",
+   "o": [
+    "Ductus pancreaticus accessorius (Santorini)",
+    "Ductus parotideus (Stensen)",
+    "Ductus pancreaticus (Wirsung)",
+    "Ductus submandibularis (Wharton)",
+    "Ductus arteriosus (Botalli)"
+   ],
+   "a": "C",
+   "expl": "Der Ductus pancreaticus zieht vom Schwanz durch das ganze Organ zum Kopf und mündet meist mit dem Ductus choledochus an der Papilla duodeni major.",
+   "dis": {
+    "A": "Nebengang zur Papilla duodeni minor.",
+    "B": "Gang der Ohrspeicheldrüse.",
+    "D": "Gang der Unterkieferdrüse.",
+    "E": "Fetale Gefäßverbindung."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-133-2",
+   "src": "F1-133",
+   "typ": "perspektive",
+   "q": "Wohin gibt das Pankreas seine Hormone ab?",
+   "o": [
+    "In den Ductus pancreaticus",
+    "In den Magen",
+    "In die Galle",
+    "Direkt ins Blut, das über die V. portae zur Leber fließt",
+    "Ausschließlich ins Lymphsystem"
+   ],
+   "a": "D",
+   "expl": "Die Langerhans-Inseln sind endokrin und haben keinen Ausführungsgang. Insulin und Glukagon erreichen zuerst die Leber, ihr Hauptzielorgan.",
+   "dis": {
+    "A": "Er transportiert das exokrine Sekret.",
+    "B": "Kein Weg dorthin.",
+    "C": "Kein Weg dorthin.",
+    "E": "Hormone gehen ins Blut."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-134-1",
+   "src": "F1-134",
+   "typ": "nachbarschaft",
+   "q": "Welche Gefäße verlaufen zwischen Pankreashals und Processus uncinatus?",
+   "o": [
+    "Aorta und V. cava inferior",
+    "A. renalis",
+    "V. portae und A. hepatica propria",
+    "Nur die A. splenica",
+    "A. und V. mesenterica superior"
+   ],
+   "a": "E",
+   "expl": "Die Mesenterialgefäße treten hinter dem Pankreashals hervor und ziehen vor dem Processus uncinatus und der Pars horizontalis duodeni nach unten.",
+   "dis": {
+    "A": "Liegen hinter dem Processus uncinatus.",
+    "B": "Liegt weiter seitlich.",
+    "C": "Liegen weiter kranial.",
+    "D": "Verläuft am Oberrand."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-134-2",
+   "src": "F1-134",
+   "typ": "perspektive",
+   "q": "Warum werden Trypsin und Chymotrypsin als inaktive Vorstufen sezerniert?",
+   "o": [
+    "Zum Schutz vor Selbstverdauung; aktiviert werden sie erst im Duodenum durch die Enteropeptidase.",
+    "Damit sie ins Blut gelangen können",
+    "Weil sie im Magen aktiv werden müssen",
+    "Weil die Galle sie sonst zerstört",
+    "Weil sie Hormone sind"
+   ],
+   "a": "A",
+   "expl": "Werden die Enzyme schon im Pankreas aktiviert, verdaut sich das Organ selbst; das ist der Mechanismus der akuten Pankreatitis.",
+   "dis": {
+    "B": "Sie sollen gerade nicht ins Blut.",
+    "C": "Sie wirken im Duodenum.",
+    "D": "Kein Grund.",
+    "E": "Sie sind Verdauungsenzyme."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-135-1",
+   "src": "F1-135",
+   "typ": "perspektive",
+   "q": "Welche Zellen der Langerhans-Inseln bilden Glukagon?",
+   "o": [
+    "B-Zellen",
+    "A-Zellen",
+    "D-Zellen",
+    "PP-Zellen",
+    "Azinuszellen"
+   ],
+   "a": "B",
+   "expl": "Glukagon aus den A-Zellen erhöht den Blutzucker durch Glykogenolyse und Glukoneogenese in der Leber. Es ist der Gegenspieler des Insulins.",
+   "dis": {
+    "A": "Bilden Insulin.",
+    "C": "Bilden Somatostatin.",
+    "D": "Bilden pankreatisches Polypeptid.",
+    "E": "Exokrin, bilden Verdauungsenzyme."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-135-2",
+   "src": "F1-135",
+   "typ": "perspektive",
+   "q": "Welche Zellen der Langerhans-Inseln bilden Somatostatin?",
+   "o": [
+    "A-Zellen",
+    "B-Zellen",
+    "D-Zellen",
+    "Azinuszellen",
+    "Gangepithelzellen"
+   ],
+   "a": "C",
+   "expl": "Somatostatin hemmt parakrin die Freisetzung von Insulin und Glukagon. B-Zellen machen den größten Anteil der Inselzellen aus.",
+   "dis": {
+    "A": "Bilden Glukagon.",
+    "B": "Bilden Insulin.",
+    "D": "Bilden Verdauungsenzyme.",
+    "E": "Bilden Bikarbonat."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-136-1",
+   "src": "F1-136",
+   "typ": "perspektive",
+   "q": "Welches Pankreasenzym spaltet Triglyzeride?",
+   "o": [
+    "α-Amylase",
+    "Trypsin",
+    "Elastase",
+    "Lipase",
+    "Ribonuklease"
+   ],
+   "a": "D",
+   "expl": "Die Pankreaslipase braucht Colipase und gallensäurehaltige Mizellen. Bei exokriner Insuffizienz entstehen Fettstühle.",
+   "dis": {
+    "A": "Spaltet Stärke und Glykogen.",
+    "B": "Spaltet Proteine.",
+    "C": "Spaltet Elastin und Proteine.",
+    "E": "Spaltet RNA."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-136-2",
+   "src": "F1-136",
+   "typ": "klinik",
+   "q": "Welcher Laborwert ist bei einer akuten Pankreatitis typischerweise deutlich erhöht?",
+   "o": [
+    "Troponin",
+    "Kreatinin",
+    "TSH",
+    "Ferritin",
+    "Lipase im Serum"
+   ],
+   "a": "E",
+   "expl": "Bei der Pankreatitis gelangen Enzyme ins Blut. Die Lipase ist spezifischer als die Amylase und bleibt länger erhöht.",
+   "dis": {
+    "A": "Marker für Myokardschädigung.",
+    "B": "Nierenfunktionswert.",
+    "C": "Schilddrüsenwert.",
+    "D": "Eisenspeicherwert."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-137-1",
+   "src": "F1-137",
+   "typ": "perspektive",
+   "q": "Wie nennt man Steine im Ductus choledochus?",
+   "o": [
+    "Choledocholithiasis",
+    "Cholezystolithiasis",
+    "Nephrolithiasis",
+    "Sialolithiasis",
+    "Koprolith"
+   ],
+   "a": "A",
+   "expl": "Choledochussteine können Koliken, Verschlussikterus, Cholangitis und biliäre Pankreatitis verursachen. Sie werden meist per ERCP entfernt.",
+   "dis": {
+    "B": "Steine in der Gallenblase.",
+    "C": "Nierensteine.",
+    "D": "Speichelsteine.",
+    "E": "Kotstein, z. B. in der Appendix."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-137-2",
+   "src": "F1-137",
+   "typ": "klinik",
+   "q": "Welche Charcot-Trias spricht für eine akute Cholangitis?",
+   "o": [
+    "Hypotonie, gestaute Halsvenen und leise Herztöne",
+    "Fieber, Ikterus und Schmerzen im rechten Oberbauch",
+    "Kopfschmerz, Nackensteife und Fieber",
+    "Hämaturie, Flankenschmerz und tastbarer Tumor",
+    "Polyurie, Polydipsie und Gewichtsverlust"
+   ],
+   "a": "B",
+   "expl": "Bei der Cholangitis sind die Gallenwege durch einen Abflussstau infiziert, meist wegen eines Choledochussteins. Ohne rasche Drainage droht eine Sepsis.",
+   "dis": {
+    "A": "Beck-Trias bei Perikardtamponade.",
+    "C": "Typisch für Meningitis.",
+    "D": "Klassische Trias beim Nierenzellkarzinom.",
+    "E": "Typisch für Diabetes mellitus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-138-1",
+   "src": "F1-138",
+   "typ": "perspektive",
+   "q": "In welche Abschnitte gliedert sich die Gallenblase?",
+   "o": [
+    "Caput, Corpus und Cauda",
+    "Cortex und Medulla",
+    "Fundus, Corpus und Collum",
+    "Bulbus und Ampulla",
+    "Lobus dexter und sinister"
+   ],
+   "a": "C",
+   "expl": "Der Fundus überragt den Leberunterrand, das Collum geht in den Ductus cysticus über. Am Collum kann sich eine Ausbuchtung bilden (Hartmann-Tasche), in der sich Steine festsetzen.",
+   "dis": {
+    "A": "Gliederung des Pankreas.",
+    "B": "Gliederung von Niere bzw. Nebenniere.",
+    "D": "Begriffe aus Duodenum bzw. Rektum.",
+    "E": "Gliederung der Leber."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-138-2",
+   "src": "F1-138",
+   "typ": "klinik",
+   "q": "Wo projiziert sich der Gallenblasenfundus auf die vordere Bauchwand?",
+   "o": [
+    "Am McBurney-Punkt",
+    "Am Nabel",
+    "Am linken Rippenbogen",
+    "Am Schnittpunkt von rechter Medioklavikularlinie und Rippenbogen",
+    "Am Proc. xiphoideus"
+   ],
+   "a": "D",
+   "expl": "Etwa am 9. rechten Rippenknorpel liegt der Gallenblasenfundus. Dort wird das Murphy-Zeichen geprüft.",
+   "dis": {
+    "A": "Appendixbasis.",
+    "B": "Median, zu tief.",
+    "C": "Falsche Seite.",
+    "E": "Median."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-139-1",
+   "src": "F1-139",
+   "typ": "perspektive",
+   "q": "Wo werden Gallensäuren überwiegend rückresorbiert?",
+   "o": [
+    "Im Duodenum",
+    "Im Magen",
+    "Im Kolon",
+    "Im proximalen Jejunum",
+    "Im terminalen Ileum"
+   ],
+   "a": "E",
+   "expl": "Über 90 % der Gallensäuren werden im terminalen Ileum aktiv rückresorbiert und über die Pfortader zur Leber zurückgeführt (enterohepatischer Kreislauf).",
+   "dis": {
+    "A": "Dort wirken sie bei der Fettverdauung.",
+    "B": "Dort sind keine Gallensäuren.",
+    "C": "Nur ein kleiner Rest.",
+    "D": "Dort werden Fette mit ihrer Hilfe resorbiert."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-139-2",
+   "src": "F1-139",
+   "typ": "perspektive",
+   "q": "Welcher Farbstoff wird in der Leber konjugiert und mit der Galle ausgeschieden?",
+   "o": [
+    "Bilirubin",
+    "Hämoglobin",
+    "Melanin",
+    "Carotin",
+    "Urobilin"
+   ],
+   "a": "A",
+   "expl": "Bilirubin aus dem Hämoglobinabbau wird in der Leber an Glukuronsäure gekoppelt und mit der Galle ausgeschieden. Ein Abflussstau führt zu Ikterus und hellem Stuhl.",
+   "dis": {
+    "B": "Wird zu Bilirubin abgebaut, nicht selbst ausgeschieden.",
+    "C": "Hautpigment.",
+    "D": "Pflanzlicher Farbstoff.",
+    "E": "Entsteht erst im Darm bzw. wird mit dem Harn ausgeschieden."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-140-1",
+   "src": "F1-140",
+   "typ": "perspektive",
+   "q": "Wie heißt die gemeinsame Erweiterung von Ductus choledochus und Ductus pancreaticus vor der Mündung?",
+   "o": [
+    "Ampulla recti",
+    "Ampulla hepatopancreatica",
+    "Bulbus duodeni",
+    "Ductus cysticus",
+    "Recessus duodenalis"
+   ],
+   "a": "B",
+   "expl": "Die Ampulla hepatopancreatica (Vater) liegt in der Duodenalwand und wird vom Sphincter Oddi umgeben. Sie mündet an der Papilla duodeni major.",
+   "dis": {
+    "A": "Erweiterter Rektumabschnitt.",
+    "C": "Anfangsteil des Duodenums.",
+    "D": "Gallenblasengang.",
+    "E": "Bauchfelltasche."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-140-2",
+   "src": "F1-140",
+   "typ": "perspektive",
+   "q": "Welche spiralige Schleimhautfalte findet man im Ductus cysticus?",
+   "o": [
+    "Plica circularis",
+    "Plica semilunaris coli",
+    "Plica spiralis (Heister-Klappe)",
+    "Plica longitudinalis duodeni",
+    "Plica aryepiglottica"
+   ],
+   "a": "C",
+   "expl": "Die Plica spiralis hält den Ductus cysticus offen und reguliert den Ein- und Ausstrom der Galle. Sie erschwert das Sondieren des Gangs.",
+   "dis": {
+    "A": "Ringfalte im Dünndarm.",
+    "B": "Falte im Dickdarm.",
+    "D": "Längsfalte zur Papille.",
+    "E": "Falte am Kehlkopfeingang."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-141-1",
+   "src": "F1-141",
+   "typ": "klinik",
+   "q": "Was beschreibt das Murphy-Zeichen?",
+   "o": [
+    "Schmerz bei Hüftbeugung gegen Widerstand",
+    "Schmerz rechts beim Ausstreichen des Kolons von links",
+    "Schmerz in der linken Schulter",
+    "Schmerzbedingter Atemstopp bei tiefer Inspiration, während unter dem rechten Rippenbogen palpiert wird",
+    "Bläuliche Verfärbung um den Nabel"
+   ],
+   "a": "D",
+   "expl": "Bei der Inspiration tritt die entzündete Gallenblase gegen den palpierenden Finger; der Patient bricht die Einatmung ab. Das Zeichen spricht für eine akute Cholezystitis.",
+   "dis": {
+    "A": "Psoaszeichen.",
+    "B": "Rovsing-Zeichen.",
+    "C": "Kehr-Zeichen.",
+    "E": "Cullen-Zeichen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-141-2",
+   "src": "F1-141",
+   "typ": "klinik",
+   "q": "Über welchen Nerv wird der bei Cholezystitis in die rechte Schulter ausstrahlende Schmerz vermittelt?",
+   "o": [
+    "N. vagus",
+    "N. accessorius",
+    "N. intercostobrachialis",
+    "N. axillaris",
+    "N. phrenicus"
+   ],
+   "a": "E",
+   "expl": "Die entzündete Gallenblase reizt das Peritoneum unter dem Zwerchfell. Diese Afferenzen laufen über den N. phrenicus (C3–C5) und werden in die Schulter projiziert.",
+   "dis": {
+    "A": "Vermittelt keine Schulterschmerzen.",
+    "B": "Rein motorisch.",
+    "C": "Sensibel für die Achsel und den medialen Oberarm.",
+    "D": "Sensibel für die laterale Schulter, aber nicht vom Zwerchfell."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-33-1",
+   "src": "F3-33",
+   "typ": "perspektive",
+   "q": "Wo liegt der Leberunterrand beim Gesunden in der rechten Medioklavikularlinie?",
+   "o": [
+    "Etwa am Rippenbogen",
+    "In Nabelhöhe",
+    "Im 4. ICR",
+    "Am Beckenkamm",
+    "Links am Proc. xiphoideus"
+   ],
+   "a": "A",
+   "expl": "Der Leberunterrand folgt beim Gesunden etwa dem rechten Rippenbogen und ist allenfalls bei tiefer Inspiration knapp tastbar.",
+   "dis": {
+    "B": "Spricht für eine deutliche Hepatomegalie.",
+    "C": "Höhe der Leberoberkante bzw. Zwerchfellkuppel.",
+    "D": "Viel zu tief.",
+    "E": "Falsche Linie."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-33-2",
+   "src": "F3-33",
+   "typ": "klinik",
+   "q": "Warum lässt sich die Leber am besten während tiefer Inspiration palpieren?",
+   "o": [
+    "Weil die Leber bei Inspiration nach oben steigt",
+    "Weil das Zwerchfell die Leber nach kaudal unter den Rippenbogen schiebt",
+    "Weil nur die Bauchmuskeln entspannen",
+    "Weil die Leber nach links rotiert",
+    "Weil das Herz sie nach vorne drückt"
+   ],
+   "a": "B",
+   "expl": "Die Leber ist mit dem Zwerchfell verwachsen und folgt seiner Bewegung. Bei tiefer Einatmung tritt der Unterrand unter den Rippenbogen und trifft auf die palpierende Hand.",
+   "dis": {
+    "A": "Sie senkt sich.",
+    "C": "Der Hauptgrund ist die Zwerchfellbewegung.",
+    "D": "Keine relevante Rotation.",
+    "E": "Kein Mechanismus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-34-1",
+   "src": "F3-34",
+   "typ": "bild",
+   "q": "Welche Struktur verläuft im freien Unterrand des eingekreisten Bandes?",
+   "o": [
+    "Lig. venosum",
+    "V. portae",
+    "Lig. teres hepatis",
+    "A. hepatica propria",
+    "Ductus choledochus"
+   ],
+   "a": "C",
+   "expl": "Eingekreist ist das Lig. falciforme. In seinem freien Unterrand zieht das Lig. teres hepatis (obliterierte V. umbilicalis) vom Nabel zur Leber.",
+   "dis": {
+    "A": "Liegt an der Leberunterfläche hinten.",
+    "B": "Verläuft im Lig. hepatoduodenale.",
+    "D": "Verläuft im Lig. hepatoduodenale.",
+    "E": "Verläuft im Lig. hepatoduodenale."
+   },
+   "merk": "",
+   "img": "img/i42.jpg"
+  },
+  {
+   "id": "V-F3-34-2",
+   "src": "F3-34",
+   "typ": "bild",
+   "q": "Welche Lappen trennt das eingekreiste Band an der Leberoberfläche?",
+   "o": [
+    "Die funktionell rechte von der linken Leber",
+    "Lobus caudatus und Lobus quadratus",
+    "Die Area nuda vom übrigen Organ",
+    "Den anatomisch rechten vom anatomisch linken Leberlappen",
+    "Gallenblase und Leber"
+   ],
+   "a": "D",
+   "expl": "Das Lig. falciforme markiert die äußere Lappengrenze. Funktionell gehören Teile rechts davon (Segment IV) zur linken Leber.",
+   "dis": {
+    "A": "Diese Grenze ist die Cantlie-Linie.",
+    "B": "Getrennt durch die Leberpforte.",
+    "C": "Begrenzt durch das Lig. coronarium.",
+    "E": "Kein Band dazwischen."
+   },
+   "merk": "",
+   "img": "img/i42.jpg"
+  },
+  {
+   "id": "V-F3-35-1",
+   "src": "F3-35",
+   "typ": "nachbarschaft",
+   "q": "Welcher Raum liegt rechts zwischen Leberoberfläche und Zwerchfell?",
+   "o": [
+    "Recessus hepatorenalis",
+    "Bursa omentalis",
+    "Excavatio rectovesicalis",
+    "Sulcus paracolicus",
+    "Recessus subphrenicus"
+   ],
+   "a": "E",
+   "expl": "Der Recessus subphrenicus wird durch das Lig. falciforme in einen rechten und linken Teil getrennt. Hier können sich nach Operationen Abszesse bilden.",
+   "dis": {
+    "A": "Liegt unter der Leber vor der rechten Niere.",
+    "B": "Liegt hinter dem Magen.",
+    "C": "Liegt im Becken.",
+    "D": "Liegt seitlich des Kolons."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-35-2",
+   "src": "F3-35",
+   "typ": "klinik",
+   "q": "Welche Symptome sind bei einem rechtsseitigen subphrenischen Abszess typisch?",
+   "o": [
+    "Schmerzen in der rechten Schulter, Fieber und ein Begleit-Pleuraerguss",
+    "Hämaturie",
+    "Durchfall",
+    "Kopfschmerz",
+    "Sehstörungen"
+   ],
+   "a": "A",
+   "expl": "Der Abszess reizt die Zwerchfellunterseite (N. phrenicus) und über das Zwerchfell die Pleura. Typisch sind Zwerchfellhochstand und ein reaktiver Erguss.",
+   "dis": {
+    "B": "Spricht für Harnwegserkrankungen.",
+    "C": "Unspezifisch.",
+    "D": "Unspezifisch.",
+    "E": "Kein Zusammenhang."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-36-1",
+   "src": "F3-36",
+   "typ": "perspektive",
+   "q": "Welche Gefäße münden in die Lebersinusoide?",
+   "o": [
+    "Nur Äste der V. portae",
+    "Äste der V. portae und der A. hepatica propria",
+    "Die Vv. hepaticae",
+    "Lymphgefäße",
+    "Die Gallengänge"
+   ],
+   "a": "B",
+   "expl": "In den Sinusoiden mischt sich portalvenöses und arterielles Blut und fließt zur Zentralvene. Galle fließt in Gegenrichtung zu den Portalfeldern.",
+   "dis": {
+    "A": "Auch arterielles Blut gelangt in die Sinusoide.",
+    "C": "Sie leiten das Blut ab.",
+    "D": "Lymphe entsteht im Disse-Raum.",
+    "E": "Führen Galle in Gegenrichtung."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-36-2",
+   "src": "F3-36",
+   "typ": "perspektive",
+   "q": "Wohin fließt das Blut aus den Lebersinusoiden ab?",
+   "o": [
+    "In die V. portae",
+    "In die A. hepatica propria",
+    "Über die Zentralvenen in die Vv. hepaticae",
+    "In die Gallenkanälchen",
+    "In die V. splenica"
+   ],
+   "a": "C",
+   "expl": "Die Zentralvenen sammeln sich zu Sublobularvenen und schließlich zu den drei Lebervenen, die in die V. cava inferior münden.",
+   "dis": {
+    "A": "Liefert Blut zu.",
+    "B": "Liefert Blut zu.",
+    "D": "Führen Galle.",
+    "E": "Pfortaderzufluss."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-37-1",
+   "src": "F3-37",
+   "typ": "nachbarschaft",
+   "q": "Welche Struktur liegt in der Leberpforte bzw. im Lig. hepatoduodenale am weitesten dorsal?",
+   "o": [
+    "A. hepatica propria",
+    "Ductus hepaticus communis bzw. choledochus",
+    "Lig. teres hepatis",
+    "V. portae",
+    "Gallenblase"
+   ],
+   "a": "D",
+   "expl": "Im Lig. hepatoduodenale liegen Gallengang rechts vorne, Arterie links vorne und Pfortader dahinter. Hinter der Pfortader liegt das Foramen omentale.",
+   "dis": {
+    "A": "Liegt ventral links.",
+    "B": "Liegt ventral rechts.",
+    "C": "Liegt vorne im Lig. falciforme.",
+    "E": "Liegt rechts vorne."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-37-2",
+   "src": "F3-37",
+   "typ": "perspektive",
+   "q": "Wo findet man histologisch die Glisson-Trias (Portalfelder)?",
+   "o": [
+    "Im Zentrum der Leberläppchen",
+    "In der Gallenblasenwand",
+    "In der Leberkapsel",
+    "Im Pankreas",
+    "An den Ecken der klassischen Leberläppchen"
+   ],
+   "a": "E",
+   "expl": "Das klassische Leberläppchen ist sechseckig mit der Zentralvene in der Mitte. An den Ecken liegen Portalfelder mit Ästen von V. portae, A. hepatica und Gallengang.",
+   "dis": {
+    "A": "Dort liegt die Zentralvene.",
+    "B": "Andere Struktur.",
+    "C": "Keine Portalfelder.",
+    "D": "Anderes Organ."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-38-1",
+   "src": "F3-38",
+   "typ": "bild",
+   "q": "Welches große Gefäß grenzt rechts an den eingekreisten Leberanteil?",
+   "o": [
+    "V. cava inferior",
+    "Aorta abdominalis",
+    "V. portae",
+    "A. splenica",
+    "V. renalis sinistra"
+   ],
+   "a": "A",
+   "expl": "Eingekreist ist der Lobus caudatus. Er liegt zwischen V. cava inferior (rechts) und Fissura ligamenti venosi (links) hinter der Leberpforte.",
+   "dis": {
+    "B": "Liegt weiter links hinter dem Zwerchfellschenkel.",
+    "C": "Liegt vorne an der Leberpforte.",
+    "D": "Liegt am Pankreasoberrand.",
+    "E": "Liegt tiefer."
+   },
+   "merk": "",
+   "img": "img/i43.jpg"
+  },
+  {
+   "id": "V-F3-38-2",
+   "src": "F3-38",
+   "typ": "bild",
+   "q": "Warum ist der eingekreiste Leberanteil beim Budd-Chiari-Syndrom oft vergrößert?",
+   "o": [
+    "Weil er keine arterielle Versorgung hat",
+    "Weil er über eigene kurze Venen direkt in die V. cava inferior drainiert",
+    "Weil die Gallenblase auf ihm liegt",
+    "Weil ihm die Pfortader fehlt",
+    "Weil er keine Lymphgefäße hat"
+   ],
+   "a": "B",
+   "expl": "Sind die drei Hauptlebervenen verschlossen, kann der Lobus caudatus weiter über seine kleinen Venen abfließen. Er hypertrophiert kompensatorisch.",
+   "dis": {
+    "A": "Er wird arteriell versorgt.",
+    "C": "Die Gallenblase liegt rechts unten.",
+    "D": "Er erhält Pfortaderäste.",
+    "E": "Kein Grund."
+   },
+   "merk": "",
+   "img": "img/i43.jpg"
+  },
+  {
+   "id": "V-F3-39-1",
+   "src": "F3-39",
+   "typ": "nachbarschaft",
+   "q": "Welcher Abschnitt des Duodenums hinterlässt die Impressio duodenalis an der Leber?",
+   "o": [
+    "Pars horizontalis",
+    "Pars ascendens",
+    "Pars superior (und Anfang der Pars descendens)",
+    "Flexura duodenojejunalis",
+    "Jejunum"
+   ],
+   "a": "C",
+   "expl": "Die Impressio duodenalis liegt rechts neben dem Gallenblasenhals. Deshalb kann eine Gallenblase mit dem Duodenum verwachsen und eine Fistel bilden.",
+   "dis": {
+    "A": "Liegt tiefer in Höhe L3.",
+    "B": "Liegt links.",
+    "D": "Liegt links.",
+    "E": "Liegt infracolisch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-39-2",
+   "src": "F3-39",
+   "typ": "nachbarschaft",
+   "q": "Welches Organ verursacht die Impressio suprarenalis an der Leberhinterfläche?",
+   "o": [
+    "Linke Nebenniere",
+    "Pankreas",
+    "Milz",
+    "Rechte Nebenniere",
+    "Magen"
+   ],
+   "a": "D",
+   "expl": "Die rechte Nebenniere liegt zwischen Leber, Zwerchfell und V. cava inferior. Sie hinterlässt neben der Area nuda eine kleine Impression.",
+   "dis": {
+    "A": "Liegt links, ohne Leberkontakt.",
+    "B": "Liegt tiefer.",
+    "C": "Liegt links.",
+    "E": "Hinterlässt die Impressio gastrica links."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-40-1",
+   "src": "F3-40",
+   "typ": "perspektive",
+   "q": "Wo wird Cholecystokinin (CCK) gebildet?",
+   "o": [
+    "In der Gallenblase",
+    "In der Leber",
+    "In den G-Zellen des Antrums",
+    "In den B-Zellen des Pankreas",
+    "In den I-Zellen der Schleimhaut von Duodenum und Jejunum"
+   ],
+   "a": "E",
+   "expl": "Fette und Aminosäuren im Duodenum regen die I-Zellen zur CCK-Freisetzung an. Das Hormon gelangt über das Blut zu Gallenblase und Pankreas.",
+   "dis": {
+    "A": "Die Gallenblase ist Zielorgan, nicht Bildungsort.",
+    "B": "Bildet Galle, nicht CCK.",
+    "C": "Bilden Gastrin.",
+    "D": "Bilden Insulin."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-40-2",
+   "src": "F3-40",
+   "typ": "perspektive",
+   "q": "Welche Wirkungen hat Cholecystokinin?",
+   "o": [
+    "Kontraktion der Gallenblase, Erschlaffung des Sphincter Oddi und Steigerung der Pankreasenzymsekretion",
+    "Steigerung der Magensäuresekretion",
+    "Hemmung der Insulinfreisetzung",
+    "Erschlaffung der Gallenblase",
+    "Kontraktion des Sphincter Oddi"
+   ],
+   "a": "A",
+   "expl": "CCK sorgt dafür, dass Galle und Pankreasenzyme genau dann ins Duodenum gelangen, wenn Nahrung dort ist. Fettreiche Mahlzeiten können deshalb Gallenkoliken auslösen.",
+   "dis": {
+    "B": "Wirkung von Gastrin.",
+    "C": "Wirkung von Somatostatin.",
+    "D": "Genau umgekehrt.",
+    "E": "Genau umgekehrt."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-41-1",
+   "src": "F3-41",
+   "typ": "perspektive",
+   "q": "In welchem Pankreasabschnitt ist die Dichte der Langerhans-Inseln am höchsten?",
+   "o": [
+    "Caput pancreatis",
+    "Cauda pancreatis",
+    "Processus uncinatus",
+    "Collum pancreatis",
+    "Die Dichte ist überall gleich"
+   ],
+   "a": "B",
+   "expl": "Die Inseln sind im Pankreasschwanz am dichtesten. Bei einer Pankreasschwanzresektion kann deshalb ein Diabetes entstehen.",
+   "dis": {
+    "A": "Geringere Dichte.",
+    "C": "Geringere Dichte, enthält eher PP-Zellen.",
+    "D": "Geringere Dichte.",
+    "E": "Sie nimmt zum Schwanz hin zu."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-41-2",
+   "src": "F3-41",
+   "typ": "perspektive",
+   "q": "Welchen Anteil am Organvolumen hat das endokrine Pankreas etwa?",
+   "o": [
+    "Etwa 50 %",
+    "Etwa 20 %",
+    "Etwa 1–2 %",
+    "Etwa 90 %",
+    "Etwa 10 %"
+   ],
+   "a": "C",
+   "expl": "Das Pankreas enthält etwa eine Million Langerhans-Inseln, die aber nur 1–2 % des Gewebes ausmachen. Der Rest ist exokrines Drüsengewebe.",
+   "dis": {
+    "A": "Viel zu viel.",
+    "B": "Zu viel.",
+    "D": "Der Großteil ist exokrin.",
+    "E": "Zu viel."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-42-1",
+   "src": "F3-42",
+   "typ": "perspektive",
+   "q": "Welche Zellen des Pankreas sezernieren vor allem Bikarbonat?",
+   "o": [
+    "Azinuszellen",
+    "B-Zellen",
+    "A-Zellen",
+    "Die Epithelzellen der Schaltstücke und kleinen Gänge",
+    "Becherzellen"
+   ],
+   "a": "D",
+   "expl": "Das bikarbonatreiche Gangsekret neutralisiert den sauren Chymus im Duodenum und schafft das optimale Milieu für die Pankreasenzyme.",
+   "dis": {
+    "A": "Bilden vor allem Enzyme.",
+    "B": "Bilden Insulin.",
+    "C": "Bilden Glukagon.",
+    "E": "Bilden Schleim im Darm."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-42-2",
+   "src": "F3-42",
+   "typ": "perspektive",
+   "q": "Welches Hormon stimuliert vor allem die Bikarbonatsekretion des Pankreas?",
+   "o": [
+    "Cholecystokinin",
+    "Gastrin",
+    "Insulin",
+    "Somatostatin",
+    "Sekretin"
+   ],
+   "a": "E",
+   "expl": "Sekretin wird von den S-Zellen des Duodenums freigesetzt, wenn saurer Chymus ankommt. Es war das erste entdeckte Hormon.",
+   "dis": {
+    "A": "Stimuliert vor allem die Enzymsekretion.",
+    "B": "Stimuliert die Magensäure.",
+    "C": "Senkt den Blutzucker.",
+    "D": "Hemmt die Sekretion."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-43-1",
+   "src": "F3-43",
+   "typ": "perspektive",
+   "q": "Woran erkennt man Azinuszellen des Pankreas histologisch?",
+   "o": [
+    "An apikalen Zymogengranula und basal basophilem Zytoplasma",
+    "An einem Bürstensaum aus Mikrovilli",
+    "An Kinozilien",
+    "An Stereozilien",
+    "An Melaningranula"
+   ],
+   "a": "A",
+   "expl": "Die Azinuszellen haben viel raues ER (basophil) und speichern die Enzymvorstufen in apikalen Granula. Zentroazinäre Zellen markieren den Beginn der Schaltstücke.",
+   "dis": {
+    "B": "Typisch für Enterozyten und Nierentubuli.",
+    "C": "Typisch für Flimmerepithel.",
+    "D": "Typisch z. B. für den Nebenhoden.",
+    "E": "Typisch für Melanozyten."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-43-2",
+   "src": "F3-43",
+   "typ": "klinik",
+   "q": "Was geschieht im Pankreas bei Mukoviszidose?",
+   "o": [
+    "Es wird zu viel Insulin gebildet.",
+    "Zähes Sekret verlegt die Gänge, und es entsteht eine exokrine Pankreasinsuffizienz.",
+    "Das Pankreas fehlt angeboren.",
+    "Es bilden sich nur Gallensteine.",
+    "Es wird zu viel Bikarbonat sezerniert."
+   ],
+   "a": "B",
+   "expl": "Der Defekt des CFTR-Kanals vermindert die Chlorid- und Bikarbonatsekretion. Das Sekret wird zäh, verlegt die Gänge und zerstört das Drüsengewebe; es entstehen Fettstühle.",
+   "dis": {
+    "A": "Eher entsteht später ein Diabetes.",
+    "C": "Es ist angelegt.",
+    "D": "Betrifft das Pankreas selbst.",
+    "E": "Die Bikarbonatsekretion ist vermindert."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-44-1",
+   "src": "F3-44",
+   "typ": "perspektive",
+   "q": "Welches Enzym aktiviert Trypsinogen im Duodenum?",
+   "o": [
+    "Pepsin",
+    "α-Amylase",
+    "Enteropeptidase (Enterokinase)",
+    "Lipase",
+    "Gallensäuren"
+   ],
+   "a": "C",
+   "expl": "Die Enteropeptidase sitzt im Bürstensaum der Duodenalschleimhaut. Sie spaltet Trypsinogen zu Trypsin, das dann die übrigen Proenzyme aktiviert.",
+   "dis": {
+    "A": "Magenenzym.",
+    "B": "Spaltet Kohlenhydrate.",
+    "D": "Spaltet Fette.",
+    "E": "Sind keine Enzyme."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-44-2",
+   "src": "F3-44",
+   "typ": "perspektive",
+   "q": "Welches Pankreasenzym aktiviert, einmal aktiv, die übrigen Proenzyme?",
+   "o": [
+    "Lipase",
+    "α-Amylase",
+    "Ribonuklease",
+    "Trypsin",
+    "Elastase"
+   ],
+   "a": "D",
+   "expl": "Trypsin aktiviert Chymotrypsinogen, Proelastase, Procarboxypeptidasen und weiteres Trypsinogen. Deshalb enthält das Pankreas einen Trypsin-Inhibitor als Schutz.",
+   "dis": {
+    "A": "Wird als aktives Enzym sezerniert.",
+    "B": "Wird als aktives Enzym sezerniert.",
+    "C": "Spaltet RNA.",
+    "E": "Wird selbst von Trypsin aktiviert."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-45-1",
+   "src": "F3-45",
+   "typ": "nachbarschaft",
+   "q": "Welcher Pankreasanteil hakt sich hinter die Mesenterialgefäße?",
+   "o": [
+    "Cauda pancreatis",
+    "Corpus pancreatis",
+    "Collum pancreatis",
+    "Tuber omentale",
+    "Processus uncinatus"
+   ],
+   "a": "E",
+   "expl": "Der Processus uncinatus entsteht aus der ventralen Pankreasanlage und schiebt sich hinter A. und V. mesenterica superior. Tumoren dort können diese Gefäße früh infiltrieren.",
+   "dis": {
+    "A": "Liegt am Milzhilus.",
+    "B": "Liegt vor der Aorta links.",
+    "C": "Liegt vor den Mesenterialgefäßen.",
+    "D": "Vorwölbung des Pankreaskörpers zur Bursa omentalis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-45-2",
+   "src": "F3-45",
+   "typ": "klinik",
+   "q": "Welche Komplikation kann ein Pancreas anulare verursachen?",
+   "o": [
+    "Eine Stenose des Duodenums",
+    "Eine Rektumstenose",
+    "Eine Ureterstenose",
+    "Eine Trachealstenose",
+    "Eine Aortenklappenstenose"
+   ],
+   "a": "A",
+   "expl": "Beim Pancreas anulare umschließt Pankreasgewebe die Pars descendens duodeni ringförmig, weil die ventrale Anlage nicht richtig gewandert ist. Neugeborene können dadurch erbrechen.",
+   "dis": {
+    "B": "Liegt im Becken.",
+    "C": "Liegt retroperitoneal seitlich.",
+    "D": "Liegt im Hals bzw. Thorax.",
+    "E": "Betrifft das Herz."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-46-1",
+   "src": "F3-46",
+   "typ": "perspektive",
+   "q": "Welche Wandschichten fehlen der Gallenblase im Vergleich zum Darm?",
+   "o": [
+    "Tunica muscularis",
+    "Lamina muscularis mucosae und Tela submucosa",
+    "Epithel",
+    "Serosa",
+    "Lamina propria"
+   ],
+   "a": "B",
+   "expl": "Die Gallenblasenwand besteht aus Schleimhaut, glatter Muskulatur und Serosa bzw. Adventitia. Das Fehlen der Submukosa ist ein histologisches Erkennungsmerkmal.",
+   "dis": {
+    "A": "Vorhanden, für die Kontraktion nötig.",
+    "C": "Vorhanden (hochprismatisch).",
+    "D": "Teilweise vorhanden.",
+    "E": "Vorhanden."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-46-2",
+   "src": "F3-46",
+   "typ": "perspektive",
+   "q": "Was macht die Gallenblase zwischen den Mahlzeiten mit der Galle?",
+   "o": [
+    "Sie bildet die Galle neu.",
+    "Sie säuert die Galle an.",
+    "Sie speichert und konzentriert sie durch Wasserresorption.",
+    "Sie verdünnt die Galle.",
+    "Sie filtert Bakterien aus der Galle."
+   ],
+   "a": "C",
+   "expl": "Die Gallenblase kann die Galle etwa 5- bis 10-fach eindicken. Bei Übersättigung mit Cholesterin oder Bilirubin können sich daraus Steine bilden.",
+   "dis": {
+    "A": "Die Galle wird in der Leber gebildet.",
+    "B": "Kein relevanter Mechanismus.",
+    "D": "Sie dickt sie ein.",
+    "E": "Keine Filterfunktion."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-47-1",
+   "src": "F3-47",
+   "typ": "perspektive",
+   "q": "Welche Arterie versorgt die Gallenblase?",
+   "o": [
+    "A. gastroduodenalis",
+    "A. splenica",
+    "A. gastrica sinistra",
+    "A. cystica",
+    "A. renalis"
+   ],
+   "a": "D",
+   "expl": "Die A. cystica entspringt meist aus der A. hepatica dextra und erreicht die Gallenblase im Calot-Dreieck.",
+   "dis": {
+    "A": "Versorgt Duodenum und Pankreaskopf.",
+    "B": "Versorgt die Milz.",
+    "C": "Versorgt die kleine Magenkurvatur.",
+    "E": "Versorgt die Niere."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-47-2",
+   "src": "F3-47",
+   "typ": "nachbarschaft",
+   "q": "Welche Strukturen begrenzen das Calot-Dreieck?",
+   "o": [
+    "Lig. inguinale, M. rectus abdominis und Vasa epigastrica inferiora",
+    "M. sartorius, M. adductor longus und Lig. inguinale",
+    "V. cava inferior, Lig. hepatoduodenale und Lobus caudatus",
+    "Gallenblase, Lig. teres und Pankreas",
+    "Ductus cysticus, Ductus hepaticus communis und Leberunterrand"
+   ],
+   "a": "E",
+   "expl": "Im Calot-Dreieck liegt die A. cystica. Bei der Cholezystektomie müssen A. cystica und Ductus cysticus darin sicher dargestellt werden (Critical View of Safety).",
+   "dis": {
+    "A": "Hesselbach-Dreieck.",
+    "B": "Trigonum femorale.",
+    "C": "Begrenzungen des Foramen omentale.",
+    "D": "Keine Dreiecksgrenzen."
+   },
+   "merk": "",
+   "img": null
+  }
+ ]
+}

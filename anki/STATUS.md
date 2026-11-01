@@ -11,18 +11,18 @@
 - [x] D4 Caput (Kopf) – 66/66 Karten – released
 
 ## Etappe 3a – Teil A Thorax
-- [ ] A1 1. Herz – 60/60 Karten – review
-- [ ] A2 2. Lunge – 62/62 Karten – review
-- [ ] A3 3. Mediastinum – 58/58 Karten – review
-- [ ] A4 4. Großarterien – 62/62 Karten – review
-- [ ] A5 5. Großvenen – 60/60 Karten – review
+- [x] A1 1. Herz – 60/60 Karten – released
+- [x] A2 2. Lunge – 62/62 Karten – released
+- [x] A3 3. Mediastinum – 58/58 Karten – released
+- [x] A4 4. Großarterien – 62/62 Karten – released
+- [x] A5 5. Großvenen – 60/60 Karten – released
 
 ## Etappe 3b – Teil A Abdomen
-- [ ] A6 6. Peritoneum – 0/30 Karten – offen
-- [ ] A7 7. Retrositus – 0/60 Karten – offen
-- [ ] A8 8. Magen und Dünndarm – 0/72 Karten – offen
-- [ ] A9 9. Dickdarm und Rektum – 0/64 Karten – offen
-- [ ] A10 10. Leber, Pankreas und Galle – 0/60 Karten – offen
+- [ ] A6 6. Peritoneum – 30/30 Karten – review
+- [ ] A7 7. Retrositus – 60/60 Karten – review
+- [ ] A8 8. Magen und Dünndarm – 72/72 Karten – review
+- [ ] A9 9. Dickdarm und Rektum – 64/64 Karten – review
+- [ ] A10 10. Leber, Pankreas und Galle – 60/60 Karten – review
 
 ## Etappe 3c – Teil A Rest
 - [ ] A11 11. Das lymphatische System – 0/56 Karten – offen
@@ -37,4 +37,4 @@
 - [ ] B3 Niere und ableitende Harnwege – 0/40 Karten – offen
 - [ ] C1 Altfragen 1–172 – 0/344 Karten – offen
 
-**Nächstes Kapitel:** A1
+**Nächstes Kapitel:** A6
