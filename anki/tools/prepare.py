@@ -12,12 +12,12 @@ out = [f"# {chs[ch_id]['partTitle']} – {chs[ch_id]['title']} ({len(items)} Ori
 for i, q in enumerate(items):
     if i % bs == 0:
         out.append(f"\n## Batch {i//bs+1}\n")
-    lsg = dict(q['o']).get(q['a'], '?')
+    lsg = dict(q['o']).get(q['a'], '?') if q['a'] else '— keine Lösung in der Vorlage —'
     out.append(f"### {q['id']}  (Nr. {q['n']}){'  [BILD ' + ','.join(q['img']) + ']' if q.get('img') else ''}")
     out.append(q['q'])
     for k, t in q['o']:
-        out.append(f"- {k.upper()}{'*' if k == q['a'] else ''} {t}")
-    out.append(f"Lösung: {q['a'].upper()} – {lsg}")
+        out.append(f"- {k.upper()}{'*' if q['a'] and k == q['a'] else ''} {t}")
+    out.append(f"Lösung: {(q['a'] or '?').upper()} – {lsg}")
     ft = flag_text(q, fl)
     if ft: out.append(f"⚠ {ft}")
     out.append('')

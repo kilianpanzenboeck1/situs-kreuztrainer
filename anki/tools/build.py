@@ -49,9 +49,9 @@ for ch in cfg['order']:
         for q in origs:
             img = ''.join(f'<img src="{B(i)}">' for i in q.get('img') or [])
             media.update(ipath(i) for i in q.get('img') or [])
-            lsg = dict(q['o'])[q['a']]
+            lsg = dict(q['o']).get(q['a']) if q['a'] else None
             deck(deck_name(ch, 'Original')).add_note(genanki.Note(model=model, guid=genanki.guid_for('orig', q['id']),
-                fields=[q['id'], e(q['q']), img, opts_html([(k.upper(), t) for k, t in q['o']]), f"{q['a'].upper()} – {e(lsg)}",
+                fields=[q['id'], e(q['q']), img, opts_html([(k.upper(), t) for k, t in q['o']]), (f"{q['a'].upper()} – {e(lsg)}" if lsg else "Keine der Optionen ist korrekt (siehe Hinweis)"),
                         '', '', '', e(flag_text(q, fl)), quelle(q)], tags=['original', ch]))
             n_orig += 1
     for c in d['cards']:

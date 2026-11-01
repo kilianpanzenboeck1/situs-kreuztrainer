@@ -1,0 +1,696 @@
+{
+ "chapter": "A6",
+ "status": "draft",
+ "cards": [
+  {
+   "id": "V-D2-48/F2-76-1",
+   "src": "D2-48/F2-76",
+   "typ": "nachbarschaft",
+   "q": "Welcher Raum ist beim Mann der tiefste Punkt der Peritonealhöhle?",
+   "o": [
+    "Excavatio rectovesicalis",
+    "Recessus subphrenicus",
+    "Bursa omentalis",
+    "Spatium retropubicum",
+    "Recessus duodenalis superior"
+   ],
+   "a": "A",
+   "expl": "Beim Mann reicht die Peritonealhöhle zwischen Rektum und Harnblase am tiefsten hinab, bei der Frau in der Excavatio rectouterina (Douglas-Raum). Dort sammeln sich im Stehen Flüssigkeit, Blut oder Eiter.",
+   "dis": {
+    "B": "Liegt ganz oben unter dem Zwerchfell.",
+    "C": "Liegt im Oberbauch hinter dem Magen.",
+    "D": "Extraperitonealer Raum vor der Harnblase.",
+    "E": "Kleine Bauchfelltasche an der Flexura duodenojejunalis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-48/F2-76-2",
+   "src": "D2-48/F2-76",
+   "typ": "klinik",
+   "q": "Wo sammelt sich beim liegenden Traumapatienten freie Flüssigkeit im rechten Oberbauch typischerweise zuerst (FAST-Sonographie)?",
+   "o": [
+    "Bursa omentalis",
+    "Recessus hepatorenalis (Morison-Pouch)",
+    "Spatium retropubicum",
+    "Recessus piriformis",
+    "Excavatio vesicouterina"
+   ],
+   "a": "B",
+   "expl": "Der Recessus hepatorenalis zwischen Leber und rechter Niere ist im Liegen der tiefste Punkt der Oberbauchetage. Bei der FAST-Untersuchung wird er als einer der ersten Orte geprüft.",
+   "dis": {
+    "A": "Nur über das Foramen omentale erreichbar.",
+    "C": "Liegt extraperitoneal vor der Blase.",
+    "D": "Liegt im Pharynx.",
+    "E": "Liegt im Becken, nicht im rechten Oberbauch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-49/F2-77-1",
+   "src": "D2-49/F2-77",
+   "typ": "umkehrung",
+   "q": "Welches Organ liegt primär retroperitoneal?",
+   "o": [
+    "Pankreas",
+    "Colon ascendens",
+    "Niere",
+    "Magen",
+    "Milz"
+   ],
+   "a": "C",
+   "expl": "Primär retroperitoneale Organe entstehen hinter dem Peritoneum und hatten nie ein Mesenterium, z. B. Nieren, Nebennieren, Ureteren, Aorta und V. cava inferior.",
+   "dis": {
+    "A": "Sekundär retroperitoneal.",
+    "B": "Sekundär retroperitoneal.",
+    "D": "Intraperitoneal.",
+    "E": "Intraperitoneal."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-49/F2-77-2",
+   "src": "D2-49/F2-77",
+   "typ": "perspektive",
+   "q": "Welcher Darmabschnitt liegt intraperitoneal?",
+   "o": [
+    "Colon ascendens",
+    "Colon descendens",
+    "Pars descendens duodeni",
+    "Colon sigmoideum",
+    "Unteres Rektumdrittel"
+   ],
+   "a": "D",
+   "expl": "Das Colon sigmoideum hängt am Mesocolon sigmoideum und ist dadurch beweglich. Intraperitoneal liegen außerdem Jejunum, Ileum, Colon transversum und meist das Caecum mit der Appendix.",
+   "dis": {
+    "A": "Sekundär retroperitoneal.",
+    "B": "Sekundär retroperitoneal.",
+    "C": "Sekundär retroperitoneal.",
+    "E": "Extraperitoneal."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-50/F2-78-1",
+   "src": "D2-50/F2-78",
+   "typ": "perspektive",
+   "q": "Über welche Öffnung steht die Bursa omentalis mit der übrigen Peritonealhöhle in Verbindung?",
+   "o": [
+    "Hiatus semilunaris",
+    "Foramen ovale",
+    "Recessus piriformis",
+    "Anulus inguinalis profundus",
+    "Foramen omentale (epiploicum, Winslow)"
+   ],
+   "a": "E",
+   "expl": "Das Foramen omentale liegt hinter dem freien Rand des Lig. hepatoduodenale. Es ist der einzige natürliche Zugang zur Bursa omentalis.",
+   "dis": {
+    "A": "Liegt im mittleren Nasengang.",
+    "B": "Liegt im Herzen bzw. an der Schädelbasis.",
+    "C": "Liegt im Pharynx.",
+    "D": "Innerer Leistenring."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-50/F2-78-2",
+   "src": "D2-50/F2-78",
+   "typ": "nachbarschaft",
+   "q": "Welche Struktur begrenzt das Foramen omentale nach dorsal?",
+   "o": [
+    "V. cava inferior",
+    "Lig. hepatoduodenale",
+    "Lobus caudatus der Leber",
+    "Pars superior duodeni",
+    "Magen"
+   ],
+   "a": "A",
+   "expl": "Das Foramen omentale wird ventral vom Lig. hepatoduodenale, dorsal von der V. cava inferior, kranial vom Lobus caudatus und kaudal von der Pars superior duodeni begrenzt.",
+   "dis": {
+    "B": "Begrenzt das Foramen ventral.",
+    "C": "Begrenzt das Foramen kranial.",
+    "D": "Begrenzt das Foramen kaudal.",
+    "E": "Liegt vor der Bursa omentalis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-51/F2-79-1",
+   "src": "D2-51/F2-79",
+   "typ": "umkehrung",
+   "q": "Welches Band verbindet Magen und Milz und enthält die Aa. gastricae breves?",
+   "o": [
+    "Lig. splenorenale",
+    "Lig. gastrosplenicum",
+    "Lig. phrenicocolicum",
+    "Lig. hepatogastricum",
+    "Lig. gastrocolicum"
+   ],
+   "a": "B",
+   "expl": "Das Lig. gastrosplenicum zieht von der großen Magenkurvatur zum Milzhilus. Darin verlaufen die Aa. gastricae breves und die A. gastroomentalis sinistra.",
+   "dis": {
+    "A": "Verbindet Milz und hintere Bauchwand, enthält die Vasa splenica.",
+    "C": "Liegt unter dem unteren Milzpol.",
+    "D": "Teil des Omentum minus.",
+    "E": "Verbindet Magen und Colon transversum."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-51/F2-79-2",
+   "src": "D2-51/F2-79",
+   "typ": "perspektive",
+   "q": "Was verläuft im Lig. splenorenale?",
+   "o": [
+    "Aa. gastricae breves",
+    "A. gastrica sinistra",
+    "A. und V. splenica sowie die Cauda pancreatis",
+    "V. portae",
+    "Ureter"
+   ],
+   "a": "C",
+   "expl": "Das Lig. splenorenale verbindet den Milzhilus mit der hinteren Bauchwand. Die Pankreasschwanzspitze reicht darin bis an die Milz; bei Splenektomie muss man darauf achten.",
+   "dis": {
+    "A": "Verlaufen im Lig. gastrosplenicum.",
+    "B": "Verläuft in der Plica gastropancreatica bzw. an der kleinen Kurvatur.",
+    "D": "Verläuft im Lig. hepatoduodenale.",
+    "E": "Liegt retroperitoneal tiefer."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-52/F2-80-1",
+   "src": "D2-52/F2-80",
+   "typ": "perspektive",
+   "q": "Aus welchen Bändern besteht das Omentum minus?",
+   "o": [
+    "Lig. gastrocolicum und Lig. gastrosplenicum",
+    "Lig. falciforme und Lig. teres hepatis",
+    "Mesocolon transversum",
+    "Lig. hepatogastricum und Lig. hepatoduodenale",
+    "Lig. coronarium"
+   ],
+   "a": "D",
+   "expl": "Das Omentum minus spannt sich von der Leberpforte zur kleinen Kurvatur (Lig. hepatogastricum) und zur Pars superior duodeni (Lig. hepatoduodenale). Die Vv. hepaticae verlaufen nicht darin.",
+   "dis": {
+    "A": "Teile des Omentum majus.",
+    "B": "Vordere Leberbänder.",
+    "C": "Meso des Colon transversum.",
+    "E": "Aufhängeband der Leber am Zwerchfell."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-52/F2-80-2",
+   "src": "D2-52/F2-80",
+   "typ": "perspektive",
+   "q": "Welche Arterien verlaufen im Lig. hepatogastricum entlang der kleinen Kurvatur?",
+   "o": [
+    "Aa. gastroomentales",
+    "Aa. gastricae breves",
+    "A. splenica",
+    "A. colica media",
+    "A. gastrica dextra und A. gastrica sinistra"
+   ],
+   "a": "E",
+   "expl": "Die Aa. gastricae dextra und sinistra bilden an der kleinen Kurvatur einen Gefäßbogen. Ulzera an der Hinterwand der kleinen Kurvatur können die A. gastrica sinistra arrodieren.",
+   "dis": {
+    "A": "Verlaufen an der großen Kurvatur im Omentum majus.",
+    "B": "Verlaufen im Lig. gastrosplenicum.",
+    "C": "Verläuft am Oberrand des Pankreas.",
+    "D": "Verläuft im Mesocolon transversum."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-53/F2-81-1",
+   "src": "D2-53/F2-81",
+   "typ": "perspektive",
+   "q": "Was bedeutet „sekundär retroperitoneal“?",
+   "o": [
+    "Das Organ lag ursprünglich intraperitoneal mit Meso und ist später mit der hinteren Bauchwand verwachsen.",
+    "Das Organ war nie in der Bauchhöhle.",
+    "Das Organ ist vollständig von Peritoneum viscerale umgeben.",
+    "Das Organ liegt unterhalb der Peritonealhöhle im kleinen Becken.",
+    "Das Organ liegt außerhalb der Bauchwand."
+   ],
+   "a": "A",
+   "expl": "Bei der Darmdrehung legen sich z. B. Duodenum, Pankreas, Colon ascendens und descendens an die hintere Bauchwand an. Ihr Meso verschmilzt mit dem Peritoneum parietale (Toldt-Faszie).",
+   "dis": {
+    "B": "Das ist primär retroperitoneal.",
+    "C": "Das ist intraperitoneal.",
+    "D": "Das ist subperitoneal.",
+    "E": "Kein peritoneales Lageverhältnis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-53/F2-81-2",
+   "src": "D2-53/F2-81",
+   "typ": "umkehrung",
+   "q": "Welches Organ liegt sekundär retroperitoneal?",
+   "o": [
+    "Niere",
+    "Colon ascendens",
+    "Nebenniere",
+    "Ureter",
+    "Aorta abdominalis"
+   ],
+   "a": "B",
+   "expl": "Das Colon ascendens hatte embryonal ein Meso, das mit der hinteren Bauchwand verschmolzen ist. Bei Operationen kann man es entlang dieser Verschmelzungsfaszie wieder mobilisieren.",
+   "dis": {
+    "A": "Primär retroperitoneal.",
+    "C": "Primär retroperitoneal.",
+    "D": "Primär retroperitoneal.",
+    "E": "Primär retroperitoneal."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-54/F2-82-1",
+   "src": "D2-54/F2-82",
+   "typ": "bild",
+   "q": "Von welcher Struktur hängt die grün markierte Struktur schürzenartig herab?",
+   "o": [
+    "Von der kleinen Kurvatur des Magens",
+    "Von der Leberunterfläche",
+    "Von der großen Kurvatur des Magens",
+    "Vom Milzhilus",
+    "Vom Pankreaskopf"
+   ],
+   "a": "C",
+   "expl": "Grün markiert ist das Omentum majus. Es hängt von der großen Kurvatur über das Colon transversum herab und bedeckt die Dünndarmschlingen.",
+   "dis": {
+    "A": "Ansatz des Omentum minus.",
+    "B": "Ansatz des Omentum minus.",
+    "D": "Ansatz des Lig. gastrosplenicum.",
+    "E": "Kein Ansatz des großen Netzes."
+   },
+   "merk": "",
+   "img": "img/i27.jpg"
+  },
+  {
+   "id": "V-D2-54/F2-82-2",
+   "src": "D2-54/F2-82",
+   "typ": "bild",
+   "q": "Welche Rolle spielt die grün markierte Struktur bei einer Entzündung wie einer Appendizitis?",
+   "o": [
+    "Sie produziert Galle.",
+    "Sie resorbiert Nährstoffe.",
+    "Sie bildet Insulin.",
+    "Sie kann den Entzündungsherd abdecken und begrenzen.",
+    "Sie filtert das Blut."
+   ],
+   "a": "D",
+   "expl": "Das große Netz ist beweglich und enthält viele Abwehrzellen (Milchflecken). Es legt sich an Entzündungsherde an und kann so eine Perforation abkapseln („Polizist des Bauchraums“).",
+   "dis": {
+    "A": "Funktion der Leber.",
+    "B": "Funktion des Dünndarms.",
+    "C": "Funktion des Pankreas.",
+    "E": "Funktion von Milz und Niere."
+   },
+   "merk": "",
+   "img": "img/i27.jpg"
+  },
+  {
+   "id": "V-F2-83-1",
+   "src": "F2-83",
+   "typ": "bild",
+   "q": "Zwischen welchen Organen spannt sich die grün markierte Struktur aus?",
+   "o": [
+    "Zwischen Magen und Colon transversum",
+    "Zwischen Magen und Milz",
+    "Zwischen Milz und Niere",
+    "Zwischen Leber und Zwerchfell",
+    "Zwischen Leber und kleiner Magenkurvatur bzw. Pars superior duodeni"
+   ],
+   "a": "E",
+   "expl": "Grün markiert ist das Omentum minus. Sein freier rechter Rand ist das Lig. hepatoduodenale mit Ductus choledochus, A. hepatica propria und V. portae.",
+   "dis": {
+    "A": "Lig. gastrocolicum (Omentum majus).",
+    "B": "Lig. gastrosplenicum.",
+    "C": "Lig. splenorenale.",
+    "D": "Lig. coronarium und Lig. falciforme."
+   },
+   "merk": "",
+   "img": "img/i28.jpg"
+  },
+  {
+   "id": "V-F2-83-2",
+   "src": "F2-83",
+   "typ": "bild",
+   "q": "Welcher Raum liegt direkt hinter der grün markierten Struktur?",
+   "o": [
+    "Bursa omentalis",
+    "Recessus hepatorenalis",
+    "Excavatio rectouterina",
+    "Spatium retropubicum",
+    "Pleurahöhle"
+   ],
+   "a": "A",
+   "expl": "Hinter Omentum minus und Magen liegt die Bursa omentalis. Ihre Hinterwand bilden Pankreas, linke Niere und Nebenniere.",
+   "dis": {
+    "B": "Liegt rechts zwischen Leber und Niere.",
+    "C": "Liegt im Becken.",
+    "D": "Liegt vor der Harnblase.",
+    "E": "Liegt im Thorax."
+   },
+   "merk": "",
+   "img": "img/i28.jpg"
+  },
+  {
+   "id": "V-D2-55/F2-84-1",
+   "src": "D2-55/F2-84",
+   "typ": "perspektive",
+   "q": "Wie wird das Peritoneum viscerale sensibel versorgt?",
+   "o": [
+    "Über Interkostalnerven mit scharf lokalisiertem Schmerz",
+    "Über viszerale Afferenzen; der Schmerz ist dumpf und schlecht lokalisierbar.",
+    "Ausschließlich über den N. phrenicus",
+    "Gar nicht",
+    "Über den N. pudendus"
+   ],
+   "a": "B",
+   "expl": "Das viszerale Peritoneum wird wie das zugehörige Organ vegetativ innerviert. Es reagiert auf Dehnung und Ischämie, nicht auf Schnitt; der Schmerz wird in der Mittellinie empfunden.",
+   "dis": {
+    "A": "Gilt für das Peritoneum parietale.",
+    "C": "Er versorgt nur das zentrale Zwerchfellperitoneum.",
+    "D": "Es leitet Dehnungs- und Ischämieschmerz.",
+    "E": "Er versorgt den Damm."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-55/F2-84-2",
+   "src": "D2-55/F2-84",
+   "typ": "perspektive",
+   "q": "Wohin fließt das venöse Blut des Peritoneum parietale der vorderen Bauchwand?",
+   "o": [
+    "In die V. portae",
+    "In die V. splenica",
+    "Über systemische Bauchwandvenen (z. B. Vv. epigastricae) zu den Hohlvenen",
+    "In die Vv. pulmonales",
+    "In den Sinus coronarius"
+   ],
+   "a": "C",
+   "expl": "Das parietale Peritoneum gehört zur Bauchwand und wird von deren Gefäßen versorgt. Das viszerale Peritoneum drainiert mit seinem Organ über die Pfortader.",
+   "dis": {
+    "A": "So fließt das Blut des Peritoneum viscerale.",
+    "B": "Pfortadersystem.",
+    "D": "Lungenkreislauf.",
+    "E": "Herzvenen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-56/F2-85-1",
+   "src": "D2-56/F2-85",
+   "typ": "bild",
+   "q": "Welches Organ bildet einen großen Teil der Hinterwand des mit „?“ markierten Raums?",
+   "o": [
+    "Magen",
+    "Leber (Lobus quadratus)",
+    "Colon sigmoideum",
+    "Pankreas",
+    "Harnblase"
+   ],
+   "a": "D",
+   "expl": "Der markierte Raum ist die Bursa omentalis. Ihre Hinterwand bilden Pankreas, linke Niere, linke Nebenniere und Aorta (mit Peritoneum bedeckt).",
+   "dis": {
+    "A": "Bildet die Vorderwand.",
+    "B": "Liegt rechts vorne.",
+    "C": "Liegt im Unterbauch.",
+    "E": "Liegt im kleinen Becken."
+   },
+   "merk": "",
+   "img": "img/i29.jpg"
+  },
+  {
+   "id": "V-D2-56/F2-85-2",
+   "src": "D2-56/F2-85",
+   "typ": "klinik",
+   "q": "Pankreaspseudozysten nach einer akuten Pankreatitis liegen häufig in der Bursa omentalis. Warum?",
+   "o": [
+    "Weil die Bursa mit der Gallenblase verbunden ist",
+    "Weil die Bursa im Becken liegt",
+    "Weil die Bursa viele Lymphknoten enthält",
+    "Weil die Bursa mit der Pleura verbunden ist",
+    "Weil das Pankreas die Hinterwand der Bursa omentalis bildet"
+   ],
+   "a": "E",
+   "expl": "Austretendes Pankreassekret gelangt direkt in den angrenzenden Raum hinter dem Magen. Dort kapselt es sich zur Pseudozyste ab, die den Magen nach vorne drücken kann.",
+   "dis": {
+    "A": "Keine direkte Verbindung.",
+    "B": "Sie liegt im Oberbauch.",
+    "C": "Kein Grund für Pseudozysten.",
+    "D": "Keine Verbindung."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-57/F2-86-1",
+   "src": "D2-57/F2-86",
+   "typ": "nachbarschaft",
+   "q": "Welches Nervengeflecht umgibt den Truncus coeliacus?",
+   "o": [
+    "Plexus coeliacus mit den Ganglia coeliaca",
+    "Plexus brachialis",
+    "Plexus pulmonalis",
+    "Plexus sacralis",
+    "Plexus pampiniformis"
+   ],
+   "a": "A",
+   "expl": "Im Plexus coeliacus werden sympathische Fasern aus den Nn. splanchnici auf postganglionäre Neurone umgeschaltet; dazu kommen vagale Fasern. Bei Tumorschmerzen (Pankreaskarzinom) kann er blockiert werden.",
+   "dis": {
+    "B": "Versorgt den Arm.",
+    "C": "Liegt am Lungenhilus.",
+    "D": "Liegt im Becken.",
+    "E": "Venengeflecht im Samenstrang."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-57/F2-86-2",
+   "src": "D2-57/F2-86",
+   "typ": "klinik",
+   "q": "Wohin projiziert sich der viszerale Schmerz von Organen des Truncus-coeliacus-Gebiets (Vorderdarm) typischerweise?",
+   "o": [
+    "In die Nabelregion",
+    "Ins Epigastrium",
+    "In den Unterbauch",
+    "In die rechte Schulter",
+    "In die Fußsohle"
+   ],
+   "a": "B",
+   "expl": "Viszeraler Schmerz wird entsprechend der embryonalen Herkunft in der Mittellinie empfunden: Vorderdarm im Epigastrium, Mitteldarm um den Nabel, Enddarm im Unterbauch. Deshalb beginnt eine Appendizitis oft periumbilikal.",
+   "dis": {
+    "A": "Typisch für Mitteldarmorgane (A. mesenterica superior).",
+    "C": "Typisch für Enddarmorgane (A. mesenterica inferior).",
+    "D": "Bei Reizung des Zwerchfellperitoneums.",
+    "E": "Kein Projektionsgebiet."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-58/F2-87-1",
+   "src": "D2-58/F2-87",
+   "typ": "bild",
+   "q": "Welche Arterie verläuft in der mit „?“ markierten Struktur?",
+   "o": [
+    "A. colica sinistra",
+    "A. gastrica sinistra",
+    "A. colica media",
+    "A. sigmoidea",
+    "A. renalis"
+   ],
+   "a": "C",
+   "expl": "Die markierte Struktur ist das Mesocolon transversum. Darin verläuft die A. colica media aus der A. mesenterica superior zum Colon transversum.",
+   "dis": {
+    "A": "Verläuft retroperitoneal zum Colon descendens.",
+    "B": "Verläuft an der kleinen Kurvatur.",
+    "D": "Verläuft im Mesocolon sigmoideum.",
+    "E": "Verläuft retroperitoneal zur Niere."
+   },
+   "merk": "",
+   "img": "img/i30.jpg"
+  },
+  {
+   "id": "V-D2-58/F2-87-2",
+   "src": "D2-58/F2-87",
+   "typ": "bild",
+   "q": "Welche Etagen der Peritonealhöhle trennt die mit „?“ markierte Struktur?",
+   "o": [
+    "Thorax und Abdomen",
+    "Bursa omentalis und Pleurahöhle",
+    "Intra- und retroperitonealen Raum",
+    "Pars supracolica und Pars infracolica",
+    "Großes und kleines Becken"
+   ],
+   "a": "D",
+   "expl": "Das Mesocolon transversum zieht quer über die hintere Bauchwand. Oberhalb liegen Leber, Magen und Milz (supracolisch), unterhalb Dünndarm und übriges Kolon (infracolisch).",
+   "dis": {
+    "A": "Werden durch das Zwerchfell getrennt.",
+    "B": "Liegen in verschiedenen Körperhöhlen.",
+    "C": "Getrennt durch das Peritoneum parietale.",
+    "E": "Getrennt durch die Linea terminalis."
+   },
+   "merk": "",
+   "img": "img/i30.jpg"
+  },
+  {
+   "id": "V-D2-59/F2-88-1",
+   "src": "D2-59/F2-88",
+   "typ": "umkehrung",
+   "q": "Welches Organ liegt ebenfalls subperitoneal (extraperitoneal im kleinen Becken)?",
+   "o": [
+    "Milz",
+    "Jejunum",
+    "Magen",
+    "Colon transversum",
+    "Prostata"
+   ],
+   "a": "E",
+   "expl": "Subperitoneal liegen die Organe im kleinen Becken unterhalb des Peritoneums: Harnblase, Prostata, Samenblasen, Cervix uteri, Vagina und unteres Rektum.",
+   "dis": {
+    "A": "Intraperitoneal.",
+    "B": "Intraperitoneal.",
+    "C": "Intraperitoneal.",
+    "D": "Intraperitoneal."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-59/F2-88-2",
+   "src": "D2-59/F2-88",
+   "typ": "klinik",
+   "q": "Warum kann eine stark gefüllte Harnblase oberhalb der Symphyse punktiert werden, ohne die Peritonealhöhle zu eröffnen?",
+   "o": [
+    "Weil die gefüllte Blase das Peritoneum von der vorderen Bauchwand nach oben abhebt",
+    "Weil die Harnblase intraperitoneal liegt",
+    "Weil im Becken kein Peritoneum vorhanden ist",
+    "Weil der Dünndarm vor der Blase liegt",
+    "Weil die Blase im Thorax liegt"
+   ],
+   "a": "A",
+   "expl": "Bei Füllung steigt die Blase hinter der vorderen Bauchwand auf und schiebt die Peritonealumschlagfalte nach oben. So ist eine suprapubische Punktion extraperitoneal möglich.",
+   "dis": {
+    "B": "Sie liegt subperitoneal.",
+    "C": "Das Peritoneum überzieht die Blase von oben.",
+    "D": "Das wäre gerade gefährlich.",
+    "E": "Sie liegt im kleinen Becken."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-60/F2-89-1",
+   "src": "D2-60/F2-89",
+   "typ": "nachbarschaft",
+   "q": "Welches Band umrandet die Area nuda der Leber?",
+   "o": [
+    "Lig. teres hepatis",
+    "Lig. coronarium",
+    "Lig. gastrosplenicum",
+    "Lig. splenorenale",
+    "Lig. phrenicocolicum"
+   ],
+   "a": "B",
+   "expl": "Das Lig. coronarium ist die Umschlagfalte des Peritoneums von der Leber zum Zwerchfell. Innerhalb liegt die peritoneumfreie Area nuda, seitlich laufen die Ligg. triangularia aus.",
+   "dis": {
+    "A": "Rest der Nabelvene.",
+    "C": "Zwischen Magen und Milz.",
+    "D": "Zwischen Milz und hinterer Bauchwand.",
+    "E": "Unter dem unteren Milzpol."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-60/F2-89-2",
+   "src": "D2-60/F2-89",
+   "typ": "nachbarschaft",
+   "q": "Welches Band liegt unter dem unteren Milzpol und stützt die Milz?",
+   "o": [
+    "Lig. coronarium",
+    "Lig. falciforme",
+    "Lig. phrenicocolicum",
+    "Lig. hepatoduodenale",
+    "Lig. teres uteri"
+   ],
+   "a": "C",
+   "expl": "Das Lig. phrenicocolicum spannt sich von der Flexura coli sinistra zum Zwerchfell. Die Milz liegt wie in einer Schale darauf.",
+   "dis": {
+    "A": "Liegt an der Leber.",
+    "B": "Liegt an der Leber vorne.",
+    "D": "Teil des Omentum minus.",
+    "E": "Liegt im Leistenkanal der Frau."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-90-1",
+   "src": "F2-90",
+   "typ": "umkehrung",
+   "q": "Welche Organe liegen in der Pars infracolica der Peritonealhöhle?",
+   "o": [
+    "Magen",
+    "Leber",
+    "Milz",
+    "Jejunum und Ileum",
+    "Gallenblase"
+   ],
+   "a": "D",
+   "expl": "Unterhalb des Mesocolon transversum liegt der Dünndarm, eingerahmt vom Kolon. Die Radix mesenterii teilt die infracolische Etage in eine rechte und linke Hälfte.",
+   "dis": {
+    "A": "Supracolisch.",
+    "B": "Supracolisch.",
+    "C": "Supracolisch.",
+    "E": "Supracolisch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-90-2",
+   "src": "F2-90",
+   "typ": "perspektive",
+   "q": "Welches Organ liegt neben dem Magen ebenfalls in der Pars supracolica?",
+   "o": [
+    "Ileum",
+    "Colon sigmoideum",
+    "Appendix vermiformis",
+    "Harnblase",
+    "Leber"
+   ],
+   "a": "E",
+   "expl": "Oberhalb des Mesocolon transversum liegen Leber, Gallenblase, Magen, Milz und der Anfangsteil des Duodenums.",
+   "dis": {
+    "A": "Infracolisch.",
+    "B": "Infracolisch bzw. im Becken.",
+    "C": "Infracolisch rechts unten.",
+    "D": "Subperitoneal im Becken."
+   },
+   "merk": "",
+   "img": null
+  }
+ ]
+}
