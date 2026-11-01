@@ -1,0 +1,1432 @@
+{
+ "chapter": "A4",
+ "status": "draft",
+ "cards": [
+  {
+   "id": "V-F1-45-1",
+   "src": "F1-45",
+   "typ": "bild",
+   "q": "Hinter welchem Gelenk teilt sich die mit dem Pfeil markierte Arterie?",
+   "o": [
+    "Hinter dem rechten Sternoklavikulargelenk",
+    "Hinter dem linken Sternoklavikulargelenk",
+    "Am Schultergelenk",
+    "In Höhe des Angulus sterni",
+    "In Höhe Th12"
+   ],
+   "a": "A",
+   "expl": "Der Pfeil markiert den Truncus brachiocephalicus, den ersten Ast des Aortenbogens. Er teilt sich hinter dem rechten Sternoklavikulargelenk in A. carotis communis dextra und A. subclavia dextra.",
+   "dis": {
+    "B": "Links entspringen A. carotis communis und A. subclavia direkt aus dem Aortenbogen.",
+    "C": "Zu weit lateral.",
+    "D": "Hier beginnt der Aortenbogen.",
+    "E": "Hier liegt der Hiatus aorticus."
+   },
+   "merk": "",
+   "img": "img/i12.jpg"
+  },
+  {
+   "id": "V-F1-45-2",
+   "src": "F1-45",
+   "typ": "nachbarschaft",
+   "q": "Welche Vene kreuzt den Truncus brachiocephalicus und die Äste des Aortenbogens ventral?",
+   "o": [
+    "V. azygos",
+    "V. brachiocephalica sinistra",
+    "V. cava inferior",
+    "V. jugularis externa",
+    "V. hemiazygos"
+   ],
+   "a": "B",
+   "expl": "Die V. brachiocephalica sinistra zieht hinter dem Manubrium sterni schräg nach rechts und kreuzt dabei vor den Ästen des Aortenbogens. Bei Mediastinoskopie und Tracheotomie ist sie zu beachten.",
+   "dis": {
+    "A": "Liegt dorsal rechts.",
+    "C": "Liegt unter dem Herzen.",
+    "D": "Liegt am Hals oberflächlich.",
+    "E": "Liegt im hinteren Mediastinum links."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-46-1",
+   "src": "F1-46",
+   "typ": "perspektive",
+   "q": "Welche Landmarke entspricht etwa der Höhe der Aortenbifurkation (L4)?",
+   "o": [
+    "Proc. xiphoideus",
+    "Symphysis pubica",
+    "Verbindungslinie der höchsten Punkte der Cristae iliacae (Suprakristallebene), etwa Nabelhöhe",
+    "Rippenbogen",
+    "Lig. inguinale"
+   ],
+   "a": "C",
+   "expl": "Die Aorta teilt sich vor L4 in die Aa. iliacae communes. Die Suprakristallebene verläuft durch den Dornfortsatz L4 und dient auch als Orientierung für die Lumbalpunktion.",
+   "dis": {
+    "A": "Liegt etwa in Höhe Th9.",
+    "B": "Liegt viel tiefer.",
+    "D": "Liegt etwa in Höhe L1–L3.",
+    "E": "Hier geht die A. iliaca externa in die A. femoralis über."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-46-2",
+   "src": "F1-46",
+   "typ": "klinik",
+   "q": "Tiefe Beinvenenthrombosen treten links häufiger auf als rechts. Was ist eine anatomische Ursache?",
+   "o": [
+    "Das linke Bein ist länger.",
+    "Der linken V. femoralis fehlen Venenklappen.",
+    "Das Herz liegt links.",
+    "Die linke V. iliaca communis wird von der rechten A. iliaca communis gekreuzt und komprimiert.",
+    "Die Aorta liegt rechts der Wirbelsäule."
+   ],
+   "a": "D",
+   "expl": "Die V. cava inferior liegt rechts. Die linke V. iliaca communis muss deshalb unter der rechten A. iliaca communis hindurch nach rechts ziehen und wird dort gegen die Wirbelsäule gedrückt (Beckenvenensporn, May-Thurner).",
+   "dis": {
+    "A": "Kein anatomischer Grund.",
+    "B": "Beide Seiten haben Klappen.",
+    "C": "Kein Einfluss auf die Beckenvenen.",
+    "E": "Die Aorta liegt links."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-47-1",
+   "src": "F1-47",
+   "typ": "perspektive",
+   "q": "Woraus besteht die Tunica intima einer Arterie?",
+   "o": [
+    "Aus glatter Muskulatur",
+    "Aus lockerem Bindegewebe mit Vasa vasorum",
+    "Aus der Membrana elastica externa",
+    "Aus Fettgewebe",
+    "Aus Endothel und subendothelialer Schicht"
+   ],
+   "a": "E",
+   "expl": "Die Arterienwand besteht von innen nach außen aus Tunica intima (Endothel, subendotheliales Bindegewebe, Membrana elastica interna), Tunica media (glatte Muskulatur) und Tunica adventitia.",
+   "dis": {
+    "A": "Hauptbestandteil der Tunica media.",
+    "B": "Beschreibt die Tunica adventitia.",
+    "C": "Liegt zwischen Media und Adventitia.",
+    "D": "Gehört nicht zur Gefäßwand."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-47-2",
+   "src": "F1-47",
+   "typ": "perspektive",
+   "q": "In welcher Wandschicht großer Arterien verlaufen die Vasa vasorum?",
+   "o": [
+    "Tunica adventitia",
+    "Tunica intima",
+    "Membrana elastica interna",
+    "Endothel",
+    "Im Lumen"
+   ],
+   "a": "A",
+   "expl": "Dicke Gefäßwände können nicht vollständig vom Lumen aus ernährt werden. Die Vasa vasorum versorgen Adventitia und äußere Media.",
+   "dis": {
+    "B": "Wird per Diffusion aus dem Lumen versorgt.",
+    "C": "Elastische Grenzlamelle ohne Gefäße.",
+    "D": "Einschichtige Zelllage.",
+    "E": "Dort fließt das Blut."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-48-1",
+   "src": "F1-48",
+   "typ": "perspektive",
+   "q": "Welche Arterie entspringt neben der A. carotis communis dextra aus dem Truncus brachiocephalicus?",
+   "o": [
+    "A. subclavia sinistra",
+    "A. subclavia dextra",
+    "A. vertebralis sinistra",
+    "A. thoracica interna sinistra",
+    "A. carotis communis sinistra"
+   ],
+   "a": "B",
+   "expl": "Der Truncus brachiocephalicus hat nur zwei Endäste: A. carotis communis dextra und A. subclavia dextra.",
+   "dis": {
+    "A": "Entspringt direkt aus dem Aortenbogen.",
+    "C": "Ast der A. subclavia sinistra.",
+    "D": "Ast der A. subclavia sinistra.",
+    "E": "Entspringt direkt aus dem Aortenbogen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-48-2",
+   "src": "F1-48",
+   "typ": "klinik",
+   "q": "Bei einer A. lusoria entspringt die rechte A. subclavia als letzter Ast aus dem Aortenbogen und zieht hinter dem Ösophagus nach rechts. Welches Symptom kann sie verursachen?",
+   "o": [
+    "Hämaturie",
+    "Ptosis",
+    "Schluckbeschwerden (Dysphagia lusoria)",
+    "Diarrhoe",
+    "Hörverlust"
+   ],
+   "a": "C",
+   "expl": "Bei dieser Variante fehlt der Truncus brachiocephalicus. Die rechte A. subclavia zieht retroösophageal und kann den Ösophagus von hinten einengen.",
+   "dis": {
+    "A": "Betrifft die Harnwege.",
+    "B": "Spricht für Okulomotorius- oder Sympathikusläsion.",
+    "D": "Kein Zusammenhang.",
+    "E": "Kein Zusammenhang."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-49-1",
+   "src": "F1-49",
+   "typ": "nachbarschaft",
+   "q": "Auf welcher Seite der Aorta abdominalis liegt die V. cava inferior?",
+   "o": [
+    "Links",
+    "Direkt ventral der Aorta",
+    "Dorsal hinter der Wirbelsäule",
+    "Rechts",
+    "In der Mitte vor der Aorta"
+   ],
+   "a": "D",
+   "expl": "Die Aorta liegt links vor der Wirbelsäule, die V. cava inferior rechts. Deshalb ist die rechte Nierenarterie länger und die linke Nierenvene länger.",
+   "dis": {
+    "A": "Dort liegt die Aorta selbst links der Mittellinie.",
+    "B": "Sie liegt rechts daneben.",
+    "C": "Sie liegt vor der Wirbelsäule.",
+    "E": "Sie liegt rechts daneben."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-49-2",
+   "src": "F1-49",
+   "typ": "nachbarschaft",
+   "q": "Welche Vene kreuzt die Aorta abdominalis ventral, direkt unterhalb des Abgangs der A. mesenterica superior?",
+   "o": [
+    "V. renalis dextra",
+    "V. testicularis dextra",
+    "V. portae",
+    "V. azygos",
+    "V. renalis sinistra"
+   ],
+   "a": "E",
+   "expl": "Die linke Nierenvene zieht zwischen Aorta und A. mesenterica superior nach rechts. Wird sie dort eingeengt, entsteht das Nussknacker-Phänomen (z. B. linksseitige Varikozele, Hämaturie).",
+   "dis": {
+    "A": "Ist kurz und mündet direkt rechts in die V. cava inferior.",
+    "B": "Mündet rechts direkt in die V. cava inferior.",
+    "C": "Liegt hinter dem Pankreaskopf weiter kranial.",
+    "D": "Liegt im Thorax."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-50-1",
+   "src": "F1-50",
+   "typ": "umkehrung",
+   "q": "Welches Organ wird nicht vom Truncus coeliacus versorgt?",
+   "o": [
+    "Colon transversum",
+    "Magen",
+    "Leber",
+    "Milz",
+    "Oberer Teil des Duodenums"
+   ],
+   "a": "A",
+   "expl": "Der Truncus coeliacus versorgt die Oberbauchorgane des Vorderdarms. Das Colon transversum wird von der A. colica media (A. mesenterica superior) und im linken Drittel von der A. colica sinistra versorgt.",
+   "dis": {
+    "B": "Versorgt über Aa. gastricae und Aa. gastroomentales.",
+    "C": "Versorgt über die A. hepatica propria.",
+    "D": "Versorgt über die A. splenica.",
+    "E": "Versorgt über die A. gastroduodenalis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-50-2",
+   "src": "F1-50",
+   "typ": "klinik",
+   "q": "Beim Dunbar-Syndrom wird der Truncus coeliacus durch eine Struktur des Zwerchfells eingeengt. Welche?",
+   "o": [
+    "Lig. inguinale",
+    "Lig. arcuatum medianum",
+    "Lig. teres hepatis",
+    "Lig. falciforme",
+    "Lig. hepatoduodenale"
+   ],
+   "a": "B",
+   "expl": "Der Truncus coeliacus entspringt direkt unterhalb des Lig. arcuatum medianum, das den Hiatus aorticus überbrückt. Setzt das Band zu tief an, kann es den Truncus komprimieren (postprandiale Bauchschmerzen).",
+   "dis": {
+    "A": "Liegt in der Leiste.",
+    "C": "Rest der Nabelvene.",
+    "D": "Peritonealfalte an der Leber.",
+    "E": "Enthält die Leberpforte-Strukturen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-51-1",
+   "src": "F1-51",
+   "typ": "perspektive",
+   "q": "Wo liegt die Grenze zwischen den Versorgungsgebieten von A. mesenterica superior und inferior am Kolon?",
+   "o": [
+    "An der Flexura duodenojejunalis",
+    "An der Valva ileocaecalis",
+    "Am Übergang vom mittleren zum linken Drittel des Colon transversum (Cannon-Böhm-Punkt)",
+    "In der Mitte des Colon sigmoideum",
+    "An der Flexura coli dextra"
+   ],
+   "a": "C",
+   "expl": "Der Cannon-Böhm-Punkt markiert die Grenze zwischen Mitteldarm (A. mesenterica superior, N. vagus) und Enddarm (A. mesenterica inferior, sakraler Parasympathikus). Die Riolan-Anastomose verbindet beide Gebiete.",
+   "dis": {
+    "A": "Hier liegt die Grenze zum Truncus-coeliacus-Gebiet nicht.",
+    "B": "Liegt im Gebiet der A. mesenterica superior.",
+    "D": "Liegt im Gebiet der A. mesenterica inferior.",
+    "E": "Liegt im Gebiet der A. mesenterica superior."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-51-2",
+   "src": "F1-51",
+   "typ": "klinik",
+   "q": "Welcher Darmabschnitt kann zwischen A. mesenterica superior und Aorta eingeklemmt werden (A.-mesenterica-superior-Syndrom)?",
+   "o": [
+    "Pars descendens duodeni",
+    "Jejunum",
+    "Colon transversum",
+    "Pars horizontalis duodeni",
+    "Ösophagus"
+   ],
+   "a": "D",
+   "expl": "Die Pars horizontalis duodeni zieht in Höhe L3 zwischen Aorta und A. mesenterica superior hindurch. Bei starkem Gewichtsverlust wird der Winkel kleiner, und das Duodenum kann eingeengt werden.",
+   "dis": {
+    "A": "Liegt rechts neben der Wirbelsäule.",
+    "B": "Liegt intraperitoneal links oben.",
+    "C": "Liegt ventral der A. mesenterica superior.",
+    "E": "Liegt im Thorax."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-52-1",
+   "src": "F1-52",
+   "typ": "perspektive",
+   "q": "Wo geht die A. axillaris in die A. brachialis über?",
+   "o": [
+    "Am Außenrand der 1. Rippe",
+    "In der Ellenbeuge",
+    "An der Clavicula",
+    "Am Unterrand des M. pectoralis minor",
+    "Am Unterrand des M. teres major"
+   ],
+   "a": "E",
+   "expl": "Die A. subclavia heißt nach der 1. Rippe A. axillaris und nach dem Unterrand des M. teres major A. brachialis.",
+   "dis": {
+    "A": "Übergang A. subclavia → A. axillaris.",
+    "B": "Teilung der A. brachialis.",
+    "C": "Liegt über der A. subclavia.",
+    "D": "Teilt die A. axillaris in Abschnitte, ist aber nicht ihr Ende."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-52-2",
+   "src": "F1-52",
+   "typ": "nachbarschaft",
+   "q": "Welcher Muskel teilt die A. axillaris in drei Abschnitte?",
+   "o": [
+    "M. pectoralis minor",
+    "M. pectoralis major",
+    "M. deltoideus",
+    "M. subscapularis",
+    "M. teres major"
+   ],
+   "a": "A",
+   "expl": "Der erste Abschnitt liegt proximal, der zweite hinter, der dritte distal des M. pectoralis minor. Die Äste der Arterie werden danach geordnet.",
+   "dis": {
+    "B": "Liegt oberflächlicher und bedeckt die ganze Achsel.",
+    "C": "Liegt lateral an der Schulter.",
+    "D": "Bildet die hintere Achselwand.",
+    "E": "Markiert das Ende der A. axillaris."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-53-1",
+   "src": "F1-53",
+   "typ": "nachbarschaft",
+   "q": "Unter welcher Struktur geht die A. iliaca externa in die A. femoralis über?",
+   "o": [
+    "Lig. lacunare",
+    "Lig. inguinale",
+    "Arcus tendineus m. levatoris ani",
+    "M. sartorius",
+    "Lig. sacrospinale"
+   ],
+   "a": "B",
+   "expl": "Die A. iliaca externa zieht durch die Lacuna vasorum unter dem Leistenband hindurch und heißt danach A. femoralis.",
+   "dis": {
+    "A": "Begrenzt den Schenkelring medial.",
+    "C": "Liegt im kleinen Becken.",
+    "D": "Bedeckt die A. femoralis erst weiter distal.",
+    "E": "Liegt dorsal im Becken."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-53-2",
+   "src": "F1-53",
+   "typ": "klinik",
+   "q": "Wo tastet man den Puls der A. femoralis?",
+   "o": [
+    "In der Kniekehle",
+    "Hinter dem Malleolus medialis",
+    "Unterhalb des Leistenbands etwa in der Mitte zwischen Spina iliaca anterior superior und Symphyse",
+    "Am Fußrücken",
+    "Über dem Trochanter major"
+   ],
+   "a": "C",
+   "expl": "Der Femoralispuls ist knapp unterhalb der Leistenbandmitte tastbar. Medial davon liegt die V. femoralis, lateral der N. femoralis.",
+   "dis": {
+    "A": "Dort tastet man die A. poplitea.",
+    "B": "Dort tastet man die A. tibialis posterior.",
+    "D": "Dort tastet man die A. dorsalis pedis.",
+    "E": "Dort liegt kein tastbarer Puls."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-54-1",
+   "src": "F1-54",
+   "typ": "klinik",
+   "q": "Ab welchem Durchmesser wird ein Bauchaortenaneurysma bei Männern in der Regel operativ versorgt?",
+   "o": [
+    "Ab etwa 1 cm",
+    "Ab etwa 2 cm",
+    "Ab etwa 10 cm",
+    "Ab etwa 5,5 cm",
+    "Ab etwa 3 mm"
+   ],
+   "a": "D",
+   "expl": "Ab 3 cm spricht man von einem Bauchaortenaneurysma. Mit zunehmendem Durchmesser steigt das Rupturrisiko stark, deshalb wird ab etwa 5,5 cm (bei Frauen früher) operiert.",
+   "dis": {
+    "A": "Entspricht etwa einer normalen Beckenarterie.",
+    "B": "Normaler Bauchaortendurchmesser.",
+    "C": "Viel zu spät; die Rupturgefahr ist dann extrem hoch.",
+    "E": "Kleiner als jede Aorta."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-54-2",
+   "src": "F1-54",
+   "typ": "perspektive",
+   "q": "In welche Abschnitte wird die Aorta gegliedert?",
+   "o": [
+    "Truncus und Bulbus",
+    "Nur Pars thoracica und Pars abdominalis",
+    "Aorta ascendens und Truncus coeliacus",
+    "Arcus aortae und A. iliaca communis",
+    "Aorta ascendens, Arcus aortae und Aorta descendens (Pars thoracica und abdominalis)"
+   ],
+   "a": "E",
+   "expl": "Die Aorta ascendens beginnt an der Aortenklappe, der Arcus liegt im oberen Mediastinum. Die Aorta descendens gliedert sich in Pars thoracica und – unterhalb des Hiatus aorticus – Pars abdominalis.",
+   "dis": {
+    "A": "Keine Gliederung der Aorta.",
+    "B": "Aorta ascendens und Arcus fehlen.",
+    "C": "Der Truncus coeliacus ist ein Ast.",
+    "D": "Die A. iliaca communis ist ein Endast."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-55-1",
+   "src": "F1-55",
+   "typ": "nachbarschaft",
+   "q": "Welche Nierenarterie ist länger, und wie verläuft sie?",
+   "o": [
+    "Die rechte; sie zieht hinter der V. cava inferior zur Niere.",
+    "Die linke; sie zieht vor der V. renalis sinistra.",
+    "Beide sind gleich lang.",
+    "Die rechte; sie zieht vor der V. cava inferior.",
+    "Die linke; sie zieht hinter der Aorta."
+   ],
+   "a": "A",
+   "expl": "Weil die Aorta links der Mittellinie liegt, muss die rechte A. renalis einen längeren Weg nehmen und hinter der V. cava inferior kreuzen.",
+   "dis": {
+    "B": "Die linke ist kürzer, weil die Aorta links liegt.",
+    "C": "Die rechte ist länger.",
+    "D": "Sie zieht dahinter.",
+    "E": "Sie entspringt seitlich aus der Aorta."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-55-2",
+   "src": "F1-55",
+   "typ": "perspektive",
+   "q": "Welche Nebennierenarterie entspringt aus der A. renalis?",
+   "o": [
+    "A. suprarenalis superior",
+    "A. suprarenalis inferior",
+    "A. testicularis bzw. ovarica",
+    "A. lumbalis",
+    "A. colica dextra"
+   ],
+   "a": "B",
+   "expl": "Die Nebenniere wird von drei Arterien versorgt: A. suprarenalis superior (A. phrenica inferior), media (Aorta) und inferior (A. renalis).",
+   "dis": {
+    "A": "Entspringt aus der A. phrenica inferior.",
+    "C": "Entspringt meist direkt aus der Aorta.",
+    "D": "Entspringt dorsal aus der Aorta.",
+    "E": "Ast der A. mesenterica superior."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-56-1",
+   "src": "F1-56",
+   "typ": "perspektive",
+   "q": "Welche Arterie versorgt das Colon descendens?",
+   "o": [
+    "A. colica media",
+    "A. colica dextra",
+    "A. colica sinistra",
+    "A. ileocolica",
+    "A. gastroomentalis sinistra"
+   ],
+   "a": "C",
+   "expl": "Die A. colica sinistra ist der erste Ast der A. mesenterica inferior. Sie versorgt das linke Colon transversum und das Colon descendens.",
+   "dis": {
+    "A": "Versorgt das Colon transversum.",
+    "B": "Versorgt das Colon ascendens.",
+    "D": "Versorgt Ileum-Ende, Caecum und Appendix.",
+    "E": "Versorgt die große Magenkurvatur."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-56-2",
+   "src": "F1-56",
+   "typ": "perspektive",
+   "q": "Aus welcher Arterie entspringt die A. appendicularis?",
+   "o": [
+    "A. colica media",
+    "A. sigmoidea",
+    "A. rectalis superior",
+    "A. ileocolica",
+    "A. gastrica dextra"
+   ],
+   "a": "D",
+   "expl": "Die A. appendicularis zieht im Mesoappendix zur Appendix vermiformis. Sie ist eine Endarterie, deshalb kann die entzündete Appendix leicht nekrotisch werden und perforieren.",
+   "dis": {
+    "A": "Versorgt das Colon transversum.",
+    "B": "Ast der A. mesenterica inferior.",
+    "C": "Endast der A. mesenterica inferior.",
+    "E": "Versorgt die kleine Magenkurvatur."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-57-1",
+   "src": "F1-57",
+   "typ": "bild",
+   "q": "Welche Struktur liegt in der Gefäßscheide lateral der mit dem Pfeil markierten Arterie?",
+   "o": [
+    "N. phrenicus",
+    "A. vertebralis",
+    "Trachea",
+    "N. laryngeus recurrens",
+    "V. jugularis interna"
+   ],
+   "a": "E",
+   "expl": "Der Pfeil markiert die A. carotis communis sinistra. In der Vagina carotica liegen medial die Arterie, lateral die V. jugularis interna und dorsal dazwischen der N. vagus.",
+   "dis": {
+    "A": "Liegt außerhalb der Gefäßscheide auf dem M. scalenus anterior.",
+    "B": "Liegt tiefer in den Foramina transversaria.",
+    "C": "Liegt medial im Eingeweideraum.",
+    "D": "Liegt in der Rinne zwischen Trachea und Ösophagus."
+   },
+   "merk": "",
+   "img": "img/i13.jpg"
+  },
+  {
+   "id": "V-F1-57-2",
+   "src": "F1-57",
+   "typ": "klinik",
+   "q": "In Höhe welches Halswirbels kann die A. carotis communis gegen das Tuberculum caroticum komprimiert werden?",
+   "o": [
+    "C6",
+    "C2",
+    "C4",
+    "Th1",
+    "C1"
+   ],
+   "a": "A",
+   "expl": "Das Tuberculum anterius des 6. Halswirbels (Tuberculum caroticum, Chassaignac) dient als Widerlager, um die A. carotis communis bei Blutungen zu komprimieren.",
+   "dis": {
+    "B": "Zu hoch.",
+    "C": "Höhe der Karotisgabel.",
+    "D": "Liegt im Thorax.",
+    "E": "Zu hoch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-58-1",
+   "src": "F1-58",
+   "typ": "bild",
+   "q": "Durch welchen Kanal verläuft die mit dem Pfeil markierte Arterie im mittleren Oberschenkeldrittel?",
+   "o": [
+    "Canalis obturatorius",
+    "Canalis adductorius",
+    "Canalis inguinalis",
+    "Canalis pudendalis",
+    "Canalis femoralis"
+   ],
+   "a": "B",
+   "expl": "Der Pfeil markiert die A. femoralis. Im mittleren Drittel zieht sie unter dem M. sartorius durch den Adduktorenkanal und gelangt durch den Hiatus adductorius in die Kniekehle.",
+   "dis": {
+    "A": "Durchtritt von N. und Vasa obturatoria.",
+    "C": "Liegt oberhalb des Leistenbands.",
+    "D": "Liegt in der Fossa ischioanalis.",
+    "E": "Enthält Lymphgefäße am medialen Ende der Lacuna vasorum."
+   },
+   "merk": "",
+   "img": "img/i14.jpg"
+  },
+  {
+   "id": "V-F1-58-2",
+   "src": "F1-58",
+   "typ": "klinik",
+   "q": "Welche Arterie wird für eine Herzkatheteruntersuchung neben der A. radialis am häufigsten punktiert?",
+   "o": [
+    "A. poplitea",
+    "A. tibialis posterior",
+    "A. femoralis",
+    "A. iliaca interna",
+    "A. mesenterica superior"
+   ],
+   "a": "C",
+   "expl": "Die A. femoralis liegt unter dem Leistenband oberflächlich über dem Hüftkopf. Dort kann man sie gut punktieren und danach komprimieren.",
+   "dis": {
+    "A": "Liegt tief in der Kniekehle.",
+    "B": "Zu klein und zu weit distal.",
+    "D": "Liegt im Becken, nicht punktierbar.",
+    "E": "Liegt im Abdomen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-59-1",
+   "src": "F1-59",
+   "typ": "bild",
+   "q": "In welcher Höhe entspringt die mit dem Pfeil markierte Arterie aus der Aorta?",
+   "o": [
+    "Th12",
+    "L1",
+    "L5",
+    "L3",
+    "S1"
+   ],
+   "a": "D",
+   "expl": "Der Pfeil markiert die A. mesenterica inferior. Sie entspringt in Höhe L3 links-ventral aus der Aorta und versorgt das linke Kolon bis zum oberen Rektum.",
+   "dis": {
+    "A": "Höhe des Truncus coeliacus.",
+    "B": "Höhe der A. mesenterica superior.",
+    "C": "Unterhalb der Aortenbifurkation.",
+    "E": "Liegt im Becken."
+   },
+   "merk": "",
+   "img": "img/i15.jpg"
+  },
+  {
+   "id": "V-F1-59-2",
+   "src": "F1-59",
+   "typ": "perspektive",
+   "q": "Welcher Endast der A. mesenterica inferior versorgt das obere Rektum?",
+   "o": [
+    "A. rectalis media",
+    "A. rectalis inferior",
+    "A. sacralis mediana",
+    "A. colica media",
+    "A. rectalis superior"
+   ],
+   "a": "E",
+   "expl": "Die A. rectalis superior setzt die A. mesenterica inferior ins kleine Becken fort. Mittleres und unteres Rektum werden aus Ästen der A. iliaca interna versorgt.",
+   "dis": {
+    "A": "Ast der A. iliaca interna.",
+    "B": "Ast der A. pudenda interna.",
+    "C": "Unpaarer Ast der Aorta.",
+    "D": "Ast der A. mesenterica superior."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-33/F2-45-1",
+   "src": "D2-33/F2-45",
+   "typ": "bild",
+   "q": "Welcher Ast der mit dem Pfeil markierten Arterie versorgt das Colon transversum?",
+   "o": [
+    "A. colica media",
+    "A. colica sinistra",
+    "A. gastrica sinistra",
+    "A. sigmoidea",
+    "A. splenica"
+   ],
+   "a": "A",
+   "expl": "Der Pfeil markiert die A. mesenterica superior. Sie gibt Aa. jejunales und ileales, A. ileocolica, A. colica dextra und A. colica media ab.",
+   "dis": {
+    "B": "Ast der A. mesenterica inferior.",
+    "C": "Ast des Truncus coeliacus.",
+    "D": "Ast der A. mesenterica inferior.",
+    "E": "Ast des Truncus coeliacus."
+   },
+   "merk": "",
+   "img": "img/i16.jpg"
+  },
+  {
+   "id": "V-D2-33/F2-45-2",
+   "src": "D2-33/F2-45",
+   "typ": "klinik",
+   "q": "Welche Darmabschnitte sind bei einem akuten Verschluss der A. mesenterica superior (Mesenterialinfarkt) betroffen?",
+   "o": [
+    "Nur das Rektum",
+    "Jejunum, Ileum, Colon ascendens und proximales Colon transversum",
+    "Nur der Magen",
+    "Colon descendens und Colon sigmoideum",
+    "Der Ösophagus"
+   ],
+   "a": "B",
+   "expl": "Die A. mesenterica superior versorgt den Mitteldarm von der Pars descendens duodeni bis zum Cannon-Böhm-Punkt. Ein embolischer Verschluss führt zur ausgedehnten Darmischämie mit hoher Letalität.",
+   "dis": {
+    "A": "Wird von A. rectalis superior, media und inferior versorgt.",
+    "C": "Versorgt vom Truncus coeliacus.",
+    "D": "Versorgt von der A. mesenterica inferior.",
+    "E": "Versorgt aus thorakalen Ästen und A. gastrica sinistra."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-34/F2-46-1",
+   "src": "D2-34/F2-46",
+   "typ": "perspektive",
+   "q": "Aus welchem Abschnitt der Aorta entspringen die Koronararterien?",
+   "o": [
+    "Aus dem Arcus aortae",
+    "Aus der Aorta descendens",
+    "Aus den Sinus aortae der Aorta ascendens",
+    "Aus dem Truncus brachiocephalicus",
+    "Aus der A. subclavia"
+   ],
+   "a": "C",
+   "expl": "Die Koronararterien entspringen direkt oberhalb der Aortenklappe aus dem rechten und linken Sinus aortae. Sie sind damit die ersten Äste der Aorta.",
+   "dis": {
+    "A": "Daraus entspringen die großen Halsgefäße.",
+    "B": "Daraus entspringen u. a. Interkostalarterien.",
+    "D": "Ast des Aortenbogens.",
+    "E": "Gibt u. a. die A. thoracica interna ab."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-34/F2-46-2",
+   "src": "D2-34/F2-46",
+   "typ": "perspektive",
+   "q": "Welche Variante des Aortenbogens kommt relativ häufig vor?",
+   "o": [
+    "Fehlen der Aorta ascendens",
+    "Abgang der Koronararterien aus dem Aortenbogen",
+    "Abgang des Truncus pulmonalis aus dem Aortenbogen",
+    "Gemeinsamer Abgang von Truncus brachiocephalicus und A. carotis communis sinistra",
+    "Abgang der A. iliaca communis aus dem Aortenbogen"
+   ],
+   "a": "D",
+   "expl": "Bei etwa 10–20 % entspringen Truncus brachiocephalicus und linke A. carotis communis gemeinsam. Seltener entspringt die linke A. vertebralis direkt aus dem Bogen.",
+   "dis": {
+    "A": "Nicht mit dem Leben vereinbar.",
+    "B": "Kommt praktisch nicht vor.",
+    "C": "Wäre ein schwerer Herzfehler.",
+    "E": "Unmöglich."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-35/F2-47-1",
+   "src": "D2-35/F2-47",
+   "typ": "perspektive",
+   "q": "In welche Äste teilt sich die A. iliaca communis?",
+   "o": [
+    "A. femoralis und A. profunda femoris",
+    "A. glutea superior und inferior",
+    "A. epigastrica inferior und A. obturatoria",
+    "A. iliolumbalis und A. sacralis lateralis",
+    "A. iliaca externa und A. iliaca interna"
+   ],
+   "a": "E",
+   "expl": "Die A. iliaca communis teilt sich vor dem Iliosakralgelenk. Die A. iliaca interna versorgt Becken und Gesäß, die A. iliaca externa setzt sich ins Bein fort.",
+   "dis": {
+    "A": "Teilung der A. femoralis.",
+    "B": "Äste der A. iliaca interna.",
+    "C": "Äste von A. iliaca externa bzw. interna.",
+    "D": "Äste der A. iliaca interna."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-35/F2-47-2",
+   "src": "D2-35/F2-47",
+   "typ": "nachbarschaft",
+   "q": "Wo entsteht die V. cava inferior?",
+   "o": [
+    "Rechts vor L5 aus dem Zusammenfluss der Vv. iliacae communes",
+    "Links vor L1 aus den Nierenvenen",
+    "Im Lebersinus",
+    "Im kleinen Becken aus der V. pudenda",
+    "Im Thorax aus den Vv. brachiocephalicae"
+   ],
+   "a": "A",
+   "expl": "Die V. cava inferior entsteht rechts der Mittellinie etwa eine Etage unter der Aortenbifurkation. Sie zieht rechts neben der Aorta nach oben.",
+   "dis": {
+    "B": "Die Nierenvenen münden später ein.",
+    "C": "Die Lebervenen münden kurz vor dem Zwerchfell ein.",
+    "D": "Diese mündet in die V. iliaca interna.",
+    "E": "So entsteht die V. cava superior."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-36/F2-48-1",
+   "src": "D2-36/F2-48",
+   "typ": "perspektive",
+   "q": "Welche Arterie setzt die A. femoralis nach dem Hiatus adductorius fort?",
+   "o": [
+    "A. profunda femoris",
+    "A. poplitea",
+    "A. tibialis anterior",
+    "A. iliaca externa",
+    "A. obturatoria"
+   ],
+   "a": "B",
+   "expl": "Nach dem Durchtritt durch den Hiatus adductorius heißt die A. femoralis A. poplitea. Sie teilt sich am Unterrand des M. popliteus in A. tibialis anterior und posterior.",
+   "dis": {
+    "A": "Ast der A. femoralis im Trigonum femorale.",
+    "C": "Ast der A. poplitea.",
+    "D": "Liegt proximal der A. femoralis.",
+    "E": "Ast der A. iliaca interna."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-36/F2-48-2",
+   "src": "D2-36/F2-48",
+   "typ": "perspektive",
+   "q": "Welcher Ast der A. femoralis versorgt den Großteil der Oberschenkelmuskulatur?",
+   "o": [
+    "A. epigastrica superficialis",
+    "A. circumflexa ilium superficialis",
+    "A. profunda femoris",
+    "A. pudenda externa",
+    "A. descendens genus"
+   ],
+   "a": "C",
+   "expl": "Die A. profunda femoris gibt Aa. circumflexae femoris und Aa. perforantes ab und versorgt Adduktoren, Flexoren und Teile der Extensoren.",
+   "dis": {
+    "A": "Versorgt die Haut der unteren Bauchwand.",
+    "B": "Versorgt die Haut der Leiste.",
+    "D": "Versorgt das äußere Genitale.",
+    "E": "Versorgt die Knieregion."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-49-1",
+   "src": "F2-49",
+   "typ": "bild",
+   "q": "In welcher Höhe beginnt und endet der markierte Aortenabschnitt?",
+   "o": [
+    "In Höhe Th12",
+    "In Höhe C6",
+    "In Höhe L1",
+    "In Höhe des Angulus sterni bzw. Th4",
+    "In Höhe Th8"
+   ],
+   "a": "D",
+   "expl": "Der Aortenbogen beginnt und endet in Höhe der Ebene Angulus sterni – Th4/5 und liegt vollständig im oberen Mediastinum.",
+   "dis": {
+    "A": "Höhe des Hiatus aorticus.",
+    "B": "Am Hals.",
+    "C": "Im Abdomen.",
+    "E": "Höhe des Foramen venae cavae."
+   },
+   "merk": "",
+   "img": "img/i17.jpg"
+  },
+  {
+   "id": "V-F2-49-2",
+   "src": "F2-49",
+   "typ": "klinik",
+   "q": "Wo liegt der Aortenisthmus, an dem die Aorta beim Dezelerationstrauma typischerweise einreißt?",
+   "o": [
+    "An der Aortenwurzel",
+    "An der Aortenbifurkation",
+    "Am Hiatus aorticus",
+    "Am Abgang des Truncus coeliacus",
+    "Distal des Abgangs der A. subclavia sinistra am Lig. arteriosum"
+   ],
+   "a": "E",
+   "expl": "Am Isthmus geht der bewegliche Aortenbogen in die fixierte Aorta descendens über; zusätzlich hält das Lig. arteriosum. Bei abruptem Abbremsen entstehen hier Scherkräfte.",
+   "dis": {
+    "A": "Hier entstehen eher Dissektionen.",
+    "B": "Liegt in Höhe L4.",
+    "C": "Liegt in Höhe Th12.",
+    "D": "Liegt im Abdomen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-37/F2-50-1",
+   "src": "D2-37/F2-50",
+   "typ": "perspektive",
+   "q": "Welche Arterie entspringt aus der A. hepatica communis?",
+   "o": [
+    "A. gastroduodenalis",
+    "A. gastrica sinistra",
+    "A. splenica",
+    "A. colica media",
+    "A. mesenterica inferior"
+   ],
+   "a": "A",
+   "expl": "Die A. hepatica communis teilt sich in A. hepatica propria und A. gastroduodenalis. Letztere zieht hinter dem Duodenum nach unten (Blutungsquelle beim Ulcus duodeni an der Hinterwand).",
+   "dis": {
+    "B": "Direkter Ast des Truncus coeliacus.",
+    "C": "Direkter Ast des Truncus coeliacus.",
+    "D": "Ast der A. mesenterica superior.",
+    "E": "Ast der Aorta."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-37/F2-50-2",
+   "src": "D2-37/F2-50",
+   "typ": "perspektive",
+   "q": "Welche Arterie versorgt die kleine Kurvatur des Magens von links?",
+   "o": [
+    "A. gastroomentalis dextra",
+    "A. gastrica sinistra",
+    "Aa. gastricae breves",
+    "A. gastroduodenalis",
+    "A. colica media"
+   ],
+   "a": "B",
+   "expl": "An der kleinen Kurvatur anastomosieren A. gastrica sinistra (Truncus coeliacus) und A. gastrica dextra (meist A. hepatica propria). Die A. gastrica sinistra gibt auch Äste zum Ösophagus ab.",
+   "dis": {
+    "A": "Versorgt die große Kurvatur von rechts.",
+    "C": "Versorgen den Fundus.",
+    "D": "Versorgt Duodenum und Pankreaskopf.",
+    "E": "Versorgt das Colon transversum."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-51-1",
+   "src": "F2-51",
+   "typ": "bild",
+   "q": "In welchem Band verläuft die mit dem Pfeil markierte Arterie zur Leber?",
+   "o": [
+    "Lig. falciforme hepatis",
+    "Lig. teres hepatis",
+    "Lig. hepatoduodenale",
+    "Lig. gastrosplenicum",
+    "Lig. coronarium"
+   ],
+   "a": "C",
+   "expl": "Der Pfeil markiert die A. hepatica propria. Sie zieht im freien Rand des Omentum minus (Lig. hepatoduodenale) mit Ductus choledochus und V. portae zur Leberpforte.",
+   "dis": {
+    "A": "Enthält das Lig. teres hepatis.",
+    "B": "Rest der Nabelvene.",
+    "D": "Enthält die Aa. gastricae breves.",
+    "E": "Aufhängeband der Leber am Zwerchfell."
+   },
+   "merk": "",
+   "img": "img/i18.jpg"
+  },
+  {
+   "id": "V-F2-51-2",
+   "src": "F2-51",
+   "typ": "bild",
+   "q": "Welche Struktur liegt im Lig. hepatoduodenale rechts neben der mit dem Pfeil markierten Arterie?",
+   "o": [
+    "V. portae",
+    "A. gastroduodenalis",
+    "V. cava inferior",
+    "Ductus choledochus",
+    "Ductus pancreaticus"
+   ],
+   "a": "D",
+   "expl": "Im Lig. hepatoduodenale liegen der Ductus choledochus rechts, die A. hepatica propria links und die V. portae dorsal. Mit dem Pringle-Manöver können alle drei abgeklemmt werden.",
+   "dis": {
+    "A": "Liegt dorsal von Arterie und Gang.",
+    "B": "Zweigt weiter unten ab und liegt hinter dem Duodenum.",
+    "C": "Liegt dorsal des Foramen omentale.",
+    "E": "Liegt im Pankreas."
+   },
+   "merk": "„DAVe“ von rechts nach links: Ductus – Arterie – Vene (dahinter).",
+   "img": "img/i18.jpg"
+  },
+  {
+   "id": "V-D2-39/F2-52-1",
+   "src": "D2-39/F2-52",
+   "typ": "klinik",
+   "q": "Welches Röntgenzeichen ist typisch für eine länger bestehende Aortenisthmusstenose beim Erwachsenen?",
+   "o": [
+    "Zwerchfellhochstand",
+    "Lungenspitzentumor",
+    "Verkleinerter Herzschatten",
+    "Pneumothorax",
+    "Rippenusuren an den Rippenunterrändern"
+   ],
+   "a": "E",
+   "expl": "Der Umgehungskreislauf läuft über A. subclavia, A. thoracica interna, Rr. intercostales anteriores und Aa. intercostales posteriores zur Aorta descendens. Die erweiterten Interkostalarterien arrodieren die Rippenunterränder.",
+   "dis": {
+    "A": "Spricht für eine Phrenicusparese.",
+    "B": "Kein Zeichen der Stenose.",
+    "C": "Das Herz ist eher hypertrophiert.",
+    "D": "Kein Zusammenhang."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-39/F2-52-2",
+   "src": "D2-39/F2-52",
+   "typ": "klinik",
+   "q": "Welcher Blutdruckbefund ist typisch für eine Aortenisthmusstenose?",
+   "o": [
+    "Hoher Blutdruck an den Armen, niedriger Blutdruck und schwache Pulse an den Beinen",
+    "Hoher Blutdruck an den Beinen, niedriger an den Armen",
+    "Identischer Blutdruck an Armen und Beinen",
+    "Druckdifferenz nur zwischen rechtem und linkem Bein",
+    "Hypotonie an allen Extremitäten"
+   ],
+   "a": "A",
+   "expl": "Die Stenose liegt distal der Armarterien. Davor ist der Druck hoch, dahinter niedrig; deshalb sollte bei jungen Hypertonikern immer auch an den Beinen gemessen werden.",
+   "dis": {
+    "B": "Genau umgekehrt.",
+    "C": "Typisch ist eine deutliche Differenz.",
+    "D": "Beide Beine sind gleich betroffen.",
+    "E": "Proximal der Stenose ist der Druck erhöht."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-40/F2-53-1",
+   "src": "D2-40/F2-53",
+   "typ": "nachbarschaft",
+   "q": "Mit welcher Arterie anastomosiert die A. epigastrica inferior in der Rektusscheide?",
+   "o": [
+    "A. iliaca interna",
+    "A. epigastrica superior",
+    "A. femoralis",
+    "A. renalis",
+    "A. lumbalis"
+   ],
+   "a": "B",
+   "expl": "Die A. epigastrica superior (aus der A. thoracica interna) und die A. epigastrica inferior (aus der A. iliaca externa) verbinden in der Rektusscheide die Stromgebiete von A. subclavia und A. iliaca externa.",
+   "dis": {
+    "A": "Liegt im kleinen Becken.",
+    "C": "Liegt unter dem Leistenband.",
+    "D": "Liegt retroperitoneal.",
+    "E": "Liegt in der hinteren Bauchwand."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-40/F2-53-2",
+   "src": "D2-40/F2-53",
+   "typ": "nachbarschaft",
+   "q": "Wohin zieht die A. circumflexa ilium profunda?",
+   "o": [
+    "In den Leistenkanal",
+    "Zum Hoden",
+    "Entlang der Innenseite der Crista iliaca",
+    "Zum Rektum",
+    "In die Kniekehle"
+   ],
+   "a": "C",
+   "expl": "Die A. circumflexa ilium profunda zieht hinter dem Leistenband zur Spina iliaca anterior superior und entlang der Crista iliaca. Sie versorgt M. iliacus und die seitliche Bauchwand.",
+   "dis": {
+    "A": "Dort zieht die A. ductus deferentis bzw. A. cremasterica.",
+    "B": "Wird von der A. testicularis versorgt.",
+    "D": "Versorgt von den Aa. rectales.",
+    "E": "Liegt viel weiter distal."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-54-1",
+   "src": "F2-54",
+   "typ": "bild",
+   "q": "Zwischen welchen Schichten liegt die mit dem Pfeil markierte Struktur?",
+   "o": [
+    "Zwischen Tunica intima und Tunica media",
+    "Zwischen Endothel und subendothelialer Schicht",
+    "Zwischen Adventitia und Umgebung",
+    "Zwischen Tunica media und Tunica adventitia",
+    "Innerhalb des Endothels"
+   ],
+   "a": "D",
+   "expl": "Der Pfeil markiert die Membrana elastica externa. Sie begrenzt die Media nach außen; die Membrana elastica interna liegt zwischen Intima und Media.",
+   "dis": {
+    "A": "Dort liegt die Membrana elastica interna.",
+    "B": "Beide gehören zur Intima.",
+    "C": "Die Adventitia geht ohne Grenzlamelle in die Umgebung über.",
+    "E": "Das Endothel ist einschichtig."
+   },
+   "merk": "",
+   "img": "img/i19.jpg"
+  },
+  {
+   "id": "V-F2-54-2",
+   "src": "F2-54",
+   "typ": "perspektive",
+   "q": "Zu welchem Arterientyp gehört die Aorta?",
+   "o": [
+    "Muskulärer Typ",
+    "Arteriole",
+    "Kapillare",
+    "Venöser Typ",
+    "Elastischer Typ"
+   ],
+   "a": "E",
+   "expl": "Die herznahen großen Arterien haben eine Media aus vielen elastischen Lamellen. So können sie in der Systole Blut speichern (Windkessel).",
+   "dis": {
+    "A": "Typisch für mittelgroße Organarterien (z. B. A. femoralis).",
+    "B": "Kleinste Arterien.",
+    "C": "Kein Arterientyp.",
+    "D": "Kein Arterientyp."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-55-1",
+   "src": "F2-55",
+   "typ": "umkehrung",
+   "q": "Welche Vene ist die größte des Körpers?",
+   "o": [
+    "V. cava inferior",
+    "V. jugularis interna",
+    "V. portae",
+    "V. femoralis",
+    "V. azygos"
+   ],
+   "a": "A",
+   "expl": "Die V. cava inferior sammelt das Blut der unteren Körperhälfte und ist die weiteste Vene des Körpers.",
+   "dis": {
+    "B": "Kleiner als die V. cava inferior.",
+    "C": "Groß, aber kleiner.",
+    "D": "Kleiner.",
+    "E": "Deutlich kleiner."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-55-2",
+   "src": "F2-55",
+   "typ": "perspektive",
+   "q": "Was bewirkt die Windkesselfunktion der Aorta?",
+   "o": [
+    "Sie hebt den diastolischen Druck auf den systolischen Wert.",
+    "Sie speichert in der Systole Blut in der gedehnten Wand und gibt es in der Diastole ab; der Fluss wird gleichmäßiger.",
+    "Sie filtert das Blut.",
+    "Sie bildet Blutzellen.",
+    "Sie verhindert den Rückfluss ins Herz."
+   ],
+   "a": "B",
+   "expl": "Die elastischen Fasern der Aortenwand werden in der Systole gedehnt und federn in der Diastole zurück. So fließt das Blut auch in der Diastole weiter.",
+   "dis": {
+    "A": "Der Druck schwankt weiterhin.",
+    "C": "Filterfunktion haben Niere und Milz.",
+    "D": "Funktion des Knochenmarks.",
+    "E": "Das tut die Aortenklappe."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-56-1",
+   "src": "F2-56",
+   "typ": "bild",
+   "q": "Wo liegt der Sinus caroticus in Bezug auf die markierten Arterien?",
+   "o": [
+    "Am Abgang aus der Aorta",
+    "Im Canalis caroticus",
+    "Am Anfang der A. carotis interna an der Teilungsstelle",
+    "An der A. vertebralis",
+    "Am Circulus arteriosus cerebri"
+   ],
+   "a": "C",
+   "expl": "Die markierten Arterien sind die Aa. carotides communes. An ihrer Teilung (etwa C4) ist der Anfang der A. carotis interna zum Sinus caroticus erweitert; hier liegen Barorezeptoren, daneben das Glomus caroticum mit Chemorezeptoren.",
+   "dis": {
+    "A": "Dort liegt kein Sinus caroticus.",
+    "B": "Dort verläuft die A. carotis interna weiter kranial.",
+    "D": "Andere Arterie.",
+    "E": "Liegt an der Hirnbasis."
+   },
+   "merk": "",
+   "img": "img/i20.jpg"
+  },
+  {
+   "id": "V-F2-56-2",
+   "src": "F2-56",
+   "typ": "klinik",
+   "q": "Warum kann eine Karotissinusmassage eine supraventrikuläre Tachykardie beenden?",
+   "o": [
+    "Chemorezeptoren aktivieren den Sympathikus.",
+    "Das Herz wird mechanisch abgeklemmt.",
+    "Der N. phrenicus wird gehemmt.",
+    "Die Barorezeptoren aktivieren reflektorisch den N. vagus.",
+    "Die Koronararterien werden direkt komprimiert."
+   ],
+   "a": "D",
+   "expl": "Druck auf den Sinus caroticus wird als Blutdruckanstieg gemeldet (N. glossopharyngeus). Der Barorezeptorreflex steigert den Vagustonus und verlangsamt die AV-Überleitung.",
+   "dis": {
+    "A": "Das würde die Frequenz erhöhen.",
+    "B": "Kein Wirkmechanismus.",
+    "C": "Kein Einfluss auf die Herzfrequenz.",
+    "E": "Sie liegen nicht am Hals."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-57-1",
+   "src": "F2-57",
+   "typ": "perspektive",
+   "q": "Welche Arterie ist der erste größere Ast der A. carotis interna nach dem Eintritt in die Schädelhöhle?",
+   "o": [
+    "A. cerebri media",
+    "A. cerebri anterior",
+    "A. communicans posterior",
+    "A. basilaris",
+    "A. ophthalmica"
+   ],
+   "a": "E",
+   "expl": "Die A. carotis interna gibt am Hals keine Äste ab. Nach dem Sinus cavernosus entspringt die A. ophthalmica, die mit dem N. opticus in die Orbita zieht.",
+   "dis": {
+    "A": "Endast.",
+    "B": "Endast.",
+    "C": "Geht nach der A. ophthalmica ab.",
+    "D": "Entsteht aus den Aa. vertebrales."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-57-2",
+   "src": "F2-57",
+   "typ": "perspektive",
+   "q": "In welche Endäste teilt sich die A. carotis interna?",
+   "o": [
+    "A. cerebri anterior und A. cerebri media",
+    "A. cerebri posterior und A. basilaris",
+    "A. vertebralis",
+    "A. maxillaris und A. temporalis superficialis",
+    "A. ophthalmica und A. facialis"
+   ],
+   "a": "A",
+   "expl": "Die A. carotis interna teilt sich an der Hirnbasis in A. cerebri anterior und media. Die A. cerebri media ist die direkte Fortsetzung und versorgt die laterale Hemisphäre.",
+   "dis": {
+    "B": "Gehören zum vertebrobasilären System.",
+    "C": "Ast der A. subclavia.",
+    "D": "Endäste der A. carotis externa.",
+    "E": "Die A. facialis ist ein Ast der A. carotis externa."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-58-1",
+   "src": "F2-58",
+   "typ": "perspektive",
+   "q": "Aus welchem Sinus aortae entspringt die A. coronaria dextra?",
+   "o": [
+    "Aus dem linken Sinus aortae",
+    "Aus dem rechten Sinus aortae",
+    "Aus dem hinteren (nichtkoronaren) Sinus",
+    "Aus dem Truncus pulmonalis",
+    "Aus dem Aortenbogen"
+   ],
+   "a": "B",
+   "expl": "Die Aortenklappe hat drei Taschen mit je einem Sinus. Aus dem rechten entspringt die A. coronaria dextra, aus dem linken die A. coronaria sinistra; der hintere heißt nichtkoronarer Sinus.",
+   "dis": {
+    "A": "Ursprung der A. coronaria sinistra.",
+    "C": "Gibt keine Koronararterie ab.",
+    "D": "Nur bei einer seltenen Fehlbildung.",
+    "E": "Dort entspringen die Halsgefäße."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-58-2",
+   "src": "F2-58",
+   "typ": "perspektive",
+   "q": "In welcher Herzphase wird vor allem das Myokard des linken Ventrikels durchblutet?",
+   "o": [
+    "In der Systole",
+    "Gleichmäßig über den ganzen Herzzyklus",
+    "In der Diastole",
+    "Nur bei körperlicher Belastung",
+    "Nur während der Vorhofsystole"
+   ],
+   "a": "C",
+   "expl": "Während der Systole drückt der Wanddruck die Koronargefäße zusammen. Bei hoher Herzfrequenz verkürzt sich die Diastole, und die Myokarddurchblutung nimmt ab.",
+   "dis": {
+    "A": "Dann komprimiert der kontrahierte Muskel die intramuralen Gefäße.",
+    "B": "Die Durchblutung schwankt stark.",
+    "D": "Das Myokard wird ständig durchblutet.",
+    "E": "Zu kurz."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-59-1",
+   "src": "F2-59",
+   "typ": "bild",
+   "q": "Welcher Gefäßring an der Hirnbasis verbindet die markierten Arterien mit dem vertebrobasilären System?",
+   "o": [
+    "Arcus palmaris superficialis",
+    "Circulus arteriosus iridis",
+    "Rete mirabile",
+    "Circulus arteriosus cerebri (Willisii)",
+    "Plexus choroideus"
+   ],
+   "a": "D",
+   "expl": "Die markierten Arterien sind die Aa. carotides internae. Über die Aa. communicantes posteriores und die A. communicans anterior bilden sie mit den Aa. cerebri posteriores den Circulus arteriosus cerebri.",
+   "dis": {
+    "A": "Gefäßbogen der Hand.",
+    "B": "Gefäßring der Iris.",
+    "C": "Kommt beim Menschen an der Hirnbasis nicht vor.",
+    "E": "Bildet Liquor in den Ventrikeln."
+   },
+   "merk": "",
+   "img": "img/i21.jpg"
+  },
+  {
+   "id": "V-F2-59-2",
+   "src": "F2-59",
+   "typ": "perspektive",
+   "q": "Welche Arterie verbindet die A. carotis interna mit der A. cerebri posterior?",
+   "o": [
+    "A. communicans anterior",
+    "A. basilaris",
+    "A. ophthalmica",
+    "A. superior cerebelli",
+    "A. communicans posterior"
+   ],
+   "a": "E",
+   "expl": "Die A. communicans posterior verbindet das Karotisgebiet mit dem vertebrobasilären Gebiet. An ihr entstehen häufig Aneurysmen, die auf den N. oculomotorius drücken können.",
+   "dis": {
+    "A": "Verbindet die beiden Aa. cerebri anteriores.",
+    "B": "Entsteht aus den Aa. vertebrales.",
+    "C": "Zieht in die Orbita.",
+    "D": "Ast der A. basilaris."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-38-1",
+   "src": "D2-38",
+   "typ": "bild",
+   "q": "In welche Äste teilt sich die mit dem Pfeil markierte Arterie an der Leberpforte?",
+   "o": [
+    "A. hepatica dextra und A. hepatica sinistra",
+    "A. gastroduodenalis und A. gastrica dextra",
+    "A. splenica und A. gastrica sinistra",
+    "A. cystica und A. splenica",
+    "A. colica media und A. colica dextra"
+   ],
+   "a": "A",
+   "expl": "Der Pfeil markiert die A. hepatica propria. Sie teilt sich an der Leberpforte in A. hepatica dextra und sinistra; aus der rechten geht meist die A. cystica hervor.",
+   "dis": {
+    "B": "Die A. gastroduodenalis stammt aus der A. hepatica communis.",
+    "C": "Äste des Truncus coeliacus.",
+    "D": "Die A. splenica stammt aus dem Truncus coeliacus.",
+    "E": "Äste der A. mesenterica superior."
+   },
+   "merk": "",
+   "img": "img/i22.jpg"
+  },
+  {
+   "id": "V-D2-38-2",
+   "src": "D2-38",
+   "typ": "klinik",
+   "q": "Aus welcher Arterie entspringt die A. cystica meist, die bei der Cholezystektomie im Calot-Dreieck aufgesucht wird?",
+   "o": [
+    "A. gastroduodenalis",
+    "A. hepatica dextra",
+    "A. splenica",
+    "A. mesenterica superior",
+    "A. gastrica sinistra"
+   ],
+   "a": "B",
+   "expl": "Das Calot-Dreieck wird von Ductus cysticus, Ductus hepaticus communis und Leberunterrand begrenzt. Darin liegt die A. cystica, die meist aus der A. hepatica dextra stammt und vor dem Durchtrennen sicher identifiziert werden muss.",
+   "dis": {
+    "A": "Versorgt Duodenum und Pankreaskopf.",
+    "C": "Versorgt die Milz.",
+    "D": "Versorgt den Mitteldarm.",
+    "E": "Versorgt die kleine Magenkurvatur."
+   },
+   "merk": "",
+   "img": null
+  }
+ ]
+}

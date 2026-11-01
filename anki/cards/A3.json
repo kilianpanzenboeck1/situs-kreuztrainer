@@ -1289,6 +1289,52 @@
    },
    "merk": "",
    "img": null
+  },
+  {
+   "id": "V-D2-29/F2-34-1",
+   "src": "D2-29/F2-34",
+   "typ": "nachbarschaft",
+   "q": "Welche Arterie liegt im hinteren Mediastinum links vor der Wirbelsäule?",
+   "o": [
+    "Aorta thoracica descendens",
+    "V. azygos",
+    "V. cava superior",
+    "Truncus pulmonalis",
+    "A. thoracica interna"
+   ],
+   "a": "A",
+   "expl": "Die Aorta descendens zieht links neben den Brustwirbeln nach kaudal und verlagert sich zum Hiatus aorticus hin zur Mitte. Sie gibt Aa. intercostales posteriores, Rr. bronchiales und Rr. oesophageales ab.",
+   "dis": {
+    "B": "Vene, liegt rechts.",
+    "C": "Liegt rechts vorne im oberen bzw. mittleren Mediastinum.",
+    "D": "Liegt im Perikard.",
+    "E": "Liegt vorne hinter dem Sternum."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-29/F2-34-2",
+   "src": "D2-29/F2-34",
+   "typ": "nachbarschaft",
+   "q": "Wo liegt der Ductus thoracicus im hinteren Mediastinum?",
+   "o": [
+    "Vor dem Perikard",
+    "Zwischen Aorta descendens und V. azygos, hinter dem Ösophagus",
+    "In der Pleurahöhle",
+    "Im Mediastinum anterius",
+    "Lateral der V. hemiazygos"
+   ],
+   "a": "B",
+   "expl": "Der Ductus thoracicus steigt nach dem Hiatus aorticus rechts hinter dem Ösophagus zwischen Aorta und V. azygos auf. In Höhe Th4–5 wechselt er nach links.",
+   "dis": {
+    "A": "Dort liegt das vordere Mediastinum.",
+    "C": "Er liegt im Mediastinum, nicht in der Pleurahöhle.",
+    "D": "Er liegt dorsal.",
+    "E": "Er liegt medial, zwischen Aorta und V. azygos."
+   },
+   "merk": "",
+   "img": null
   }
  ]
 }
