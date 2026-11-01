@@ -1,0 +1,1616 @@
+{
+ "chapter": "A8",
+ "status": "draft",
+ "cards": [
+  {
+   "id": "V-F1-90-1",
+   "src": "F1-90",
+   "typ": "perspektive",
+   "q": "Wie lang ist der gesamte Dünndarm beim Lebenden ungefähr?",
+   "o": [
+    "4–6 m",
+    "25–30 cm",
+    "1,5 m",
+    "10–12 m",
+    "50 cm"
+   ],
+   "a": "A",
+   "expl": "Der Dünndarm besteht aus Duodenum (ca. 25–30 cm), Jejunum und Ileum. Jejunum und Ileum machen zusammen den Großteil der 4–6 m aus.",
+   "dis": {
+    "B": "Länge des Duodenums.",
+    "C": "Etwa die Länge des Dickdarms.",
+    "D": "Zu lang.",
+    "E": "Zu kurz."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-90-2",
+   "src": "F1-90",
+   "typ": "perspektive",
+   "q": "Welcher Anteil des mesenterialen Dünndarms entfällt etwa auf das Jejunum?",
+   "o": [
+    "Etwa die distalen drei Fünftel",
+    "Etwa die proximalen zwei Fünftel",
+    "Die Hälfte des gesamten Darms",
+    "Nur die ersten 25 cm",
+    "Der gesamte Dünndarm"
+   ],
+   "a": "B",
+   "expl": "Jejunum und Ileum gehen ohne scharfe Grenze ineinander über; das Jejunum macht etwa zwei Fünftel, das Ileum drei Fünftel aus.",
+   "dis": {
+    "A": "Das ist das Ileum.",
+    "C": "Zu viel.",
+    "D": "Das entspricht etwa dem Duodenum.",
+    "E": "Es gibt auch Duodenum und Ileum."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-91-1",
+   "src": "F1-91",
+   "typ": "perspektive",
+   "q": "Welche Zellen der Magendrüsen bilden die Salzsäure?",
+   "o": [
+    "Hauptzellen",
+    "Nebenzellen",
+    "Belegzellen (Parietalzellen)",
+    "G-Zellen",
+    "Paneth-Zellen"
+   ],
+   "a": "C",
+   "expl": "Die Belegzellen in Fundus und Corpus pumpen über die H+/K+-ATPase Protonen ins Lumen und bilden außerdem den Intrinsic Factor.",
+   "dis": {
+    "A": "Bilden Pepsinogen.",
+    "B": "Bilden Schleim.",
+    "D": "Bilden Gastrin.",
+    "E": "Kommen im Dünndarm vor."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-91-2",
+   "src": "F1-91",
+   "typ": "perspektive",
+   "q": "Welche Zellen der Magendrüsen bilden Pepsinogen?",
+   "o": [
+    "Belegzellen",
+    "Nebenzellen",
+    "G-Zellen",
+    "Hauptzellen",
+    "Becherzellen"
+   ],
+   "a": "D",
+   "expl": "Die Hauptzellen liegen am Grund der Fundusdrüsen. Ihr Pepsinogen wird im sauren Milieu zu Pepsin aktiviert, das Eiweiß spaltet.",
+   "dis": {
+    "A": "Bilden Salzsäure und Intrinsic Factor.",
+    "B": "Bilden Schleim.",
+    "C": "Bilden Gastrin.",
+    "E": "Bilden Schleim im Darm."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-92-1",
+   "src": "F1-92",
+   "typ": "nachbarschaft",
+   "q": "Welches Organ wird vom Duodenum C-förmig umfasst?",
+   "o": [
+    "Milz",
+    "Gallenblase",
+    "Linke Niere",
+    "Colon transversum",
+    "Pankreaskopf"
+   ],
+   "a": "E",
+   "expl": "Das Duodenum umschließt den Pankreaskopf wie ein C. Beide werden gemeinsam von den Pankreatikoduodenalarkaden versorgt.",
+   "dis": {
+    "A": "Liegt links oben.",
+    "B": "Liegt an der Leberunterfläche.",
+    "C": "Liegt links neben der Aorta.",
+    "D": "Liegt davor bzw. darunter."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-92-2",
+   "src": "F1-92",
+   "typ": "nachbarschaft",
+   "q": "Wo geht das Duodenum in das Jejunum über?",
+   "o": [
+    "An der Flexura duodenojejunalis links der Wirbelsäule etwa in Höhe L2",
+    "Am Pylorus",
+    "An der Papilla duodeni major",
+    "Am Caecum",
+    "Rechts der Wirbelsäule in Höhe L4"
+   ],
+   "a": "A",
+   "expl": "Die Pars ascendens steigt links der Aorta auf und biegt an der Flexura duodenojejunalis nach vorne-unten ins intraperitoneale Jejunum.",
+   "dis": {
+    "B": "Übergang Magen – Duodenum.",
+    "C": "Liegt in der Pars descendens.",
+    "D": "Übergang Ileum – Dickdarm.",
+    "E": "Falsche Seite und zu tief."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-93-1",
+   "src": "F1-93",
+   "typ": "perspektive",
+   "q": "In welchen Wandschichten liegen die Peyer-Plaques?",
+   "o": [
+    "In der Tunica muscularis",
+    "In der Lamina propria mucosae mit Ausdehnung in die Tela submucosa",
+    "In der Serosa",
+    "In der Subserosa",
+    "Nur im Epithel"
+   ],
+   "a": "B",
+   "expl": "Peyer-Plaques sind Ansammlungen von Lymphfollikeln im Ileum, meist antimesenterial. Sie gehören zum darmassoziierten lymphatischen Gewebe (GALT).",
+   "dis": {
+    "A": "Muskelschicht.",
+    "C": "Äußerer Überzug.",
+    "D": "Bindegewebe unter der Serosa.",
+    "E": "Das Epithel enthält nur die M-Zellen darüber."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-93-2",
+   "src": "F1-93",
+   "typ": "perspektive",
+   "q": "Welche Zellen im Epithel über den Peyer-Plaques nehmen Antigene aus dem Darmlumen auf?",
+   "o": [
+    "Paneth-Zellen",
+    "Becherzellen",
+    "M-Zellen",
+    "Belegzellen",
+    "Typ-II-Pneumozyten"
+   ],
+   "a": "C",
+   "expl": "M-Zellen haben kurze Mikrofalten statt Mikrovilli. Sie schleusen Antigene per Transzytose zu den darunterliegenden Immunzellen.",
+   "dis": {
+    "A": "Bilden antimikrobielle Peptide am Kryptengrund.",
+    "B": "Bilden Schleim.",
+    "D": "Liegen im Magen.",
+    "E": "Liegen in der Lunge."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-94-1",
+   "src": "F1-94",
+   "typ": "klinik",
+   "q": "Welche Arterie verläuft hinter der Pars superior duodeni und kann bei einem Ulcus der Hinterwand massiv bluten?",
+   "o": [
+    "A. colica media",
+    "A. splenica",
+    "A. mesenterica inferior",
+    "A. gastroduodenalis",
+    "A. renalis"
+   ],
+   "a": "D",
+   "expl": "Die A. gastroduodenalis zieht von der A. hepatica communis hinter dem Bulbus duodeni nach unten. Ulcera an der Bulbushinterwand können sie arrodieren.",
+   "dis": {
+    "A": "Verläuft im Mesocolon transversum.",
+    "B": "Verläuft am Oberrand des Pankreas links.",
+    "C": "Liegt im Unterbauch.",
+    "E": "Liegt retroperitoneal tiefer."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-94-2",
+   "src": "F1-94",
+   "typ": "perspektive",
+   "q": "In welchem Abschnitt des Duodenums liegen Ulcera duodeni am häufigsten?",
+   "o": [
+    "Pars descendens",
+    "Pars horizontalis",
+    "Pars ascendens",
+    "Flexura duodenojejunalis",
+    "Bulbus duodeni"
+   ],
+   "a": "E",
+   "expl": "Im Bulbus trifft der saure Mageninhalt direkt auf die Schleimhaut, bevor er neutralisiert wird. Deshalb liegen über 90 % der Duodenalulcera dort.",
+   "dis": {
+    "A": "Seltener betroffen.",
+    "B": "Selten betroffen.",
+    "C": "Selten betroffen.",
+    "D": "Selten betroffen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-95-1",
+   "src": "F1-95",
+   "typ": "perspektive",
+   "q": "Wo liegt der Plexus myentericus (Auerbach)?",
+   "o": [
+    "Zwischen Ring- und Längsmuskelschicht der Tunica muscularis",
+    "In der Tela submucosa",
+    "In der Lamina propria",
+    "In der Serosa",
+    "Im Epithel"
+   ],
+   "a": "A",
+   "expl": "Der Plexus myentericus steuert vor allem die Peristaltik. Fehlt er (Morbus Hirschsprung), kann sich das Darmsegment nicht entspannen.",
+   "dis": {
+    "B": "Dort liegt der Plexus submucosus.",
+    "C": "Bindegewebe der Schleimhaut.",
+    "D": "Äußerer Überzug.",
+    "E": "Keine Nervengeflechte im Epithel."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-95-2",
+   "src": "F1-95",
+   "typ": "perspektive",
+   "q": "Wo liegt der Plexus submucosus (Meissner)?",
+   "o": [
+    "In der Tunica muscularis",
+    "In der Tela submucosa",
+    "In der Serosa",
+    "In der Lamina epithelialis",
+    "In der Subserosa"
+   ],
+   "a": "B",
+   "expl": "Der Plexus submucosus steuert Sekretion, lokale Durchblutung und die Bewegung der Muscularis mucosae.",
+   "dis": {
+    "A": "Dort liegt der Plexus myentericus.",
+    "C": "Äußerer Überzug.",
+    "D": "Epithel.",
+    "E": "Bindegewebe unter der Serosa."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-96-1",
+   "src": "F1-96",
+   "typ": "perspektive",
+   "q": "Aus welcher Arterie entspringen die Aa. pancreaticoduodenales superiores?",
+   "o": [
+    "A. mesenterica superior",
+    "A. splenica",
+    "A. gastroduodenalis",
+    "A. gastrica sinistra",
+    "A. colica media"
+   ],
+   "a": "C",
+   "expl": "Die oberen Arkaden stammen aus dem Truncus-coeliacus-Gebiet (A. gastroduodenalis), die unteren aus der A. mesenterica superior.",
+   "dis": {
+    "A": "Daraus entspringen die inferiores.",
+    "B": "Versorgt Pankreaskörper und -schwanz.",
+    "D": "Versorgt die kleine Kurvatur.",
+    "E": "Versorgt das Colon transversum."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-96-2",
+   "src": "F1-96",
+   "typ": "perspektive",
+   "q": "Welche Gefäßgebiete verbinden die Pankreatikoduodenalarkaden?",
+   "o": [
+    "A. mesenterica superior und inferior",
+    "Aorta und V. cava inferior",
+    "A. renalis und Aa. lumbales",
+    "Truncus coeliacus und A. mesenterica superior",
+    "A. iliaca interna und externa"
+   ],
+   "a": "D",
+   "expl": "Bei Stenose des Truncus coeliacus kann Blut über diese Arkaden aus der A. mesenterica superior in die Oberbauchorgane fließen.",
+   "dis": {
+    "A": "Diese verbindet die Riolan-Anastomose.",
+    "B": "Arterie und Vene.",
+    "C": "Kein Arkadensystem.",
+    "E": "Beckengefäße."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-97-1",
+   "src": "F1-97",
+   "typ": "perspektive",
+   "q": "Welcher Abschnitt des Duodenums liegt am weitesten kranial (etwa Höhe L1)?",
+   "o": [
+    "Pars descendens",
+    "Pars horizontalis",
+    "Pars ascendens",
+    "Flexura duodeni inferior",
+    "Pars superior"
+   ],
+   "a": "E",
+   "expl": "Das Duodenum beginnt am Pylorus in Höhe L1 mit der Pars superior. Es folgen Pars descendens, horizontalis und ascendens.",
+   "dis": {
+    "A": "Steigt von L1 bis L3 ab.",
+    "B": "Liegt in Höhe L3.",
+    "C": "Steigt bis L2 auf.",
+    "D": "Liegt etwa in Höhe L3."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-97-2",
+   "src": "F1-97",
+   "typ": "nachbarschaft",
+   "q": "Welche Biegung liegt zwischen Pars superior und Pars descendens des Duodenums?",
+   "o": [
+    "Flexura duodeni superior",
+    "Flexura duodeni inferior",
+    "Flexura duodenojejunalis",
+    "Flexura coli dextra",
+    "Flexura sacralis"
+   ],
+   "a": "A",
+   "expl": "Das Duodenum hat zwei Biegungen: Flexura duodeni superior und inferior. Die Flexura duodenojejunalis markiert das Ende.",
+   "dis": {
+    "B": "Liegt zwischen Pars descendens und horizontalis.",
+    "C": "Übergang ins Jejunum.",
+    "D": "Dickdarm.",
+    "E": "Rektum."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-98-1",
+   "src": "F1-98",
+   "typ": "perspektive",
+   "q": "Welches Sekret bilden die Brunner-Drüsen?",
+   "o": [
+    "Salzsäure",
+    "Ein alkalisches, muköses Sekret",
+    "Pepsinogen",
+    "Galle",
+    "Insulin"
+   ],
+   "a": "B",
+   "expl": "Das bikarbonatreiche Sekret der Brunner-Drüsen neutralisiert den sauren Chymus und schützt die Duodenalschleimhaut.",
+   "dis": {
+    "A": "Bilden die Belegzellen des Magens.",
+    "C": "Bilden die Hauptzellen des Magens.",
+    "D": "Bildet die Leber.",
+    "E": "Bilden die B-Zellen des Pankreas."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-98-2",
+   "src": "F1-98",
+   "typ": "perspektive",
+   "q": "In welcher Wandschicht liegen die Brunner-Drüsen?",
+   "o": [
+    "Lamina propria mucosae",
+    "Tunica muscularis",
+    "Tela submucosa",
+    "Serosa bzw. Adventitia",
+    "Epithel"
+   ],
+   "a": "C",
+   "expl": "Submuköse Drüsen sind im Darm eine Besonderheit des Duodenums. Im histologischen Präparat erkennt man es daran.",
+   "dis": {
+    "A": "Dort liegen die Lieberkühn-Krypten.",
+    "B": "Muskelschicht.",
+    "D": "Äußerer Überzug.",
+    "E": "Die Drüsen münden nur ins Epithel."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-99-1",
+   "src": "F1-99",
+   "typ": "perspektive",
+   "q": "Wo wird Vitamin B12 resorbiert?",
+   "o": [
+    "Im Duodenum",
+    "Im Magen",
+    "Im proximalen Jejunum",
+    "Im terminalen Ileum",
+    "Im Kolon"
+   ],
+   "a": "D",
+   "expl": "Vitamin B12 wird als Komplex mit dem Intrinsic Factor im terminalen Ileum aufgenommen. Nach Ileumresektion oder bei Morbus Crohn droht ein B12-Mangel.",
+   "dis": {
+    "A": "Dort wird vor allem Eisen resorbiert.",
+    "B": "Dort wird nur der Intrinsic Factor gebildet.",
+    "C": "Hauptort für Kohlenhydrate und Aminosäuren.",
+    "E": "Resorbiert vor allem Wasser und Elektrolyte."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-99-2",
+   "src": "F1-99",
+   "typ": "perspektive",
+   "q": "Wo wird Eisen überwiegend resorbiert?",
+   "o": [
+    "Im terminalen Ileum",
+    "Im Kolon",
+    "Im Magen",
+    "Im Rektum",
+    "Im Duodenum und oberen Jejunum"
+   ],
+   "a": "E",
+   "expl": "Zweiwertiges Eisen wird über DMT1 in die Enterozyten des Duodenums aufgenommen. Nach Magen-Duodenum-Bypass entsteht deshalb leicht ein Eisenmangel.",
+   "dis": {
+    "A": "Resorbiert B12 und Gallensäuren.",
+    "B": "Kaum Eisenresorption.",
+    "C": "Keine nennenswerte Resorption.",
+    "D": "Keine Eisenresorption."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-100-1",
+   "src": "F1-100",
+   "typ": "perspektive",
+   "q": "Welche Funktion hat die Valva ileocaecalis (Bauhin)?",
+   "o": [
+    "Sie verhindert den Rückfluss von Dickdarminhalt ins Ileum.",
+    "Sie verhindert den Rückfluss von Galle in den Magen.",
+    "Sie entleert die Gallenblase.",
+    "Sie verhindert Säurereflux in den Ösophagus.",
+    "Sie verhindert den Rückfluss aus dem Rektum ins Sigma."
+   ],
+   "a": "A",
+   "expl": "Die Bauhin-Klappe trennt die bakterienarme Dünndarmflora von der dichten Dickdarmflora und reguliert den Übertritt des Chymus.",
+   "dis": {
+    "B": "Funktion des Pylorus.",
+    "C": "Funktion der Gallenblasenmuskulatur.",
+    "D": "Funktion des unteren Ösophagussphinkters.",
+    "E": "Keine Klappe an dieser Stelle."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-100-2",
+   "src": "F1-100",
+   "typ": "klinik",
+   "q": "Wo bleibt ein Gallenstein beim Gallensteinileus typischerweise stecken?",
+   "o": [
+    "Im Pylorus",
+    "Im terminalen Ileum vor der Ileozäkalklappe",
+    "An der Papilla duodeni major",
+    "Im Colon sigmoideum",
+    "Im Rektum"
+   ],
+   "a": "B",
+   "expl": "Ein großer Stein kann über eine Fistel von der Gallenblase ins Duodenum gelangen. Am engen terminalen Ileum vor der Bauhin-Klappe verursacht er einen mechanischen Ileus.",
+   "dis": {
+    "A": "Nur selten (Bouveret-Syndrom).",
+    "C": "Typisch für Choledocholithiasis, nicht für Gallensteinileus.",
+    "D": "Steine, die die Klappe passieren, gehen meist ab.",
+    "E": "Dort bleiben sie selten stecken."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-101-1",
+   "src": "F1-101",
+   "typ": "perspektive",
+   "q": "In welche vier Abschnitte wird der Magen gegliedert?",
+   "o": [
+    "Bulbus, Corpus, Antrum und Duodenum",
+    "Fundus, Corpus, Caecum und Pylorus",
+    "Cardia, Fundus, Corpus und Pars pylorica",
+    "Cardia, Ösophagus, Fundus und Corpus",
+    "Pars superior, descendens, horizontalis und ascendens"
+   ],
+   "a": "C",
+   "expl": "Die Pars pylorica gliedert sich weiter in Antrum pyloricum, Canalis pyloricus und Pylorus mit dem M. sphincter pyloricus.",
+   "dis": {
+    "A": "Bulbus und Duodenum gehören zum Dünndarm.",
+    "B": "Das Caecum gehört zum Dickdarm.",
+    "D": "Der Ösophagus gehört nicht zum Magen.",
+    "E": "Abschnitte des Duodenums."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-101-2",
+   "src": "F1-101",
+   "typ": "klinik",
+   "q": "Ein Säugling erbricht nach jeder Mahlzeit schwallartig; im Oberbauch tastet man eine olivenförmige Resistenz. Welcher Muskel ist hypertrophiert?",
+   "o": [
+    "Sphincter Oddi",
+    "Unterer Ösophagussphinkter",
+    "M. sphincter ani externus",
+    "M. sphincter pyloricus",
+    "Bauhin-Klappe"
+   ],
+   "a": "D",
+   "expl": "Bei der hypertrophen Pylorusstenose verdickt sich die Ringmuskulatur des Pylorus. Der Mageninhalt kann nicht ins Duodenum, die Kinder erbrechen nicht-gallig.",
+   "dis": {
+    "A": "Liegt an der Papilla duodeni major.",
+    "B": "Liegt am Mageneingang.",
+    "C": "Liegt am Analkanal.",
+    "E": "Liegt am Übergang Ileum – Caecum."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-102-1",
+   "src": "F1-102",
+   "typ": "umkehrung",
+   "q": "Welcher Darmabschnitt dickt den Chymus durch Wasserresorption ein?",
+   "o": [
+    "Magen",
+    "Duodenum",
+    "Jejunum",
+    "Ösophagus",
+    "Kolon"
+   ],
+   "a": "E",
+   "expl": "Das Kolon resorbiert den Großteil des verbleibenden Wassers und Natriums. Bei beschleunigter Passage entsteht Durchfall.",
+   "dis": {
+    "A": "Verflüssigt den Speisebrei eher.",
+    "B": "Mischt den Chymus mit Galle und Pankreassekret.",
+    "C": "Resorbiert vor allem Nährstoffe.",
+    "D": "Transportiert nur."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-102-2",
+   "src": "F1-102",
+   "typ": "klinik",
+   "q": "Nach einer totalen Gastrektomie muss Vitamin B12 lebenslang parenteral gegeben werden. Warum?",
+   "o": [
+    "Weil die Belegzellen in Fundus und Corpus fehlen und damit der Intrinsic Factor",
+    "Weil die Hauptzellen fehlen und damit Pepsin",
+    "Weil das terminale Ileum entfernt wurde",
+    "Weil die Leber kein B12 mehr speichert",
+    "Weil die G-Zellen fehlen"
+   ],
+   "a": "A",
+   "expl": "Der Intrinsic Factor aus den Belegzellen ist für die B12-Resorption im Ileum nötig. Ohne Magen entwickelt sich eine perniziöse Anämie, wenn B12 nicht ersetzt wird.",
+   "dis": {
+    "B": "Pepsin ist für die B12-Aufnahme nicht entscheidend.",
+    "C": "Bei Gastrektomie wird das Ileum nicht entfernt.",
+    "D": "Die Leber speichert weiter.",
+    "E": "Gastrin ist für die B12-Aufnahme nicht nötig."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-103-1",
+   "src": "F1-103",
+   "typ": "perspektive",
+   "q": "Welches Sekret bilden die Nebenzellen der Magendrüsen?",
+   "o": [
+    "Salzsäure",
+    "Schleim",
+    "Pepsinogen",
+    "Gastrin",
+    "Intrinsic Factor"
+   ],
+   "a": "B",
+   "expl": "Die Nebenzellen liegen im Drüsenhals nahe den Foveolae gastricae. Ihr Schleim und das Bikarbonat des Oberflächenepithels schützen die Schleimhaut vor der Säure.",
+   "dis": {
+    "A": "Bilden die Belegzellen.",
+    "C": "Bilden die Hauptzellen.",
+    "D": "Bilden die G-Zellen.",
+    "E": "Bilden die Belegzellen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-103-2",
+   "src": "F1-103",
+   "typ": "perspektive",
+   "q": "Welche Zellen im Antrum bilden Gastrin?",
+   "o": [
+    "D-Zellen",
+    "Belegzellen",
+    "G-Zellen",
+    "Hauptzellen",
+    "Paneth-Zellen"
+   ],
+   "a": "C",
+   "expl": "Gastrin aus den G-Zellen des Antrums regt die Säuresekretion der Belegzellen an. Ein Gastrinom verursacht therapieresistente Ulcera (Zollinger-Ellison-Syndrom).",
+   "dis": {
+    "A": "Bilden Somatostatin.",
+    "B": "Bilden Salzsäure.",
+    "D": "Bilden Pepsinogen.",
+    "E": "Liegen im Dünndarm."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-104-1",
+   "src": "F1-104",
+   "typ": "perspektive",
+   "q": "Wo projiziert sich die Cardia des Magens etwa auf die Rumpfwand?",
+   "o": [
+    "In Höhe des Nabels",
+    "Auf die Symphyse",
+    "In den 2. ICR rechts",
+    "Hinter dem 7. linken Rippenknorpel, etwa in Höhe Th11",
+    "In Höhe Th4"
+   ],
+   "a": "D",
+   "expl": "Der Ösophagus tritt in Höhe Th10 durch das Zwerchfell und erreicht die Cardia links der Mittellinie etwa in Höhe Th11.",
+   "dis": {
+    "A": "Zu tief.",
+    "B": "Viel zu tief.",
+    "C": "Zu hoch und auf der falschen Seite.",
+    "E": "Zu hoch, Höhe der Trachealbifurkation."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-104-2",
+   "src": "F1-104",
+   "typ": "perspektive",
+   "q": "Wie heißt die Einkerbung an der kleinen Kurvatur zwischen Corpus und Pars pylorica?",
+   "o": [
+    "Incisura cardialis",
+    "Sulcus intermedius",
+    "Flexura duodeni superior",
+    "Plica gastropancreatica",
+    "Incisura angularis"
+   ],
+   "a": "E",
+   "expl": "Die Incisura angularis ist der Knick der kleinen Kurvatur. In der Endoskopie und Radiologie dient sie als Orientierungspunkt zwischen Corpus und Antrum.",
+   "dis": {
+    "A": "Liegt zwischen Ösophagus und Fundus.",
+    "B": "Grenze zwischen Antrum und Canalis pyloricus an der großen Kurvatur.",
+    "C": "Biegung des Duodenums.",
+    "D": "Peritonealfalte in der Bursa omentalis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-105-1",
+   "src": "F1-105",
+   "typ": "nachbarschaft",
+   "q": "Wie verläuft die Radix mesenterii an der hinteren Bauchwand?",
+   "o": [
+    "Schräg von der Flexura duodenojejunalis links oben (L2) zum rechten Iliosakralgelenk",
+    "Horizontal in Höhe L3",
+    "Von rechts oben nach links unten",
+    "Senkrecht in der Mittellinie",
+    "Quer in Höhe Th12"
+   ],
+   "a": "A",
+   "expl": "Die etwa 15 cm lange Radix mesenterii kreuzt Pars horizontalis duodeni, Aorta, V. cava inferior und rechten Ureter. Daran hängen die mehrere Meter langen Jejunum- und Ileumschlingen.",
+   "dis": {
+    "B": "Sie verläuft schräg.",
+    "C": "Genau umgekehrt.",
+    "D": "Sie verläuft schräg.",
+    "E": "Zu hoch und nicht quer."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-105-2",
+   "src": "F1-105",
+   "typ": "perspektive",
+   "q": "Welche Gefäße verlaufen in der Radix mesenterii?",
+   "o": [
+    "Aorta abdominalis",
+    "A. und V. mesenterica superior",
+    "V. cava inferior",
+    "A. renalis",
+    "A. mesenterica inferior"
+   ],
+   "a": "B",
+   "expl": "Die Mesenterialgefäße treten unter dem Pankreas hervor und ziehen in der Radix ins Mesenterium. Dort verzweigen sie sich in Arkaden zu Jejunum und Ileum.",
+   "dis": {
+    "A": "Liegt retroperitoneal dahinter.",
+    "C": "Liegt retroperitoneal dahinter.",
+    "D": "Zieht retroperitoneal zur Niere.",
+    "E": "Verläuft retroperitoneal links."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-106-1",
+   "src": "F1-106",
+   "typ": "perspektive",
+   "q": "Aus welchen Gängen entsteht der Ductus choledochus?",
+   "o": [
+    "Aus Ductus pancreaticus und Ductus Santorini",
+    "Aus Ductus hepaticus dexter und Ductus pancreaticus",
+    "Aus Ductus hepaticus communis und Ductus cysticus",
+    "Aus Ductus thoracicus und Ductus cysticus",
+    "Allein aus dem Ductus cysticus"
+   ],
+   "a": "C",
+   "expl": "Die beiden Ductus hepatici bilden den Ductus hepaticus communis. Nach Einmündung des Ductus cysticus heißt der Gang Ductus choledochus.",
+   "dis": {
+    "A": "Pankreasgänge.",
+    "B": "Der Ductus pancreaticus vereinigt sich erst an der Papille.",
+    "D": "Der Ductus thoracicus ist ein Lymphgang.",
+    "E": "Ihm fehlt der Lebergang."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-106-2",
+   "src": "F1-106",
+   "typ": "nachbarschaft",
+   "q": "Welchen Weg nimmt der Ductus choledochus vom Lig. hepatoduodenale zur Papille?",
+   "o": [
+    "Durch den Magen",
+    "Durch die Milz",
+    "Vor dem Duodenum ohne Kontakt zum Pankreas",
+    "Hinter der Pars superior duodeni und durch bzw. hinter den Pankreaskopf",
+    "Durch das Colon transversum"
+   ],
+   "a": "D",
+   "expl": "Der Gang gliedert sich in Pars supraduodenalis, retroduodenalis, pancreatica und intraduodenalis. Deshalb können Pankreaskopfprozesse ihn einengen.",
+   "dis": {
+    "A": "Kein Kontakt.",
+    "B": "Liegt links.",
+    "C": "Er verläuft dahinter und durch den Pankreaskopf.",
+    "E": "Kein Kontakt."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-107-1",
+   "src": "F1-107",
+   "typ": "nachbarschaft",
+   "q": "Welches Organ bedeckt einen großen Teil der Magenvorderwand rechts oben?",
+   "o": [
+    "Lobus caudatus",
+    "Milz",
+    "Linke Niere",
+    "Pankreas",
+    "Linker Leberlappen"
+   ],
+   "a": "E",
+   "expl": "Die Vorderwand des Magens liegt teils dem linken Leberlappen, teils dem Zwerchfell und der vorderen Bauchwand an (Magenfeld im Epigastrium).",
+   "dis": {
+    "A": "Liegt hinten an der Leber.",
+    "B": "Liegt links hinten.",
+    "C": "Liegt im Magenbett hinten.",
+    "D": "Liegt im Magenbett hinten."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-107-2",
+   "src": "F1-107",
+   "typ": "perspektive",
+   "q": "Wo liegt der tiefste Punkt des Magens beim stehenden Menschen?",
+   "o": [
+    "An der großen Kurvatur, bei Füllung etwa in Nabelhöhe",
+    "Am Pylorus",
+    "An der Cardia",
+    "Im Fundus",
+    "Im Hiatus oesophageus"
+   ],
+   "a": "A",
+   "expl": "Der Magen hängt im Stehen hakenförmig nach unten. Der kaudalste Punkt liegt an der großen Kurvatur, nicht am Pylorus.",
+   "dis": {
+    "B": "Liegt höher in Höhe L1.",
+    "C": "Liegt oben links.",
+    "D": "Höchster Punkt.",
+    "E": "Liegt im Zwerchfell."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-108-1",
+   "src": "F1-108",
+   "typ": "bild",
+   "q": "Was enthalten die rot gefärbten Granula der mit dem Pfeil markierten Zellen?",
+   "o": [
+    "Pepsinogen",
+    "Antimikrobielle Substanzen wie Defensine und Lysozym",
+    "Salzsäure",
+    "Gastrin",
+    "Muzin"
+   ],
+   "a": "B",
+   "expl": "Der Pfeil markiert Paneth-Zellen. Mit Defensinen und Lysozym regulieren sie die Darmflora und schützen die Stammzellen in den Krypten.",
+   "dis": {
+    "A": "Granula der Hauptzellen im Magen.",
+    "C": "Wird von Belegzellen gebildet, nicht gespeichert.",
+    "D": "Hormon der G-Zellen.",
+    "E": "Inhalt der Becherzellen."
+   },
+   "merk": "",
+   "img": "img/i32.jpg"
+  },
+  {
+   "id": "V-F1-108-2",
+   "src": "F1-108",
+   "typ": "bild",
+   "q": "Wo liegen die mit dem Pfeil markierten Zellen?",
+   "o": [
+    "An der Zottenspitze",
+    "In den Foveolae des Magens",
+    "Am Grund der Lieberkühn-Krypten des Dünndarms",
+    "An der Kolonoberfläche",
+    "In den Azini des Pankreas"
+   ],
+   "a": "C",
+   "expl": "Paneth-Zellen liegen pyramidenförmig am Kryptengrund mit apikalen eosinophilen Granula. Im Ileum sind sie besonders zahlreich.",
+   "dis": {
+    "A": "Dort liegen reife Enterozyten.",
+    "B": "Dort liegt schleimbildendes Oberflächenepithel.",
+    "D": "Im Kolon kommen sie normalerweise nicht vor.",
+    "E": "Exokrine Drüsenzellen."
+   },
+   "merk": "",
+   "img": "img/i32.jpg"
+  },
+  {
+   "id": "V-F1-109-1",
+   "src": "F1-109",
+   "typ": "perspektive",
+   "q": "Aus welcher Arterie entspringen die Aa. gastricae breves?",
+   "o": [
+    "A. gastrica sinistra",
+    "A. hepatica propria",
+    "A. mesenterica superior",
+    "A. splenica",
+    "A. gastroduodenalis"
+   ],
+   "a": "D",
+   "expl": "Die Aa. gastricae breves gehen vom Ende der A. splenica am Milzhilus ab und ziehen im Lig. gastrosplenicum zum Fundus.",
+   "dis": {
+    "A": "Versorgt die kleine Kurvatur.",
+    "B": "Versorgt die Leber.",
+    "C": "Versorgt den Mitteldarm.",
+    "E": "Versorgt Duodenum und Pankreaskopf."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-109-2",
+   "src": "F1-109",
+   "typ": "perspektive",
+   "q": "Welche Arterie versorgt die große Kurvatur des Magens von links?",
+   "o": [
+    "A. gastrica sinistra",
+    "A. gastroomentalis dextra",
+    "A. colica media",
+    "A. gastrica dextra",
+    "A. gastroomentalis sinistra"
+   ],
+   "a": "E",
+   "expl": "Die A. gastroomentalis sinistra aus der A. splenica anastomosiert an der großen Kurvatur mit der A. gastroomentalis dextra aus der A. gastroduodenalis.",
+   "dis": {
+    "A": "Versorgt die kleine Kurvatur.",
+    "B": "Versorgt die große Kurvatur von rechts.",
+    "C": "Versorgt das Colon transversum.",
+    "D": "Versorgt die kleine Kurvatur von rechts."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-110-1",
+   "src": "F1-110",
+   "typ": "klinik",
+   "q": "Warum führt ein Pankreaskopfkarzinom häufig zu schmerzlosem Ikterus mit prall tastbarer Gallenblase (Courvoisier-Zeichen)?",
+   "o": [
+    "Weil es den durch den Pankreaskopf ziehenden Ductus choledochus einengt",
+    "Weil es die Leberzellen zerstört",
+    "Weil es die V. portae verlegt",
+    "Weil es den Ductus cysticus verlegt",
+    "Weil es eine Hämolyse auslöst"
+   ],
+   "a": "A",
+   "expl": "Der distale Ductus choledochus verläuft im Pankreaskopf. Wird er eingeengt, staut sich Galle in Gallenblase und Leber zurück.",
+   "dis": {
+    "B": "Ikterus entsteht hier durch Abflussstau.",
+    "C": "Verursacht keinen Ikterus mit Gallenblasenvergrößerung.",
+    "D": "Dann würde sich die Gallenblase nicht mit Galle füllen, aber kein Ikterus entstehen.",
+    "E": "Der Ikterus ist cholestatisch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-110-2",
+   "src": "F1-110",
+   "typ": "nachbarschaft",
+   "q": "An welcher Wand der Pars descendens duodeni liegt die Papilla duodeni major?",
+   "o": [
+    "An der lateralen Wand",
+    "An der dorsomedialen Wand",
+    "An der ventralen Wand",
+    "Am Bulbus duodeni",
+    "In der Pars horizontalis"
+   ],
+   "a": "B",
+   "expl": "Die Papille liegt an der Wand, die dem Pankreaskopf zugewandt ist. Für die ERCP wird ein Seitblickendoskop verwendet.",
+   "dis": {
+    "A": "Zeigt vom Pankreas weg.",
+    "C": "Liegt hinter der Leber und Gallenblase.",
+    "D": "Liegt höher.",
+    "E": "Liegt tiefer."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-111-1",
+   "src": "F1-111",
+   "typ": "nachbarschaft",
+   "q": "Welche Vene begleitet die A. mesenterica superior, und auf welcher Seite liegt sie?",
+   "o": [
+    "Die V. mesenterica inferior, rechts der Arterie",
+    "Die V. cava inferior, links der Arterie",
+    "Die V. mesenterica superior, rechts der Arterie",
+    "Die V. renalis sinistra, ventral der Arterie",
+    "Die V. splenica, kaudal der Arterie"
+   ],
+   "a": "C",
+   "expl": "In der Radix mesenterii liegt die V. mesenterica superior rechts der Arterie. Bei Malrotation ist diese Lage oft vertauscht.",
+   "dis": {
+    "A": "Sie liegt weiter links.",
+    "B": "Sie liegt rechts dahinter.",
+    "D": "Sie liegt dahinter.",
+    "E": "Sie liegt kranial hinter dem Pankreas."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-111-2",
+   "src": "F1-111",
+   "typ": "perspektive",
+   "q": "In welche Vene münden die Vv. colicae dextra und media?",
+   "o": [
+    "V. cava inferior",
+    "V. renalis",
+    "V. azygos",
+    "V. mesenterica superior",
+    "V. iliaca interna"
+   ],
+   "a": "D",
+   "expl": "Die Venen folgen den Arterien: Was die A. mesenterica superior versorgt, drainiert in die V. mesenterica superior und weiter in die V. portae.",
+   "dis": {
+    "A": "Kolonvenen gehören zum Pfortadersystem.",
+    "B": "Kein Zusammenhang.",
+    "C": "Liegt im Thorax.",
+    "E": "Beckenvene."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-1-1",
+   "src": "F3-1",
+   "typ": "perspektive",
+   "q": "Aus welcher Arterie entspringt die A. gastrica dextra meist?",
+   "o": [
+    "A. splenica",
+    "A. mesenterica superior",
+    "A. colica media",
+    "A. renalis",
+    "A. hepatica propria"
+   ],
+   "a": "E",
+   "expl": "Die A. gastrica dextra entspringt meist aus der A. hepatica propria und anastomosiert an der kleinen Kurvatur mit der A. gastrica sinistra.",
+   "dis": {
+    "A": "Gibt die Aa. gastricae breves ab.",
+    "B": "Versorgt den Mitteldarm.",
+    "C": "Versorgt das Colon transversum.",
+    "D": "Versorgt die Niere."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-1-2",
+   "src": "F3-1",
+   "typ": "klinik",
+   "q": "Ein Ulcus an der Hinterwand der kleinen Kurvatur nahe der Cardia blutet stark. Welche Arterie ist am ehesten arrodiert?",
+   "o": [
+    "A. gastrica sinistra",
+    "A. gastroduodenalis",
+    "A. gastroomentalis dextra",
+    "Aa. gastricae breves",
+    "A. colica media"
+   ],
+   "a": "A",
+   "expl": "Die A. gastrica sinistra ist das stärkste Gefäß der kleinen Kurvatur. Ihre Blutung lässt sich endoskopisch oder durch Embolisation stillen.",
+   "dis": {
+    "B": "Typisch beim Ulcus der Bulbushinterwand.",
+    "C": "Liegt an der großen Kurvatur.",
+    "D": "Versorgen den Fundus.",
+    "E": "Versorgt das Colon transversum."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-2-1",
+   "src": "F3-2",
+   "typ": "klinik",
+   "q": "Welche Gefäße müssen bei einer Splenektomie zwischen Magen und Milz unterbunden werden?",
+   "o": [
+    "A. gastrica dextra",
+    "Aa. und Vv. gastricae breves",
+    "A. colica media",
+    "A. renalis",
+    "A. mesenterica inferior"
+   ],
+   "a": "B",
+   "expl": "Im Lig. gastrosplenicum verlaufen die kurzen Magengefäße. Werden sie nicht sicher versorgt, kann es nachbluten.",
+   "dis": {
+    "A": "Verläuft an der kleinen Kurvatur rechts.",
+    "C": "Verläuft im Mesocolon transversum.",
+    "D": "Verläuft retroperitoneal.",
+    "E": "Verläuft im Unterbauch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-2-2",
+   "src": "F3-2",
+   "typ": "perspektive",
+   "q": "Wohin drainieren die Vv. gastricae breves?",
+   "o": [
+    "In die V. cava inferior",
+    "In die V. renalis",
+    "In die V. splenica",
+    "Direkt in die V. azygos",
+    "In die V. mesenterica superior"
+   ],
+   "a": "C",
+   "expl": "Bei portaler Hypertension können sich die kurzen Magenvenen zu Fundusvarizen erweitern. Bei Milzvenenthrombose entstehen isolierte Fundusvarizen.",
+   "dis": {
+    "A": "Magenvenen gehören zum Pfortadersystem.",
+    "B": "Kein Zusammenhang.",
+    "D": "Nur über Kollateralen bei Pfortaderhochdruck.",
+    "E": "Drainiert den Mitteldarm."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-3-1",
+   "src": "F3-3",
+   "typ": "perspektive",
+   "q": "Welcher Magenabschnitt geht direkt in den Canalis pyloricus über?",
+   "o": [
+    "Fundus gastricus",
+    "Cardia",
+    "Oberes Corpus",
+    "Antrum pyloricum",
+    "Bulbus duodeni"
+   ],
+   "a": "D",
+   "expl": "Die Pars pylorica besteht aus Antrum pyloricum, Canalis pyloricus und dem Pylorus mit Schließmuskel.",
+   "dis": {
+    "A": "Liegt oben links.",
+    "B": "Mageneingang.",
+    "C": "Liegt oberhalb des Antrums.",
+    "E": "Liegt nach dem Pylorus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-3-2",
+   "src": "F3-3",
+   "typ": "perspektive",
+   "q": "In welchen Magenabschnitten liegen die meisten Belegzellen?",
+   "o": [
+    "Im Antrum",
+    "In der Cardia",
+    "Im Pylorus",
+    "Im Duodenum",
+    "In Fundus und Corpus"
+   ],
+   "a": "E",
+   "expl": "Die Hauptdrüsen in Fundus und Corpus enthalten Haupt-, Beleg- und Nebenzellen. Bei einer Atrophie dieser Schleimhaut (Typ-A-Gastritis) fehlt der Intrinsic Factor.",
+   "dis": {
+    "A": "Dort überwiegen G-Zellen.",
+    "B": "Dort liegen überwiegend Schleimdrüsen.",
+    "C": "Dort überwiegen Schleimdrüsen und G-Zellen.",
+    "D": "Gehört nicht zum Magen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-4-1",
+   "src": "F3-4",
+   "typ": "perspektive",
+   "q": "Aus welcher Arterie entspringt die A. gastroomentalis dextra?",
+   "o": [
+    "A. gastroduodenalis",
+    "A. splenica",
+    "A. gastrica sinistra",
+    "A. hepatica propria",
+    "A. mesenterica inferior"
+   ],
+   "a": "A",
+   "expl": "Die A. gastroduodenalis teilt sich hinter dem Pylorus in A. gastroomentalis dextra und A. pancreaticoduodenalis superior anterior.",
+   "dis": {
+    "B": "Gibt die A. gastroomentalis sinistra ab.",
+    "C": "Versorgt die kleine Kurvatur.",
+    "D": "Gibt meist die A. gastrica dextra ab.",
+    "E": "Versorgt den Enddarm."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-4-2",
+   "src": "F3-4",
+   "typ": "perspektive",
+   "q": "Woher erhält das Omentum majus seine Blutversorgung?",
+   "o": [
+    "Aus den Aa. gastricae breves",
+    "Aus Rr. omentales der Aa. gastroomentales",
+    "Aus der A. renalis",
+    "Aus den Aa. sigmoideae",
+    "Aus der A. ileocolica"
+   ],
+   "a": "B",
+   "expl": "Der Gefäßbogen an der großen Kurvatur gibt nach unten lange Äste ins große Netz ab. Daher kann das Omentum als gestielter Lappen in der plastischen Chirurgie verwendet werden.",
+   "dis": {
+    "A": "Versorgen den Fundus.",
+    "C": "Versorgt die Niere.",
+    "D": "Versorgen das Colon sigmoideum.",
+    "E": "Versorgt Ileum-Ende und Caecum."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-5-1",
+   "src": "F3-5",
+   "typ": "perspektive",
+   "q": "Welches Epithel kleidet den Ösophagus aus?",
+   "o": [
+    "Mehrschichtig verhorntes Plattenepithel",
+    "Einschichtig hochprismatisches Epithel",
+    "Mehrschichtig unverhorntes Plattenepithel",
+    "Übergangsepithel",
+    "Mehrreihiges Flimmerepithel"
+   ],
+   "a": "C",
+   "expl": "Das unverhornte Plattenepithel schützt vor mechanischer Belastung. An der Z-Linie geht es abrupt in das einschichtige Zylinderepithel des Magens über.",
+   "dis": {
+    "A": "Typisch für die Haut.",
+    "B": "Typisch für Magen und Darm.",
+    "D": "Typisch für die ableitenden Harnwege.",
+    "E": "Typisch für die Atemwege."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-5-2",
+   "src": "F3-5",
+   "typ": "klinik",
+   "q": "Was versteht man unter einem Barrett-Ösophagus?",
+   "o": [
+    "Erweiterte Venen im Ösophagus",
+    "Eine fehlende Erschlaffung des unteren Sphinkters",
+    "Eine Aussackung der Ösophaguswand",
+    "Eine Zylinderepithelmetaplasie im distalen Ösophagus bei chronischem Reflux",
+    "Eine Pilzinfektion des Ösophagus"
+   ],
+   "a": "D",
+   "expl": "Durch die ständige Säurebelastung wird das Plattenepithel durch intestinales Zylinderepithel ersetzt; die Z-Linie verschiebt sich nach oben. Barrett-Ösophagus ist eine Präkanzerose für das Adenokarzinom.",
+   "dis": {
+    "A": "Das sind Ösophagusvarizen.",
+    "B": "Das ist die Achalasie.",
+    "C": "Das ist ein Divertikel.",
+    "E": "Das ist eine Soorösophagitis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-6-1",
+   "src": "F3-6",
+   "typ": "perspektive",
+   "q": "Aus welcher Arterie entspringt die A. gastroomentalis sinistra?",
+   "o": [
+    "A. gastroduodenalis",
+    "A. gastrica sinistra",
+    "A. colica media",
+    "A. mesenterica superior",
+    "A. splenica"
+   ],
+   "a": "E",
+   "expl": "Die A. gastroomentalis sinistra entspringt nahe dem Milzhilus aus der A. splenica und läuft im Lig. gastrocolicum an der großen Kurvatur nach rechts.",
+   "dis": {
+    "A": "Gibt die A. gastroomentalis dextra ab.",
+    "B": "Versorgt die kleine Kurvatur.",
+    "C": "Versorgt das Colon transversum.",
+    "D": "Versorgt den Mitteldarm."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-6-2",
+   "src": "F3-6",
+   "typ": "perspektive",
+   "q": "Wie heißt die Anastomose zwischen A. colica media und A. colica sinistra?",
+   "o": [
+    "Riolan-Anastomose",
+    "Corona mortis",
+    "Bühler-Anastomose",
+    "Circulus arteriosus cerebri",
+    "Arcus palmaris superficialis"
+   ],
+   "a": "A",
+   "expl": "Die Riolan-Anastomose verbindet die Gebiete der A. mesenterica superior und inferior. Bei Verschluss einer der beiden kann sie die Kolondurchblutung sichern.",
+   "dis": {
+    "B": "Verbindung zwischen A. epigastrica inferior und A. obturatoria.",
+    "C": "Seltene direkte Verbindung zwischen Truncus coeliacus und A. mesenterica superior.",
+    "D": "Gefäßring an der Hirnbasis.",
+    "E": "Gefäßbogen der Hand."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-7-1",
+   "src": "F3-7",
+   "typ": "perspektive",
+   "q": "Welche Organe bilden das „Magenbett“ hinter der Magenhinterwand?",
+   "o": [
+    "Leber und Gallenblase",
+    "Pankreas, linke Niere mit Nebenniere und Milz",
+    "Colon ascendens",
+    "Harnblase",
+    "Jejunum und Ileum"
+   ],
+   "a": "B",
+   "expl": "Hinter dem Magen liegt die Bursa omentalis, dahinter das Magenbett aus Pankreas, linker Niere und Nebenniere, Milz und Mesocolon transversum.",
+   "dis": {
+    "A": "Liegen rechts vorne.",
+    "C": "Liegt rechts im Bauch.",
+    "D": "Liegt im kleinen Becken.",
+    "E": "Liegen infracolisch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-7-2",
+   "src": "F3-7",
+   "typ": "klinik",
+   "q": "In welches Organ dringt ein penetrierendes Ulcus der Magenhinterwand typischerweise ein?",
+   "o": [
+    "Leber",
+    "Herz",
+    "Pankreas",
+    "Lunge",
+    "Harnblase"
+   ],
+   "a": "C",
+   "expl": "Hinter der Bursa omentalis liegt das Pankreas. Ein penetrierendes Hinterwandulcus kann es arrodieren; typisch sind gürtelförmige Schmerzen in den Rücken.",
+   "dis": {
+    "A": "Liegt rechts vorne.",
+    "B": "Liegt oberhalb des Zwerchfells.",
+    "D": "Liegt im Thorax.",
+    "E": "Liegt im kleinen Becken."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-8-1",
+   "src": "F3-8",
+   "typ": "nachbarschaft",
+   "q": "Hinter welchem Organ entspringt die A. mesenterica superior aus der Aorta?",
+   "o": [
+    "Vor dem Magen",
+    "Hinter der Leber",
+    "Im kleinen Becken",
+    "Hinter dem Pankreas",
+    "Hinter der Milz"
+   ],
+   "a": "D",
+   "expl": "Die A. mesenterica superior entspringt in Höhe L1 hinter dem Pankreashals. Sie tritt zwischen Pankreas und Pars horizontalis duodeni nach vorne in die Radix mesenterii.",
+   "dis": {
+    "A": "Sie entspringt retroperitoneal dahinter.",
+    "B": "Dort liegt die V. cava inferior.",
+    "C": "Viel zu tief.",
+    "E": "Zu weit links."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-8-2",
+   "src": "F3-8",
+   "typ": "perspektive",
+   "q": "Welche Arterie ist typischerweise der erste Ast der A. mesenterica superior?",
+   "o": [
+    "A. colica media",
+    "A. ileocolica",
+    "A. colica dextra",
+    "Aa. ileales",
+    "A. pancreaticoduodenalis inferior"
+   ],
+   "a": "E",
+   "expl": "Kurz nach ihrem Ursprung gibt die A. mesenterica superior die A. pancreaticoduodenalis inferior zum Pankreaskopf und Duodenum ab. Danach folgen A. colica media, Aa. jejunales und ileales.",
+   "dis": {
+    "A": "Geht später ab.",
+    "B": "Endast nach rechts unten.",
+    "C": "Geht weiter distal ab.",
+    "D": "Gehen weiter distal ab."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-9-1",
+   "src": "F3-9",
+   "typ": "perspektive",
+   "q": "Welche Schleimhautfalte zieht in der Pars descendens längs zur Papilla duodeni major?",
+   "o": [
+    "Plica longitudinalis duodeni",
+    "Plica circularis",
+    "Plica semilunaris coli",
+    "Plica gastropancreatica",
+    "Plica salpingopharyngea"
+   ],
+   "a": "A",
+   "expl": "Die Plica longitudinalis entsteht durch die intramural verlaufende Pars intraduodenalis des Ductus choledochus. An ihrem unteren Ende liegt die Papille.",
+   "dis": {
+    "B": "Ringfalte, quer verlaufend.",
+    "C": "Falte im Dickdarm.",
+    "D": "Peritonealfalte in der Bursa omentalis.",
+    "E": "Falte im Nasopharynx."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-9-2",
+   "src": "F3-9",
+   "typ": "klinik",
+   "q": "Welche Komplikation ist nach einer ERCP besonders gefürchtet?",
+   "o": [
+    "Ösophagusvarizenblutung",
+    "Post-ERCP-Pankreatitis",
+    "Appendizitis",
+    "Pneumothorax",
+    "Lungenembolie"
+   ],
+   "a": "B",
+   "expl": "Durch Manipulation an der Papille und Kontrastmittel im Pankreasgang kann eine akute Pankreatitis entstehen. Weitere Risiken sind Blutung nach Papillotomie und Perforation.",
+   "dis": {
+    "A": "Folge der portalen Hypertension, keine typische ERCP-Komplikation.",
+    "C": "Kein Zusammenhang.",
+    "D": "Kein Zusammenhang.",
+    "E": "Keine typische Komplikation."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-10-1",
+   "src": "F3-10",
+   "typ": "nachbarschaft",
+   "q": "Welches Band verbindet den Bulbus duodeni mit der Leber?",
+   "o": [
+    "Lig. gastrocolicum",
+    "Lig. teres hepatis",
+    "Lig. hepatoduodenale",
+    "Lig. falciforme hepatis",
+    "Lig. coronarium"
+   ],
+   "a": "C",
+   "expl": "Der Bulbus duodeni hat als einziger Duodenalabschnitt ein Meso: das Lig. hepatoduodenale nach oben und das Omentum majus nach unten. Er liegt deshalb intraperitoneal.",
+   "dis": {
+    "A": "Verbindet Magen und Colon transversum.",
+    "B": "Zieht zum Nabel.",
+    "D": "Verbindet Leber und vordere Bauchwand.",
+    "E": "Verbindet Leber und Zwerchfell."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-10-2",
+   "src": "F3-10",
+   "typ": "klinik",
+   "q": "Welcher Befund ist typisch für ein perforiertes Ulcus an der Vorderwand des Bulbus duodeni?",
+   "o": [
+    "Nur retroperitoneale Luft ohne Peritonitis",
+    "Pneumothorax",
+    "Hämaturie",
+    "Freie Luft unter dem Zwerchfell und Zeichen einer Peritonitis",
+    "Ikterus"
+   ],
+   "a": "D",
+   "expl": "Die Bulbusvorderwand liegt intraperitoneal. Bei Perforation gelangen Luft und Magensaft in die freie Bauchhöhle; es entsteht ein akutes Abdomen.",
+   "dis": {
+    "A": "Typisch für Perforationen retroperitonealer Abschnitte.",
+    "B": "Luft im Pleuraspalt.",
+    "C": "Spricht für Harnwegserkrankungen.",
+    "E": "Spricht für Gallenabflussstörungen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-12-1",
+   "src": "F3-12",
+   "typ": "bild",
+   "q": "Welche Merkmale unterscheiden den mit Pfeilen markierten Darmabschnitt vom Ileum?",
+   "o": [
+    "Zahlreiche Peyer-Plaques",
+    "Mehrere Arkadenreihen mit kurzen Vasa recta",
+    "Tänien und Haustren",
+    "Brunner-Drüsen",
+    "Größerer Durchmesser, dickere Wand, hohe Kerckring-Falten und lange Vasa recta"
+   ],
+   "a": "E",
+   "expl": "Die Pfeile markieren das Jejunum. Es ist kräftiger durchblutet und stärker gefaltet; sein Mesenterium enthält weniger Fett und nur wenige Arkadenreihen.",
+   "dis": {
+    "A": "Typisch für das Ileum.",
+    "B": "Typisch für das Ileum.",
+    "C": "Typisch für den Dickdarm.",
+    "D": "Typisch für das Duodenum."
+   },
+   "merk": "",
+   "img": "img/i33.jpg"
+  },
+  {
+   "id": "V-F3-12-2",
+   "src": "F3-12",
+   "typ": "bild",
+   "q": "In welchem Bereich der Bauchhöhle liegt der mit Pfeilen markierte Darmabschnitt überwiegend?",
+   "o": [
+    "Im linken oberen Bereich der infracolischen Bauchhöhle",
+    "Im rechten Unterbauch",
+    "Im kleinen Becken",
+    "Retroperitoneal rechts",
+    "Hinter dem Magen in der Bursa omentalis"
+   ],
+   "a": "A",
+   "expl": "Die Radix mesenterii zieht von links oben nach rechts unten. Das Jejunum liegt deshalb überwiegend links oben, das Ileum rechts unten und im Becken.",
+   "dis": {
+    "B": "Dort liegt überwiegend das Ileum.",
+    "C": "Dort liegen eher Ileumschlingen.",
+    "D": "Er liegt intraperitoneal.",
+    "E": "Dort liegt kein Dünndarm."
+   },
+   "merk": "",
+   "img": "img/i33.jpg"
+  },
+  {
+   "id": "V-F3-13-1",
+   "src": "F3-13",
+   "typ": "perspektive",
+   "q": "Welche Gefäßanordnung ist typisch für das Mesenterium des Ileums?",
+   "o": [
+    "Eine Arkadenreihe und lange Vasa recta",
+    "Mehrere Arkadenreihen und kurze Vasa recta",
+    "Gar keine Arkaden",
+    "Nur Venen ohne Arterien",
+    "Tänien entlang der Gefäße"
+   ],
+   "a": "B",
+   "expl": "Nach distal nehmen die Arkadenreihen zu und die Vasa recta werden kürzer. Zusammen mit mehr Fett im Mesenterium hilft das bei der intraoperativen Unterscheidung.",
+   "dis": {
+    "A": "Typisch für das Jejunum.",
+    "C": "Arkaden kommen immer vor.",
+    "D": "Unmöglich.",
+    "E": "Tänien gehören zum Dickdarm."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-13-2",
+   "src": "F3-13",
+   "typ": "klinik",
+   "q": "Wo liegt ein Meckel-Divertikel typischerweise?",
+   "o": [
+    "Im Jejunum direkt nach dem Treitz-Band",
+    "Im Colon sigmoideum",
+    "Im Ileum, etwa 60–100 cm vor der Ileozäkalklappe, antimesenterial",
+    "Im Duodenum",
+    "An der Appendix"
+   ],
+   "a": "C",
+   "expl": "Das Meckel-Divertikel ist ein Rest des Ductus omphaloentericus. Es kann ektope Magenschleimhaut enthalten und dann bluten oder eine Appendizitis vortäuschen.",
+   "dis": {
+    "A": "Zu weit proximal.",
+    "B": "Dort liegen erworbene Divertikel.",
+    "D": "Dort kommen andere Divertikel vor.",
+    "E": "Eigenes Organ."
+   },
+   "merk": "Regel der Zwei: 2 % der Menschen, etwa 2 Fuß (60 cm) vor der Klappe, etwa 2 Zoll lang.",
+   "img": null
+  },
+  {
+   "id": "V-F3-14-1",
+   "src": "F3-14",
+   "typ": "perspektive",
+   "q": "Aus welchen Arterien werden Jejunum und Ileum versorgt?",
+   "o": [
+    "Aus der A. mesenterica inferior",
+    "Aus dem Truncus coeliacus",
+    "Aus den Aa. lumbales",
+    "Aa. jejunales und ileales aus der A. mesenterica superior",
+    "Aus der A. renalis"
+   ],
+   "a": "D",
+   "expl": "Die A. mesenterica superior gibt von ihrer linken Seite 15–20 Darmäste ab, die in Arkaden zum Darm ziehen. Der Truncus coeliacus versorgt nur den proximalen Teil des Duodenums.",
+   "dis": {
+    "A": "Versorgt den Enddarm.",
+    "B": "Versorgt den Oberbauch und das proximale Duodenum.",
+    "C": "Versorgen die hintere Bauchwand.",
+    "E": "Versorgt die Niere."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-14-2",
+   "src": "F3-14",
+   "typ": "perspektive",
+   "q": "Welcher Endast der A. mesenterica superior versorgt das terminale Ileum, das Caecum und die Appendix?",
+   "o": [
+    "A. colica media",
+    "A. sigmoidea",
+    "A. rectalis superior",
+    "A. gastroomentalis dextra",
+    "A. ileocolica"
+   ],
+   "a": "E",
+   "expl": "Die A. ileocolica zieht nach rechts unten und gibt Äste an terminales Ileum, Caecum, Colon ascendens und die A. appendicularis ab.",
+   "dis": {
+    "A": "Versorgt das Colon transversum.",
+    "B": "Ast der A. mesenterica inferior.",
+    "C": "Ast der A. mesenterica inferior.",
+    "D": "Versorgt die große Magenkurvatur."
+   },
+   "merk": "",
+   "img": null
+  }
+ ]
+}

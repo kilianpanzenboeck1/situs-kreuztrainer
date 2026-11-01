@@ -1335,6 +1335,52 @@
    },
    "merk": "",
    "img": null
+  },
+  {
+   "id": "V-F1-82-1",
+   "src": "F1-82",
+   "typ": "nachbarschaft",
+   "q": "Welche Kolonflexur liegt höher und ist über ein Band am Zwerchfell fixiert?",
+   "o": [
+    "Flexura coli sinistra",
+    "Flexura coli dextra",
+    "Flexura duodenojejunalis",
+    "Flexura sacralis recti",
+    "Flexura perinealis recti"
+   ],
+   "a": "A",
+   "expl": "Die linke Kolonflexur liegt am Milzunterpol höher als die rechte und ist durch das Lig. phrenicocolicum am Zwerchfell befestigt. Dazwischen hängt das intraperitoneale Colon transversum.",
+   "dis": {
+    "B": "Liegt tiefer unter der Leber.",
+    "C": "Gehört zum Dünndarm.",
+    "D": "Liegt im kleinen Becken.",
+    "E": "Liegt am Beckenboden."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-82-2",
+   "src": "F1-82",
+   "typ": "klinik",
+   "q": "Welcher Dickdarmabschnitt ist wegen seines langen Mesos besonders anfällig für einen Volvulus?",
+   "o": [
+    "Colon ascendens",
+    "Colon sigmoideum",
+    "Colon descendens",
+    "Unteres Rektumdrittel",
+    "Canalis analis"
+   ],
+   "a": "B",
+   "expl": "Das Colon sigmoideum hängt an einem langen Mesocolon sigmoideum mit schmaler Basis. Es kann sich um diese Achse drehen und die Blutversorgung abschnüren (Sigmavolvulus).",
+   "dis": {
+    "A": "Sekundär retroperitoneal fixiert.",
+    "C": "Sekundär retroperitoneal fixiert.",
+    "D": "Extraperitoneal, fixiert.",
+    "E": "Im Beckenboden fixiert."
+   },
+   "merk": "",
+   "img": null
   }
  ]
 }
