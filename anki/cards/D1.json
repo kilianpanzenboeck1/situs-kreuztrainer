@@ -1,170 +1,1110 @@
-{"chapter": "D1", "status": "draft", "cards": [
-{"id": "V-SD1-1-1", "src": "SD1-1", "typ": "umkehrung",
- "q": "Der M. trapezius ist ein oberflächlicher Muskel des Schultergürtels. Welche Struktur dient ihm als Ansatz?",
- "o": ["Angulus inferior scapulae", "Spina scapulae", "Proc. coracoideus", "Tuberculum majus humeri", "Margo medialis scapulae"],
- "a": "B",
- "expl": "Der M. trapezius setzt am lateralen Drittel der Clavicula, am Acromion und an der Spina scapulae an. Er entspringt an der Protuberantia occipitalis externa, der Linea nuchalis superior, dem Lig. nuchae und den Procc. spinosi von C7 bis Th12.",
- "dis": {"A": "Ansatz der Pars inferior des M. serratus anterior.", "C": "Ansatz des M. pectoralis minor; Ursprung von M. coracobrachialis und Caput breve des M. biceps brachii.", "D": "Ansatz von M. supraspinatus, M. infraspinatus und M. teres minor.", "E": "Ansatz der Mm. rhomboidei (und des M. serratus anterior)."},
- "merk": "Trapezius-Ansatz = Schulterhöhe von vorne nach hinten: Clavicula → Acromion → Spina scapulae.", "img": null},
-{"id": "V-SD1-1-2", "src": "SD1-1", "typ": "klinik",
- "q": "Nach einer Lymphknotenexstirpation im seitlichen Halsdreieck kann ein Patient die Schulter gegen Widerstand nur noch schwach heben, das Schulterblatt steht tiefer. Welcher Nerv wurde am ehesten verletzt?",
- "o": ["N. dorsalis scapulae", "N. thoracicus longus", "N. suprascapularis", "N. accessorius", "N. phrenicus"],
- "a": "D",
- "expl": "Der N. accessorius (XI) zieht oberflächlich durch das seitliche Halsdreieck zum M. trapezius und ist dort bei Eingriffen gefährdet. Der Ausfall des M. trapezius führt zu Schultertiefstand und schwacher Elevation der Schulter. Zusätzlich erhält der Muskel Fasern aus dem Plexus cervicalis (C3/C4).",
- "dis": {"A": "Innerviert Mm. rhomboidei und M. levator scapulae.", "B": "Innerviert den M. serratus anterior; Ausfall → Scapula alata.", "C": "Innerviert M. supraspinatus und M. infraspinatus.", "E": "Innerviert das Zwerchfell; kein Einfluss auf die Schulter."},
- "merk": "", "img": null},
-{"id": "V-SD1-2-1", "src": "SD1-2", "typ": "umkehrung",
- "q": "Welches Dermatom versorgt die Haut der ventralen Rumpfwand in Höhe des Bauchnabels?",
- "o": ["Th4", "Th6", "Th8", "L1", "Th10"],
- "a": "E",
- "expl": "Der Bauchnabel liegt im Dermatom Th10. Weitere Orientierungspunkte: Brustwarze Th4, Proc. xiphoideus Th6, Leistenband L1.",
- "dis": {"A": "Th4 liegt in Höhe der Brustwarzen.", "B": "Th6 liegt in Höhe des Proc. xiphoideus.", "C": "Th8 liegt etwa in Höhe des Rippenbogens, oberhalb des Nabels.", "D": "L1 liegt in Höhe des Leistenbands."},
- "merk": "Th4 – Brustwarze, Th6 – Schwertfortsatz, Th10 – Nabel, L1 – Leiste.", "img": null},
-{"id": "V-SD1-2-2", "src": "SD1-2", "typ": "klinik",
- "q": "Ein Patient mit Herpes zoster zeigt einen gürtelförmigen Bläschenausschlag, der ventral genau in Höhe der Brustwarzen verläuft. Welches Rückenmarkssegment bzw. Spinalganglion ist betroffen?",
- "o": ["C4", "Th1", "Th4", "Th6", "Th10"],
- "a": "C",
- "expl": "Das Varizella-Zoster-Virus reaktiviert sich in einem Spinalganglion und befällt das zugehörige Dermatom. Ein Band in Höhe der Mamillen entspricht dem Dermatom Th4.",
- "dis": {"A": "C4 versorgt die Haut über Clavicula und Schulterhöhe.", "B": "Th1 versorgt die ulnare Seite von Unterarm und Oberarm.", "D": "Th6 liegt in Höhe des Proc. xiphoideus.", "E": "Th10 liegt in Höhe des Bauchnabels."},
- "merk": "", "img": null},
-{"id": "V-SD1-3-1", "src": "SD1-3", "typ": "umkehrung",
- "q": "Welcher Muskel ist der kräftigste Beuger im Hüftgelenk (Articulatio coxae)?",
- "o": ["M. iliopsoas", "M. sartorius", "M. gluteus maximus", "M. psoas minor", "M. pectineus"],
- "a": "A",
- "expl": "Der M. iliopsoas (M. psoas major und M. iliacus) setzt am Trochanter minor an und ist der stärkste Hüftbeuger. Innerviert wird er von Rr. musculares des Plexus lumbalis und vom N. femoralis.",
- "dis": {"B": "Beugt im Hüftgelenk mit, ist aber ein schwacher Hüftbeuger.", "C": "Kräftigster Strecker (Extensor) im Hüftgelenk.", "D": "Setzt nicht am Femur an und wirkt daher nicht auf das Hüftgelenk.", "E": "Hilft bei der Beugung und Adduktion, ist aber deutlich schwächer."},
- "merk": "", "img": null},
-{"id": "V-SD1-3-2", "src": "SD1-3", "typ": "perspektive",
- "q": "Welche Aussage zum M. psoas minor trifft zu?",
- "o": ["Er ist bei allen Menschen beidseitig angelegt.", "Er setzt gemeinsam mit dem M. iliacus am Trochanter minor an.", "Er ist der stärkste Beuger im Hüftgelenk.", "Er wird vom N. obturatorius innerviert.", "Er strahlt in die Fascia iliaca bzw. den Arcus iliopectineus ein."],
- "a": "E",
- "expl": "Der M. psoas minor ist inkonstant und fehlt bei etwa der Hälfte der Menschen. Er entspringt an Th12/L1 und strahlt in die Fascia iliaca und den Arcus iliopectineus ein. Weil er nicht am Femur ansetzt, kann er das Hüftgelenk nicht beugen.",
- "dis": {"A": "Er ist inkonstant und fehlt häufig.", "B": "Am Trochanter minor setzen M. psoas major und M. iliacus an.", "C": "Das ist der M. iliopsoas.", "D": "Er wird von Rr. musculares des Plexus lumbalis innerviert."},
- "merk": "", "img": null},
-{"id": "V-SD1-4-1", "src": "SD1-4", "typ": "umkehrung",
- "q": "Der Anulus inguinalis profundus ist die innere Bruchpforte welcher Hernie?",
- "o": ["Hernia inguinalis medialis (direkte Leistenhernie)", "Hernia inguinalis lateralis (indirekte Leistenhernie)", "Hernia femoralis", "Hernia obturatoria", "Hernia umbilicalis"],
- "a": "B",
- "expl": "Die indirekte (laterale) Leistenhernie tritt in der Fossa inguinalis lateralis durch den Anulus inguinalis profundus ein. Sie zieht durch den gesamten Leistenkanal und verlässt ihn am Anulus inguinalis superficialis.",
- "dis": {"A": "Tritt im Hesselbach-Dreieck (Fossa inguinalis medialis) direkt durch die Bauchwand.", "C": "Bruchpforte ist der Anulus femoralis unterhalb des Lig. inguinale.", "D": "Bruchpforte ist der Canalis obturatorius.", "E": "Bruchpforte ist der Anulus umbilicalis."},
- "merk": "", "img": null},
-{"id": "V-SD1-4-2", "src": "SD1-4", "typ": "nachbarschaft",
- "q": "Der Anulus inguinalis profundus liegt",
- "o": ["medial der Vasa epigastrica inferiora", "in der Fossa inguinalis medialis", "lateral der Vasa epigastrica inferiora", "kaudal des Lig. inguinale", "in der Fossa supravesicalis"],
- "a": "C",
- "expl": "Der innere Leistenring ist eine Ausstülpung der Fascia transversalis in der Fossa inguinalis lateralis. Er liegt lateral der Vasa epigastrica inferiora (Plica umbilicalis lateralis) und oberhalb der Mitte des Lig. inguinale.",
- "dis": {"A": "Medial der Gefäße liegt das Hesselbach-Dreieck (direkte Hernie).", "B": "Die Fossa inguinalis medialis ist die Eintrittsstelle der direkten Hernie.", "D": "Kaudal des Leistenbands liegen Lacuna musculorum und Lacuna vasorum.", "E": "Sie liegt zwischen Plica umbilicalis mediana und Plica umbilicalis medialis."},
- "merk": "Laterale Hernie = lateral der Vasa epigastrica inferiora.", "img": null},
-{"id": "V-SD1-5-1", "src": "SD1-5", "typ": "bild",
- "q": "Die Abbildung zeigt schematisch ein Rückenmarkssegment mit Spinalnerv und Grenzstrang. Welche Aussage zu der mit A markierten Struktur trifft zu?",
- "o": ["Sie enthält die Perikaryen der sensiblen Neurone.", "Sie ist die Radix posterior.", "Sie führt postganglionäre sympathische Fasern.", "Sie führt efferente Fasern aus dem Vorder- und Seitenhorn.", "Sie zieht direkt zum Grenzstrangganglion."],
- "a": "D",
- "expl": "A ist die Radix anterior (ventralis). Sie führt efferente Fasern: somatomotorische Fasern aus dem Vorderhorn (grün) und präganglionäre sympathische Fasern aus dem Seitenhorn (blau). Sie vereinigt sich mit der Radix posterior zum Spinalnerv.",
- "dis": {"A": "Die sensiblen Perikaryen liegen im Ganglion spinale der Hinterwurzel.", "B": "Die Radix posterior führt afferente Fasern (rot) und trägt das Spinalganglion.", "C": "Postganglionäre Fasern entstehen erst im Grenzstrangganglion.", "E": "Zum Grenzstrang ziehen die Fasern erst nach dem Spinalnerv über den R. communicans albus."},
- "merk": "", "img": "img/i127.jpg"},
-{"id": "V-SD1-5-2", "src": "SD1-5", "typ": "bild",
- "q": "In welcher Struktur liegt das Perikaryon der in der Abbildung rot dargestellten Nervenfaser?",
- "o": ["Hinterhorn des Rückenmarks", "Ganglion spinale", "Vorderhorn des Rückenmarks", "Ganglion trunci sympathici", "Seitenhorn des Rückenmarks"],
- "a": "B",
- "expl": "Die rote Faser ist afferent (sensibel). Ihr pseudounipolares Perikaryon liegt im Ganglion spinale an der Hinterwurzel. Der zentrale Fortsatz zieht über die Radix posterior ins Hinterhorn.",
- "dis": {"A": "Im Hinterhorn endet bzw. verschaltet der zentrale Fortsatz, das Perikaryon liegt dort nicht.", "C": "Hier liegen die Perikaryen der somatomotorischen Neurone (grün).", "D": "Hier liegen die Perikaryen der postganglionären sympathischen Neurone.", "E": "Hier liegen die Perikaryen der präganglionären sympathischen Neurone (Th1–L2)."},
- "merk": "", "img": "img/i127.jpg"},
-{"id": "V-SD1-6-1", "src": "SD1-6", "typ": "perspektive",
- "q": "Der M. multifidus gehört zur autochthonen Rückenmuskulatur. Welche Aussage trifft zu?",
- "o": ["Er gehört zum lateralen Trakt.", "Er wird von den Rr. ventrales der Spinalnerven innerviert.", "Er ist im Brustbereich am kräftigsten ausgebildet.", "Er überspringt typischerweise sechs oder mehr Wirbel.", "Er wird von den Rr. dorsales der Spinalnerven innerviert."],
- "a": "E",
- "expl": "Der M. multifidus gehört zum transversospinalen System des medialen Trakts. Er zieht von den Procc. transversi bzw. dem Os sacrum zu den Procc. spinosi, überspringt 2–4 Wirbel und ist lumbal am kräftigsten. Wie die gesamte autochthone Rückenmuskulatur wird er von Rr. dorsales innerviert.",
- "dis": {"A": "Er gehört zum medialen Trakt (transversospinales System).", "B": "Rr. ventrales versorgen die eingewanderte (nicht autochthone) Muskulatur.", "C": "Er ist im Lendenbereich am kräftigsten.", "D": "Das trifft auf den M. semispinalis zu (≥ 5 Wirbel)."},
- "merk": "", "img": null},
-{"id": "V-SD1-6-2", "src": "SD1-6", "typ": "umkehrung",
- "q": "Welcher Muskel des transversospinalen Systems überspringt 2–4 Wirbel und ist im Lendenbereich am kräftigsten ausgebildet?",
- "o": ["Mm. rotatores breves", "Mm. rotatores longi", "M. semispinalis", "M. multifidus", "M. spinalis"],
- "a": "D",
- "expl": "Das transversospinale System ist nach der Zahl der übersprungenen Wirbel geordnet: Mm. rotatores breves (0), Mm. rotatores longi (1), M. multifidus (2–4) und M. semispinalis (≥ 5). Der M. multifidus ist lumbal am kräftigsten.",
- "dis": {"A": "Ziehen zum nächsthöheren Wirbel, überspringen keinen.", "B": "Überspringen einen Wirbel.", "C": "Überspringt fünf oder mehr Wirbel und fehlt lumbal.", "E": "Gehört zum spinalen System (Proc. spinosus zu Proc. spinosus)."},
- "merk": "Rotatores breves 0, Rotatores longi 1, Multifidus 2–4, Semispinalis ≥ 5.", "img": null},
-{"id": "V-SD1-7-1", "src": "SD1-7", "typ": "umkehrung",
- "q": "Aus wie vielen präsakralen Wirbeln besteht die Wirbelsäule im Regelfall?",
- "o": ["20", "22", "26", "24", "33"],
- "a": "D",
- "expl": "Präsakral liegen 7 Hals-, 12 Brust- und 5 Lendenwirbel, also 24 Wirbel. Dazu kommen das Os sacrum (5 verschmolzene Wirbel) und das Os coccygis (3–5 Wirbel).",
- "dis": {"A": "Zu wenig; diese Zahl war im Original die falsche Aussage.", "B": "Zu wenig.", "C": "Zu viele; Abweichungen kommen nur als Variante vor (z. B. Lumbalisation von S1 → 25).", "E": "Entspricht ungefähr der Gesamtzahl aller Wirbelanlagen inklusive Kreuz- und Steißbein."},
- "merk": "7 – 12 – 5 = 24 präsakral.", "img": null},
-{"id": "V-SD1-7-2", "src": "SD1-7", "typ": "perspektive",
- "q": "Welche Aussage zur Wirbelsäule trifft zu?",
- "o": ["Die Halswirbelsäule zeigt physiologisch eine kyphotische Krümmung.", "Der Dens axis artikuliert vorne mit dem Arcus anterior atlantis und hinten mit dem Lig. transversum atlantis.", "Die Dornfortsätze der Brustwirbel verlaufen horizontal.", "Der Atlas besitzt einen kräftigen Wirbelkörper.", "Den Halswirbeln fehlt ein Foramen transversarium."],
- "a": "B",
- "expl": "Der Dens axis hat eine vordere Gelenkfläche (zum Arcus anterior atlantis) und eine hintere (zum Lig. transversum atlantis), zusammen die Articulatio atlantoaxialis mediana. Hals- und Lendenwirbelsäule sind lordotisch, die Brustwirbelsäule ist kyphotisch.",
- "dis": {"A": "Die Halswirbelsäule ist lordotisch.", "C": "Brustwirbel-Dornfortsätze stehen dachziegelartig nach kaudal; horizontal sind sie lumbal.", "D": "Der Atlas hat keinen Wirbelkörper, er wurde zum Dens axis.", "E": "Das Foramen transversarium ist das Kennzeichen der Halswirbel."},
- "merk": "", "img": null},
-{"id": "V-SD1-8-1", "src": "SD1-8", "typ": "umkehrung",
- "q": "Welcher Muskel setzt an der Crista tuberculi minoris des Humerus an?",
- "o": ["M. pectoralis major", "M. teres minor", "M. teres major", "M. subscapularis", "M. deltoideus"],
- "a": "C",
- "expl": "An der Crista tuberculi minoris setzen der M. teres major und der M. latissimus dorsi an. Der M. pectoralis major setzt gegenüber an der Crista tuberculi majoris an.",
- "dis": {"A": "Setzt an der Crista tuberculi majoris an.", "B": "Setzt am Tuberculum majus an.", "D": "Setzt am Tuberculum minus an, nicht an der Crista.", "E": "Setzt an der Tuberositas deltoidea an."},
- "merk": "„Major an Minor“: Teres major und Latissimus an der Crista tuberculi minoris; Pectoralis major an der Crista tuberculi majoris.", "img": null},
-{"id": "V-SD1-8-2", "src": "SD1-8", "typ": "perspektive",
- "q": "Der M. latissimus dorsi setzt an der Crista tuberculi minoris an. Welche Funktion hat er im Schultergelenk?",
- "o": ["Abduktion und Außenrotation", "Anteversion und Außenrotation", "Elevation der Scapula", "Adduktion, Innenrotation und Retroversion", "Abduktion über 90°"],
- "a": "D",
- "expl": "Der M. latissimus dorsi adduziert, rotiert nach innen und retrovertiert den Arm (z. B. beim Klimmzug oder Schwimmzug). Innerviert wird er vom N. thoracodorsalis (Plexus brachialis).",
- "dis": {"A": "Abduktion: M. deltoideus, M. supraspinatus; Außenrotation: M. infraspinatus, M. teres minor.", "B": "Anteversion: Pars clavicularis des M. deltoideus, M. pectoralis major.", "C": "Elevation der Scapula: M. trapezius (Pars descendens), M. levator scapulae.", "E": "Elevation über 90° erfordert Drehung der Scapula durch M. trapezius und M. serratus anterior."},
- "merk": "", "img": null},
-{"id": "V-SD1-9-1", "src": "SD1-9", "typ": "klinik",
- "q": "Nach einer fehlerhaften intraglutealen Injektion sinkt beim Einbeinstand auf der betroffenen Seite das Becken zur gesunden Seite ab. Welcher Nerv wurde geschädigt?",
- "o": ["N. gluteus inferior", "N. ischiadicus", "N. gluteus superior", "N. pudendus", "N. cutaneus femoris posterior"],
- "a": "C",
- "expl": "Der N. gluteus superior innerviert M. gluteus medius, M. gluteus minimus und M. tensor fasciae latae. Fallen die kleinen Glutealmuskeln aus, kann das Becken beim Stand auf dem kranken Bein nicht gehalten werden (positives Trendelenburg-Zeichen).",
- "dis": {"A": "Innerviert den M. gluteus maximus; Ausfall → Schwäche der Hüftstreckung (Treppensteigen, Aufstehen).", "B": "Ausfall → Lähmung der ischiokruralen Muskulatur und aller Unterschenkel- und Fußmuskeln.", "D": "Ausfall → Sensibilitätsstörung am Perineum und Sphinkterschwäche.", "E": "Rein sensibel (Haut an der Oberschenkelrückseite)."},
- "merk": "", "img": null},
-{"id": "V-SD1-9-2", "src": "SD1-9", "typ": "umkehrung",
- "q": "In welchen Muskel erfolgt die ventrogluteale Injektion nach von Hochstetter?",
- "o": ["M. gluteus maximus", "M. gluteus medius", "M. piriformis", "M. tensor fasciae latae", "M. quadratus femoris"],
- "a": "B",
- "expl": "Bei der ventroglutealen Injektion nach von Hochstetter wird in den M. gluteus medius (und minimus) injiziert, im Dreieck zwischen Spina iliaca anterior superior, Crista iliaca und Trochanter major. So bleibt man fern von N. ischiadicus und N. gluteus superior.",
- "dis": {"A": "Im M. gluteus maximus verläuft darunter der N. ischiadicus; das war im Original die falsche Aussage.", "C": "Liegt tief und ist von großen Nerven umgeben (Foramen supra- und infrapiriforme).", "D": "Liegt ventral, wird bei dieser Technik aber nicht angezielt.", "E": "Kleiner, tief gelegener Außenrotator nahe dem N. ischiadicus."},
- "merk": "", "img": null},
-{"id": "V-SD1-10-1", "src": "SD1-10", "typ": "perspektive",
- "q": "Beim Stehen auf einem Bein muss das Becken horizontal gehalten werden. Welche Muskeln verhindern vor allem, dass es zur Spielbeinseite absinkt?",
- "o": ["M. gluteus medius und minimus der Standbeinseite", "M. gluteus medius und minimus der Spielbeinseite", "M. gluteus maximus der Standbeinseite", "Mm. adductores der Spielbeinseite", "M. iliopsoas der Standbeinseite"],
- "a": "A",
- "expl": "Die kleinen Glutealmuskeln des Standbeins abduzieren im Hüftgelenk und halten so das Becken auf der Gegenseite oben. Fallen sie aus (N. gluteus superior), sinkt das Becken zur Spielbeinseite ab (Trendelenburg-Zeichen). Ein aktives Anheben des Beckens auf der Spielbeinseite gelingt zusätzlich mit dem M. quadratus lumborum dieser Seite.",
- "dis": {"B": "Auf der Spielbeinseite haben sie keinen Fixpunkt am Boden und halten das Becken nicht.", "C": "Der M. gluteus maximus streckt vor allem im Hüftgelenk.", "D": "Die Adduktoren der Spielbeinseite bewegen das freie Bein.", "E": "Beugt im Hüftgelenk, stabilisiert das Becken nicht in der Frontalebene."},
- "merk": "", "img": null},
-{"id": "V-SD1-10-2", "src": "SD1-10", "typ": "perspektive",
- "q": "Welche Aussage zum M. quadratus lumborum trifft zu?",
- "o": ["Er wird von den Rr. dorsales der Spinalnerven innerviert.", "Er gehört zur autochthonen Rückenmuskulatur.", "Er entspringt an der Crista iliaca und setzt an der 12. Rippe und den Procc. costales L1–L4 an.", "Er senkt bei einseitiger Kontraktion das Becken auf der gleichen Seite.", "Er liegt ventral des M. psoas major."],
- "a": "C",
- "expl": "Der M. quadratus lumborum gehört zur hinteren Bauchwand. Er zieht von der Crista iliaca (und dem Lig. iliolumbale) zur 12. Rippe und zu den Procc. costales L1–L4. Einseitig neigt er den Rumpf zur Seite bzw. hebt das Becken auf derselben Seite. Innerviert wird er von Rr. ventrales Th12–L3 (N. subcostalis, Plexus lumbalis).",
- "dis": {"A": "Innervation aus Rr. ventrales (Th12–L3).", "B": "Er gehört zur Bauchwandmuskulatur (hintere Bauchwand).", "D": "Er hebt das Becken auf der gleichen Seite.", "E": "Er liegt lateral bzw. dorsal des M. psoas major."},
- "merk": "", "img": null},
-{"id": "V-SD1-11-1", "src": "SD1-11", "typ": "bild",
- "q": "Der in der Abbildung mit 21 markierte Muskel verlässt das kleine Becken durch",
- "o": ["das Foramen ischiadicum majus (Foramen infrapiriforme)", "den Canalis obturatorius", "die Lacuna musculorum", "den Hiatus sacralis", "das Foramen ischiadicum minus"],
- "a": "E",
- "expl": "Nr. 21 ist der M. obturatorius internus. Er entspringt an der Innenfläche der Membrana obturatoria, zieht um die Incisura ischiadica minor durch das Foramen ischiadicum minus und setzt in der Fossa trochanterica an. Er ist ein Außenrotator im Hüftgelenk.",
- "dis": {"A": "Durch das Foramen infrapiriforme ziehen N. ischiadicus, N. gluteus inferior, N. pudendus und die Vasa pudenda interna.", "B": "Durch den Canalis obturatorius ziehen N. und Vasa obturatoria.", "C": "Durch die Lacuna musculorum ziehen M. iliopsoas und N. femoralis.", "D": "Der Hiatus sacralis ist der untere Ausgang des Sakralkanals."},
- "merk": "", "img": "img/i129.jpg"},
-{"id": "V-SD1-11-2", "src": "SD1-11", "typ": "perspektive",
- "q": "Welche Aussage zum M. obturatorius internus trifft zu?",
- "o": ["Er wird vom N. obturatorius innerviert.", "Seine Faszie bildet die laterale Wand der Fossa ischioanalis und enthält den Canalis pudendalis.", "Er ist ein kräftiger Innenrotator im Hüftgelenk.", "Er setzt am Trochanter minor an.", "Er entspringt an der Außenfläche der Membrana obturatoria."],
- "a": "B",
- "expl": "Die Fascia obturatoria bedeckt den Muskel im kleinen Becken. Unterhalb des Ursprungs des M. levator ani bildet sie die laterale Wand der Fossa ischioanalis. In einer Duplikatur liegt der Alcock-Kanal mit N. pudendus und Vasa pudenda interna.",
- "dis": {"A": "Innervation durch den N. musculi obturatorii interni aus dem Plexus sacralis.", "C": "Er ist ein Außenrotator.", "D": "Er setzt in der Fossa trochanterica an.", "E": "Von der Außenfläche entspringt der M. obturatorius externus."},
- "merk": "", "img": null},
-{"id": "V-SD1-12-1", "src": "SD1-12", "typ": "bild",
- "q": "Aus welchem Gefäß entspringt die Arterie der in der Abbildung mit 3 markierten Gefäßstraße?",
- "o": ["A. iliaca interna", "A. femoralis", "A. thoracica interna", "A. iliaca externa", "A. obturatoria"],
- "a": "D",
- "expl": "Nr. 3 sind A. und V. epigastrica inferior. Die Arterie entspringt aus der A. iliaca externa kurz vor dem Lig. inguinale. Sie zieht in der hinteren Rektusscheide nach kranial und anastomosiert mit der A. epigastrica superior aus der A. thoracica interna.",
- "dis": {"A": "Aus der A. iliaca interna entspringen u. a. A. obturatoria und A. umbilicalis.", "B": "Aus der A. femoralis entspringt die A. epigastrica superficialis.", "C": "Aus ihr stammt die A. epigastrica superior (Anastomosepartner).", "E": "Die A. obturatoria ist oft über einen R. pubicus mit der A. epigastrica inferior verbunden, aber nicht ihr Ursprung."},
- "merk": "", "img": "img/i130.jpg"},
-{"id": "V-SD1-12-2", "src": "SD1-12", "typ": "bild",
- "q": "Die in der Abbildung mit 3 markierten Gefäße werfen am Peritoneum parietale eine Falte auf. Welche Aussage trifft zu?",
- "o": ["Sie bilden die Plica umbilicalis medialis.", "Medial von ihnen liegt die innere Bruchpforte der indirekten Leistenhernie.", "Sie verlaufen kaudal des Lig. inguinale.", "Sie bilden die Plica umbilicalis lateralis; lateral davon liegt die Fossa inguinalis lateralis.", "Sie anastomosieren am Nabel mit der A. testicularis."],
- "a": "D",
- "expl": "Die Vasa epigastrica inferiora bilden die Plica umbilicalis lateralis. Sie ist die Grenze zwischen Fossa inguinalis lateralis (indirekte Hernie) und Fossa inguinalis medialis (direkte Hernie).",
- "dis": {"A": "Die Plica umbilicalis medialis enthält die obliterierte A. umbilicalis.", "B": "Die innere Bruchpforte der indirekten Hernie liegt lateral der Gefäße.", "C": "Sie verlaufen oberhalb des Leistenbands in der vorderen Bauchwand.", "E": "Sie anastomosieren mit der A. epigastrica superior."},
- "merk": "Plicae von medial nach lateral: mediana (Urachus) – medialis (A. umbilicalis) – lateralis (Vasa epigastrica inferiora).", "img": "img/i130.jpg"}
-]}
+{
+ "chapter": "D1",
+ "status": "review",
+ "cards": [
+  {
+   "id": "V-SD1-1-1",
+   "src": "SD1-1",
+   "typ": "umkehrung",
+   "q": "Der M. trapezius ist ein oberflächlicher Muskel des Schultergürtels. Welche Struktur dient ihm als Ansatz?",
+   "o": [
+    "Angulus inferior scapulae",
+    "Spina scapulae",
+    "Proc. coracoideus",
+    "Tuberculum majus humeri",
+    "Margo medialis scapulae"
+   ],
+   "a": "B",
+   "expl": "Der M. trapezius setzt am lateralen Drittel der Clavicula, am Acromion und an der Spina scapulae an. Er entspringt an der Protuberantia occipitalis externa, der Linea nuchalis superior, dem Lig. nuchae und den Procc. spinosi von C7 bis Th12.",
+   "dis": {
+    "A": "Ansatz der Pars inferior des M. serratus anterior.",
+    "C": "Ansatz des M. pectoralis minor; Ursprung von M. coracobrachialis und Caput breve des M. biceps brachii.",
+    "D": "Ansatz von M. supraspinatus, M. infraspinatus und M. teres minor.",
+    "E": "Ansatz der Mm. rhomboidei (und des M. serratus anterior)."
+   },
+   "merk": "Trapezius-Ansatz = Schulterhöhe von vorne nach hinten: Clavicula → Acromion → Spina scapulae.",
+   "img": null
+  },
+  {
+   "id": "V-SD1-1-2",
+   "src": "SD1-1",
+   "typ": "klinik",
+   "q": "Nach einer Lymphknotenexstirpation im seitlichen Halsdreieck kann ein Patient die Schulter gegen Widerstand nur noch schwach heben, das Schulterblatt steht tiefer. Welcher Nerv wurde am ehesten verletzt?",
+   "o": [
+    "N. dorsalis scapulae",
+    "N. thoracicus longus",
+    "N. suprascapularis",
+    "N. accessorius",
+    "N. phrenicus"
+   ],
+   "a": "D",
+   "expl": "Der N. accessorius (XI) zieht oberflächlich durch das seitliche Halsdreieck zum M. trapezius und ist dort bei Eingriffen gefährdet. Der Ausfall des M. trapezius führt zu Schultertiefstand und schwacher Elevation der Schulter. Zusätzlich erhält der Muskel Fasern aus dem Plexus cervicalis (C3/C4).",
+   "dis": {
+    "A": "Innerviert Mm. rhomboidei und M. levator scapulae.",
+    "B": "Innerviert den M. serratus anterior; Ausfall → Scapula alata.",
+    "C": "Innerviert M. supraspinatus und M. infraspinatus.",
+    "E": "Innerviert das Zwerchfell; kein Einfluss auf die Schulter."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD1-2-1",
+   "src": "SD1-2",
+   "typ": "umkehrung",
+   "q": "Welches Dermatom versorgt die Haut der ventralen Rumpfwand in Höhe des Bauchnabels?",
+   "o": [
+    "Th4",
+    "Th6",
+    "Th8",
+    "L1",
+    "Th10"
+   ],
+   "a": "E",
+   "expl": "Der Bauchnabel liegt im Dermatom Th10. Weitere Orientierungspunkte: Brustwarze Th4, Proc. xiphoideus Th6, Leistenband L1.",
+   "dis": {
+    "A": "Th4 liegt in Höhe der Brustwarzen.",
+    "B": "Th6 liegt in Höhe des Proc. xiphoideus.",
+    "C": "Th8 liegt etwa in Höhe des Rippenbogens, oberhalb des Nabels.",
+    "D": "L1 liegt in Höhe des Leistenbands."
+   },
+   "merk": "Th4 – Brustwarze, Th6 – Schwertfortsatz, Th10 – Nabel, L1 – Leiste.",
+   "img": null
+  },
+  {
+   "id": "V-SD1-2-2",
+   "src": "SD1-2",
+   "typ": "klinik",
+   "q": "Ein Patient mit Herpes zoster zeigt einen gürtelförmigen Bläschenausschlag, der ventral genau in Höhe der Brustwarzen verläuft. Welches Rückenmarkssegment bzw. Spinalganglion ist betroffen?",
+   "o": [
+    "C4",
+    "Th1",
+    "Th4",
+    "Th6",
+    "Th10"
+   ],
+   "a": "C",
+   "expl": "Das Varizella-Zoster-Virus reaktiviert sich in einem Spinalganglion und befällt das zugehörige Dermatom. Ein Band in Höhe der Mamillen entspricht dem Dermatom Th4.",
+   "dis": {
+    "A": "C4 versorgt die Haut über Clavicula und Schulterhöhe.",
+    "B": "Th1 versorgt die ulnare Seite von Unterarm und Oberarm.",
+    "D": "Th6 liegt in Höhe des Proc. xiphoideus.",
+    "E": "Th10 liegt in Höhe des Bauchnabels."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD1-3-1",
+   "src": "SD1-3",
+   "typ": "umkehrung",
+   "q": "Welcher Muskel ist der kräftigste Beuger im Hüftgelenk (Articulatio coxae)?",
+   "o": [
+    "M. iliopsoas",
+    "M. sartorius",
+    "M. gluteus maximus",
+    "M. psoas minor",
+    "M. pectineus"
+   ],
+   "a": "A",
+   "expl": "Der M. iliopsoas (M. psoas major und M. iliacus) setzt am Trochanter minor an und ist der stärkste Hüftbeuger. Innerviert wird er von Rr. musculares des Plexus lumbalis und vom N. femoralis.",
+   "dis": {
+    "B": "Beugt im Hüftgelenk mit, ist aber ein schwacher Hüftbeuger.",
+    "C": "Kräftigster Strecker (Extensor) im Hüftgelenk.",
+    "D": "Setzt nicht am Femur an und wirkt daher nicht auf das Hüftgelenk.",
+    "E": "Hilft bei der Beugung und Adduktion, ist aber deutlich schwächer."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD1-3-2",
+   "src": "SD1-3",
+   "typ": "perspektive",
+   "q": "Welche Aussage zum M. psoas minor trifft zu?",
+   "o": [
+    "Er ist bei allen Menschen beidseitig angelegt.",
+    "Er setzt gemeinsam mit dem M. iliacus am Trochanter minor an.",
+    "Er ist der stärkste Beuger im Hüftgelenk.",
+    "Er wird vom N. obturatorius innerviert.",
+    "Er strahlt in die Fascia iliaca bzw. den Arcus iliopectineus ein."
+   ],
+   "a": "E",
+   "expl": "Der M. psoas minor ist inkonstant und fehlt bei etwa der Hälfte der Menschen. Er entspringt an Th12/L1 und strahlt in die Fascia iliaca und den Arcus iliopectineus ein. Weil er nicht am Femur ansetzt, kann er das Hüftgelenk nicht beugen.",
+   "dis": {
+    "A": "Er ist inkonstant und fehlt häufig.",
+    "B": "Am Trochanter minor setzen M. psoas major und M. iliacus an.",
+    "C": "Das ist der M. iliopsoas.",
+    "D": "Er wird von Rr. musculares des Plexus lumbalis innerviert."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD1-4-1",
+   "src": "SD1-4",
+   "typ": "umkehrung",
+   "q": "Der Anulus inguinalis profundus ist die innere Bruchpforte welcher Hernie?",
+   "o": [
+    "Hernia inguinalis medialis (direkte Leistenhernie)",
+    "Hernia inguinalis lateralis (indirekte Leistenhernie)",
+    "Hernia femoralis",
+    "Hernia obturatoria",
+    "Hernia umbilicalis"
+   ],
+   "a": "B",
+   "expl": "Die indirekte (laterale) Leistenhernie tritt in der Fossa inguinalis lateralis durch den Anulus inguinalis profundus ein. Sie zieht durch den gesamten Leistenkanal und verlässt ihn am Anulus inguinalis superficialis.",
+   "dis": {
+    "A": "Tritt im Hesselbach-Dreieck (Fossa inguinalis medialis) direkt durch die Bauchwand.",
+    "C": "Bruchpforte ist der Anulus femoralis unterhalb des Lig. inguinale.",
+    "D": "Bruchpforte ist der Canalis obturatorius.",
+    "E": "Bruchpforte ist der Anulus umbilicalis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD1-4-2",
+   "src": "SD1-4",
+   "typ": "nachbarschaft",
+   "q": "Der Anulus inguinalis profundus liegt",
+   "o": [
+    "medial der Vasa epigastrica inferiora",
+    "in der Fossa inguinalis medialis",
+    "lateral der Vasa epigastrica inferiora",
+    "kaudal des Lig. inguinale",
+    "in der Fossa supravesicalis"
+   ],
+   "a": "C",
+   "expl": "Der innere Leistenring ist eine Ausstülpung der Fascia transversalis in der Fossa inguinalis lateralis. Er liegt lateral der Vasa epigastrica inferiora (Plica umbilicalis lateralis) und oberhalb der Mitte des Lig. inguinale.",
+   "dis": {
+    "A": "Medial der Gefäße liegt das Hesselbach-Dreieck (direkte Hernie).",
+    "B": "Die Fossa inguinalis medialis ist die Eintrittsstelle der direkten Hernie.",
+    "D": "Kaudal des Leistenbands liegen Lacuna musculorum und Lacuna vasorum.",
+    "E": "Sie liegt zwischen Plica umbilicalis mediana und Plica umbilicalis medialis."
+   },
+   "merk": "Laterale Hernie = lateral der Vasa epigastrica inferiora.",
+   "img": null
+  },
+  {
+   "id": "V-SD1-5-1",
+   "src": "SD1-5",
+   "typ": "bild",
+   "q": "Die Abbildung zeigt schematisch ein Rückenmarkssegment mit Spinalnerv und Grenzstrang. Welche Aussage zu der mit A markierten Struktur trifft zu?",
+   "o": [
+    "Sie enthält die Perikaryen der sensiblen Neurone.",
+    "Sie ist die Radix posterior.",
+    "Sie führt postganglionäre sympathische Fasern.",
+    "Sie führt efferente Fasern aus dem Vorder- und Seitenhorn.",
+    "Sie zieht direkt zum Grenzstrangganglion."
+   ],
+   "a": "D",
+   "expl": "A ist die Radix anterior (ventralis). Sie führt efferente Fasern: somatomotorische Fasern aus dem Vorderhorn (grün) und präganglionäre sympathische Fasern aus dem Seitenhorn (blau). Sie vereinigt sich mit der Radix posterior zum Spinalnerv.",
+   "dis": {
+    "A": "Die sensiblen Perikaryen liegen im Ganglion spinale der Hinterwurzel.",
+    "B": "Die Radix posterior führt afferente Fasern (rot) und trägt das Spinalganglion.",
+    "C": "Postganglionäre Fasern entstehen erst im Grenzstrangganglion.",
+    "E": "Zum Grenzstrang ziehen die Fasern erst nach dem Spinalnerv über den R. communicans albus."
+   },
+   "merk": "",
+   "img": "img/i127.jpg"
+  },
+  {
+   "id": "V-SD1-5-2",
+   "src": "SD1-5",
+   "typ": "bild",
+   "q": "In welcher Struktur liegt das Perikaryon der in der Abbildung rot dargestellten Nervenfaser?",
+   "o": [
+    "Hinterhorn des Rückenmarks",
+    "Ganglion spinale",
+    "Vorderhorn des Rückenmarks",
+    "Ganglion trunci sympathici",
+    "Seitenhorn des Rückenmarks"
+   ],
+   "a": "B",
+   "expl": "Die rote Faser ist afferent (sensibel). Ihr pseudounipolares Perikaryon liegt im Ganglion spinale an der Hinterwurzel. Der zentrale Fortsatz zieht über die Radix posterior ins Hinterhorn.",
+   "dis": {
+    "A": "Im Hinterhorn endet bzw. verschaltet der zentrale Fortsatz, das Perikaryon liegt dort nicht.",
+    "C": "Hier liegen die Perikaryen der somatomotorischen Neurone (grün).",
+    "D": "Hier liegen die Perikaryen der postganglionären sympathischen Neurone.",
+    "E": "Hier liegen die Perikaryen der präganglionären sympathischen Neurone (Th1–L2)."
+   },
+   "merk": "",
+   "img": "img/i127.jpg"
+  },
+  {
+   "id": "V-SD1-6-1",
+   "src": "SD1-6",
+   "typ": "perspektive",
+   "q": "Der M. multifidus gehört zur autochthonen Rückenmuskulatur. Welche Aussage trifft zu?",
+   "o": [
+    "Er gehört zum lateralen Trakt.",
+    "Er wird von den Rr. ventrales der Spinalnerven innerviert.",
+    "Er ist im Brustbereich am kräftigsten ausgebildet.",
+    "Er überspringt typischerweise sechs oder mehr Wirbel.",
+    "Er wird von den Rr. dorsales der Spinalnerven innerviert."
+   ],
+   "a": "E",
+   "expl": "Der M. multifidus gehört zum transversospinalen System des medialen Trakts. Er zieht von den Procc. transversi bzw. dem Os sacrum zu den Procc. spinosi, überspringt 2–4 Wirbel und ist lumbal am kräftigsten. Wie die gesamte autochthone Rückenmuskulatur wird er von Rr. dorsales innerviert.",
+   "dis": {
+    "A": "Er gehört zum medialen Trakt (transversospinales System).",
+    "B": "Rr. ventrales versorgen die eingewanderte (nicht autochthone) Muskulatur.",
+    "C": "Er ist im Lendenbereich am kräftigsten.",
+    "D": "Das trifft auf den M. semispinalis zu (≥ 5 Wirbel)."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD1-6-2",
+   "src": "SD1-6",
+   "typ": "umkehrung",
+   "q": "Welcher Muskel des transversospinalen Systems überspringt 2–4 Wirbel und ist im Lendenbereich am kräftigsten ausgebildet?",
+   "o": [
+    "Mm. rotatores breves",
+    "Mm. rotatores longi",
+    "M. semispinalis",
+    "M. multifidus",
+    "M. spinalis"
+   ],
+   "a": "D",
+   "expl": "Das transversospinale System ist nach der Zahl der übersprungenen Wirbel geordnet: Mm. rotatores breves (0), Mm. rotatores longi (1), M. multifidus (2–4) und M. semispinalis (≥ 5). Der M. multifidus ist lumbal am kräftigsten.",
+   "dis": {
+    "A": "Ziehen zum nächsthöheren Wirbel, überspringen keinen.",
+    "B": "Überspringen einen Wirbel.",
+    "C": "Überspringt fünf oder mehr Wirbel und fehlt lumbal.",
+    "E": "Gehört zum spinalen System (Proc. spinosus zu Proc. spinosus)."
+   },
+   "merk": "Rotatores breves 0, Rotatores longi 1, Multifidus 2–4, Semispinalis ≥ 5.",
+   "img": null
+  },
+  {
+   "id": "V-SD1-7-1",
+   "src": "SD1-7",
+   "typ": "umkehrung",
+   "q": "Aus wie vielen präsakralen Wirbeln besteht die Wirbelsäule im Regelfall?",
+   "o": [
+    "20",
+    "22",
+    "26",
+    "24",
+    "33"
+   ],
+   "a": "D",
+   "expl": "Präsakral liegen 7 Hals-, 12 Brust- und 5 Lendenwirbel, also 24 Wirbel. Dazu kommen das Os sacrum (5 verschmolzene Wirbel) und das Os coccygis (3–5 Wirbel).",
+   "dis": {
+    "A": "Zu wenig; diese Zahl war im Original die falsche Aussage.",
+    "B": "Zu wenig.",
+    "C": "Zu viele; Abweichungen kommen nur als Variante vor (z. B. Lumbalisation von S1 → 25).",
+    "E": "Entspricht ungefähr der Gesamtzahl aller Wirbelanlagen inklusive Kreuz- und Steißbein."
+   },
+   "merk": "7 – 12 – 5 = 24 präsakral.",
+   "img": null
+  },
+  {
+   "id": "V-SD1-7-2",
+   "src": "SD1-7",
+   "typ": "perspektive",
+   "q": "Welche Aussage zur Wirbelsäule trifft zu?",
+   "o": [
+    "Die Halswirbelsäule zeigt physiologisch eine kyphotische Krümmung.",
+    "Der Dens axis artikuliert vorne mit dem Arcus anterior atlantis und hinten mit dem Lig. transversum atlantis.",
+    "Die Dornfortsätze der Brustwirbel verlaufen horizontal.",
+    "Der Atlas besitzt einen kräftigen Wirbelkörper.",
+    "Den Halswirbeln fehlt ein Foramen transversarium."
+   ],
+   "a": "B",
+   "expl": "Der Dens axis hat eine vordere Gelenkfläche (zum Arcus anterior atlantis) und eine hintere (zum Lig. transversum atlantis), zusammen die Articulatio atlantoaxialis mediana. Hals- und Lendenwirbelsäule sind lordotisch, die Brustwirbelsäule ist kyphotisch.",
+   "dis": {
+    "A": "Die Halswirbelsäule ist lordotisch.",
+    "C": "Brustwirbel-Dornfortsätze stehen dachziegelartig nach kaudal; horizontal sind sie lumbal.",
+    "D": "Der Atlas hat keinen Wirbelkörper, er wurde zum Dens axis.",
+    "E": "Das Foramen transversarium ist das Kennzeichen der Halswirbel."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD1-8-1",
+   "src": "SD1-8",
+   "typ": "umkehrung",
+   "q": "Welcher Muskel setzt an der Crista tuberculi minoris des Humerus an?",
+   "o": [
+    "M. pectoralis major",
+    "M. teres minor",
+    "M. teres major",
+    "M. subscapularis",
+    "M. deltoideus"
+   ],
+   "a": "C",
+   "expl": "An der Crista tuberculi minoris setzen der M. teres major und der M. latissimus dorsi an. Der M. pectoralis major setzt gegenüber an der Crista tuberculi majoris an.",
+   "dis": {
+    "A": "Setzt an der Crista tuberculi majoris an.",
+    "B": "Setzt am Tuberculum majus an.",
+    "D": "Setzt am Tuberculum minus an, nicht an der Crista.",
+    "E": "Setzt an der Tuberositas deltoidea an."
+   },
+   "merk": "„Major an Minor“: Teres major und Latissimus an der Crista tuberculi minoris; Pectoralis major an der Crista tuberculi majoris.",
+   "img": null
+  },
+  {
+   "id": "V-SD1-8-2",
+   "src": "SD1-8",
+   "typ": "perspektive",
+   "q": "Der M. latissimus dorsi setzt an der Crista tuberculi minoris an. Welche Funktion hat er im Schultergelenk?",
+   "o": [
+    "Abduktion und Außenrotation",
+    "Anteversion und Außenrotation",
+    "Elevation der Scapula",
+    "Adduktion, Innenrotation und Retroversion",
+    "Abduktion über 90°"
+   ],
+   "a": "D",
+   "expl": "Der M. latissimus dorsi adduziert, rotiert nach innen und retrovertiert den Arm (z. B. beim Klimmzug oder Schwimmzug). Innerviert wird er vom N. thoracodorsalis (Plexus brachialis).",
+   "dis": {
+    "A": "Abduktion: M. deltoideus, M. supraspinatus; Außenrotation: M. infraspinatus, M. teres minor.",
+    "B": "Anteversion: Pars clavicularis des M. deltoideus, M. pectoralis major.",
+    "C": "Elevation der Scapula: M. trapezius (Pars descendens), M. levator scapulae.",
+    "E": "Elevation über 90° erfordert Drehung der Scapula durch M. trapezius und M. serratus anterior."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD1-9-1",
+   "src": "SD1-9",
+   "typ": "klinik",
+   "q": "Nach einer fehlerhaften intraglutealen Injektion sinkt beim Einbeinstand auf der betroffenen Seite das Becken zur gesunden Seite ab. Welcher Nerv wurde geschädigt?",
+   "o": [
+    "N. gluteus inferior",
+    "N. ischiadicus",
+    "N. gluteus superior",
+    "N. pudendus",
+    "N. cutaneus femoris posterior"
+   ],
+   "a": "C",
+   "expl": "Der N. gluteus superior innerviert M. gluteus medius, M. gluteus minimus und M. tensor fasciae latae. Fallen die kleinen Glutealmuskeln aus, kann das Becken beim Stand auf dem kranken Bein nicht gehalten werden (positives Trendelenburg-Zeichen).",
+   "dis": {
+    "A": "Innerviert den M. gluteus maximus; Ausfall → Schwäche der Hüftstreckung (Treppensteigen, Aufstehen).",
+    "B": "Ausfall → Lähmung der ischiokruralen Muskulatur und aller Unterschenkel- und Fußmuskeln.",
+    "D": "Ausfall → Sensibilitätsstörung am Perineum und Sphinkterschwäche.",
+    "E": "Rein sensibel (Haut an der Oberschenkelrückseite)."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD1-9-2",
+   "src": "SD1-9",
+   "typ": "umkehrung",
+   "q": "In welchen Muskel erfolgt die ventrogluteale Injektion nach von Hochstetter?",
+   "o": [
+    "M. gluteus maximus",
+    "M. gluteus medius",
+    "M. piriformis",
+    "M. tensor fasciae latae",
+    "M. quadratus femoris"
+   ],
+   "a": "B",
+   "expl": "Bei der ventroglutealen Injektion nach von Hochstetter wird in den M. gluteus medius (und minimus) injiziert, im Dreieck zwischen Spina iliaca anterior superior, Crista iliaca und Trochanter major. So bleibt man fern von N. ischiadicus und N. gluteus superior.",
+   "dis": {
+    "A": "Im M. gluteus maximus verläuft darunter der N. ischiadicus; das war im Original die falsche Aussage.",
+    "C": "Liegt tief und ist von großen Nerven umgeben (Foramen supra- und infrapiriforme).",
+    "D": "Liegt ventral, wird bei dieser Technik aber nicht angezielt.",
+    "E": "Kleiner, tief gelegener Außenrotator nahe dem N. ischiadicus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD1-10-1",
+   "src": "SD1-10",
+   "typ": "perspektive",
+   "q": "Beim Stehen auf einem Bein muss das Becken horizontal gehalten werden. Welche Muskeln verhindern vor allem, dass es zur Spielbeinseite absinkt?",
+   "o": [
+    "M. gluteus medius und minimus der Standbeinseite",
+    "M. gluteus medius und minimus der Spielbeinseite",
+    "M. gluteus maximus der Standbeinseite",
+    "Mm. adductores der Spielbeinseite",
+    "M. iliopsoas der Standbeinseite"
+   ],
+   "a": "A",
+   "expl": "Die kleinen Glutealmuskeln des Standbeins abduzieren im Hüftgelenk und halten so das Becken auf der Gegenseite oben. Fallen sie aus (N. gluteus superior), sinkt das Becken zur Spielbeinseite ab (Trendelenburg-Zeichen). Ein aktives Anheben des Beckens auf der Spielbeinseite gelingt zusätzlich mit dem M. quadratus lumborum dieser Seite.",
+   "dis": {
+    "B": "Auf der Spielbeinseite haben sie keinen Fixpunkt am Boden und halten das Becken nicht.",
+    "C": "Der M. gluteus maximus streckt vor allem im Hüftgelenk.",
+    "D": "Die Adduktoren der Spielbeinseite bewegen das freie Bein.",
+    "E": "Beugt im Hüftgelenk, stabilisiert das Becken nicht in der Frontalebene."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD1-10-2",
+   "src": "SD1-10",
+   "typ": "perspektive",
+   "q": "Welche Aussage zum M. quadratus lumborum trifft zu?",
+   "o": [
+    "Er wird von den Rr. dorsales der Spinalnerven innerviert.",
+    "Er gehört zur autochthonen Rückenmuskulatur.",
+    "Er entspringt an der Crista iliaca und setzt an der 12. Rippe und den Procc. costales L1–L4 an.",
+    "Er senkt bei einseitiger Kontraktion das Becken auf der gleichen Seite.",
+    "Er liegt ventral des M. psoas major."
+   ],
+   "a": "C",
+   "expl": "Der M. quadratus lumborum gehört zur hinteren Bauchwand. Er zieht von der Crista iliaca (und dem Lig. iliolumbale) zur 12. Rippe und zu den Procc. costales L1–L4. Einseitig neigt er den Rumpf zur Seite bzw. hebt das Becken auf derselben Seite. Innerviert wird er von Rr. ventrales Th12–L3 (N. subcostalis, Plexus lumbalis).",
+   "dis": {
+    "A": "Innervation aus Rr. ventrales (Th12–L3).",
+    "B": "Er gehört zur Bauchwandmuskulatur (hintere Bauchwand).",
+    "D": "Er hebt das Becken auf der gleichen Seite.",
+    "E": "Er liegt lateral bzw. dorsal des M. psoas major."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD1-11-1",
+   "src": "SD1-11",
+   "typ": "bild",
+   "q": "Der in der Abbildung mit 21 markierte Muskel verlässt das kleine Becken durch",
+   "o": [
+    "das Foramen ischiadicum majus (Foramen infrapiriforme)",
+    "den Canalis obturatorius",
+    "die Lacuna musculorum",
+    "den Hiatus sacralis",
+    "das Foramen ischiadicum minus"
+   ],
+   "a": "E",
+   "expl": "Nr. 21 ist der M. obturatorius internus. Er entspringt an der Innenfläche der Membrana obturatoria, zieht um die Incisura ischiadica minor durch das Foramen ischiadicum minus und setzt medial am Trochanter major (Fossa trochanterica) an. Er ist ein Außenrotator im Hüftgelenk.",
+   "dis": {
+    "A": "Durch das Foramen infrapiriforme ziehen N. ischiadicus, N. gluteus inferior, N. pudendus und die Vasa pudenda interna.",
+    "B": "Durch den Canalis obturatorius ziehen N. und Vasa obturatoria.",
+    "C": "Durch die Lacuna musculorum ziehen M. iliopsoas und N. femoralis.",
+    "D": "Der Hiatus sacralis ist der untere Ausgang des Sakralkanals."
+   },
+   "merk": "",
+   "img": "img/i129.jpg"
+  },
+  {
+   "id": "V-SD1-11-2",
+   "src": "SD1-11",
+   "typ": "perspektive",
+   "q": "Welche Aussage zum M. obturatorius internus trifft zu?",
+   "o": [
+    "Er wird vom N. obturatorius innerviert.",
+    "Seine Faszie bildet die laterale Wand der Fossa ischioanalis und enthält den Canalis pudendalis.",
+    "Er ist ein kräftiger Innenrotator im Hüftgelenk.",
+    "Er setzt am Trochanter minor an.",
+    "Er entspringt an der Außenfläche der Membrana obturatoria."
+   ],
+   "a": "B",
+   "expl": "Die Fascia obturatoria bedeckt den Muskel im kleinen Becken. Unterhalb des Ursprungs des M. levator ani bildet sie die laterale Wand der Fossa ischioanalis. In einer Duplikatur liegt der Alcock-Kanal mit N. pudendus und Vasa pudenda interna.",
+   "dis": {
+    "A": "Innervation durch den N. musculi obturatorii interni aus dem Plexus sacralis.",
+    "C": "Er ist ein Außenrotator.",
+    "D": "Er setzt medial am Trochanter major (Fossa trochanterica) an.",
+    "E": "Von der Außenfläche entspringt der M. obturatorius externus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD1-12-1",
+   "src": "SD1-12",
+   "typ": "bild",
+   "q": "Aus welchem Gefäß entspringt die Arterie der in der Abbildung mit 3 markierten Gefäßstraße?",
+   "o": [
+    "A. iliaca interna",
+    "A. femoralis",
+    "A. thoracica interna",
+    "A. iliaca externa",
+    "A. obturatoria"
+   ],
+   "a": "D",
+   "expl": "Nr. 3 sind A. und V. epigastrica inferior. Die Arterie entspringt aus der A. iliaca externa kurz vor dem Lig. inguinale. Sie zieht in der hinteren Rektusscheide nach kranial und anastomosiert mit der A. epigastrica superior aus der A. thoracica interna.",
+   "dis": {
+    "A": "Aus der A. iliaca interna entspringen u. a. A. obturatoria und A. umbilicalis.",
+    "B": "Aus der A. femoralis entspringt die A. epigastrica superficialis.",
+    "C": "Aus ihr stammt die A. epigastrica superior (Anastomosepartner).",
+    "E": "Die A. obturatoria ist oft über einen R. pubicus mit der A. epigastrica inferior verbunden, aber nicht ihr Ursprung."
+   },
+   "merk": "",
+   "img": "img/i130.jpg"
+  },
+  {
+   "id": "V-SD1-12-2",
+   "src": "SD1-12",
+   "typ": "bild",
+   "q": "Die in der Abbildung mit 3 markierten Gefäße werfen am Peritoneum parietale eine Falte auf. Welche Aussage trifft zu?",
+   "o": [
+    "Sie bilden die Plica umbilicalis medialis.",
+    "Medial von ihnen liegt die innere Bruchpforte der indirekten Leistenhernie.",
+    "Sie verlaufen kaudal des Lig. inguinale.",
+    "Sie bilden die Plica umbilicalis lateralis; lateral davon liegt die Fossa inguinalis lateralis.",
+    "Sie anastomosieren am Nabel mit der A. testicularis."
+   ],
+   "a": "D",
+   "expl": "Die Vasa epigastrica inferiora bilden die Plica umbilicalis lateralis. Sie ist die Grenze zwischen Fossa inguinalis lateralis (indirekte Hernie) und Fossa inguinalis medialis (direkte Hernie).",
+   "dis": {
+    "A": "Die Plica umbilicalis medialis enthält die obliterierte A. umbilicalis.",
+    "B": "Die innere Bruchpforte der indirekten Hernie liegt lateral der Gefäße.",
+    "C": "Sie verlaufen oberhalb des Leistenbands in der vorderen Bauchwand.",
+    "E": "Sie anastomosieren mit der A. epigastrica superior."
+   },
+   "merk": "Plicae von medial nach lateral: mediana (Urachus) – medialis (A. umbilicalis) – lateralis (Vasa epigastrica inferiora).",
+   "img": "img/i130.jpg"
+  },
+  {
+   "id": "V-SD1-13-1",
+   "src": "SD1-13",
+   "typ": "perspektive",
+   "q": "Bei einer Spondylolyse ist ein bestimmter Abschnitt des Wirbelbogens unterbrochen. Welcher?",
+   "o": [
+    "Pars interarticularis (Isthmus) zwischen Proc. articularis superior und inferior",
+    "Corpus vertebrae",
+    "Proc. spinosus",
+    "Discus intervertebralis",
+    "Proc. transversus"
+   ],
+   "a": "A",
+   "expl": "Die Spondylolyse ist eine Spaltbildung in der Pars interarticularis des Arcus vertebrae. Dadurch kann der Wirbelkörper mit den oberen Gelenkfortsätzen nach ventral gleiten (isthmische Spondylolisthesis), während der hintere Bogenanteil zurückbleibt.",
+   "dis": {
+    "B": "Eine Unterbrechung des Wirbelkörpers ist eine Wirbelkörperfraktur.",
+    "C": "Isolierte Dornfortsatzfrakturen (z. B. Schipperfraktur C7) verursachen kein Wirbelgleiten.",
+    "D": "Der Discus ist kein Teil des Wirbelbogens.",
+    "E": "Querfortsatzfrakturen führen nicht zum Wirbelgleiten."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD1-13-2",
+   "src": "SD1-13",
+   "typ": "klinik",
+   "q": "Ein 15-jähriger Turner hat belastungsabhängige Kreuzschmerzen. Im Röntgenbild zeigt sich eine isthmische Spondylolisthesis. Welcher Wirbel ist dabei am häufigsten nach ventral verlagert?",
+   "o": [
+    "C2",
+    "Th12",
+    "L3",
+    "L4",
+    "L5"
+   ],
+   "a": "E",
+   "expl": "Die isthmische Spondylolisthesis betrifft am häufigsten L5, der auf S1 nach ventral gleitet. Sportarten mit wiederholter Hyperextension (Turnen, Speerwurf) sind ein Risikofaktor.",
+   "dis": {
+    "A": "C2 ist bei der traumatischen Spondylolisthesis (Hangman-Fraktur) betroffen, nicht bei der isthmischen.",
+    "B": "Th12 ist durch Rippen und Facettenstellung gut stabilisiert.",
+    "C": "L3 ist selten betroffen.",
+    "D": "L4 ist typisch für die degenerative (nicht isthmische) Form."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD1-14-1",
+   "src": "SD1-14",
+   "typ": "perspektive",
+   "q": "Der M. semispinalis gehört zum",
+   "o": [
+    "transversospinalen System des medialen Trakts und überspringt mindestens fünf Wirbel",
+    "spinotransversalen System des lateralen Trakts",
+    "intertransversalen System des lateralen Trakts",
+    "sakrospinalen System (M. erector spinae) des lateralen Trakts",
+    "spinalen System des medialen Trakts"
+   ],
+   "a": "A",
+   "expl": "Der M. semispinalis (capitis, cervicis, thoracis) zieht von den Procc. transversi nach kranial-medial zu Procc. spinosi bzw. zum Os occipitale. Er gehört damit zum transversospinalen System des medialen Trakts und überspringt fünf oder mehr Wirbel.",
+   "dis": {
+    "B": "Spinotransversal ziehen M. splenius capitis und cervicis.",
+    "C": "Intertransversal ziehen die Mm. intertransversarii.",
+    "D": "Zum M. erector spinae im lateralen Trakt zählen M. iliocostalis und M. longissimus.",
+    "E": "Zum spinalen System gehören M. spinalis und Mm. interspinales."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD1-14-2",
+   "src": "SD1-14",
+   "typ": "umkehrung",
+   "q": "Welcher Muskel entspringt an den Procc. transversi der oberen Brustwirbel und setzt an den Procc. spinosi der Halswirbel C2–C5 an?",
+   "o": [
+    "M. splenius cervicis",
+    "M. longissimus cervicis",
+    "M. semispinalis cervicis",
+    "M. iliocostalis cervicis",
+    "M. levator scapulae"
+   ],
+   "a": "C",
+   "expl": "Der M. semispinalis cervicis zieht transversospinal von den Procc. transversi Th1–Th6 zu den Procc. spinosi C2–C5. Er streckt die Halswirbelsäule und dreht sie zur Gegenseite.",
+   "dis": {
+    "A": "Zieht in umgekehrter Richtung: von Procc. spinosi Th3–Th5 zu Procc. transversi C1–C2 (spinotransversal).",
+    "B": "Zieht von Procc. transversi zu Procc. transversi.",
+    "D": "Zieht von den Rippen zu den Procc. transversi der Halswirbel.",
+    "E": "Zieht von den Procc. transversi C1–C4 zum Angulus superior scapulae."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD1-15-1",
+   "src": "SD1-15",
+   "typ": "bild",
+   "q": "Der in der Abbildung mit Stern markierte Muskel wird innerviert vom",
+   "o": [
+    "N. occipitalis major",
+    "N. accessorius",
+    "N. occipitalis minor",
+    "N. dorsalis scapulae",
+    "N. suboccipitalis"
+   ],
+   "a": "E",
+   "expl": "Der Stern markiert den M. rectus capitis posterior major. Wie alle kurzen Nackenmuskeln wird er vom N. suboccipitalis (R. dorsalis C1) innerviert, der rein motorisch ist und im Trigonum a. vertebralis austritt.",
+   "dis": {
+    "A": "R. dorsalis C2; überwiegend sensibel für die Hinterhauptshaut.",
+    "B": "Innerviert M. trapezius und M. sternocleidomastoideus.",
+    "C": "Sensibler Ast des Plexus cervicalis (Punctum nervosum).",
+    "D": "Innerviert Mm. rhomboidei und M. levator scapulae."
+   },
+   "merk": "C1 = suboccipitalis (motorisch), C2 = occipitalis major (sensibel).",
+   "img": "img/i131.jpg"
+  },
+  {
+   "id": "V-SD1-15-2",
+   "src": "SD1-15",
+   "typ": "nachbarschaft",
+   "q": "Das Trigonum arteriae vertebralis (Subokzipitaldreieck) wird begrenzt von:",
+   "o": [
+    "M. rectus capitis posterior major, M. obliquus capitis superior, M. obliquus capitis inferior",
+    "M. rectus capitis posterior minor, M. obliquus capitis superior, M. obliquus capitis inferior",
+    "M. rectus capitis posterior major, M. semispinalis capitis, M. obliquus capitis inferior",
+    "M. splenius capitis, M. obliquus capitis superior, M. longissimus capitis",
+    "M. rectus capitis lateralis, M. obliquus capitis superior, M. rectus capitis posterior major"
+   ],
+   "a": "A",
+   "expl": "Das Dreieck wird medial vom M. rectus capitis posterior major, lateral-kranial vom M. obliquus capitis superior und kaudal vom M. obliquus capitis inferior begrenzt. In der Tiefe verläuft die A. vertebralis auf dem Arcus posterior atlantis; hier tritt der N. suboccipitalis aus.",
+   "dis": {
+    "B": "Der M. rectus capitis posterior minor liegt medial des major und bildet keine Grenze.",
+    "C": "Der M. semispinalis capitis bedeckt das Dreieck von dorsal.",
+    "D": "Diese Muskeln liegen oberflächlicher.",
+    "E": "Der M. rectus capitis lateralis liegt seitlich am Atlas, außerhalb des Dreiecks."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD1-16-1",
+   "src": "SD1-16",
+   "typ": "umkehrung",
+   "q": "Welche Zuordnungen sind richtig? 1. Hernia femoralis – Austritt kaudal des Lig. inguinale 2. Hernia inguinalis lateralis – Eintritt durch den Anulus inguinalis profundus 3. Hernia inguinalis medialis – stets angeboren 4. Hernia obturatoria – Canalis obturatorius",
+   "o": [
+    "nur 1 und 2 sind richtig",
+    "nur 1, 2 und 4 sind richtig",
+    "nur 2, 3 und 4 sind richtig",
+    "nur 1, 3 und 4 sind richtig",
+    "alle sind richtig"
+   ],
+   "a": "B",
+   "expl": "Die Schenkelhernie tritt unterhalb des Leistenbands durch den Anulus femoralis. Die indirekte Leistenhernie tritt durch den Anulus inguinalis profundus ein. Die Hernia obturatoria nutzt den Canalis obturatorius. Die direkte (mediale) Leistenhernie ist dagegen immer erworben, Aussage 3 ist falsch.",
+   "dis": {
+    "A": "Aussage 4 ist ebenfalls richtig.",
+    "C": "Aussage 3 ist falsch (direkte Hernien sind erworben), Aussage 1 richtig.",
+    "D": "Aussage 3 ist falsch, Aussage 2 richtig.",
+    "E": "Aussage 3 ist falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD1-16-2",
+   "src": "SD1-16",
+   "typ": "nachbarschaft",
+   "q": "Welche Struktur bildet die mediale Begrenzung des Anulus femoralis (Bruchpforte der Schenkelhernie)?",
+   "o": [
+    "Lig. lacunare",
+    "V. femoralis",
+    "Lig. inguinale",
+    "Lig. pectineum",
+    "Arcus iliopectineus"
+   ],
+   "a": "A",
+   "expl": "Der Anulus femoralis wird medial vom Lig. lacunare, ventral vom Lig. inguinale, dorsal vom Lig. pectineum (Cooper) und lateral von der V. femoralis begrenzt. Normalerweise füllen ihn Lymphgefäße und der Rosenmüller-Lymphknoten.",
+   "dis": {
+    "B": "Laterale Begrenzung.",
+    "C": "Ventrale (kraniale) Begrenzung.",
+    "D": "Dorsale Begrenzung.",
+    "E": "Trennt Lacuna musculorum und Lacuna vasorum, ist keine Grenze des Anulus femoralis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD1-17-1",
+   "src": "SD1-17",
+   "typ": "umkehrung",
+   "q": "Bei einer Hernia inguinalis lateralis liegen die Vasa epigastrica inferiora in Bezug auf die innere Bruchpforte",
+   "o": [
+    "lateral",
+    "kaudal unterhalb des Lig. inguinale",
+    "im Bruchsack",
+    "dorsal im Retroperitoneum",
+    "medial"
+   ],
+   "a": "E",
+   "expl": "Die indirekte Hernie tritt lateral der Vasa epigastrica inferiora durch den Anulus inguinalis profundus ein. Die Gefäße liegen also medial der Bruchpforte. Bei der direkten Hernie ist es umgekehrt: Die Arterie liegt lateral der Bruchpforte.",
+   "dis": {
+    "A": "Das gilt für die direkte (mediale) Leistenhernie.",
+    "B": "Die Gefäße verlaufen oberhalb des Leistenbands.",
+    "C": "Die Gefäße liegen extraperitoneal, nicht im Bruchsack.",
+    "D": "Sie liegen in der vorderen Bauchwand."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD1-17-2",
+   "src": "SD1-17",
+   "typ": "perspektive",
+   "q": "Welche Aussage zur Hernia inguinalis medialis (direkte Leistenhernie) trifft zu?",
+   "o": [
+    "Sie verläuft innerhalb des Funiculus spermaticus.",
+    "Sie ist häufig angeboren durch einen offenen Proc. vaginalis peritonei.",
+    "Sie durchbricht die Bauchwand im Trigonum inguinale (Hesselbach-Dreieck).",
+    "Ihre innere Bruchpforte liegt lateral der Vasa epigastrica inferiora.",
+    "Sie tritt kaudal des Lig. inguinale aus."
+   ],
+   "a": "C",
+   "expl": "Die direkte Hernie wölbt die Hinterwand des Leistenkanals (Fascia transversalis) im Hesselbach-Dreieck vor. Sie tritt medial der Vasa epigastrica inferiora aus und kommt am Anulus inguinalis superficialis heraus. Sie ist immer erworben.",
+   "dis": {
+    "A": "Das tut die indirekte Hernie.",
+    "B": "Angeboren ist nur die indirekte Hernie (offener Proc. vaginalis).",
+    "D": "Sie liegt medial der Gefäße.",
+    "E": "Unterhalb des Leistenbands tritt die Schenkelhernie aus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD1-18-1",
+   "src": "SD1-18",
+   "typ": "perspektive",
+   "q": "Welcher motorische Ausfall ist bei einer Schädigung des N. obturatorius am ehesten zu erwarten?",
+   "o": [
+    "Schwäche der Adduktion im Hüftgelenk",
+    "Schwäche der Streckung im Kniegelenk",
+    "Absinken des Beckens zur gesunden Seite im Einbeinstand",
+    "Fußheberschwäche",
+    "Schwäche der Streckung im Hüftgelenk"
+   ],
+   "a": "A",
+   "expl": "Der N. obturatorius (L2–L4) innerviert die Adduktorengruppe (Mm. adductores, M. gracilis, M. obturatorius externus) und die Haut an der Oberschenkelinnenseite. Typisch sind Adduktionsschwäche und Zirkumduktionsgang.",
+   "dis": {
+    "B": "Kniestreckung: M. quadriceps femoris (N. femoralis).",
+    "C": "Trendelenburg-Zeichen: N. gluteus superior.",
+    "D": "Fußheber: N. fibularis profundus.",
+    "E": "Hüftstreckung: M. gluteus maximus (N. gluteus inferior)."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD1-18-2",
+   "src": "SD1-18",
+   "typ": "klinik",
+   "q": "Eine ältere, sehr schlanke Patientin klagt über Schmerzen an der Innenseite des Oberschenkels bis zum Knie, die sich bei Außenrotation im Hüftgelenk verstärken (Howship-Romberg-Zeichen). An welche Hernie ist zu denken?",
+   "o": [
+    "Hernia femoralis",
+    "Hernia inguinalis medialis",
+    "Hernia ischiadica",
+    "Hernia umbilicalis",
+    "Hernia obturatoria"
+   ],
+   "a": "E",
+   "expl": "Bei der Hernia obturatoria drückt der Bruchsack im Canalis obturatorius auf den N. obturatorius. Typisch sind Schmerzen und Sensibilitätsstörungen am medialen Oberschenkel. Sie betrifft vor allem ältere, schlanke Frauen.",
+   "dis": {
+    "A": "Vorwölbung unterhalb des Leistenbands; typischerweise ohne Nervenkompression am medialen Oberschenkel.",
+    "B": "Vorwölbung oberhalb des Leistenbands in der Leiste.",
+    "C": "Durch das Foramen ischiadicum; kann den N. ischiadicus reizen (Rückseite des Beins).",
+    "D": "Vorwölbung am Nabel."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD1-19-1",
+   "src": "SD1-19",
+   "typ": "umkehrung",
+   "q": "Wo setzt der M. longissimus capitis an?",
+   "o": [
+    "Linea nuchalis inferior",
+    "Proc. mastoideus",
+    "Proc. transversus atlantis",
+    "Squama occipitalis zwischen Linea nuchalis suprema und superior",
+    "Proc. spinosus axis"
+   ],
+   "a": "B",
+   "expl": "Der M. longissimus capitis zieht von den Procc. transversi der oberen Brust- und unteren Halswirbel zum Proc. mastoideus. Er streckt den Kopf und neigt bzw. dreht ihn zur gleichen Seite.",
+   "dis": {
+    "A": "Hier setzen M. rectus capitis posterior major und minor an; das war die falsche Zuordnung im Original.",
+    "C": "Hier setzt der M. obliquus capitis inferior an.",
+    "D": "Hier setzt der M. semispinalis capitis an.",
+    "E": "Hier entspringen M. rectus capitis posterior major und M. obliquus capitis inferior."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD1-19-2",
+   "src": "SD1-19",
+   "typ": "perspektive",
+   "q": "Welche Aussage zum M. obliquus capitis inferior trifft zu?",
+   "o": [
+    "Er setzt an der Linea nuchalis inferior an.",
+    "Er wird vom N. occipitalis major innerviert.",
+    "Er dreht den Kopf zur Gegenseite.",
+    "Er entspringt am Proc. spinosus des Axis und setzt am Proc. transversus des Atlas an.",
+    "Er bildet die mediale Begrenzung des Trigonum a. vertebralis."
+   ],
+   "a": "D",
+   "expl": "Der M. obliquus capitis inferior zieht vom Proc. spinosus axis zum Proc. transversus atlantis und erreicht als einziger kurzer Nackenmuskel den Schädel nicht. Er dreht den Atlas und damit den Kopf zur gleichen Seite und bildet die kaudale Grenze des Subokzipitaldreiecks.",
+   "dis": {
+    "A": "Er setzt am Atlas an, nicht am Schädel.",
+    "B": "Innervation durch den N. suboccipitalis (C1).",
+    "C": "Er dreht zur gleichen Seite.",
+    "E": "Er bildet die kaudale Begrenzung; medial liegt der M. rectus capitis posterior major."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD1-20-1",
+   "src": "SD1-20",
+   "typ": "umkehrung",
+   "q": "Welches Gelenk ist ein Radgelenk (Articulatio trochoidea)?",
+   "o": [
+    "Articulatio atlantooccipitalis",
+    "Articulatio zygapophysialis der Lendenwirbelsäule",
+    "Articulatio carpometacarpalis pollicis",
+    "Articulatio humeroulnaris",
+    "Articulatio atlantoaxialis mediana"
+   ],
+   "a": "E",
+   "expl": "In der Articulatio atlantoaxialis mediana dreht sich der Atlas mit dem Lig. transversum atlantis um den Dens axis. Das ist ein klassisches Radgelenk für die Kopfdrehung.",
+   "dis": {
+    "A": "Eigelenk (Lösung der Originalfrage).",
+    "B": "Plane Gelenke (Articulationes planae).",
+    "C": "Sattelgelenk.",
+    "D": "Scharniergelenk."
+   },
+   "merk": "Oberes Kopfgelenk = Eigelenk = „Ja“ (Nicken); unteres Kopfgelenk = Radgelenk = „Nein“ (Drehen).",
+   "img": null
+  },
+  {
+   "id": "V-SD1-20-2",
+   "src": "SD1-20",
+   "typ": "perspektive",
+   "q": "Welche Bewegung findet hauptsächlich in den Articulationes atlantooccipitales statt?",
+   "o": [
+    "Nicken (Flexion und Extension) sowie geringe Seitneigung",
+    "Drehen des Kopfes um die Längsachse",
+    "Rotation des Atlas um den Dens axis",
+    "Reine Translation nach ventral",
+    "Keine nennenswerte Bewegung (Synarthrose)"
+   ],
+   "a": "A",
+   "expl": "Das obere Kopfgelenk ist ein Eigelenk mit zwei Achsen: Nicken (Flexion und Extension) und geringe Seitneigung. Die Drehung des Kopfes erfolgt überwiegend in den Atlantoaxialgelenken.",
+   "dis": {
+    "B": "Die Drehung erfolgt im unteren Kopfgelenk (Articulationes atlantoaxiales).",
+    "C": "Das ist die Articulatio atlantoaxialis mediana.",
+    "D": "Translation wird durch Bänder (u. a. Lig. transversum atlantis) verhindert.",
+    "E": "Es ist ein echtes Gelenk (Diarthrose)."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD1-21-1",
+   "src": "SD1-21",
+   "typ": "perspektive",
+   "q": "Was enthält die Fossa ischioanalis neben Fettgewebe?",
+   "o": [
+    "A. rectalis superior",
+    "A. obturatoria",
+    "Vasa rectalia inferiora und Nn. rectales inferiores",
+    "N. ischiadicus",
+    "Ductus deferens"
+   ],
+   "a": "C",
+   "expl": "Durch die Fossa ischioanalis ziehen die Vasa rectalia inferiora und Nn. rectales inferiores. Sie entspringen im Alcock-Kanal aus den Vasa pudenda interna bzw. dem N. pudendus und ziehen nach medial zum Analkanal.",
+   "dis": {
+    "A": "Aus der A. mesenterica inferior; verläuft im Mesorektum oberhalb des Beckenbodens.",
+    "B": "Zieht durch den Canalis obturatorius zum Oberschenkel.",
+    "D": "Verlässt das Becken durch das Foramen infrapiriforme zur Gesäßregion.",
+    "E": "Verläuft im Leistenkanal und im kleinen Becken subperitoneal."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD1-21-2",
+   "src": "SD1-21",
+   "typ": "klinik",
+   "q": "Ein Analabszess breitet sich in die Fossa ischioanalis aus. Welcher Muskel bildet das Dach (kraniomediale Begrenzung) dieses Raumes?",
+   "o": [
+    "M. levator ani",
+    "M. obturatorius internus",
+    "M. gluteus maximus",
+    "M. piriformis",
+    "M. bulbospongiosus"
+   ],
+   "a": "A",
+   "expl": "Die Fossa ischioanalis ist ein fettgefüllter, keilförmiger Raum unterhalb des Diaphragma pelvis. Kranial und medial wird sie vom M. levator ani begrenzt, lateral vom M. obturatorius internus mit seiner Faszie.",
+   "dis": {
+    "B": "Bildet die laterale Wand.",
+    "C": "Liegt dorsal (mit dem Lig. sacrotuberale).",
+    "D": "Liegt oberhalb des Beckenbodens an der dorsalen Beckenwand.",
+    "E": "Liegt im Spatium superficiale perinei, nicht an der Fossa ischioanalis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD1-22-1",
+   "src": "SD1-22",
+   "typ": "perspektive",
+   "q": "Der Canalis pudendalis (Alcock-Kanal) liegt in einer Duplikatur der Faszie des",
+   "o": [
+    "M. gluteus maximus",
+    "M. obturatorius internus",
+    "M. obturatorius externus",
+    "M. piriformis",
+    "M. coccygeus"
+   ],
+   "a": "B",
+   "expl": "Der Alcock-Kanal ist eine Faszienduplikatur der Fascia obturatoria an der lateralen Wand der Fossa ischioanalis. In ihm verlaufen N. pudendus, A. pudenda interna und V. pudenda interna zum Perineum.",
+   "dis": {
+    "A": "Liegt dorsal der Fossa ischioanalis, außerhalb des Beckens.",
+    "C": "Liegt außen an der Membrana obturatoria; das war die falsche Aussage im Original.",
+    "D": "Liegt oberhalb des Beckenbodens; an seinem Unterrand liegt das Foramen infrapiriforme.",
+    "E": "Bildet den hinteren Teil des Diaphragma pelvis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD1-22-2",
+   "src": "SD1-22",
+   "typ": "nachbarschaft",
+   "q": "Auf welchem Weg gelangt der N. pudendus aus dem kleinen Becken in den Canalis pudendalis?",
+   "o": [
+    "Durch den Canalis obturatorius",
+    "Durch das Foramen suprapiriforme direkt in die Fossa ischioanalis",
+    "Durch die Lacuna vasorum",
+    "Durch den Hiatus sacralis",
+    "Durch das Foramen infrapiriforme, dann um die Spina ischiadica durch das Foramen ischiadicum minus"
+   ],
+   "a": "E",
+   "expl": "Der N. pudendus (S2–S4) verlässt das Becken durch das Foramen infrapiriforme. Er zieht um das Lig. sacrospinale bzw. die Spina ischiadica herum und gelangt durch das Foramen ischiadicum minus in den Alcock-Kanal. Die Spina ischiadica ist der Orientierungspunkt für die Pudendusblockade.",
+   "dis": {
+    "A": "Durch den Canalis obturatorius zieht der N. obturatorius.",
+    "B": "Durch das Foramen suprapiriforme ziehen N. und Vasa glutea superiora.",
+    "C": "Durch die Lacuna vasorum ziehen A. und V. femoralis.",
+    "D": "Der Hiatus sacralis ist der untere Ausgang des Sakralkanals."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD1-23-1",
+   "src": "SD1-23",
+   "typ": "umkehrung",
+   "q": "Welche Aussage trifft nicht zu? Indirekte Leistenbrüche",
+   "o": [
+    "können angeboren sein (offener Proc. vaginalis peritonei)",
+    "treten durch den Anulus inguinalis profundus ein",
+    "verlaufen innerhalb des Funiculus spermaticus",
+    "haben ihre Eintrittspforte im Hesselbach-Dreieck",
+    "haben ihre Eintrittspforte lateral der Vasa epigastrica inferiora"
+   ],
+   "a": "D",
+   "expl": "Das Hesselbach-Dreieck (Fossa inguinalis medialis) ist die Eintrittsstelle der direkten Leistenhernie. Die indirekte Hernie tritt in der Fossa inguinalis lateralis durch den inneren Leistenring ein und zieht im Samenstrang durch den gesamten Leistenkanal.",
+   "dis": {
+    "A": "Trifft zu: Bei offenem Proc. vaginalis entsteht eine angeborene indirekte Hernie.",
+    "B": "Trifft zu: Der Anulus inguinalis profundus ist die innere Bruchpforte.",
+    "C": "Trifft zu: Der Bruchsack liegt innerhalb der Hüllen des Samenstrangs.",
+    "E": "Trifft zu: Laterale Hernie = lateral der Gefäße."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD1-23-2",
+   "src": "SD1-23",
+   "typ": "nachbarschaft",
+   "q": "Welche Strukturen begrenzen das Trigonum inguinale (Hesselbach-Dreieck)?",
+   "o": [
+    "Lig. inguinale, Plica umbilicalis medialis, Funiculus spermaticus",
+    "Lig. lacunare, V. femoralis, Lig. pectineum",
+    "Lig. inguinale, lateraler Rand des M. rectus abdominis, Vasa epigastrica inferiora",
+    "M. rectus abdominis, Linea arcuata, Lig. inguinale",
+    "Vasa epigastrica inferiora, Anulus inguinalis profundus, Lig. lacunare"
+   ],
+   "a": "C",
+   "expl": "Das Hesselbach-Dreieck wird kaudal vom Lig. inguinale, medial vom lateralen Rand des M. rectus abdominis und lateral von den Vasa epigastrica inferiora begrenzt. Hier ist die Hinterwand des Leistenkanals nur durch die Fascia transversalis verstärkt; das ist der Ort der direkten Hernie.",
+   "dis": {
+    "A": "Der Funiculus spermaticus verläuft im Leistenkanal und bildet keine Dreiecksgrenze.",
+    "B": "Das sind Begrenzungen des Anulus femoralis.",
+    "D": "Die Linea arcuata liegt weiter kranial in der hinteren Rektusscheide.",
+    "E": "Der Anulus inguinalis profundus liegt lateral der Vasa epigastrica inferiora, außerhalb des Dreiecks."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD1-24-1",
+   "src": "SD1-24",
+   "typ": "nachbarschaft",
+   "q": "Welche Struktur zieht durch die Lacuna musculorum?",
+   "o": [
+    "A. femoralis",
+    "N. femoralis",
+    "V. femoralis",
+    "R. femoralis des N. genitofemoralis",
+    "Rosenmüller-Lymphknoten"
+   ],
+   "a": "B",
+   "expl": "Durch die Lacuna musculorum ziehen M. iliopsoas, N. femoralis und N. cutaneus femoris lateralis. Durch die Lacuna vasorum ziehen von lateral nach medial: R. femoralis des N. genitofemoralis, A. femoralis, V. femoralis und Lymphgefäße mit dem Rosenmüller-Lymphknoten.",
+   "dis": {
+    "A": "Liegt in der Lacuna vasorum.",
+    "C": "Liegt in der Lacuna vasorum, medial der Arterie.",
+    "D": "Liegt in der Lacuna vasorum, ganz lateral.",
+    "E": "Liegt im Anulus femoralis, am medialen Ende der Lacuna vasorum."
+   },
+   "merk": "Lacuna vasorum von lateral nach medial: R. femoralis n. genitofemoralis – Arterie – Vene – Lymphe.",
+   "img": null
+  },
+  {
+   "id": "V-SD1-24-2",
+   "src": "SD1-24",
+   "typ": "nachbarschaft",
+   "q": "Welche Struktur trennt die Lacuna musculorum von der Lacuna vasorum?",
+   "o": [
+    "Lig. lacunare",
+    "Lig. pectineum",
+    "Lig. inguinale",
+    "Arcus iliopectineus",
+    "Tractus iliotibialis"
+   ],
+   "a": "D",
+   "expl": "Der Arcus iliopectineus ist ein Faszienzug der Fascia iliaca zwischen Lig. inguinale und Eminentia iliopubica. Er teilt den Raum unter dem Leistenband in die laterale Lacuna musculorum und die mediale Lacuna vasorum.",
+   "dis": {
+    "A": "Begrenzt die Lacuna vasorum bzw. den Anulus femoralis medial.",
+    "B": "Liegt am Pecten ossis pubis und bildet die dorsale Grenze des Anulus femoralis.",
+    "C": "Bildet das Dach beider Lacunae.",
+    "E": "Verstärkungszug der Fascia lata an der Oberschenkelaußenseite."
+   },
+   "merk": "",
+   "img": null
+  }
+ ]
+}

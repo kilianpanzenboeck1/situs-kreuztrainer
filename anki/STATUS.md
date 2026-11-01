@@ -3,7 +3,7 @@
 (automatisch erzeugt von tools/status.py)
 
 ## Etappe 1 – Probe
-- [ ] D1 Truncus (Rumpf) – 0/48 Karten – offen
+- [ ] D1 Truncus (Rumpf) – 48/48 Karten – review
 
 ## Etappe 2 – Teil D
 - [ ] D2 Cingula et Membra (Gürtel und Extremitäten) – 0/140 Karten – offen
