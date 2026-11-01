@@ -1,0 +1,1110 @@
+{
+ "chapter": "D3",
+ "status": "draft",
+ "cards": [
+  {
+   "id": "V-SD3-1-1",
+   "src": "SD3-1",
+   "typ": "perspektive",
+   "q": "Welche Bewegung führt der M. sternocleidomastoideus bei einseitiger Kontraktion aus?",
+   "o": [
+    "Neigung des Kopfes zur gleichen Seite und Drehung des Gesichts zur Gegenseite",
+    "Neigung und Drehung des Kopfes zur gleichen Seite",
+    "Reine Drehung des Gesichts zur gleichen Seite",
+    "Reine Flexion der Halswirbelsäule",
+    "Elevation der Scapula"
+   ],
+   "a": "A",
+   "expl": "Einseitig neigt der M. sternocleidomastoideus den Kopf zur eigenen Seite und dreht das Gesicht zur Gegenseite. Beidseitig streckt er den Kopf im Atlantookzipitalgelenk; bei fixiertem Kopf wirkt er als Atemhilfsmuskel. Innerviert wird er vom N. accessorius (und Ästen aus C2/C3).",
+   "dis": {
+    "B": "Die Drehung erfolgt zur Gegenseite.",
+    "C": "Das Gesicht wird zur Gegenseite gedreht.",
+    "D": "Das ist die Wirkung bei beidseitiger Kontraktion (zusammen mit Extension im Kopfgelenk).",
+    "E": "Funktion von M. trapezius (Pars descendens) und M. levator scapulae."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD3-1-2",
+   "src": "SD3-1",
+   "typ": "klinik",
+   "q": "Ein Säugling hält den Kopf ständig zur rechten Schulter geneigt, das Kinn zeigt nach links (Torticollis muscularis). Welcher Muskel ist verkürzt?",
+   "o": [
+    "Linker M. sternocleidomastoideus",
+    "Rechter M. sternocleidomastoideus",
+    "Rechter M. trapezius",
+    "Linker M. scalenus anterior",
+    "Rechter M. levator scapulae"
+   ],
+   "a": "B",
+   "expl": "Beim angeborenen muskulären Schiefhals ist ein M. sternocleidomastoideus verkürzt. Er neigt den Kopf zur eigenen Seite und dreht das Gesicht zur Gegenseite: Neigung nach rechts und Kinn nach links bedeuten den rechten Muskel.",
+   "dis": {
+    "A": "Würde den Kopf nach links neigen und das Kinn nach rechts drehen.",
+    "C": "Neigt den Kopf, dreht das Kinn aber nicht zur Gegenseite.",
+    "D": "Würde den Hals nach links neigen.",
+    "E": "Hebt die Scapula; kein typischer Schiefhalsmuskel."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD3-2-1",
+   "src": "SD3-2",
+   "typ": "umkehrung",
+   "q": "Welche Faszienschicht umhüllt den M. sternocleidomastoideus und den M. trapezius?",
+   "o": [
+    "Lamina praetrachealis",
+    "Lamina praevertebralis",
+    "Lamina superficialis fasciae cervicalis",
+    "Vagina carotica",
+    "Fascia buccopharyngea"
+   ],
+   "a": "C",
+   "expl": "Die Lamina superficialis umgibt den ganzen Hals unter dem Platysma und spaltet sich auf, um M. sternocleidomastoideus und M. trapezius einzuhüllen. Darunter liegen Lamina praetrachealis und Lamina praevertebralis.",
+   "dis": {
+    "A": "Umhüllt die infrahyoidale Muskulatur.",
+    "B": "Bedeckt die prävertebrale Muskulatur, die Mm. scaleni und die tiefe Nackenmuskulatur.",
+    "D": "Umhüllt den Gefäß-Nerven-Strang des Halses.",
+    "E": "Bedeckt die Pharynxmuskulatur von außen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD3-2-2",
+   "src": "SD3-2",
+   "typ": "nachbarschaft",
+   "q": "Welche Struktur verläuft beidseits der Halswirbelsäule auf bzw. in der Lamina praevertebralis?",
+   "o": [
+    "N. vagus",
+    "V. jugularis interna",
+    "N. hypoglossus",
+    "Truncus sympathicus",
+    "A. carotis externa"
+   ],
+   "a": "D",
+   "expl": "Der Halsgrenzstrang mit seinen Ganglien (Ggl. cervicale superius, medium und stellatum) liegt der Lamina praevertebralis an bzw. in ihr, dorsal der Vagina carotica.",
+   "dis": {
+    "A": "Liegt in der Vagina carotica.",
+    "B": "Liegt in der Vagina carotica.",
+    "C": "Zieht oberhalb im Trigonum caroticum zur Zunge.",
+    "E": "Liegt im Trigonum caroticum, weiter ventral."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD3-3-1",
+   "src": "SD3-3",
+   "typ": "bild",
+   "q": "Aus welchem Gefäß entspringt die in der Abbildung mit dem Pfeil markierte Arterie?",
+   "o": [
+    "A. carotis communis",
+    "Truncus thyrocervicalis",
+    "A. carotis externa",
+    "A. thoracica interna",
+    "A. subclavia"
+   ],
+   "a": "E",
+   "expl": "Der Pfeil markiert die A. vertebralis. Sie ist der erste Ast der A. subclavia, steigt durch die Foramina transversaria der Halswirbel auf und durchbricht die Membrana atlantooccipitalis posterior.",
+   "dis": {
+    "A": "Gibt außer ihren Endästen keine Äste ab.",
+    "B": "Ast der A. subclavia, gibt u. a. die A. thyroidea inferior ab.",
+    "C": "Versorgt Hals und Gesicht.",
+    "D": "Ast der A. subclavia, zieht nach kaudal hinter dem Sternum."
+   },
+   "merk": "",
+   "img": "img/i145.jpg"
+  },
+  {
+   "id": "V-SD3-3-2",
+   "src": "SD3-3",
+   "typ": "perspektive",
+   "q": "Welche Arterie entsteht durch die Vereinigung der beiden Aa. vertebrales?",
+   "o": [
+    "A. basilaris",
+    "A. cerebri posterior",
+    "A. carotis interna",
+    "A. cerebri media",
+    "A. communicans posterior"
+   ],
+   "a": "A",
+   "expl": "Die beiden Aa. vertebrales vereinigen sich am Unterrand der Brücke zur A. basilaris. Diese teilt sich am Oberrand der Brücke in die beiden Aa. cerebri posteriores.",
+   "dis": {
+    "B": "Endast der A. basilaris.",
+    "C": "Eigenes Stromgebiet, zieht durch den Canalis caroticus.",
+    "D": "Endast der A. carotis interna.",
+    "E": "Verbindet A. carotis interna und A. cerebri posterior im Circulus arteriosus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD3-4-1",
+   "src": "SD3-4",
+   "typ": "perspektive",
+   "q": "Aus welchen Rückenmarkssegmenten stammen die Fasern der Ansa cervicalis (profunda)?",
+   "o": [
+    "C5–C6",
+    "C1–C3",
+    "C3–C5",
+    "C8–Th1",
+    "Nur C1"
+   ],
+   "a": "B",
+   "expl": "Die Ansa cervicalis entsteht aus einer Radix superior (Fasern aus C1, die mit dem N. hypoglossus verlaufen) und einer Radix inferior (C2/C3). Sie innerviert die infrahyoidale Muskulatur.",
+   "dis": {
+    "A": "Segmente des Truncus superior des Plexus brachialis.",
+    "C": "Segmente des N. phrenicus.",
+    "D": "Truncus inferior des Plexus brachialis.",
+    "E": "C1 bildet nur die Radix superior; die Radix inferior kommt aus C2/C3."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD3-4-2",
+   "src": "SD3-4",
+   "typ": "umkehrung",
+   "q": "Welcher infrahyoidale Muskel erhält seine Fasern aus C1 über einen eigenen Ast, der dem N. hypoglossus anliegt, und nicht über die Schlinge der Ansa cervicalis?",
+   "o": [
+    "M. omohyoideus",
+    "M. sternohyoideus",
+    "M. thyrohyoideus",
+    "M. sternothyroideus",
+    "M. stylohyoideus"
+   ],
+   "a": "C",
+   "expl": "Der M. thyrohyoideus (und der suprahyoidale M. geniohyoideus) wird von C1-Fasern innerviert, die ein Stück mit dem N. hypoglossus laufen und sich dann als eigener Ast abspalten. Die übrigen infrahyoidalen Muskeln werden über die Ansa cervicalis versorgt.",
+   "dis": {
+    "A": "Wird über die Ansa cervicalis innerviert (Lösung der Originalfrage).",
+    "B": "Wird über die Ansa cervicalis innerviert.",
+    "D": "Wird über die Ansa cervicalis innerviert.",
+    "E": "Gehört nicht zur infrahyoidalen Muskulatur; Innervation durch den N. facialis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD3-5-1",
+   "src": "SD3-5",
+   "typ": "klinik",
+   "q": "Nach einer Schilddrüsenoperation hat ein Patient Atemnot mit inspiratorischem Stridor. Beide Stimmlippen stehen median. Welcher Nerv ist beidseits geschädigt?",
+   "o": [
+    "R. externus n. laryngei superioris",
+    "N. hypoglossus",
+    "N. glossopharyngeus",
+    "N. laryngeus recurrens",
+    "N. phrenicus"
+   ],
+   "a": "D",
+   "expl": "Der N. laryngeus recurrens innerviert alle inneren Kehlkopfmuskeln außer dem M. cricothyroideus, darunter den einzigen Stimmritzenöffner (M. cricoarytenoideus posterior). Bei beidseitiger Läsion stehen die Stimmlippen median, und es droht Atemnot. Der Nerv verläuft dicht an der A. thyroidea inferior.",
+   "dis": {
+    "A": "Ausfall → Schwäche des M. cricothyroideus, rauere Stimme, keine Atemnot.",
+    "B": "Ausfall → Zungenlähmung.",
+    "C": "Ausfall → Schluck- und Geschmacksstörung.",
+    "E": "Ausfall → Zwerchfellhochstand, keine Stimmlippenlähmung."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD3-5-2",
+   "src": "SD3-5",
+   "typ": "umkehrung",
+   "q": "Welcher Kehlkopfmuskel wird nicht vom N. laryngeus recurrens innerviert?",
+   "o": [
+    "M. cricoarytenoideus posterior",
+    "M. cricoarytenoideus lateralis",
+    "M. vocalis",
+    "M. arytenoideus transversus",
+    "M. cricothyroideus"
+   ],
+   "a": "E",
+   "expl": "Der M. cricothyroideus ist der einzige äußere Kehlkopfmuskel. Er wird vom R. externus des N. laryngeus superior innerviert; alle anderen Kehlkopfmuskeln vom N. laryngeus recurrens.",
+   "dis": {
+    "A": "N. laryngeus recurrens.",
+    "B": "N. laryngeus recurrens.",
+    "C": "N. laryngeus recurrens.",
+    "D": "N. laryngeus recurrens."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD3-6-1",
+   "src": "SD3-6",
+   "typ": "nachbarschaft",
+   "q": "Über welche Öffnung kommuniziert die Fossa pterygopalatina mit der Nasenhöhle?",
+   "o": [
+    "Foramen sphenopalatinum",
+    "Fissura orbitalis inferior",
+    "Foramen rotundum",
+    "Canalis pterygoideus",
+    "Fissura pterygomaxillaris"
+   ],
+   "a": "A",
+   "expl": "Die Fossa pterygopalatina ist ein Verteilerraum. Medial wird sie von der Lamina perpendicularis des Os palatinum begrenzt; darin liegt das Foramen sphenopalatinum zur Nasenhöhle (Vasa und Nn. sphenopalatini).",
+   "dis": {
+    "B": "Verbindung zur Orbita.",
+    "C": "Verbindung zur mittleren Schädelgrube (N. maxillaris).",
+    "D": "Verbindung zur Schädelbasis (N. canalis pterygoidei).",
+    "E": "Verbindung zur Fossa infratemporalis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD3-6-2",
+   "src": "SD3-6",
+   "typ": "perspektive",
+   "q": "Welches Ganglion liegt in der Fossa pterygopalatina?",
+   "o": [
+    "Ganglion ciliare",
+    "Ganglion pterygopalatinum",
+    "Ganglion oticum",
+    "Ganglion submandibulare",
+    "Ganglion trigeminale"
+   ],
+   "a": "B",
+   "expl": "Im parasympathischen Ganglion pterygopalatinum werden Fasern aus dem N. petrosus major (N. facialis) umgeschaltet. Sie versorgen Tränendrüse sowie Drüsen von Nase und Gaumen.",
+   "dis": {
+    "A": "Liegt in der Orbita lateral des N. opticus.",
+    "C": "Liegt unter dem Foramen ovale medial des N. mandibularis.",
+    "D": "Liegt am N. lingualis über der Glandula submandibularis.",
+    "E": "Liegt in der mittleren Schädelgrube auf der Felsenbeinspitze."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD3-7-1",
+   "src": "SD3-7",
+   "typ": "perspektive",
+   "q": "Durch welche Öffnung gelangt die A. vertebralis in die Schädelhöhle?",
+   "o": [
+    "Canalis caroticus",
+    "Foramen jugulare",
+    "Foramen magnum",
+    "Foramen lacerum",
+    "Canalis n. hypoglossi"
+   ],
+   "a": "C",
+   "expl": "Nach dem Durchtritt durch die Membrana atlantooccipitalis posterior und die Dura mater zieht die A. vertebralis durch das Foramen magnum in die hintere Schädelgrube.",
+   "dis": {
+    "A": "Durchtritt der A. carotis interna.",
+    "B": "Durchtritt von V. jugularis interna und Hirnnerven IX–XI.",
+    "D": "Mit Faserknorpel verschlossen; die A. carotis interna zieht nur darüber.",
+    "E": "Durchtritt des N. hypoglossus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD3-7-2",
+   "src": "SD3-7",
+   "typ": "klinik",
+   "q": "Der Verschluss eines Astes der A. vertebralis verursacht ein Wallenberg-Syndrom (dorsolaterale Medulla oblongata). Welcher Ast ist betroffen?",
+   "o": [
+    "A. inferior anterior cerebelli",
+    "A. superior cerebelli",
+    "A. cerebri posterior",
+    "A. inferior posterior cerebelli",
+    "A. ophthalmica"
+   ],
+   "a": "D",
+   "expl": "Die A. inferior posterior cerebelli (PICA) ist der größte Ast der A. vertebralis. Sie versorgt die dorsolaterale Medulla oblongata und die Unterfläche des Kleinhirns. Ihr Verschluss führt zum Wallenberg-Syndrom.",
+   "dis": {
+    "A": "Entspringt aus der A. basilaris.",
+    "B": "Entspringt aus der A. basilaris kurz vor deren Teilung.",
+    "C": "Endast der A. basilaris, versorgt den Okzipitallappen.",
+    "E": "Ast der A. carotis interna."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD3-8-1",
+   "src": "SD3-8",
+   "typ": "perspektive",
+   "q": "Aus welchem Gefäß entspringt die A. thyroidea inferior?",
+   "o": [
+    "A. carotis externa",
+    "A. carotis communis",
+    "A. vertebralis",
+    "Arcus aortae direkt",
+    "Truncus thyrocervicalis"
+   ],
+   "a": "E",
+   "expl": "Der Truncus thyrocervicalis aus der A. subclavia gibt die A. thyroidea inferior, die A. cervicalis ascendens, die A. suprascapularis und die A. transversa colli ab. Die A. thyroidea inferior zieht hinter der A. carotis communis zur Schilddrüse, dicht am N. laryngeus recurrens.",
+   "dis": {
+    "A": "Gibt die A. thyroidea superior ab.",
+    "B": "Gibt keine Äste außer den Endästen ab.",
+    "C": "Versorgt Rückenmark und Gehirn.",
+    "D": "Daraus entspringt nur variabel eine A. thyroidea ima."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD3-8-2",
+   "src": "SD3-8",
+   "typ": "umkehrung",
+   "q": "Welche Arterie ist typischerweise der erste ventrale Ast der A. carotis externa?",
+   "o": [
+    "A. thyroidea superior",
+    "A. lingualis",
+    "A. facialis",
+    "A. maxillaris",
+    "A. temporalis superficialis"
+   ],
+   "a": "A",
+   "expl": "Die ventralen Äste der A. carotis externa sind von kaudal nach kranial: A. thyroidea superior, A. lingualis, A. facialis. Die Endäste sind A. maxillaris und A. temporalis superficialis.",
+   "dis": {
+    "B": "Zweiter ventraler Ast, in Höhe des Zungenbeins.",
+    "C": "Dritter ventraler Ast.",
+    "D": "Endast hinter dem Collum mandibulae.",
+    "E": "Endast vor dem Ohr."
+   },
+   "merk": "„Some Anatomists Like Freaking Out Poor Medical Students“: Superior thyroid, Ascending pharyngeal, Lingual, Facial, Occipital, Posterior auricular, Maxillary, Superficial temporal.",
+   "img": null
+  },
+  {
+   "id": "V-SD3-9-1",
+   "src": "SD3-9",
+   "typ": "perspektive",
+   "q": "Welcher Nerv innerviert den M. cricothyroideus?",
+   "o": [
+    "N. laryngeus recurrens",
+    "R. externus des N. laryngeus superior",
+    "R. internus des N. laryngeus superior",
+    "N. hypoglossus",
+    "Ansa cervicalis"
+   ],
+   "a": "B",
+   "expl": "Der N. laryngeus superior aus dem N. vagus teilt sich in einen sensiblen R. internus und einen motorischen R. externus. Der R. externus versorgt den M. cricothyroideus, deshalb wird dieser Muskel von einem Hirnnerv innerviert.",
+   "dis": {
+    "A": "Innerviert alle übrigen inneren Kehlkopfmuskeln.",
+    "C": "Sensibel für die Schleimhaut oberhalb der Stimmlippen.",
+    "D": "Innerviert die Zungenmuskulatur.",
+    "E": "Innerviert die infrahyoidale Muskulatur."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD3-9-2",
+   "src": "SD3-9",
+   "typ": "perspektive",
+   "q": "Welche Funktion hat der M. cricothyroideus?",
+   "o": [
+    "Er öffnet die Stimmritze.",
+    "Er schließt die Pars intercartilaginea der Stimmritze.",
+    "Er spannt die Stimmlippen grob, indem er Ring- und Schildknorpel gegeneinander kippt.",
+    "Er senkt den Kehlkopf.",
+    "Er hebt das Zungenbein."
+   ],
+   "a": "C",
+   "expl": "Der M. cricothyroideus kippt den Schildknorpel nach vorne-unten gegen den Ringknorpel. Dadurch werden die Stimmlippen verlängert und gespannt (Grobspannung, hohe Töne); die Feinspannung übernimmt der M. vocalis.",
+   "dis": {
+    "A": "Das tut nur der M. cricoarytenoideus posterior.",
+    "B": "Das tut der M. arytenoideus transversus.",
+    "D": "Das tun die infrahyoidalen Muskeln.",
+    "E": "Das tun die suprahyoidalen Muskeln."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD3-10-1",
+   "src": "SD3-10",
+   "typ": "bild",
+   "q": "Die mit dem blauen Pfeil markierte Vertiefung liegt zwischen",
+   "o": [
+    "Plica aryepiglottica und Schildknorpel",
+    "Stimmlippe und Taschenfalte",
+    "Arcus palatoglossus und Arcus palatopharyngeus",
+    "Zungengrund und Epiglottis",
+    "Ösophagus und Trachea"
+   ],
+   "a": "D",
+   "expl": "Der Pfeil zeigt auf eine Vallecula epiglottica. Die beiden Valleculae liegen zwischen Zungengrund und Epiglottis, getrennt durch die Plica glossoepiglottica mediana. Dort bleiben gern Fremdkörper (z. B. Fischgräten) hängen.",
+   "dis": {
+    "A": "Dort liegt der Recessus piriformis.",
+    "B": "Dort liegt der Ventriculus laryngis.",
+    "C": "Dort liegt die Fossa tonsillaris.",
+    "E": "Keine Vertiefung, sondern Wandkontakt."
+   },
+   "merk": "",
+   "img": "img/i146.jpg"
+  },
+  {
+   "id": "V-SD3-10-2",
+   "src": "SD3-10",
+   "typ": "klinik",
+   "q": "Bei der Intubation mit einem gebogenen Macintosh-Spatel wird die Spatelspitze in die mit dem blauen Pfeil markierte Struktur gelegt. Was wird dadurch erreicht?",
+   "o": [
+    "Die Stimmlippen werden auseinandergedrängt.",
+    "Der Ösophaguseingang wird verschlossen.",
+    "Der N. laryngeus recurrens wird betäubt.",
+    "Der Recessus piriformis wird entfaltet.",
+    "Die Epiglottis wird indirekt angehoben und gibt den Blick auf die Stimmritze frei."
+   ],
+   "a": "E",
+   "expl": "Die Spitze des Macintosh-Spatels liegt in der Vallecula. Zug am Spatel spannt das Lig. hyoepiglotticum und richtet die Epiglottis auf, ohne sie direkt zu berühren. So wird der Kehlkopfeingang sichtbar.",
+   "dis": {
+    "A": "Der Spatel berührt die Stimmlippen nicht.",
+    "B": "Der Ösophagus liegt dorsal; er wird so nicht verschlossen.",
+    "C": "Dafür ist der Spatel nicht da; der Nerv liegt nicht dort.",
+    "D": "Der liegt seitlich des Kehlkopfeingangs."
+   },
+   "merk": "",
+   "img": "img/i146.jpg"
+  },
+  {
+   "id": "V-SD3-11-1",
+   "src": "SD3-11",
+   "typ": "bild",
+   "q": "Welche Muskeln werden von der mit dem roten Pfeil markierten Faszie umhüllt?",
+   "o": [
+    "Die infrahyoidalen Muskeln",
+    "M. sternocleidomastoideus und M. trapezius",
+    "Die Mm. scaleni",
+    "M. longus colli und M. longus capitis",
+    "Die autochthone Nackenmuskulatur"
+   ],
+   "a": "A",
+   "expl": "Der rote Pfeil markiert die Lamina praetrachealis (mittleres Blatt der Halsfaszie). Sie spannt sich zwischen den beiden Mm. omohyoidei aus und hüllt die infrahyoidalen Muskeln ein; sie geht in die Vagina carotica über.",
+   "dis": {
+    "B": "Umhüllt von der Lamina superficialis.",
+    "C": "Bedeckt von der Lamina praevertebralis.",
+    "D": "Bedeckt von der Lamina praevertebralis.",
+    "E": "Bedeckt von der Lamina praevertebralis."
+   },
+   "merk": "",
+   "img": "img/i147.jpg"
+  },
+  {
+   "id": "V-SD3-11-2",
+   "src": "SD3-11",
+   "typ": "nachbarschaft",
+   "q": "Welche Leitungsbahnen liegen in der Vagina carotica?",
+   "o": [
+    "A. vertebralis, N. phrenicus und Truncus sympathicus",
+    "A. carotis communis, V. jugularis interna und N. vagus",
+    "A. subclavia, N. accessorius und V. jugularis externa",
+    "A. thyroidea inferior, N. laryngeus recurrens und Trachea",
+    "A. carotis externa, N. hypoglossus und V. facialis"
+   ],
+   "a": "B",
+   "expl": "Die Vagina carotica wird von allen drei Blättern der Halsfaszie gebildet. In ihr liegen A. carotis communis (bzw. interna) medial, V. jugularis interna lateral und der N. vagus dorsal zwischen beiden.",
+   "dis": {
+    "A": "Diese liegen dorsal unter bzw. in der Lamina praevertebralis.",
+    "C": "Liegen im seitlichen Halsdreieck bzw. epifaszial.",
+    "D": "Liegen medial im Eingeweideraum.",
+    "E": "Liegen kranial im Trigonum caroticum."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD3-12-1",
+   "src": "SD3-12",
+   "typ": "bild",
+   "q": "Der mit 3 markierte Muskel bildet die vordere Begrenzung welcher Halsregion?",
+   "o": [
+    "Trigonum submandibulare",
+    "Trigonum submentale",
+    "Regio cervicalis lateralis (seitliches Halsdreieck)",
+    "Trigonum musculare",
+    "Fossa supraclavicularis minor"
+   ],
+   "a": "C",
+   "expl": "Nr. 3 ist der M. sternocleidomastoideus. Das seitliche Halsdreieck wird vorne vom M. sternocleidomastoideus, hinten vom M. trapezius und unten von der Clavicula begrenzt. Darin verlaufen u. a. N. accessorius und Plexus brachialis.",
+   "dis": {
+    "A": "Wird von Unterkiefer und den Bäuchen des M. digastricus begrenzt.",
+    "B": "Liegt zwischen den vorderen Digastricusbäuchen und dem Zungenbein.",
+    "D": "Liegt vor dem M. sternocleidomastoideus; der Muskel begrenzt es hinten-seitlich.",
+    "E": "Liegt zwischen den beiden Köpfen des Muskels."
+   },
+   "merk": "",
+   "img": "img/i148.jpg"
+  },
+  {
+   "id": "V-SD3-12-2",
+   "src": "SD3-12",
+   "typ": "bild",
+   "q": "Welche Nerven treten etwa in der Mitte des Hinterrands des mit 3 markierten Muskels aus (Punctum nervosum, Erb-Punkt)?",
+   "o": [
+    "N. hypoglossus",
+    "N. vagus",
+    "R. colli des N. facialis",
+    "Sensible Äste des Plexus cervicalis",
+    "N. phrenicus"
+   ],
+   "a": "D",
+   "expl": "Am Punctum nervosum treten die sensiblen Äste des Plexus cervicalis aus: N. occipitalis minor, N. auricularis magnus, N. transversus colli und Nn. supraclaviculares. Dort wird bei der Halsplexusblockade injiziert.",
+   "dis": {
+    "A": "Zieht oberhalb im Trigonum caroticum zur Zunge.",
+    "B": "Liegt in der Vagina carotica in der Tiefe.",
+    "C": "Verläuft unter dem Platysma von kranial und innerviert dieses.",
+    "E": "Liegt in der Tiefe auf dem M. scalenus anterior."
+   },
+   "merk": "",
+   "img": "img/i148.jpg"
+  },
+  {
+   "id": "V-SD3-13-1",
+   "src": "SD3-13",
+   "typ": "bild",
+   "q": "Auf welcher Höhe teilt sich die mit 4 markierte Arterie typischerweise in ihre Endäste?",
+   "o": [
+    "Ringknorpel (etwa C6)",
+    "Kieferwinkel (etwa C2)",
+    "Höhe Th1",
+    "Sternoklavikulargelenk",
+    "Oberrand des Schildknorpels (etwa C4)"
+   ],
+   "a": "E",
+   "expl": "Nr. 4 ist die A. carotis communis sinistra. Sie teilt sich in Höhe des Oberrands des Schildknorpels (C4) im Trigonum caroticum in A. carotis interna und externa. An der Teilungsstelle liegen Sinus caroticus und Glomus caroticum.",
+   "dis": {
+    "A": "Hier liegt das Tuberculum caroticum, an dem die Arterie komprimiert werden kann.",
+    "B": "Zu hoch.",
+    "C": "Hier liegt der Ursprung der Arterie (links aus dem Aortenbogen).",
+    "D": "Hier entspringt die rechte A. carotis communis."
+   },
+   "merk": "",
+   "img": "img/i149.jpg"
+  },
+  {
+   "id": "V-SD3-13-2",
+   "src": "SD3-13",
+   "typ": "perspektive",
+   "q": "Woraus entspringt die linke A. carotis communis?",
+   "o": [
+    "Direkt aus dem Arcus aortae",
+    "Aus dem Truncus brachiocephalicus",
+    "Aus der A. subclavia sinistra",
+    "Aus der Aorta ascendens",
+    "Aus dem Truncus thyrocervicalis"
+   ],
+   "a": "A",
+   "expl": "Aus dem Aortenbogen gehen von rechts nach links Truncus brachiocephalicus, A. carotis communis sinistra und A. subclavia sinistra ab. Rechts entstehen A. carotis communis und A. subclavia aus dem Truncus brachiocephalicus.",
+   "dis": {
+    "B": "So entspringt die rechte A. carotis communis.",
+    "C": "Die A. subclavia sinistra entspringt selbst aus dem Aortenbogen.",
+    "D": "Aus ihr gehen nur die Koronararterien ab.",
+    "E": "Ast der A. subclavia, versorgt u. a. die Schilddrüse."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD3-14-1",
+   "src": "SD3-14",
+   "typ": "nachbarschaft",
+   "q": "Welche Strukturen ziehen durch die hintere Skalenuslücke (zwischen M. scalenus anterior und M. scalenus medius)?",
+   "o": [
+    "V. subclavia",
+    "Plexus brachialis und A. subclavia",
+    "N. phrenicus",
+    "N. vagus",
+    "Ductus thoracicus"
+   ],
+   "a": "B",
+   "expl": "Durch die hintere Skalenuslücke ziehen Plexus brachialis und A. subclavia. Bei Enge (z. B. Halsrippe) entsteht das Skalenussyndrom mit neurologischen und vaskulären Beschwerden am Arm.",
+   "dis": {
+    "A": "Zieht vor dem M. scalenus anterior (vordere Skalenuslücke).",
+    "C": "Liegt auf der Vorderfläche des M. scalenus anterior.",
+    "D": "Liegt in der Vagina carotica.",
+    "E": "Mündet weiter medial in den linken Venenwinkel."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD3-14-2",
+   "src": "SD3-14",
+   "typ": "bild",
+   "q": "Welcher Nerv verläuft auf der Vorderfläche des mit 8 markierten Muskels nach kaudal?",
+   "o": [
+    "N. vagus",
+    "N. accessorius",
+    "N. phrenicus",
+    "N. hypoglossus",
+    "Truncus sympathicus"
+   ],
+   "a": "C",
+   "expl": "Nr. 8 ist der M. scalenus anterior. Der N. phrenicus (C3–C5) zieht auf seiner Vorderfläche von lateral nach medial ins Mediastinum zum Zwerchfell. Er ist der Leitmuskel für den Nerv.",
+   "dis": {
+    "A": "Verläuft in der Vagina carotica.",
+    "B": "Zieht durch das seitliche Halsdreieck zum M. trapezius.",
+    "D": "Zieht kranial zur Zunge.",
+    "E": "Liegt medial auf der prävertebralen Muskulatur."
+   },
+   "merk": "„C3, 4, 5 keeps the diaphragm alive.“",
+   "img": "img/i150.jpg"
+  },
+  {
+   "id": "V-SD3-15-1",
+   "src": "SD3-15",
+   "typ": "bild",
+   "q": "In das Foramen transversarium welches Halswirbels tritt die mit 2 markierte Arterie typischerweise zuerst ein?",
+   "o": [
+    "C7",
+    "C5",
+    "C4",
+    "C6",
+    "C1"
+   ],
+   "a": "D",
+   "expl": "Nr. 2 ist die A. vertebralis. Sie tritt meist in das Foramen transversarium von C6 ein und steigt durch die Foramina von C6 bis C1 auf. Der Abschnitt vor C6 wird als Pars praevertebralis bezeichnet.",
+   "dis": {
+    "A": "Durch das Foramen transversarium von C7 ziehen meist nur Venen.",
+    "B": "Nur bei Varianten.",
+    "C": "Nur bei Varianten.",
+    "E": "Das ist das letzte Foramen transversarium vor dem Eintritt in den Schädel."
+   },
+   "merk": "",
+   "img": "img/i151.jpg"
+  },
+  {
+   "id": "V-SD3-15-2",
+   "src": "SD3-15",
+   "typ": "perspektive",
+   "q": "Welche Äste gibt die A. subclavia medial des M. scalenus anterior ab?",
+   "o": [
+    "Truncus costocervicalis und A. transversa colli",
+    "A. thyroidea superior und A. lingualis",
+    "A. carotis communis und A. vertebralis",
+    "A. axillaris und A. thoracodorsalis",
+    "A. vertebralis, A. thoracica interna und Truncus thyrocervicalis"
+   ],
+   "a": "E",
+   "expl": "Die A. subclavia wird durch den M. scalenus anterior in drei Abschnitte geteilt. Medial (vor) dem Muskel gehen A. vertebralis, A. thoracica interna und Truncus thyrocervicalis ab, hinter dem Muskel der Truncus costocervicalis.",
+   "dis": {
+    "A": "Der Truncus costocervicalis entspringt hinter dem Muskel.",
+    "B": "Äste der A. carotis externa.",
+    "C": "Die A. carotis communis ist kein Ast der A. subclavia.",
+    "D": "Liegen jenseits der 1. Rippe."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD3-16-1",
+   "src": "SD3-16",
+   "typ": "bild",
+   "q": "Durch welche Halsregion verläuft der mit 5 markierte Nerv auf dem Weg zum M. trapezius?",
+   "o": [
+    "Regio cervicalis lateralis (seitliches Halsdreieck)",
+    "Trigonum caroticum",
+    "Trigonum submentale",
+    "Trigonum musculare",
+    "Fossa retromandibularis"
+   ],
+   "a": "A",
+   "expl": "Nr. 5 ist der N. accessorius. Er durchbohrt bzw. innerviert den M. sternocleidomastoideus und zieht dann oberflächlich durch das seitliche Halsdreieck zum M. trapezius. Dort ist er bei Lymphknotenbiopsien gefährdet.",
+   "dis": {
+    "B": "Dort verlaufen A. carotis und N. hypoglossus.",
+    "C": "Liegt unter dem Kinn.",
+    "D": "Liegt vor dem M. sternocleidomastoideus über der infrahyoidalen Muskulatur.",
+    "E": "Liegt hinter dem Unterkieferast mit Glandula parotidea."
+   },
+   "merk": "",
+   "img": "img/i152.jpg"
+  },
+  {
+   "id": "V-SD3-16-2",
+   "src": "SD3-16",
+   "typ": "perspektive",
+   "q": "Durch welche Öffnung verlässt der N. accessorius die Schädelhöhle?",
+   "o": [
+    "Canalis n. hypoglossi",
+    "Foramen jugulare",
+    "Foramen ovale",
+    "Foramen stylomastoideum",
+    "Foramen magnum"
+   ],
+   "a": "B",
+   "expl": "Die spinalen Wurzeln des N. accessorius steigen durch das Foramen magnum auf und verlassen den Schädel gemeinsam mit N. glossopharyngeus und N. vagus durch das Foramen jugulare.",
+   "dis": {
+    "A": "Durchtritt des N. hypoglossus.",
+    "C": "Durchtritt des N. mandibularis.",
+    "D": "Durchtritt des N. facialis.",
+    "E": "Hier tritt die spinale Wurzel in den Schädel ein, verlässt ihn aber nicht dort."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD3-17-1",
+   "src": "SD3-17",
+   "typ": "bild",
+   "q": "Wo mündet die mit 5 markierte Struktur?",
+   "o": [
+    "In den rechten Venenwinkel",
+    "In die V. azygos",
+    "In den linken Venenwinkel",
+    "Direkt in die V. cava superior",
+    "In die V. jugularis externa dextra"
+   ],
+   "a": "C",
+   "expl": "Nr. 5 ist der Ductus thoracicus. Er steigt hinter dem Ösophagus auf, biegt in Höhe C7 nach links und mündet in den Winkel zwischen V. jugularis interna und V. subclavia sinistra.",
+   "dis": {
+    "A": "Dort mündet der Ductus lymphaticus dexter.",
+    "B": "Der Ductus thoracicus läuft im Mediastinum neben ihr, mündet aber nicht dort.",
+    "D": "Nicht der typische Mündungsort.",
+    "E": "Falsche Seite und falsche Vene."
+   },
+   "merk": "",
+   "img": "img/i153.jpg"
+  },
+  {
+   "id": "V-SD3-17-2",
+   "src": "SD3-17",
+   "typ": "umkehrung",
+   "q": "Aus welchem Gebiet sammelt der Ductus thoracicus keine Lymphe?",
+   "o": [
+    "Untere Extremitäten",
+    "Bauchorgane",
+    "Linke Kopf- und Halsseite",
+    "Rechter Arm und rechte Kopf-, Hals- und Thoraxhälfte",
+    "Linker Arm"
+   ],
+   "a": "D",
+   "expl": "Der Ductus thoracicus drainiert etwa drei Viertel des Körpers. Lymphe aus rechtem Arm, rechter Kopf- und Halshälfte und rechter Thoraxhälfte fließt über den Ductus lymphaticus dexter in den rechten Venenwinkel.",
+   "dis": {
+    "A": "Gelangt über die Trunci lumbales in die Cisterna chyli.",
+    "B": "Gelangt über die Trunci intestinales in die Cisterna chyli.",
+    "C": "Gelangt über den Truncus jugularis sinister.",
+    "E": "Gelangt über den Truncus subclavius sinister."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD3-18-1",
+   "src": "SD3-18",
+   "typ": "bild",
+   "q": "Von welchem Nerv wird der mit dem Pfeil markierte Muskel innerviert?",
+   "o": [
+    "N. glossopharyngeus",
+    "N. lingualis",
+    "N. facialis",
+    "Ansa cervicalis",
+    "N. hypoglossus"
+   ],
+   "a": "E",
+   "expl": "Der Pfeil markiert den M. hyoglossus. Alle äußeren und inneren Zungenmuskeln werden vom N. hypoglossus innerviert; die einzige Ausnahme ist der M. palatoglossus (N. vagus, Plexus pharyngeus).",
+   "dis": {
+    "A": "Sensibel und sensorisch für das hintere Zungendrittel.",
+    "B": "Sensibel für die vorderen zwei Drittel der Zunge.",
+    "C": "Geschmack (Chorda tympani), nicht motorisch für die Zunge.",
+    "D": "Innerviert die infrahyoidale Muskulatur."
+   },
+   "merk": "",
+   "img": "img/i154.jpg"
+  },
+  {
+   "id": "V-SD3-18-2",
+   "src": "SD3-18",
+   "typ": "nachbarschaft",
+   "q": "Welche Leitungsbahn verläuft medial (in der Tiefe) des M. hyoglossus?",
+   "o": [
+    "A. lingualis",
+    "N. hypoglossus",
+    "N. lingualis",
+    "Ductus submandibularis",
+    "Glandula sublingualis"
+   ],
+   "a": "A",
+   "expl": "Der M. hyoglossus ist ein wichtiger Leitmuskel. Lateral auf ihm liegen von kranial nach kaudal N. lingualis, Ductus submandibularis und N. hypoglossus; die A. lingualis zieht medial unter ihm hindurch.",
+   "dis": {
+    "B": "Liegt lateral auf dem Muskel.",
+    "C": "Liegt lateral auf dem Muskel.",
+    "D": "Liegt lateral auf dem Muskel.",
+    "E": "Liegt oberhalb des M. mylohyoideus lateral."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD3-19-1",
+   "src": "SD3-19",
+   "typ": "klinik",
+   "q": "Bei einer einseitigen peripheren Läsion des N. hypoglossus weicht die herausgestreckte Zunge",
+   "o": [
+    "zur gesunden Seite ab",
+    "zur gelähmten Seite ab",
+    "gar nicht ab",
+    "nach oben ab",
+    "nicht ab, weil sie gar nicht mehr herausgestreckt werden kann"
+   ],
+   "a": "B",
+   "expl": "Der M. genioglossus schiebt die Zunge nach vorne und zur Gegenseite. Fällt er einseitig aus, überwiegt die gesunde Seite, und die Zungenspitze weicht zur gelähmten Seite ab; dort atrophiert die Zunge.",
+   "dis": {
+    "A": "Der gesunde M. genioglossus schiebt die Zunge zur Gegenseite, also zur kranken Seite.",
+    "C": "Bei einseitiger Läsion gibt es eine typische Abweichung.",
+    "D": "Keine typische Abweichung nach oben.",
+    "E": "Die gesunde Seite kann die Zunge noch herausstrecken."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD3-19-2",
+   "src": "SD3-19",
+   "typ": "perspektive",
+   "q": "Durch welche Öffnung verlässt der N. hypoglossus den Schädel?",
+   "o": [
+    "Foramen jugulare",
+    "Foramen ovale",
+    "Canalis n. hypoglossi",
+    "Foramen rotundum",
+    "Foramen stylomastoideum"
+   ],
+   "a": "C",
+   "expl": "Der N. hypoglossus verlässt den Schädel durch den Canalis n. hypoglossi oberhalb des Condylus occipitalis. Er zieht dann bogenförmig über A. carotis interna und externa zur Zunge.",
+   "dis": {
+    "A": "Durchtritt der Hirnnerven IX–XI.",
+    "B": "Durchtritt des N. mandibularis.",
+    "D": "Durchtritt des N. maxillaris.",
+    "E": "Durchtritt des N. facialis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD3-20-1",
+   "src": "SD3-20",
+   "typ": "bild",
+   "q": "Wo liegt die mit dem weißen Pfeil markierte Struktur innerhalb der Vagina carotica?",
+   "o": [
+    "Ventral der A. carotis communis",
+    "Medial der Trachea",
+    "Lateral der V. jugularis interna",
+    "Dorsal zwischen A. carotis communis und V. jugularis interna",
+    "Außerhalb der Gefäßscheide auf dem M. scalenus anterior"
+   ],
+   "a": "D",
+   "expl": "Der weiße Pfeil markiert den N. vagus. Er liegt in der Vagina carotica dorsal in der Rinne zwischen A. carotis communis (medial) und V. jugularis interna (lateral).",
+   "dis": {
+    "A": "Ventral liegt nur die Ansa cervicalis auf der Gefäßscheide.",
+    "B": "Liegt außerhalb der Gefäßscheide.",
+    "C": "Die Vene liegt am weitesten lateral.",
+    "E": "Dort liegt der N. phrenicus."
+   },
+   "merk": "",
+   "img": "img/i156.jpg"
+  },
+  {
+   "id": "V-SD3-20-2",
+   "src": "SD3-20",
+   "typ": "perspektive",
+   "q": "Welcher Ast des N. vagus schlingt sich auf der linken Seite um den Aortenbogen?",
+   "o": [
+    "N. laryngeus superior",
+    "Rr. cardiaci cervicales",
+    "R. pharyngeus",
+    "R. auricularis",
+    "N. laryngeus recurrens sinister"
+   ],
+   "a": "E",
+   "expl": "Der linke N. laryngeus recurrens schlingt sich um den Aortenbogen (lateral des Lig. arteriosum), der rechte um die A. subclavia dextra. Beide steigen in der Rinne zwischen Trachea und Ösophagus zum Kehlkopf auf. Ein Aortenaneurysma kann deshalb Heiserkeit verursachen.",
+   "dis": {
+    "A": "Zweigt hoch am Hals ab.",
+    "B": "Ziehen zum Plexus cardiacus, schlingen sich nicht um die Aorta.",
+    "C": "Zieht zum Plexus pharyngeus.",
+    "D": "Sensibel für den äußeren Gehörgang."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD3-21-1",
+   "src": "SD3-21",
+   "typ": "perspektive",
+   "q": "Welcher Muskel schließt die Pars intercartilaginea der Stimmritze?",
+   "o": [
+    "M. arytenoideus transversus",
+    "M. cricoarytenoideus posterior",
+    "M. cricothyroideus",
+    "M. thyroepiglotticus",
+    "M. vocalis"
+   ],
+   "a": "A",
+   "expl": "Der M. arytenoideus transversus nähert die Aryknorpel einander und schließt so den hinteren, knorpeligen Teil der Stimmritze. Der M. cricoarytenoideus lateralis schließt den vorderen, membranösen Teil.",
+   "dis": {
+    "B": "Einziger Öffner der Stimmritze.",
+    "C": "Spannt die Stimmlippen.",
+    "D": "Erweitert den Kehlkopfeingang.",
+    "E": "Feinspannung der Stimmlippen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD3-21-2",
+   "src": "SD3-21",
+   "typ": "umkehrung",
+   "q": "Welche Muskeln schließen die Stimmritze (Adduktoren der Stimmlippen)?",
+   "o": [
+    "M. cricoarytenoideus posterior und M. cricothyroideus",
+    "M. cricoarytenoideus lateralis und M. arytenoideus transversus",
+    "M. cricothyroideus allein",
+    "M. thyrohyoideus und M. sternothyroideus",
+    "M. cricoarytenoideus posterior allein"
+   ],
+   "a": "B",
+   "expl": "Die Stimmritze schließen M. cricoarytenoideus lateralis (Pars intermembranacea) und Mm. arytenoidei transversus und obliquus (Pars intercartilaginea). Der M. vocalis unterstützt durch Feinspannung. Einziger Öffner ist der M. cricoarytenoideus posterior.",
+   "dis": {
+    "A": "Der Posticus öffnet; der M. cricothyroideus spannt.",
+    "C": "Er spannt die Stimmlippen, schließt aber nicht die Stimmritze.",
+    "D": "Äußere (infrahyoidale) Muskeln, bewegen den Kehlkopf als Ganzes.",
+    "E": "Einziger Öffner."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD3-22-1",
+   "src": "SD3-22",
+   "typ": "bild",
+   "q": "Vor welchen Strukturen liegt der Isthmus der mit 6 markierten Drüse typischerweise?",
+   "o": [
+    "Vor dem Ringknorpel",
+    "Vor dem Schildknorpel",
+    "Vor dem 2. bis 4. Trachealknorpel",
+    "Vor dem 6. bis 8. Trachealknorpel",
+    "Vor dem Zungenbein"
+   ],
+   "a": "C",
+   "expl": "Nr. 6 ist die Glandula thyroidea. Ihr Isthmus liegt vor dem 2.–4. Trachealknorpel. Deshalb unterscheidet man bei der Tracheotomie eine obere (oberhalb des Isthmus) und eine untere Tracheotomie.",
+   "dis": {
+    "A": "Liegt etwas höher; davor liegt ggf. der Lobus pyramidalis.",
+    "B": "Zu hoch.",
+    "D": "Zu tief, schon hinter dem Sternum.",
+    "E": "Hier endet allenfalls der Ductus thyroglossus."
+   },
+   "merk": "",
+   "img": "img/i158.jpg"
+  },
+  {
+   "id": "V-SD3-22-2",
+   "src": "SD3-22",
+   "typ": "perspektive",
+   "q": "Welches Hormon wird von den parafollikulären C-Zellen der Glandula thyroidea gebildet?",
+   "o": [
+    "Parathormon",
+    "Thyroxin (T4)",
+    "Insulin",
+    "Calcitonin",
+    "Cortisol"
+   ],
+   "a": "D",
+   "expl": "Die C-Zellen liegen zwischen den Follikeln und stammen aus der Neuralleiste (über den ultimobranchialen Körper). Sie bilden Calcitonin, das den Calciumspiegel senkt.",
+   "dis": {
+    "A": "Wird von den Epithelkörperchen (Glandulae parathyroideae) gebildet.",
+    "B": "Wird von den Follikelepithelzellen gebildet.",
+    "C": "Wird von den B-Zellen des Pankreas gebildet.",
+    "E": "Wird in der Nebennierenrinde gebildet."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD3-23-1",
+   "src": "SD3-23",
+   "typ": "nachbarschaft",
+   "q": "Wo liegt das Ganglion cervicale superius?",
+   "o": [
+    "In Höhe C6 vor der A. vertebralis",
+    "In Höhe C7/Th1 am Hals der 1. Rippe",
+    "Im Foramen jugulare",
+    "In der Fossa pterygopalatina",
+    "In Höhe C2/C3 dorsal der A. carotis interna auf der prävertebralen Muskulatur"
+   ],
+   "a": "E",
+   "expl": "Das Ganglion cervicale superius ist das größte Halsganglion des Sympathikus. Es liegt in Höhe C2/C3 hinter der A. carotis interna; seine postganglionären Fasern ziehen mit den Arterien zu Kopf und Auge.",
+   "dis": {
+    "A": "Lage des Ganglion cervicale medium.",
+    "B": "Lage des Ganglion cervicothoracicum (stellatum).",
+    "C": "Hier liegen die Ganglia superiora von IX und X.",
+    "D": "Hier liegt das parasympathische Ganglion pterygopalatinum."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD3-23-2",
+   "src": "SD3-23",
+   "typ": "perspektive",
+   "q": "Welche Schleimhautfalte begrenzt den Kehlkopfeingang (Aditus laryngis) seitlich?",
+   "o": [
+    "Plica aryepiglottica",
+    "Plica vestibularis",
+    "Plica vocalis",
+    "Plica glossoepiglottica mediana",
+    "Arcus palatopharyngeus"
+   ],
+   "a": "A",
+   "expl": "Der Aditus laryngis wird vorne von der Epiglottis, seitlich von den Plicae aryepiglotticae und hinten von der Incisura interarytenoidea begrenzt. Lateral der Plica aryepiglottica liegt der Recessus piriformis.",
+   "dis": {
+    "B": "Taschenfalte im Inneren des Kehlkopfs.",
+    "C": "Stimmlippe, begrenzt die Rima glottidis.",
+    "D": "Liegt zwischen Zunge und Epiglottis.",
+    "E": "Hinterer Gaumenbogen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-SD3-24-1",
+   "src": "SD3-24",
+   "typ": "bild",
+   "q": "Welche Funktion hat der mit 5 markierte Muskel?",
+   "o": [
+    "Kieferöffnung",
+    "Kieferschluss (Elevation der Mandibula), zusammen mit M. masseter",
+    "Reine Retraktion des Unterkiefers",
+    "Senkung des Zungenbeins",
+    "Spannung des Gaumensegels"
+   ],
+   "a": "B",
+   "expl": "Nr. 5 ist der M. pterygoideus medialis. Er bildet mit dem M. masseter eine Muskelschlinge um den Kieferwinkel, schließt den Kiefer und hilft bei Mahlbewegungen und Protrusion. Innerviert wird er vom N. mandibularis.",
+   "dis": {
+    "A": "Eingeleitet vom M. pterygoideus lateralis, unterstützt von der suprahyoidalen Muskulatur.",
+    "C": "Hauptsächlich durch die hinteren Fasern des M. temporalis.",
+    "D": "Infrahyoidale Muskulatur.",
+    "E": "M. tensor veli palatini."
+   },
+   "merk": "",
+   "img": "img/i160.jpg"
+  },
+  {
+   "id": "V-SD3-24-2",
+   "src": "SD3-24",
+   "typ": "perspektive",
+   "q": "Welcher Nerv innerviert den M. pterygoideus medialis?",
+   "o": [
+    "N. facialis",
+    "N. maxillaris (V2)",
+    "N. mandibularis (V3)",
+    "N. hypoglossus",
+    "N. glossopharyngeus"
+   ],
+   "a": "C",
+   "expl": "Alle vier Kaumuskeln (M. masseter, M. temporalis, M. pterygoideus medialis und lateralis) werden vom N. mandibularis innerviert, dem einzigen Trigeminusast mit motorischen Fasern.",
+   "dis": {
+    "A": "Innerviert die mimische Muskulatur, nicht die Kaumuskeln.",
+    "B": "Rein sensibel.",
+    "D": "Innerviert die Zungenmuskulatur.",
+    "E": "Innerviert den M. stylopharyngeus."
+   },
+   "merk": "",
+   "img": null
+  }
+ ]
+}

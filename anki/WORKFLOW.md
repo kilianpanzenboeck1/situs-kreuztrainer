@@ -10,7 +10,7 @@ Das Deck entsteht über mehrere Sitzungen. Alles Nötige liegt in diesem Ordner.
 
 ## Ein Kapitel bearbeiten
 1. `python3 tools/prepare.py <CH>` → `work/<CH>.md` mit den Originalfragen in Batches (12 Originale ≈ 24 Karten).
-2. Batch für Batch schreiben (Batch als JSON-Liste nach `work/<CH>_bN.json`, dann `python3 tools/append.py <CH> work/<CH>_bN.json`):
+2. Batch für Batch schreiben (kompakt als `work/<CH>_bN.src.json` → `python3 tools/compile.py` → oder direkt als JSON-Liste nach `work/<CH>_bN.json`, dann `python3 tools/append.py <CH> work/<CH>_bN.json`):
    - Karten in `cards/<CH>.json` anhängen. Das Format steht im Kopf von `tools/validate.py`. Status bleibt `"draft"`.
    - Pro Originalfrage `variants_per_question` Varianten, mit unterschiedlichen Typen.
    - IDs: `V-<src>-1`, `V-<src>-2`. Bestehende IDs nie umbenennen, denn die GUIDs hängen daran.
