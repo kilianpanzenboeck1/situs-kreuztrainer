@@ -1,0 +1,880 @@
+{
+ "chapter": "B1",
+ "status": "review",
+ "cards": [
+  {
+   "id": "V-TH-1-1",
+   "src": "TH-1",
+   "typ": "umkehrung",
+   "q": "Welcher Muskel ist der wichtigste Muskel der ruhigen Inspiration?",
+   "o": [
+    "Zwerchfell",
+    "M. obliquus externus abdominis",
+    "M. rectus abdominis",
+    "Mm. intercostales interni",
+    "M. transversus abdominis"
+   ],
+   "a": "A",
+   "expl": "Die Kontraktion des Zwerchfells vergrößert den Thorax nach unten und leistet etwa zwei Drittel der Ruheatmung. Die Ausatmung in Ruhe erfolgt passiv durch die Lungenelastizität.",
+   "dis": {
+    "B": "Hilft bei forcierter Exspiration.",
+    "C": "Hilft bei forcierter Exspiration.",
+    "D": "Exspiratorisch.",
+    "E": "Hilft bei forcierter Exspiration."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-TH-1-2",
+   "src": "TH-1",
+   "typ": "perspektive",
+   "q": "Welche Muskeln heben bei forcierter Inspiration die oberen Rippen als Atemhilfsmuskeln an?",
+   "o": [
+    "M. obliquus internus abdominis",
+    "Mm. scaleni",
+    "M. rectus abdominis",
+    "M. quadratus lumborum",
+    "Mm. intercostales interni"
+   ],
+   "a": "B",
+   "expl": "Mm. scaleni, M. sternocleidomastoideus und bei aufgestützten Armen M. pectoralis minor helfen bei Atemnot. Der Patient nimmt dazu den Kutschersitz ein.",
+   "dis": {
+    "A": "Exspiratorisch.",
+    "C": "Exspiratorisch.",
+    "D": "Fixiert die 12. Rippe.",
+    "E": "Exspiratorisch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-TH-2-1",
+   "src": "TH-2",
+   "typ": "perspektive",
+   "q": "Wo wird die Aortenklappe optimal auskultiert?",
+   "o": [
+    "2. Interkostalraum links parasternal",
+    "5. ICR links in der Medioklavikularlinie",
+    "2. Interkostalraum rechts parasternal",
+    "4. ICR rechts parasternal",
+    "Über dem Proc. xiphoideus"
+   ],
+   "a": "C",
+   "expl": "Die Auskultationspunkte liegen in Strömungsrichtung hinter den Klappen, nicht über ihrer anatomischen Lage. Dazu kommt der Erb-Punkt im 3. ICR links parasternal.",
+   "dis": {
+    "A": "Pulmonalklappe.",
+    "B": "Mitralklappe.",
+    "D": "Trikuspidalklappe (bzw. links parasternal).",
+    "E": "Kein Standardpunkt."
+   },
+   "merk": "Anton Pulmann trinkt Milch um 22:45 (2r, 2l, 4r, 5l).",
+   "img": null
+  },
+  {
+   "id": "V-TH-2-2",
+   "src": "TH-2",
+   "typ": "perspektive",
+   "q": "Wo wird die Mitralklappe optimal auskultiert?",
+   "o": [
+    "2. ICR rechts parasternal",
+    "2. ICR links parasternal",
+    "4. ICR links parasternal",
+    "5. Interkostalraum links in der Medioklavikularlinie (Herzspitze)",
+    "3. ICR links parasternal"
+   ],
+   "a": "D",
+   "expl": "Der Blutstrom durch die Mitralklappe zieht zur Herzspitze. Mitralgeräusche sind deshalb dort am lautesten und strahlen in die Axilla aus.",
+   "dis": {
+    "A": "Aortenklappe.",
+    "B": "Pulmonalklappe.",
+    "C": "Trikuspidalklappe.",
+    "E": "Erb-Punkt."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-TH-3-1",
+   "src": "TH-3",
+   "typ": "perspektive",
+   "q": "Welche Arterien entspringen von rechts nach links aus dem Aortenbogen?",
+   "o": [
+    "A. subclavia sinistra, A. carotis communis sinistra, Truncus brachiocephalicus",
+    "A. carotis communis dextra, A. subclavia dextra, Truncus brachiocephalicus",
+    "Aa. coronariae, Truncus brachiocephalicus, A. subclavia sinistra",
+    "Truncus brachiocephalicus, A. subclavia sinistra, A. carotis communis sinistra",
+    "Truncus brachiocephalicus, A. carotis communis sinistra, A. subclavia sinistra"
+   ],
+   "a": "E",
+   "expl": "Der Truncus brachiocephalicus teilt sich hinter dem rechten Sternoklavikulargelenk in A. subclavia dextra und A. carotis communis dextra.",
+   "dis": {
+    "A": "Umgekehrte Reihenfolge.",
+    "B": "Diese gehen aus dem Truncus hervor.",
+    "C": "Koronararterien kommen aus der Aorta ascendens.",
+    "D": "Carotis und Subclavia vertauscht."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-TH-3-2",
+   "src": "TH-3",
+   "typ": "perspektive",
+   "q": "Aus welchem Aortenabschnitt entspringen die Koronararterien?",
+   "o": [
+    "Aus der Aorta ascendens (Sinus aortae)",
+    "Aus dem Arcus aortae",
+    "Aus der Aorta descendens",
+    "Aus dem Truncus pulmonalis",
+    "Aus der A. subclavia"
+   ],
+   "a": "A",
+   "expl": "Die Koronararterien gehen aus dem rechten und linken Sinus aortae oberhalb der Aortenklappe ab. Sie füllen sich vor allem in der Diastole.",
+   "dis": {
+    "B": "Dort entspringen die großen Halsgefäße.",
+    "C": "Dort entspringen Interkostalarterien.",
+    "D": "Falsches Gefäß.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-TH-4-1",
+   "src": "TH-4",
+   "typ": "bild",
+   "q": "Was ist mit 1 bezeichnet?",
+   "o": [
+    "Verdichtetes Sekret (Kolloid)",
+    "Hassall-Körperchen",
+    "Megakaryozyten",
+    "Keimzentren",
+    "Herring-Körper"
+   ],
+   "a": "B",
+   "expl": "Die konzentrisch geschichteten, eosinophilen Gebilde sind Hassall-Körperchen aus Epithelretikulumzellen. Sie zeigen, dass es sich um Thymusmark handelt.",
+   "dis": {
+    "A": "Typisch für die Schilddrüse.",
+    "C": "Typisch für das Knochenmark.",
+    "D": "Typisch für Lymphfollikel.",
+    "E": "Typisch für die Neurohypophyse."
+   },
+   "merk": "",
+   "img": "img/i53.jpg"
+  },
+  {
+   "id": "V-TH-4-2",
+   "src": "TH-4",
+   "typ": "bild",
+   "q": "In welchem Mediastinum liegt das gezeigte Organ beim Erwachsenen?",
+   "o": [
+    "Im hinteren Mediastinum neben der Aorta",
+    "Im mittleren Mediastinum im Perikard",
+    "Im oberen bzw. vorderen Mediastinum hinter dem Sternum",
+    "Im Retroperitoneum",
+    "Im Hals vor dem Kehlkopf"
+   ],
+   "a": "C",
+   "expl": "Der Thymus liegt hinter dem Manubrium sterni vor den großen Gefäßen. Beim Erwachsenen ist er weitgehend durch Fett ersetzt (Thymusrestkörper).",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": "img/i53.jpg"
+  },
+  {
+   "id": "V-TH-5-1",
+   "src": "TH-5",
+   "typ": "perspektive",
+   "q": "Aus welchem Gefäß entspringt die A. thoracica interna?",
+   "o": [
+    "A. axillaris",
+    "Aorta thoracica",
+    "A. carotis communis",
+    "A. subclavia",
+    "Truncus brachiocephalicus"
+   ],
+   "a": "D",
+   "expl": "Die A. thoracica interna zieht etwa 1 cm neben dem Sternumrand nach unten und gibt die vorderen Interkostalarterien ab. Sie wird gern als Bypassgefäß verwendet.",
+   "dis": {
+    "A": "Weiter distal.",
+    "B": "Gibt die hinteren Interkostalarterien ab.",
+    "C": "Gibt keine Äste im Hals ab.",
+    "E": "Gibt nur Subclavia und Carotis dextra ab."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-TH-5-2",
+   "src": "TH-5",
+   "typ": "perspektive",
+   "q": "Mit welchem Nerv zieht die A. pericardiacophrenica zum Zwerchfell?",
+   "o": [
+    "N. vagus",
+    "N. laryngeus recurrens",
+    "Truncus sympathicus",
+    "N. intercostalis",
+    "N. phrenicus"
+   ],
+   "a": "E",
+   "expl": "A. und V. pericardiacophrenica begleiten den N. phrenicus zwischen Perikard und Pleura mediastinalis zum Zwerchfell.",
+   "dis": {
+    "A": "Verläuft dorsal des Lungenhilus.",
+    "B": "Läuft zum Kehlkopf.",
+    "C": "Liegt paravertebral.",
+    "D": "Verläuft im Interkostalraum."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-TH-6-1",
+   "src": "TH-6",
+   "typ": "klinik",
+   "q": "Welche Komplikation droht wegen der Lage der Pleurakuppel bei der Punktion der V. subclavia?",
+   "o": [
+    "Pneumothorax",
+    "Aszites",
+    "Perikardtamponade durch Pleuraverletzung",
+    "Ileus",
+    "Hämaturie"
+   ],
+   "a": "A",
+   "expl": "Die Pleurakuppel ragt über die Clavicula hinaus und liegt direkt hinter der V. subclavia. Nach einer Subclaviapunktion wird deshalb ein Röntgenbild angefertigt.",
+   "dis": {
+    "B": "Falsch.",
+    "C": "Falscher Mechanismus.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-TH-6-2",
+   "src": "TH-6",
+   "typ": "nachbarschaft",
+   "q": "Welche Struktur liegt dorsal der Pleurakuppel und kann von einem Pancoast-Tumor infiltriert werden?",
+   "o": [
+    "N. femoralis",
+    "Ganglion stellatum bzw. Truncus sympathicus",
+    "Ductus choledochus",
+    "N. facialis",
+    "V. portae"
+   ],
+   "a": "B",
+   "expl": "Ein Tumor der Lungenspitze kann Sympathikus und unteren Plexus brachialis infiltrieren. Folgen sind ein Horner-Syndrom und Schmerzen im Arm.",
+   "dis": {
+    "A": "Liegt im Becken.",
+    "C": "Liegt im Bauch.",
+    "D": "Liegt im Kopf.",
+    "E": "Liegt im Bauch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-TH-7-1",
+   "src": "TH-7",
+   "typ": "perspektive",
+   "q": "In welcher Höhe schneidet die untere Pleuragrenze die mittlere Axillarlinie?",
+   "o": [
+    "In Höhe der 4. Rippe",
+    "In Höhe der 6. Rippe",
+    "In Höhe der 10. Rippe",
+    "In Höhe der 12. Rippe",
+    "In Höhe der 2. Rippe"
+   ],
+   "a": "C",
+   "expl": "Die Pleuragrenze verläuft etwa: Sternallinie 6. Rippe, MCL 7., mittlere Axillarlinie 10., Skapularlinie 11., paravertebral 12. Rippe. Die Lungengrenze liegt jeweils etwa 2 Rippen höher.",
+   "dis": {
+    "A": "Zu hoch.",
+    "B": "Zu hoch.",
+    "D": "Gilt paravertebral.",
+    "E": "Viel zu hoch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-TH-7-2",
+   "src": "TH-7",
+   "typ": "perspektive",
+   "q": "Wie heißt der Pleuraraum, in den sich die Lunge bei tiefer Inspiration hinein ausdehnt?",
+   "o": [
+    "Cavitas pericardiaca",
+    "Recessus subphrenicus",
+    "Bursa omentalis",
+    "Recessus costodiaphragmaticus",
+    "Mediastinum"
+   ],
+   "a": "D",
+   "expl": "Zwischen Lungenunterrand und Pleuragrenze liegt der Recessus costodiaphragmaticus. Hier sammelt sich ein Pleuraerguss zuerst; hier wird auch punktiert.",
+   "dis": {
+    "A": "Herzbeutel.",
+    "B": "Liegt unter dem Zwerchfell.",
+    "C": "Liegt im Bauch.",
+    "E": "Mittelfellraum."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-TH-8-1",
+   "src": "TH-8",
+   "typ": "perspektive",
+   "q": "Wohin mündet der Sinus coronarius?",
+   "o": [
+    "In den linken Vorhof",
+    "In die V. cava superior",
+    "In den rechten Ventrikel",
+    "In die V. azygos",
+    "In den rechten Vorhof"
+   ],
+   "a": "E",
+   "expl": "Der Sinus coronarius liegt im hinteren Sulcus coronarius und mündet zwischen V.-cava-inferior-Mündung und Trikuspidalklappe. Seine Mündung wird von der Valvula sinus coronarii (Thebesius) begrenzt.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "D": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-TH-8-2",
+   "src": "TH-8",
+   "typ": "perspektive",
+   "q": "Welche Arterie begleitet die V. cardiaca magna im Sulcus interventricularis anterior?",
+   "o": [
+    "Ramus interventricularis anterior der A. coronaria sinistra",
+    "Ramus interventricularis posterior",
+    "A. coronaria dextra",
+    "Ramus marginalis dexter",
+    "A. thoracica interna"
+   ],
+   "a": "A",
+   "expl": "Die V. cardiaca magna steigt mit dem RIVA nach oben und biegt mit dem Ramus circumflexus in den Sulcus coronarius zum Sinus coronarius.",
+   "dis": {
+    "B": "Liegt im hinteren Sulcus mit der V. cardiaca media.",
+    "C": "Liegt im rechten Sulcus coronarius.",
+    "D": "Liegt am rechten Herzrand.",
+    "E": "Liegt an der Brustwand."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-TH-9-1",
+   "src": "TH-9",
+   "typ": "perspektive",
+   "q": "Auf welcher Wirbelhöhe liegt der Hiatus aorticus?",
+   "o": [
+    "Th8",
+    "Th12",
+    "Th10",
+    "L3",
+    "Th4"
+   ],
+   "a": "B",
+   "expl": "Merkregel: V. cava Th8, Ösophagus Th10, Aorta Th12. Der Hiatus aorticus wird vom Lig. arcuatum medianum überbrückt.",
+   "dis": {
+    "A": "Foramen venae cavae.",
+    "C": "Hiatus oesophageus.",
+    "D": "Zu tief.",
+    "E": "Zu hoch."
+   },
+   "merk": "I (8) ate (10) ten eggs at twelve (12).",
+   "img": null
+  },
+  {
+   "id": "V-TH-9-2",
+   "src": "TH-9",
+   "typ": "perspektive",
+   "q": "Welche Strukturen ziehen gemeinsam durch den Hiatus oesophageus?",
+   "o": [
+    "Aorta und Ductus thoracicus",
+    "V. cava inferior und N. phrenicus dexter",
+    "Ösophagus und Trunci vagales",
+    "A. epigastrica superior",
+    "Truncus sympathicus"
+   ],
+   "a": "C",
+   "expl": "Mit dem Ösophagus ziehen der vordere und hintere Truncus vagalis ins Abdomen. Der Hiatus wird vom rechten Zwerchfellschenkel schlingenförmig umfasst.",
+   "dis": {
+    "A": "Hiatus aorticus.",
+    "B": "Foramen venae cavae.",
+    "D": "Larrey-Spalte.",
+    "E": "Zieht hinter dem Lig. arcuatum mediale."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-TH-10-1",
+   "src": "TH-10",
+   "typ": "perspektive",
+   "q": "Welche Nerven innervieren die Pars costalis der Pleura parietalis?",
+   "o": [
+    "N. phrenicus",
+    "N. vagus",
+    "N. accessorius",
+    "Nn. intercostales",
+    "N. laryngeus recurrens"
+   ],
+   "a": "D",
+   "expl": "Die Pleura parietalis ist somatisch innerviert und gut schmerzempfindlich. Schmerz von der Pars costalis wird deshalb atemabhängig und lokal empfunden.",
+   "dis": {
+    "A": "Versorgt Pars mediastinalis und zentrale Pars diaphragmatica.",
+    "B": "Vegetativ, keine Schmerzleitung der Pleura parietalis.",
+    "C": "Rein motorisch.",
+    "E": "Kehlkopfnerv."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-TH-10-2",
+   "src": "TH-10",
+   "typ": "perspektive",
+   "q": "Warum ist die Pleura visceralis nicht schmerzempfindlich?",
+   "o": [
+    "Weil sie kein Epithel hat",
+    "Weil sie nicht durchblutet ist",
+    "Weil sie mit der Pleura parietalis verwachsen ist",
+    "Weil sie vom N. phrenicus versorgt wird",
+    "Weil sie nur vegetativ und nicht somatosensibel innerviert ist"
+   ],
+   "a": "E",
+   "expl": "Die Pleura visceralis überzieht die Lunge und wird vegetativ über den Plexus pulmonalis versorgt. Schmerzen bei Lungenprozessen entstehen erst, wenn die Pleura parietalis gereizt wird.",
+   "dis": {
+    "A": "Sie hat Mesothel.",
+    "B": "Sie ist durchblutet.",
+    "C": "Sie ist verschieblich.",
+    "D": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-TH-11-1",
+   "src": "TH-11",
+   "typ": "nachbarschaft",
+   "q": "Wie verläuft der N. phrenicus im Verhältnis zum Lungenhilum?",
+   "o": [
+    "Ventral des Lungenhilums",
+    "Dorsal des Lungenhilums",
+    "Durch das Lungenhilum",
+    "Hinter der Aorta",
+    "Im Hiatus oesophageus"
+   ],
+   "a": "A",
+   "expl": "Phrenicus vorne, Vagus hinten: Der N. phrenicus zieht vor dem Hilum auf dem Perikard zum Zwerchfell, der N. vagus hinter dem Hilum zum Ösophagus.",
+   "dis": {
+    "B": "Verlauf des N. vagus.",
+    "C": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "Phrenicus vorne, Vagus hinten.",
+   "img": null
+  },
+  {
+   "id": "V-TH-11-2",
+   "src": "TH-11",
+   "typ": "perspektive",
+   "q": "Welches Gefäß umschlingt der rechte N. laryngeus recurrens?",
+   "o": [
+    "Arcus aortae",
+    "A. subclavia dextra",
+    "V. azygos",
+    "A. carotis communis dextra",
+    "Truncus pulmonalis"
+   ],
+   "a": "B",
+   "expl": "Der rechte Recurrens schlingt sich um die A. subclavia dextra, der linke um den Aortenbogen. Deshalb kann ein Aortenaneurysma linksseitig Heiserkeit verursachen.",
+   "dis": {
+    "A": "Wird vom linken Recurrens umschlungen.",
+    "C": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-TH-12-1",
+   "src": "TH-12",
+   "typ": "perspektive",
+   "q": "In welcher Wirbelhöhe liegt die Trachealbifurkation ungefähr?",
+   "o": [
+    "C6",
+    "Th10",
+    "Th4/Th5 (Höhe des Angulus sterni)",
+    "Th12",
+    "L1"
+   ],
+   "a": "C",
+   "expl": "Die Bifurkation liegt in der Ebene, die oberes und unteres Mediastinum trennt. Bei tiefer Inspiration tritt sie etwas tiefer.",
+   "dis": {
+    "A": "Übergang Kehlkopf–Trachea.",
+    "B": "Hiatus oesophageus.",
+    "D": "Hiatus aorticus.",
+    "E": "Viel zu tief."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-TH-12-2",
+   "src": "TH-12",
+   "typ": "perspektive",
+   "q": "Welche Struktur liegt im mittleren Mediastinum?",
+   "o": [
+    "Ösophagus",
+    "Aorta descendens",
+    "Ductus thoracicus",
+    "Herz mit Perikard",
+    "V. azygos"
+   ],
+   "a": "D",
+   "expl": "Das mittlere Mediastinum enthält Herz, Perikard, die herznahen großen Gefäße und die Nn. phrenici. Das vordere Mediastinum ist schmal und enthält Fett und Lymphknoten.",
+   "dis": {
+    "A": "Hinteres Mediastinum.",
+    "B": "Hinteres Mediastinum.",
+    "C": "Hinteres Mediastinum.",
+    "E": "Hinteres Mediastinum."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-TH-13-1",
+   "src": "TH-13",
+   "typ": "perspektive",
+   "q": "Wie wirkt der Sympathikus auf das Herz?",
+   "o": [
+    "Er senkt die Herzfrequenz.",
+    "Er verlangsamt die AV-Überleitung.",
+    "Er hat keinen Einfluss auf die Kontraktionskraft.",
+    "Er wirkt nur auf die Vorhöfe.",
+    "Er steigert Herzfrequenz, Kontraktionskraft und Überleitungsgeschwindigkeit."
+   ],
+   "a": "E",
+   "expl": "Sympathische Fasern aus Th1–Th4 wirken über β1-Rezeptoren auf Vorhöfe und Ventrikel. Der Vagus wirkt vor allem auf Sinus- und AV-Knoten.",
+   "dis": {
+    "A": "Wirkung des Vagus.",
+    "B": "Wirkung des Vagus.",
+    "C": "Er steigert sie (positiv inotrop).",
+    "D": "Er wirkt auch auf die Ventrikel."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-TH-13-2",
+   "src": "TH-13",
+   "typ": "perspektive",
+   "q": "Wo liegt der Plexus cardiacus superficialis?",
+   "o": [
+    "Unter dem Aortenbogen vor dem rechten Ast der A. pulmonalis",
+    "Im Septum interventriculare",
+    "In der Wand des linken Ventrikels",
+    "An der Herzspitze",
+    "Im hinteren Mediastinum am Ösophagus"
+   ],
+   "a": "A",
+   "expl": "Der oberflächliche Herzplexus liegt in der Konkavität des Aortenbogens, der tiefe vor der Trachealbifurkation an der Herzbasis. Beide sind miteinander verbunden.",
+   "dis": {
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "D": "Falsch.",
+    "E": "Plexus oesophageus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-TH-14-1",
+   "src": "TH-14",
+   "typ": "perspektive",
+   "q": "Wie hoch ist die Eigenfrequenz des Sinusknotens etwa?",
+   "o": [
+    "40–50 pro Minute",
+    "60–80 pro Minute",
+    "20–30 pro Minute",
+    "150–200 pro Minute",
+    "5–10 pro Minute"
+   ],
+   "a": "B",
+   "expl": "Der Sinusknoten ist der schnellste Schrittmacher und gibt deshalb den Rhythmus vor. Fällt er aus, übernimmt der AV-Knoten mit niedrigerer Frequenz.",
+   "dis": {
+    "A": "Frequenz des AV-Knotens.",
+    "C": "Frequenz der Kammerersatzrhythmen.",
+    "D": "Tachykard.",
+    "E": "Viel zu langsam."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-TH-14-2",
+   "src": "TH-14",
+   "typ": "perspektive",
+   "q": "Welche Struktur leitet die Erregung vom AV-Knoten durch das Herzskelett zu den Kammern?",
+   "o": [
+    "Purkinje-Fasern",
+    "Bachmann-Bündel",
+    "His-Bündel",
+    "Crista terminalis",
+    "Chordae tendineae"
+   ],
+   "a": "C",
+   "expl": "Das His-Bündel ist die einzige elektrische Verbindung zwischen Vorhöfen und Kammern. Es teilt sich im Septum in den rechten und linken Tawara-Schenkel.",
+   "dis": {
+    "A": "Liegen subendokardial in den Kammern.",
+    "B": "Leitet zwischen den Vorhöfen.",
+    "D": "Muskelleiste im rechten Vorhof.",
+    "E": "Sehnenfäden der Klappen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-TH-15-1",
+   "src": "TH-15",
+   "typ": "perspektive",
+   "q": "Welche Struktur verbindet im fetalen Kreislauf die beiden Vorhöfe?",
+   "o": [
+    "Ductus arteriosus",
+    "Ductus venosus",
+    "A. umbilicalis",
+    "Foramen ovale",
+    "Sinus coronarius"
+   ],
+   "a": "D",
+   "expl": "Durch das Foramen ovale gelangt das sauerstoffreiche Blut aus der V. cava inferior direkt in den linken Vorhof. Nach der Geburt verschließt es sich durch den Druckanstieg links.",
+   "dis": {
+    "A": "Verbindet Truncus pulmonalis und Aorta.",
+    "B": "Umgeht die Leber.",
+    "C": "Führt Blut zur Plazenta.",
+    "E": "Herzvenensammelgefäß."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-TH-15-2",
+   "src": "TH-15",
+   "typ": "perspektive",
+   "q": "Was wird nach der Geburt aus dem Ductus arteriosus?",
+   "o": [
+    "Lig. teres hepatis",
+    "Lig. venosum",
+    "Fossa ovalis",
+    "Lig. umbilicale mediale",
+    "Lig. arteriosum"
+   ],
+   "a": "E",
+   "expl": "Der Ductus arteriosus verschließt sich in den ersten Lebenstagen. Am Lig. arteriosum schlingt sich der linke N. laryngeus recurrens um den Aortenbogen.",
+   "dis": {
+    "A": "Rest der V. umbilicalis.",
+    "B": "Rest des Ductus venosus.",
+    "C": "Rest des Foramen ovale.",
+    "D": "Rest der A. umbilicalis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-TH-16-1",
+   "src": "TH-16",
+   "typ": "perspektive",
+   "q": "Woraus besteht der Boden der Fossa ovalis?",
+   "o": [
+    "Aus dem Septum primum",
+    "Aus dem Septum secundum",
+    "Aus dem Septum interventriculare",
+    "Aus der Valvula venae cavae inferioris",
+    "Aus der Crista terminalis"
+   ],
+   "a": "A",
+   "expl": "Das dünne Septum primum legt sich nach der Geburt als Klappe an das Septum secundum. Verwachsen beide nicht, bleibt ein offenes Foramen ovale.",
+   "dis": {
+    "B": "Bildet den Limbus.",
+    "C": "Kammerscheidewand.",
+    "D": "Liegt davor.",
+    "E": "Liegt in der Vorhofwand."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-TH-16-2",
+   "src": "TH-16",
+   "typ": "klinik",
+   "q": "Welches Risiko birgt ein persistierendes Foramen ovale?",
+   "o": [
+    "Lungenödem",
+    "Paradoxe Embolie aus dem venösen in den arteriellen Kreislauf",
+    "Herzinfarkt durch Koronarverschluss",
+    "Aortenklappenstenose",
+    "Perikarderguss"
+   ],
+   "a": "B",
+   "expl": "Bei Druckanstieg rechts, z. B. beim Pressen, kann ein venöser Thrombus durch das offene Foramen ins arterielle System gelangen und einen Schlaganfall auslösen.",
+   "dis": {
+    "A": "Kein typischer Befund.",
+    "C": "Kein direkter Mechanismus.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-TH-17-1",
+   "src": "TH-17",
+   "typ": "perspektive",
+   "q": "Welche Herzvene verläuft im Sulcus interventricularis posterior?",
+   "o": [
+    "V. cardiaca magna",
+    "V. cardiaca parva",
+    "V. cardiaca media",
+    "Vv. cardiacae minimae",
+    "V. obliqua atrii sinistri"
+   ],
+   "a": "C",
+   "expl": "Die V. cardiaca media begleitet den Ramus interventricularis posterior und mündet nahe der Mündung des Sinus coronarius.",
+   "dis": {
+    "A": "Verläuft im vorderen Sulcus.",
+    "B": "Verläuft am rechten Herzrand.",
+    "D": "Kleine Venen in der Herzwand.",
+    "E": "An der Hinterwand des linken Vorhofs."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-TH-17-2",
+   "src": "TH-17",
+   "typ": "perspektive",
+   "q": "Welche Herzvene ist ein Rest der embryonalen linken oberen Hohlvene?",
+   "o": [
+    "V. cardiaca magna",
+    "V. cardiaca parva",
+    "Vv. cardiacae minimae",
+    "V. obliqua atrii sinistri (Marshall-Vene)",
+    "V. azygos"
+   ],
+   "a": "D",
+   "expl": "Die kleine Marshall-Vene zieht schräg über die Hinterwand des linken Vorhofs zum Sinus coronarius. Bleibt die linke obere Hohlvene bestehen, mündet sie in den Sinus coronarius.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "E": "Rest der rechten Kardinalvene."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-TH-18-1",
+   "src": "TH-18",
+   "typ": "perspektive",
+   "q": "Welche Arterie versorgt beim ausgeglichenen Versorgungstyp meist den Sinusknoten?",
+   "o": [
+    "Ramus interventricularis anterior",
+    "Ramus circumflexus immer",
+    "A. thoracica interna",
+    "Truncus pulmonalis",
+    "A. coronaria dextra"
+   ],
+   "a": "E",
+   "expl": "Der Ramus nodi sinuatrialis entspringt in etwa zwei Dritteln der Fälle aus der rechten Koronararterie. Ein Hinterwandinfarkt kann deshalb Rhythmusstörungen verursachen.",
+   "dis": {
+    "A": "Versorgt die Vorderwand.",
+    "B": "Nur in etwa einem Drittel der Fälle.",
+    "C": "Versorgt die Brustwand.",
+    "D": "Vene, keine Versorgung."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-TH-18-2",
+   "src": "TH-18",
+   "typ": "klinik",
+   "q": "Welcher Herzwandabschnitt ist bei einem Verschluss des Ramus interventricularis anterior betroffen?",
+   "o": [
+    "Vorderwand des linken Ventrikels und vordere zwei Drittel des Septums",
+    "Hinterwand des rechten Ventrikels",
+    "Nur der rechte Vorhof",
+    "Laterale Wand des linken Vorhofs",
+    "Nur die Herzbasis"
+   ],
+   "a": "A",
+   "expl": "Der RIVA ist der wichtigste Ast der linken Koronararterie. Sein proximaler Verschluss verursacht einen großen Vorderwandinfarkt.",
+   "dis": {
+    "B": "Rechte Koronararterie.",
+    "C": "Falsch.",
+    "D": "Ramus circumflexus.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-TH-20-1",
+   "src": "TH-20",
+   "typ": "perspektive",
+   "q": "Wie heißt die Erweiterung, mit der der Ductus thoracicus im Abdomen beginnt?",
+   "o": [
+    "Ampulla recti",
+    "Cisterna chyli",
+    "Sinus coronarius",
+    "Bulbus venae jugularis",
+    "Recessus duodenalis"
+   ],
+   "a": "B",
+   "expl": "Die Cisterna chyli liegt etwa in Höhe L1–L2 rechts der Aorta. Hier münden die Trunci lumbales und der Truncus intestinalis.",
+   "dis": {
+    "A": "Erweiterung des Rektums.",
+    "C": "Herzvenensammelgefäß.",
+    "D": "Erweiterung der V. jugularis.",
+    "E": "Bauchfelltasche."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-TH-20-2",
+   "src": "TH-20",
+   "typ": "perspektive",
+   "q": "Wodurch wird der Lymphfluss im Ductus thoracicus aufrechterhalten?",
+   "o": [
+    "Durch das Herz als Pumpe direkt",
+    "Durch die Schwerkraft allein",
+    "Durch Klappen und den Sog der Atmung",
+    "Er hat keinen gerichteten Fluss.",
+    "Durch Peristaltik des Ösophagus"
+   ],
+   "a": "C",
+   "expl": "Der Ductus thoracicus besitzt Klappen. Der Unterdruck im Thorax bei der Einatmung und die Pulsation der Aorta treiben die Lymphe nach oben.",
+   "dis": {
+    "A": "Kein direkter Antrieb.",
+    "B": "Er fließt gegen die Schwerkraft.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  }
+ ]
+}

@@ -32,3 +32,7 @@ def flag_text(q, fl):
 
 def norm(s):
     return re.sub(r'[\s.\-()]+', ' ', s.lower()).strip()
+
+def dupes():
+    p = P('dupes.json')
+    return load('dupes.json') if os.path.exists(p) else {}

@@ -5,7 +5,7 @@ cards/<CH>.json Format:
    "a": "C", "expl": "2-4 Sätze", "dis": {"A": "warum falsch", "B": "...", "D": "...", "E": "..."},
    "merk": "optional", "img": "img/i12.jpg (Pfad wie in quiz.json) oder null"}]}"""
 import sys, os, glob, collections
-from common import quiz, config, cards, norm, P
+from common import dupes, quiz, config, cards, norm, P
 
 TYPES = {'umkehrung', 'perspektive', 'nachbarschaft', 'klinik', 'bild'}
 chs, qs = quiz(); cfg = config()
@@ -38,7 +38,7 @@ for ch in targets:
         if e:
             errors += len(e); print(f"  ✗ {cid}: {'; '.join(e)}")
         per_src[c.get('src')] += 1; types[c.get('typ')] += 1; ans[c.get('a')] += 1
-    orig = [q['id'] for q in qs if q['c'] == ch]
+    DU = dupes(); orig = [q['id'] for q in qs if q['c'] == ch and q['id'] not in DU]
     missing = [s for s in orig if per_src[s] < cfg['variants_per_question']]
     print(f"{ch} [{d.get('status','draft')}]: {len(d['cards'])} Karten · {len(orig)-len(missing)}/{len(orig)} Originale abgedeckt · Typen {dict(types)} · Lösungen {dict(sorted(ans.items()))}")
     if missing: print(f"  offen: {', '.join(missing)}")

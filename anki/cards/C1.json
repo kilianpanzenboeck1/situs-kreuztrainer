@@ -1,0 +1,4974 @@
+{
+ "chapter": "C1",
+ "status": "review",
+ "cards": [
+  {
+   "id": "V-D1-2-1",
+   "src": "D1-2",
+   "typ": "nachbarschaft",
+   "q": "In welcher Reihenfolge liegen die Strukturen in der Lacuna vasorum von lateral nach medial?",
+   "o": [
+    "A. femoralis, V. femoralis, Anulus femoralis",
+    "V. femoralis, A. femoralis, Anulus femoralis",
+    "Anulus femoralis, V. femoralis, A. femoralis",
+    "N. femoralis, V. femoralis, A. femoralis",
+    "A. femoralis, Anulus femoralis, V. femoralis"
+   ],
+   "a": "A",
+   "expl": "Merkregel IVAN von innen nach außen: Innen (Anulus bzw. Lymphe), Vene, Arterie, Nerv. Der Nerv liegt allerdings schon in der Lacuna musculorum.",
+   "dis": {
+    "B": "Arterie liegt lateral der Vene.",
+    "C": "Umgekehrt.",
+    "D": "Der Nerv liegt in der Lacuna musculorum.",
+    "E": "Der Anulus liegt ganz medial."
+   },
+   "merk": "IVAN von medial nach lateral.",
+   "img": null
+  },
+  {
+   "id": "V-D1-2-2",
+   "src": "D1-2",
+   "typ": "nachbarschaft",
+   "q": "Welches Band begrenzt den Anulus femoralis nach medial?",
+   "o": [
+    "Lig. inguinale",
+    "Lig. lacunare",
+    "Lig. pectineum",
+    "Arcus iliopectineus",
+    "Lig. sacrotuberale"
+   ],
+   "a": "B",
+   "expl": "Der Anulus femoralis wird vorne vom Leistenband, medial vom Lig. lacunare, hinten vom Lig. pectineum und lateral von der V. femoralis begrenzt. Er ist die Bruchpforte der Schenkelhernie.",
+   "dis": {
+    "A": "Begrenzt nach vorne-oben.",
+    "C": "Begrenzt nach hinten.",
+    "D": "Trennt Lacuna musculorum und vasorum.",
+    "E": "Liegt im Becken hinten."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-3-1",
+   "src": "D1-3",
+   "typ": "perspektive",
+   "q": "Welches Organ ist das wichtigste Blutbildungsorgan in der Mitte der Fetalzeit?",
+   "o": [
+    "Knochenmark",
+    "Dottersack",
+    "Leber",
+    "Niere",
+    "Lunge"
+   ],
+   "a": "C",
+   "expl": "Die Blutbildung wandert vom Dottersack (ab Woche 3) über die Leber (ab etwa Woche 6) und Milz ins Knochenmark. Deshalb ist die fetale Leber besonders groß.",
+   "dis": {
+    "A": "Übernimmt erst ab etwa dem 7. Monat hauptsächlich.",
+    "B": "Nur in den ersten Wochen.",
+    "D": "Keine Blutbildung.",
+    "E": "Keine Blutbildung."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-3-2",
+   "src": "D1-3",
+   "typ": "perspektive",
+   "q": "Über welches Gefäß gelangt das sauerstoffreiche Blut aus der Plazenta in den Fetus?",
+   "o": [
+    "Aa. umbilicales",
+    "V. portae",
+    "Ductus arteriosus",
+    "V. umbilicalis",
+    "V. cava superior"
+   ],
+   "a": "D",
+   "expl": "Die V. umbilicalis führt das sauerstoffreichste Blut des Fetus. Ein Teil umgeht über den Ductus venosus die Leber und erreicht direkt die V. cava inferior.",
+   "dis": {
+    "A": "Führen sauerstoffarmes Blut zur Plazenta.",
+    "B": "Führt Blut aus dem Darm.",
+    "C": "Verbindet Truncus pulmonalis und Aorta.",
+    "E": "Führt Blut aus der oberen Körperhälfte."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-4-1",
+   "src": "D1-4",
+   "typ": "perspektive",
+   "q": "Woraus entsteht der Sinus coronarius?",
+   "o": [
+    "Aus dem rechten Sinushorn",
+    "Aus dem Truncus arteriosus",
+    "Aus dem Ductus arteriosus",
+    "Aus der V. umbilicalis",
+    "Aus dem linken Sinushorn"
+   ],
+   "a": "E",
+   "expl": "Das linke Sinushorn bildet sich zum Sinus coronarius zurück, ein Rest der linken Kardinalvene wird zur V. obliqua atrii sinistri. Das rechte Sinushorn wird glattwandiger Teil des rechten Vorhofs (Sinus venarum cavarum).",
+   "dis": {
+    "A": "Wird in den rechten Vorhof einbezogen.",
+    "B": "Wird zu Aorta und Truncus pulmonalis.",
+    "C": "Wird zum Lig. arteriosum.",
+    "D": "Wird zum Lig. teres hepatis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-4-2",
+   "src": "D1-4",
+   "typ": "perspektive",
+   "q": "Woraus entsteht der glattwandige Teil des rechten Vorhofs (Sinus venarum cavarum)?",
+   "o": [
+    "Aus dem rechten Sinushorn",
+    "Aus dem linken Sinushorn",
+    "Aus dem primitiven Vorhof",
+    "Aus den Lungenvenen",
+    "Aus dem Bulbus cordis"
+   ],
+   "a": "A",
+   "expl": "Die Crista terminalis trennt den glatten Sinus venarum cavarum vom trabekulierten Teil mit den Mm. pectinati. Sie markiert die frühere Grenze zwischen Sinus venosus und primitivem Vorhof.",
+   "dis": {
+    "B": "Wird zum Sinus coronarius.",
+    "C": "Bildet das trabekulierte Herzohr.",
+    "D": "Bilden den glatten Teil des linken Vorhofs.",
+    "E": "Bildet Ausflusstrakte."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-5-1",
+   "src": "D1-5",
+   "typ": "perspektive",
+   "q": "Woran erkennt man die Samenbläschen histologisch?",
+   "o": [
+    "An Hassall-Körperchen",
+    "An stark gefalteter Schleimhaut mit Nischen und Buchten und einer kräftigen Muskelwand",
+    "An Zotten mit Becherzellen",
+    "An Corpora amylacea",
+    "An Kolloid in Follikeln"
+   ],
+   "a": "B",
+   "expl": "Die Samenbläschen haben ein vielfach verzweigtes Lumen mit dünnen Schleimhautfalten. Corpora amylacea sind dagegen kennzeichnend für die Prostata.",
+   "dis": {
+    "A": "Thymus.",
+    "C": "Dünndarm.",
+    "D": "Prostata.",
+    "E": "Schilddrüse."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-5-2",
+   "src": "D1-5",
+   "typ": "perspektive",
+   "q": "Was sind Kerckring-Falten?",
+   "o": [
+    "Zotten aus Lamina propria",
+    "Längsfalten des Ösophagus",
+    "Ringfalten der Dünndarmschleimhaut mit Submukosa",
+    "Haustren des Kolons",
+    "Falten der Magenschleimhaut"
+   ],
+   "a": "C",
+   "expl": "Die Plicae circulares (Kerckring-Falten) sind dauerhafte Falten aus Mukosa und Submukosa. Zusammen mit Zotten und Mikrovilli vergrößern sie die Oberfläche des Dünndarms enorm.",
+   "dis": {
+    "A": "Kleiner, auf den Falten.",
+    "B": "Falsch.",
+    "D": "Falsch.",
+    "E": "Plicae gastricae."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-6-1",
+   "src": "D1-6",
+   "typ": "perspektive",
+   "q": "Wodurch unterscheidet sich die Thymusrinde vom Thymusmark im Schnitt?",
+   "o": [
+    "Die Rinde enthält die Hassall-Körperchen.",
+    "Die Rinde ist heller als das Mark.",
+    "Die Rinde enthält Follikel mit Keimzentren.",
+    "Die Rinde ist dunkler, weil sie dichter mit Lymphozyten gefüllt ist.",
+    "Es gibt keinen Unterschied."
+   ],
+   "a": "D",
+   "expl": "In der Rinde liegen dicht gepackt die unreifen Thymozyten. Im helleren Mark finden sich weniger Lymphozyten, mehr Epithelzellen und die Hassall-Körperchen.",
+   "dis": {
+    "A": "Sie liegen im Mark.",
+    "B": "Umgekehrt.",
+    "C": "Der Thymus hat keine Follikel.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-6-2",
+   "src": "D1-6",
+   "typ": "perspektive",
+   "q": "Was sind Corpora amylacea?",
+   "o": [
+    "Epithelkörperchen im Thymus",
+    "Verkalkungen in der Zirbeldrüse",
+    "Kolloid der Schilddrüse",
+    "Fettzellen im Knochenmark",
+    "Geschichtete Sekretkonkremente in den Drüsen der Prostata"
+   ],
+   "a": "E",
+   "expl": "Corpora amylacea nehmen mit dem Alter zu und sind ein Erkennungsmerkmal der Prostata. Sie können verkalken (Prostatasteine).",
+   "dis": {
+    "A": "Das sind Hassall-Körperchen.",
+    "B": "Das ist Hirnsand.",
+    "C": "Falsch.",
+    "D": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-7-1",
+   "src": "D1-7",
+   "typ": "klinik",
+   "q": "Welche Untersuchungsbefunde sind typisch für eine Aortenisthmusstenose?",
+   "o": [
+    "Hoher Blutdruck an den Armen, abgeschwächte Leistenpulse",
+    "Niedriger Blutdruck an den Armen, starke Leistenpulse",
+    "Gleicher Blutdruck an Armen und Beinen",
+    "Fehlender Radialispuls nur rechts",
+    "Zyanose nur der Arme"
+   ],
+   "a": "A",
+   "expl": "Die Enge liegt hinter dem Abgang der A. subclavia sinistra. Die Beine werden über Kollateralen versorgt; erweiterte Interkostalarterien können Rippenusuren verursachen.",
+   "dis": {
+    "B": "Umgekehrt.",
+    "C": "Untypisch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-7-2",
+   "src": "D1-7",
+   "typ": "klinik",
+   "q": "An welcher Stelle reißt die Aorta beim Dezelerationstrauma (z. B. Autounfall) am häufigsten?",
+   "o": [
+    "An der Aortenwurzel",
+    "Am Isthmus aortae",
+    "An der Bifurkation",
+    "Am Hiatus aorticus",
+    "In der Aorta abdominalis"
+   ],
+   "a": "B",
+   "expl": "Am Isthmus geht der bewegliche Aortenbogen in die an der Wirbelsäule fixierte Aorta descendens über. Bei plötzlicher Abbremsung entstehen dort Scherkräfte.",
+   "dis": {
+    "A": "Seltener.",
+    "C": "Selten.",
+    "D": "Selten.",
+    "E": "Selten."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-8-1",
+   "src": "D1-8",
+   "typ": "perspektive",
+   "q": "Über welchen Nerv senkt der Parasympathikus die Herzfrequenz?",
+   "o": [
+    "N. phrenicus",
+    "N. accessorius",
+    "N. vagus",
+    "N. hypoglossus",
+    "Nn. intercostales"
+   ],
+   "a": "C",
+   "expl": "Vagale Fasern wirken über M2-Rezeptoren vor allem auf Sinus- und AV-Knoten. Der rechte Vagus beeinflusst eher den Sinusknoten, der linke eher den AV-Knoten.",
+   "dis": {
+    "A": "Somatisch, Zwerchfell und Perikard.",
+    "B": "Motorisch für Trapezius und Sternocleidomastoideus.",
+    "D": "Zungenmuskulatur.",
+    "E": "Brustwand."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-8-2",
+   "src": "D1-8",
+   "typ": "perspektive",
+   "q": "Welche Struktur innerviert der N. phrenicus sensibel im Thorax?",
+   "o": [
+    "Myokard",
+    "Lungenparenchym",
+    "Pars costalis der Pleura",
+    "Perikard und Pleura mediastinalis",
+    "Ösophagus"
+   ],
+   "a": "D",
+   "expl": "Der N. phrenicus enthält sensible Fasern für Perikard, Pleura mediastinalis und diaphragmatica sowie das Peritoneum unter dem Zwerchfell. Perikarditisschmerz kann deshalb in die Schulter ausstrahlen.",
+   "dis": {
+    "A": "Vegetativ innerviert.",
+    "B": "Vegetativ.",
+    "C": "Interkostalnerven.",
+    "E": "Vegetativ."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-9-1",
+   "src": "D1-9",
+   "typ": "perspektive",
+   "q": "Wann schließen sich die Atrioventrikularklappen?",
+   "o": [
+    "Zu Beginn der Diastole",
+    "Am Ende der Systole",
+    "Während der Austreibungsphase",
+    "Nie, sie bleiben offen",
+    "Zu Beginn der Systole (Anspannungsphase)"
+   ],
+   "a": "E",
+   "expl": "Steigt der Kammerdruck über den Vorhofdruck, schließen die Segelklappen; das erzeugt den 1. Herzton. Der Schluss der Taschenklappen am Ende der Systole erzeugt den 2. Herzton.",
+   "dis": {
+    "A": "Dann schließen sich die Taschenklappen.",
+    "B": "Dann schließen sich die Taschenklappen.",
+    "C": "Sind dann schon geschlossen.",
+    "D": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-9-2",
+   "src": "D1-9",
+   "typ": "perspektive",
+   "q": "Was verhindert das Durchschlagen der Segelklappen in den Vorhof?",
+   "o": [
+    "Chordae tendineae und Papillarmuskeln",
+    "Trabeculae carneae allein",
+    "Crista terminalis",
+    "Mm. pectinati",
+    "Das Herzskelett allein"
+   ],
+   "a": "A",
+   "expl": "Die Papillarmuskeln spannen sich in der Systole an und halten über die Sehnenfäden die Segel. Reißt ein Papillarmuskel nach einem Infarkt, entsteht eine akute Mitralinsuffizienz.",
+   "dis": {
+    "B": "Haben keine Klappenverbindung.",
+    "C": "Liegt im Vorhof.",
+    "D": "Liegen im Herzohr.",
+    "E": "Hält nur den Klappenring."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-10-1",
+   "src": "D1-10",
+   "typ": "perspektive",
+   "q": "Welche Struktur bildet im p.a.-Röntgenbild den unteren linken Herzrand?",
+   "o": [
+    "Rechter Ventrikel",
+    "Linker Ventrikel",
+    "Rechter Vorhof",
+    "Aorta ascendens",
+    "V. cava inferior"
+   ],
+   "a": "B",
+   "expl": "Der linke Herzrand wird von oben nach unten von Aortenbogen, Truncus pulmonalis, linkem Herzohr und linkem Ventrikel gebildet.",
+   "dis": {
+    "A": "Liegt vorne, randbildend nur unten.",
+    "C": "Bildet den rechten Herzrand.",
+    "D": "Bildet den oberen rechten Rand.",
+    "E": "Kaum randbildend."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-10-2",
+   "src": "D1-10",
+   "typ": "perspektive",
+   "q": "Welche Strukturen bilden den rechten Herzrand im p.a.-Röntgenbild von oben nach unten?",
+   "o": [
+    "Rechter Ventrikel und rechter Vorhof",
+    "Aortenbogen und linker Ventrikel",
+    "V. cava superior bzw. Aorta ascendens und rechter Vorhof",
+    "Truncus pulmonalis und linkes Herzohr",
+    "Nur der rechte Ventrikel"
+   ],
+   "a": "C",
+   "expl": "Der rechte Ventrikel liegt vorne und bildet im p.a.-Bild keinen Rand. In der seitlichen Aufnahme liegt er dem Sternum an.",
+   "dis": {
+    "A": "Der rechte Ventrikel ist nicht randbildend.",
+    "B": "Linker Herzrand.",
+    "D": "Linker Herzrand.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-11-1",
+   "src": "D1-11",
+   "typ": "perspektive",
+   "q": "Wohin strahlt ein Geräusch der Mitralinsuffizienz typischerweise aus?",
+   "o": [
+    "In die Karotiden",
+    "In den Rücken zwischen die Schulterblätter",
+    "In den rechten Arm",
+    "In die linke Axilla",
+    "In den Oberbauch"
+   ],
+   "a": "D",
+   "expl": "Bei der Mitralinsuffizienz strömt Blut in der Systole zurück in den linken Vorhof. Das holosystolische Geräusch ist an der Herzspitze am lautesten.",
+   "dis": {
+    "A": "Typisch für die Aortenstenose.",
+    "B": "Typisch für die Aortenisthmusstenose.",
+    "C": "Untypisch.",
+    "E": "Untypisch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-11-2",
+   "src": "D1-11",
+   "typ": "perspektive",
+   "q": "Wo liegt die anatomische Projektion der Mitralklappe auf die Brustwand?",
+   "o": [
+    "Im 5. ICR in der Medioklavikularlinie",
+    "Im 2. ICR links",
+    "Hinter dem rechten Sternoklavikulargelenk",
+    "Über dem Proc. xiphoideus",
+    "Hinter dem Sternum links in Höhe des 4. Rippenknorpels"
+   ],
+   "a": "E",
+   "expl": "Projektionsort und Auskultationsort der Klappen sind verschieden. Die Klappen liegen dicht beieinander hinter dem Sternum, gehört werden sie in Strömungsrichtung.",
+   "dis": {
+    "A": "Das ist der Auskultationspunkt.",
+    "B": "Pulmonalis-Auskultationspunkt.",
+    "C": "Falsch.",
+    "D": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-12-1",
+   "src": "D1-12",
+   "typ": "perspektive",
+   "q": "Welche Herzklappe liegt am weitesten oben und vorne?",
+   "o": [
+    "Pulmonalklappe",
+    "Mitralklappe",
+    "Trikuspidalklappe",
+    "Aortenklappe",
+    "Valvula sinus coronarii"
+   ],
+   "a": "A",
+   "expl": "Die Pulmonalklappe projiziert sich links parasternal in Höhe des 3. Rippenknorpels. Sie liegt vor und links der Aortenklappe.",
+   "dis": {
+    "B": "Liegt am weitesten hinten-links.",
+    "C": "Liegt rechts unten.",
+    "D": "Liegt etwas tiefer und hinter der Pulmonalklappe.",
+    "E": "Keine Herzklappe im engeren Sinn."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-12-2",
+   "src": "D1-12",
+   "typ": "perspektive",
+   "q": "Wie viele Taschen (Valvulae semilunares) hat die Pulmonalklappe?",
+   "o": [
+    "Zwei",
+    "Drei",
+    "Vier",
+    "Eine",
+    "Fünf"
+   ],
+   "a": "B",
+   "expl": "Pulmonal- und Aortenklappe haben je drei Taschen. Hinter den Aortentaschen liegen die Sinus aortae mit den Koronarostien.",
+   "dis": {
+    "A": "Typisch für die Mitralklappe (Segel).",
+    "C": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-13-1",
+   "src": "D1-13",
+   "typ": "perspektive",
+   "q": "Wohin drainiert die Lymphe des Penis- und Skrotumhaut?",
+   "o": [
+    "In die paraaortalen Lymphknoten",
+    "In die Lnn. coeliaci",
+    "In die oberflächlichen Leistenlymphknoten",
+    "In die Lnn. mediastinales",
+    "In die Lnn. axillares"
+   ],
+   "a": "C",
+   "expl": "Hoden und Skrotum haben verschiedene Lymphwege: Der Hoden folgt der A. testicularis nach paraaortal, die Haut drainiert in die Leiste.",
+   "dis": {
+    "A": "Für den Hoden.",
+    "B": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-13-2",
+   "src": "D1-13",
+   "typ": "klinik",
+   "q": "In welcher Höhe liegen die ersten Lymphknotenstationen des Hodens?",
+   "o": [
+    "In der Leiste",
+    "Im kleinen Becken",
+    "Supraklavikulär",
+    "Paraaortal in Höhe der Nierengefäße (L1–L2)",
+    "Im Mediastinum"
+   ],
+   "a": "D",
+   "expl": "Wegen des Deszensus liegen die regionären Lymphknoten des Hodens hoch retroperitoneal. Bei Hodentumoren wird deshalb dort nach Metastasen gesucht.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Falsch.",
+    "C": "Spätere Station.",
+    "E": "Spätere Station."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-14-1",
+   "src": "D1-14",
+   "typ": "perspektive",
+   "q": "Wohin drainiert die Lymphe der rechten Lunge?",
+   "o": [
+    "In den Ductus thoracicus",
+    "In die Cisterna chyli",
+    "In die V. azygos",
+    "In die Lnn. inguinales",
+    "Über den Truncus bronchomediastinalis dexter in den rechten Venenwinkel"
+   ],
+   "a": "E",
+   "expl": "Die rechte Lunge drainiert über den Ductus lymphaticus dexter. Ein Teil der Lymphe des linken Unterlappens kreuzt allerdings nach rechts.",
+   "dis": {
+    "A": "Gilt für die linke Lunge.",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "D": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-14-2",
+   "src": "D1-14",
+   "typ": "perspektive",
+   "q": "Auf welcher Seite der Wirbelsäule liegt der Ductus thoracicus im unteren hinteren Mediastinum?",
+   "o": [
+    "Rechts der Mittellinie",
+    "Links der Aorta",
+    "Vor dem Herzen",
+    "Im vorderen Mediastinum",
+    "Im Wirbelkanal"
+   ],
+   "a": "A",
+   "expl": "Unten liegt der Ductus thoracicus rechts zwischen Aorta und V. azygos. Etwa in Höhe Th4/Th5 kreuzt er hinter dem Ösophagus nach links.",
+   "dis": {
+    "B": "Er wechselt erst oben nach links.",
+    "C": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-15-1",
+   "src": "D1-15",
+   "typ": "perspektive",
+   "q": "Wo verläuft der N. phrenicus im Mediastinum?",
+   "o": [
+    "Im hinteren Mediastinum am Ösophagus",
+    "Im mittleren Mediastinum zwischen Perikard und Pleura mediastinalis",
+    "Neben der Wirbelsäule",
+    "Im vorderen Mediastinum vor dem Sternum",
+    "Durch den Hiatus aorticus"
+   ],
+   "a": "B",
+   "expl": "Der N. phrenicus zieht mit den Vasa pericardiacophrenica vor dem Lungenhilum zum Zwerchfell. Der rechte tritt durch das Foramen venae cavae.",
+   "dis": {
+    "A": "Verlauf des N. vagus.",
+    "C": "Verlauf des Truncus sympathicus.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-15-2",
+   "src": "D1-15",
+   "typ": "perspektive",
+   "q": "Wohin mündet die V. azygos?",
+   "o": [
+    "In die V. cava inferior",
+    "In den rechten Vorhof direkt",
+    "In die V. cava superior",
+    "In die V. brachiocephalica sinistra",
+    "In den Sinus coronarius"
+   ],
+   "a": "C",
+   "expl": "Die V. azygos steigt rechts der Wirbelsäule auf und bildet über dem rechten Hauptbronchus einen Bogen zur V. cava superior. Sie ist ein Umgehungsweg bei Verschluss der V. cava inferior.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Falsch.",
+    "D": "Nimmt die Venen der linken Kopf-Hals-Seite auf.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-16-1",
+   "src": "D1-16",
+   "typ": "perspektive",
+   "q": "Welcher Recessus der Bursa omentalis reicht hinter den Magen nach unten zwischen die Blätter des großen Netzes?",
+   "o": [
+    "Recessus superior",
+    "Recessus splenicus",
+    "Recessus hepatorenalis",
+    "Recessus inferior",
+    "Recessus intersigmoideus"
+   ],
+   "a": "D",
+   "expl": "Der Recessus inferior ist beim Erwachsenen meist verklebt. Der Recessus superior liegt hinter dem Lobus caudatus, der Recessus splenicus reicht bis zum Milzhilus.",
+   "dis": {
+    "A": "Reicht nach oben hinter den Lobus caudatus.",
+    "B": "Reicht nach links zur Milz.",
+    "C": "Gehört nicht zur Bursa.",
+    "E": "Liegt am Sigma."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-16-2",
+   "src": "D1-16",
+   "typ": "nachbarschaft",
+   "q": "Welche Organe begrenzen den Recessus hepatorenalis (Morison-Pouch)?",
+   "o": [
+    "Magen und Milz",
+    "Uterus und Rektum",
+    "Blase und Uterus",
+    "Pankreas und Magen",
+    "Leberunterfläche und rechte Niere"
+   ],
+   "a": "E",
+   "expl": "Der Morison-Pouch ist im Liegen der tiefste Punkt des rechten Oberbauchs. In der FAST-Sonographie sucht man hier zuerst nach freier Flüssigkeit.",
+   "dis": {
+    "A": "Liegen links.",
+    "B": "Douglas-Raum.",
+    "C": "Excavatio vesicouterina.",
+    "D": "Bursa omentalis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-17-1",
+   "src": "D1-17",
+   "typ": "perspektive",
+   "q": "Welches Gefäß verläuft in der Plica gastropancreatica?",
+   "o": [
+    "A. gastrica sinistra",
+    "A. hepatica communis",
+    "A. colica media",
+    "A. splenica",
+    "V. portae"
+   ],
+   "a": "A",
+   "expl": "Die Plica gastropancreatica wird von der A. gastrica sinistra aufgeworfen und trennt den Vorhof der Bursa omentalis von ihrem Hauptraum.",
+   "dis": {
+    "B": "Verläuft in der Plica hepatopancreatica.",
+    "C": "Verläuft im Mesocolon transversum.",
+    "D": "Verläuft am Pankreasoberrand bzw. im Lig. splenorenale.",
+    "E": "Verläuft im Lig. hepatoduodenale."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-17-2",
+   "src": "D1-17",
+   "typ": "perspektive",
+   "q": "Welches Gefäß verläuft in der Plica hepatopancreatica?",
+   "o": [
+    "A. gastrica sinistra",
+    "A. hepatica communis",
+    "A. gastroomentalis dextra",
+    "A. mesenterica superior",
+    "V. splenica"
+   ],
+   "a": "B",
+   "expl": "Die A. hepatica communis zieht vom Truncus coeliacus nach rechts und wirft dabei an der Hinterwand der Bursa omentalis eine Falte auf.",
+   "dis": {
+    "A": "Plica gastropancreatica.",
+    "C": "Lig. gastrocolicum.",
+    "D": "Mesenterium.",
+    "E": "Hinter dem Pankreas."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-18-1",
+   "src": "D1-18",
+   "typ": "perspektive",
+   "q": "Aus welcher embryonalen Struktur geht das Lig. gastrosplenicum hervor?",
+   "o": [
+    "Aus dem Mesogastrium ventrale",
+    "Aus dem Mesocolon",
+    "Aus dem Mesogastrium dorsale",
+    "Aus dem Urachus",
+    "Aus dem Septum transversum direkt"
+   ],
+   "a": "C",
+   "expl": "Die Milz entsteht im Mesogastrium dorsale. Es teilt sich dadurch in Lig. gastrosplenicum und Lig. splenorenale.",
+   "dis": {
+    "A": "Bildet Omentum minus und Lig. falciforme.",
+    "B": "Falsch.",
+    "D": "Falsch.",
+    "E": "Bildet Teile des Zwerchfells."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-18-2",
+   "src": "D1-18",
+   "typ": "perspektive",
+   "q": "Was entsteht aus dem Mesogastrium ventrale?",
+   "o": [
+    "Omentum majus",
+    "Lig. gastrosplenicum",
+    "Mesocolon transversum",
+    "Omentum minus und Lig. falciforme hepatis",
+    "Lig. splenorenale"
+   ],
+   "a": "D",
+   "expl": "Die Leber wächst ins ventrale Mesogastrium ein. Zwischen Magen und Leber bleibt das Omentum minus, zwischen Leber und Bauchwand das Lig. falciforme.",
+   "dis": {
+    "A": "Aus dem Mesogastrium dorsale.",
+    "B": "Aus dem Mesogastrium dorsale.",
+    "C": "Aus dem Mesocolon.",
+    "E": "Aus dem Mesogastrium dorsale."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-19-1",
+   "src": "D1-19",
+   "typ": "perspektive",
+   "q": "Welche Arterie verläuft im Lig. gastrocolicum entlang der großen Kurvatur von rechts?",
+   "o": [
+    "A. gastrica dextra",
+    "A. gastrica sinistra",
+    "A. splenica",
+    "A. cystica",
+    "A. gastroomentalis dextra"
+   ],
+   "a": "E",
+   "expl": "Die A. gastroomentalis dextra aus der A. gastroduodenalis anastomosiert an der großen Kurvatur mit der A. gastroomentalis sinistra aus der A. splenica.",
+   "dis": {
+    "A": "Kleine Kurvatur.",
+    "B": "Kleine Kurvatur.",
+    "C": "Am Pankreasoberrand.",
+    "D": "Gallenblase."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-19-2",
+   "src": "D1-19",
+   "typ": "perspektive",
+   "q": "Welche Struktur bildet den größten Teil der Vorderwand der Bursa omentalis?",
+   "o": [
+    "Die Magenhinterwand",
+    "Das Pankreas",
+    "Die linke Niere",
+    "Das Colon descendens",
+    "Die Leber"
+   ],
+   "a": "A",
+   "expl": "Die Bursa omentalis liegt hinter Magen und Omentum minus. Ihre Hinterwand bedeckt Pankreas, linke Niere und Nebenniere.",
+   "dis": {
+    "B": "Bildet die Hinterwand.",
+    "C": "Liegt hinter der Hinterwand.",
+    "D": "Liegt außerhalb.",
+    "E": "Bildet nur oben einen Teil."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-20-1",
+   "src": "D1-20",
+   "typ": "perspektive",
+   "q": "Welches Merkmal kennzeichnet einen Bronchus im Gegensatz zu einem Bronchiolus?",
+   "o": [
+    "Fehlende glatte Muskulatur",
+    "Knorpel und seromuköse Drüsen in der Wand",
+    "Alveolen in der Wand",
+    "Plattenepithel",
+    "Fehlendes Epithel"
+   ],
+   "a": "B",
+   "expl": "Bronchiolen haben keinen Knorpel und keine Drüsen mehr; ihr Durchmesser liegt unter etwa 1 mm. Ihre Wand enthält Club-Zellen.",
+   "dis": {
+    "A": "Beide haben glatte Muskulatur.",
+    "C": "Kennzeichen des Bronchiolus respiratorius.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-20-2",
+   "src": "D1-20",
+   "typ": "perspektive",
+   "q": "Welche Zellen im Bronchiolusepithel bilden Schutzproteine und ersetzen dort die Becherzellen?",
+   "o": [
+    "Pneumozyten Typ II",
+    "Pneumozyten Typ I",
+    "Club-Zellen (Clara-Zellen)",
+    "Paneth-Zellen",
+    "Belegzellen"
+   ],
+   "a": "C",
+   "expl": "Club-Zellen sezernieren Bestandteile der Surfactant-ähnlichen Schutzschicht und können Giftstoffe abbauen. Sie dienen auch als Stammzellen des Bronchiolusepithels.",
+   "dis": {
+    "A": "Liegen in den Alveolen.",
+    "B": "Liegen in den Alveolen.",
+    "D": "Liegen im Dünndarm.",
+    "E": "Liegen im Magen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-21-1",
+   "src": "D1-21",
+   "typ": "perspektive",
+   "q": "Welche große Vene zieht durch das Foramen venae cavae im Centrum tendineum?",
+   "o": [
+    "V. azygos",
+    "V. portae",
+    "V. hemiazygos",
+    "V. cava inferior",
+    "V. cava superior"
+   ],
+   "a": "D",
+   "expl": "Weil das Foramen im sehnigen Centrum tendineum liegt, wird die V. cava bei der Einatmung offen gehalten bzw. sogar erweitert. Das fördert den venösen Rückstrom.",
+   "dis": {
+    "A": "Zieht durch den rechten Zwerchfellschenkel.",
+    "B": "Bleibt im Abdomen.",
+    "C": "Zieht durch den linken Zwerchfellschenkel.",
+    "E": "Liegt im Thorax."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-21-2",
+   "src": "D1-21",
+   "typ": "perspektive",
+   "q": "Welche Strukturen ziehen durch die Larrey-Spalte (Trigonum sternocostale)?",
+   "o": [
+    "Ösophagus und Vagus",
+    "Aorta",
+    "V. cava inferior",
+    "Truncus sympathicus",
+    "Vasa epigastrica superiora"
+   ],
+   "a": "E",
+   "expl": "Die A. thoracica interna setzt sich durch die Larrey-Spalte als A. epigastrica superior in die Rektusscheide fort. Hier können seltene Zwerchfellhernien entstehen.",
+   "dis": {
+    "A": "Hiatus oesophageus.",
+    "B": "Hiatus aorticus.",
+    "C": "Foramen venae cavae.",
+    "D": "Hinter dem Lig. arcuatum mediale."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-22-1",
+   "src": "D1-22",
+   "typ": "perspektive",
+   "q": "Welcher Herzanteil liegt im Thoraxquerschnitt in Höhe des Herzens am weitesten dorsal?",
+   "o": [
+    "Linker Vorhof",
+    "Rechter Ventrikel",
+    "Rechter Vorhof",
+    "Linker Ventrikel",
+    "Truncus pulmonalis"
+   ],
+   "a": "A",
+   "expl": "Der linke Vorhof grenzt direkt an den Ösophagus. Deshalb kann er per transösophagealer Echokardiographie gut beurteilt werden.",
+   "dis": {
+    "B": "Liegt am weitesten vorne.",
+    "C": "Liegt rechts.",
+    "D": "Liegt links vorne.",
+    "E": "Liegt vorne oben."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-22-2",
+   "src": "D1-22",
+   "typ": "klinik",
+   "q": "Welches Symptom kann ein stark vergrößerter linker Vorhof durch Kompression des Ösophagus verursachen?",
+   "o": [
+    "Hämaturie",
+    "Schluckbeschwerden (Dysphagie)",
+    "Ikterus",
+    "Diarrhö",
+    "Sehstörungen"
+   ],
+   "a": "B",
+   "expl": "Bei Mitralstenose kann sich der linke Vorhof stark erweitern und den Ösophagus nach hinten verlagern. Im Röntgen mit Kontrastschluck sieht man eine Impression.",
+   "dis": {
+    "A": "Falsch.",
+    "C": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-23-1",
+   "src": "D1-23",
+   "typ": "perspektive",
+   "q": "Wie heißt das Ganglion stellatum mit anderem Namen?",
+   "o": [
+    "Ganglion cervicale superius",
+    "Ganglion coeliacum",
+    "Ganglion cervicothoracicum",
+    "Ganglion ciliare",
+    "Ganglion impar"
+   ],
+   "a": "C",
+   "expl": "Das Ganglion stellatum entsteht aus der Verschmelzung des unteren Halsganglions mit dem ersten Brustganglion. Es liegt vor dem Hals der 1. Rippe.",
+   "dis": {
+    "A": "Liegt oben am Hals.",
+    "B": "Liegt im Bauch.",
+    "D": "Liegt in der Orbita.",
+    "E": "Liegt vor dem Steißbein."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-23-2",
+   "src": "D1-23",
+   "typ": "klinik",
+   "q": "Welche Symptome bilden das Horner-Syndrom?",
+   "o": [
+    "Mydriasis, Exophthalmus und Doppelbilder",
+    "Fazialisparese und Hörverlust",
+    "Heiserkeit und Schluckstörung",
+    "Ptosis, Miosis und (Pseudo-)Enophthalmus",
+    "Nackensteife und Fieber"
+   ],
+   "a": "D",
+   "expl": "Beim Horner-Syndrom fällt der Sympathikus zum Auge aus, z. B. durch einen Pancoast-Tumor am Ganglion stellatum. Oft fehlt zusätzlich das Schwitzen im Gesicht.",
+   "dis": {
+    "A": "Gegenteil bzw. Okulomotoriusparese.",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-24-1",
+   "src": "D1-24",
+   "typ": "perspektive",
+   "q": "Welches fetale Gefäß hat die höchste Sauerstoffsättigung?",
+   "o": [
+    "Aorta descendens",
+    "Aa. umbilicales",
+    "Truncus pulmonalis",
+    "V. cava superior",
+    "V. umbilicalis"
+   ],
+   "a": "E",
+   "expl": "Die V. umbilicalis führt Blut mit etwa 80 % Sättigung aus der Plazenta. Durch Beimischung von venösem Blut sinkt die Sättigung auf dem Weg zum Herzen.",
+   "dis": {
+    "A": "Mischblut.",
+    "B": "Sauerstoffarm.",
+    "C": "Sauerstoffarm.",
+    "D": "Sauerstoffarm."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-24-2",
+   "src": "D1-24",
+   "typ": "perspektive",
+   "q": "Was verschließt den Ductus venosus nach der Geburt?",
+   "o": [
+    "Er obliteriert zum Lig. venosum, weil die Nabelvene keinen Zustrom mehr hat.",
+    "Er wird zum Lig. arteriosum.",
+    "Er wird zur V. portae.",
+    "Er bleibt lebenslang offen.",
+    "Er wird zum Lig. teres hepatis."
+   ],
+   "a": "A",
+   "expl": "Nach der Abnabelung fällt der Fluss in der V. umbilicalis weg. Ductus venosus und Nabelvene verschließen sich in den ersten Lebenswochen.",
+   "dis": {
+    "B": "Das ist der Ductus arteriosus.",
+    "C": "Falsch.",
+    "D": "Falsch.",
+    "E": "Das ist die V. umbilicalis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-25-1",
+   "src": "D1-25",
+   "typ": "perspektive",
+   "q": "Welche Pharyngealbogenarterie bildet links einen Teil des definitiven Aortenbogens?",
+   "o": [
+    "Die 1. linke",
+    "Die 4. linke Pharyngealbogenarterie",
+    "Die 3. linke",
+    "Die 6. linke",
+    "Die 2. linke"
+   ],
+   "a": "B",
+   "expl": "Die 4. Bogenarterie wird links zum Aortenbogen, rechts zum Anfangsteil der A. subclavia dextra. Die 6. Bogenarterie bildet links den Ductus arteriosus.",
+   "dis": {
+    "A": "Bildet Teile der A. maxillaris.",
+    "C": "Bildet die A. carotis communis und interna.",
+    "D": "Bildet Truncus pulmonalis-Ast und Ductus arteriosus.",
+    "E": "Bildet die A. stapedia."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-25-2",
+   "src": "D1-25",
+   "typ": "perspektive",
+   "q": "Was wird aus der 6. Pharyngealbogenarterie links?",
+   "o": [
+    "Aortenbogen",
+    "A. carotis interna",
+    "Proximaler Teil der linken A. pulmonalis und Ductus arteriosus",
+    "A. subclavia dextra",
+    "Truncus brachiocephalicus"
+   ],
+   "a": "C",
+   "expl": "Weil der linke N. laryngeus recurrens unter der 6. Bogenarterie liegt, schlingt er sich später um das Lig. arteriosum. Rechts bildet sich der distale Teil zurück.",
+   "dis": {
+    "A": "4. Bogenarterie.",
+    "B": "3. Bogenarterie.",
+    "D": "4. Bogenarterie rechts.",
+    "E": "Aus dem Aortensack."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-26-1",
+   "src": "D1-26",
+   "typ": "perspektive",
+   "q": "Welche Zellen liegen in den Lebersinusoiden und phagozytieren gealterte Erythrozyten?",
+   "o": [
+    "Ito-Zellen",
+    "Hepatozyten",
+    "Pit-Zellen",
+    "Kupffer-Zellen",
+    "Cholangiozyten"
+   ],
+   "a": "D",
+   "expl": "Kupffer-Zellen sind ortsständige Makrophagen der Leber. Sie filtern Bakterien und Partikel aus dem Pfortaderblut.",
+   "dis": {
+    "A": "Speichern Vitamin A.",
+    "B": "Parenchymzellen.",
+    "C": "NK-Zellen der Leber.",
+    "E": "Gallengangsepithel."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-26-2",
+   "src": "D1-26",
+   "typ": "perspektive",
+   "q": "Welche Leberzellen speichern Vitamin A und können bei Zirrhose Kollagen bilden?",
+   "o": [
+    "Kupffer-Zellen",
+    "Hepatozyten",
+    "Endothelzellen",
+    "Oxyphile Zellen",
+    "Ito-Zellen (hepatische Sternzellen) im Disse-Raum"
+   ],
+   "a": "E",
+   "expl": "Bei chronischer Schädigung wandeln sich Ito-Zellen in Myofibroblasten um und bilden Kollagen. Das führt zur Leberfibrose.",
+   "dis": {
+    "A": "Makrophagen.",
+    "B": "Parenchymzellen.",
+    "C": "Kleiden die Sinusoide aus.",
+    "D": "Liegen in den Nebenschilddrüsen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-27-1",
+   "src": "D1-27",
+   "typ": "perspektive",
+   "q": "Welche Endothelform haben hochendotheliale Venolen?",
+   "o": [
+    "Kubisches bis hochprismatisches Endothel",
+    "Flaches Plattenendothel",
+    "Gefenstertes Endothel",
+    "Diskontinuierliches Endothel",
+    "Flimmerepithel"
+   ],
+   "a": "A",
+   "expl": "Das hohe Endothel trägt spezielle Adhäsionsmoleküle (Adressine), an die naive Lymphozyten binden. So wandern sie gezielt in den Lymphknoten ein.",
+   "dis": {
+    "B": "Typisch für normale Gefäße.",
+    "C": "Typisch für Glomeruli und endokrine Organe.",
+    "D": "Typisch für Lebersinusoide.",
+    "E": "Kein Endothel."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-27-2",
+   "src": "D1-27",
+   "typ": "perspektive",
+   "q": "Wie verlassen die Lymphozyten den Lymphknoten wieder?",
+   "o": [
+    "Über die hochendothelialen Venolen",
+    "Über die Vasa lymphatica efferentia am Hilus",
+    "Über die Vasa afferentia",
+    "Über die Kapsel direkt ins Gewebe",
+    "Über die Arterien"
+   ],
+   "a": "B",
+   "expl": "Lymphozyten treten über HEV ein und über Vasa efferentia aus. Über den Ductus thoracicus gelangen sie zurück ins Blut (Rezirkulation).",
+   "dis": {
+    "A": "Eintrittsweg.",
+    "C": "Eintrittsweg der Lymphe.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-28-1",
+   "src": "D1-28",
+   "typ": "nachbarschaft",
+   "q": "Hinter welchem Organ steigt der Ductus thoracicus im hinteren Mediastinum auf?",
+   "o": [
+    "Herz direkt",
+    "Sternum",
+    "Ösophagus",
+    "Trachea direkt",
+    "Thymus"
+   ],
+   "a": "C",
+   "expl": "Der Ductus thoracicus liegt dorsal des Ösophagus auf der Wirbelsäule. Bei Ösophagusoperationen kann er verletzt werden (Chylothorax).",
+   "dis": {
+    "A": "Liegt weiter vorne.",
+    "B": "Liegt vorne.",
+    "D": "Liegt vor dem Ösophagus.",
+    "E": "Liegt vorne."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-28-2",
+   "src": "D1-28",
+   "typ": "nachbarschaft",
+   "q": "Hinter welcher Arterie zieht der Ductus thoracicus am Hals zum Venenwinkel?",
+   "o": [
+    "A. carotis communis dextra",
+    "A. vertebralis dextra",
+    "Truncus brachiocephalicus",
+    "A. carotis communis sinistra",
+    "A. thoracica interna dextra"
+   ],
+   "a": "D",
+   "expl": "Am Hals bildet der Ductus thoracicus einen Bogen bis etwa C7, zieht hinter der linken A. carotis communis und vor der A. vertebralis zum linken Venenwinkel.",
+   "dis": {
+    "A": "Er liegt links.",
+    "B": "Falsch.",
+    "C": "Liegt rechts.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-29-1",
+   "src": "D1-29",
+   "typ": "perspektive",
+   "q": "Woraus entsteht die A. carotis communis?",
+   "o": [
+    "Aus der 4. Pharyngealbogenarterie",
+    "Aus der 6. Pharyngealbogenarterie",
+    "Aus der 1. Pharyngealbogenarterie",
+    "Aus der Aorta dorsalis allein",
+    "Aus der 3. Pharyngealbogenarterie"
+   ],
+   "a": "E",
+   "expl": "Die 3. Bogenarterie bildet die A. carotis communis und den Anfangsteil der A. carotis interna. Der Rest der Carotis interna stammt aus der Aorta dorsalis.",
+   "dis": {
+    "A": "Aortenbogen bzw. A. subclavia dextra.",
+    "B": "Pulmonalarterien.",
+    "C": "A. maxillaris.",
+    "D": "Bildet distale Teile der A. carotis interna."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-29-2",
+   "src": "D1-29",
+   "typ": "perspektive",
+   "q": "Woraus entstehen Aorta ascendens und Truncus pulmonalis?",
+   "o": [
+    "Aus dem Truncus arteriosus durch das spiralige Septum aorticopulmonale",
+    "Aus der 4. Bogenarterie",
+    "Aus dem Sinus venosus",
+    "Aus der Aorta dorsalis",
+    "Aus dem Ductus arteriosus"
+   ],
+   "a": "A",
+   "expl": "Das Septum aorticopulmonale entsteht aus Neuralleistenzellen und windet sich spiralig. Fehler führen z. B. zur Transposition der großen Arterien.",
+   "dis": {
+    "B": "Aortenbogen.",
+    "C": "Venöser Zustrom.",
+    "D": "Absteigende Aorta.",
+    "E": "Verbindungsgefäß."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-30-1",
+   "src": "D1-30",
+   "typ": "perspektive",
+   "q": "Woraus entsteht die V. portae?",
+   "o": [
+    "Aus den Vv. umbilicales",
+    "Aus den Vv. omphalomesentericae (Dottersackvenen)",
+    "Aus den Kardinalvenen",
+    "Aus dem Sinus venosus",
+    "Aus dem Ductus venosus"
+   ],
+   "a": "B",
+   "expl": "Die Dottersackvenen bilden um das Duodenum Anastomosen, aus denen die V. portae hervorgeht. Ihr herznaher Anteil wird zu den Lebervenen und dem oberen Teil der V. cava inferior.",
+   "dis": {
+    "A": "Werden zu Lig. teres hepatis.",
+    "C": "Bilden die Hohlvenen.",
+    "D": "Wird Teil des Herzens.",
+    "E": "Wird zum Lig. venosum."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-30-2",
+   "src": "D1-30",
+   "typ": "perspektive",
+   "q": "Woraus entsteht die V. brachiocephalica sinistra?",
+   "o": [
+    "Aus der linken V. umbilicalis",
+    "Aus dem linken Sinushorn",
+    "Aus einer Anastomose zwischen den beiden vorderen Kardinalvenen",
+    "Aus der V. azygos",
+    "Aus der linken hinteren Kardinalvene"
+   ],
+   "a": "C",
+   "expl": "Die Anastomose leitet das Blut der linken Kopf-Hals-Seite nach rechts. Die rechte vordere Kardinalvene wird zur V. cava superior.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Wird zum Sinus coronarius.",
+    "D": "Falsch.",
+    "E": "Bildet Teile der V. hemiazygos."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-31-1",
+   "src": "D1-31",
+   "typ": "perspektive",
+   "q": "Welche Wandschicht ist bei Arterien vom muskulären Typ am dicksten?",
+   "o": [
+    "Tunica intima",
+    "Tunica adventitia",
+    "Membrana elastica interna",
+    "Tunica media",
+    "Endothel"
+   ],
+   "a": "D",
+   "expl": "Die Media besteht aus glatter Muskulatur und regelt den Gefäßdurchmesser. Bei Venen ist dagegen oft die Adventitia die dickste Schicht.",
+   "dis": {
+    "A": "Dünn.",
+    "B": "Meist dünner als die Media.",
+    "C": "Dünne Grenzlamelle.",
+    "E": "Einschichtig."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-31-2",
+   "src": "D1-31",
+   "typ": "perspektive",
+   "q": "Welche Arterien gehören zum elastischen Typ?",
+   "o": [
+    "A. radialis",
+    "A. femoralis",
+    "Arteriolen",
+    "Koronararterien",
+    "Herznahe große Arterien wie die Aorta"
+   ],
+   "a": "E",
+   "expl": "Die elastischen Lamellen der Aorta speichern in der Systole Energie und geben sie in der Diastole ab (Windkesselfunktion). So wird der Blutfluss gleichmäßiger.",
+   "dis": {
+    "A": "Muskulärer Typ.",
+    "B": "Muskulärer Typ.",
+    "C": "Muskulär, klein.",
+    "D": "Muskulärer Typ."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-32-1",
+   "src": "D1-32",
+   "typ": "perspektive",
+   "q": "Welche Strukturen umrundet die A. pudenda interna, bevor sie in die Fossa ischioanalis gelangt?",
+   "o": [
+    "Spina ischiadica und Lig. sacrospinale",
+    "Tuber ischiadicum",
+    "Lig. inguinale",
+    "Trochanter major",
+    "Os coccygis"
+   ],
+   "a": "A",
+   "expl": "Die A. pudenda interna verlässt das Becken durch das Foramen infrapiriforme, zieht um Spina ischiadica bzw. Lig. sacrospinale und tritt durch das Foramen ischiadicum minus in den Alcock-Kanal.",
+   "dis": {
+    "B": "Liegt tiefer.",
+    "C": "Liegt vorne.",
+    "D": "Liegt lateral.",
+    "E": "Liegt medial."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-32-2",
+   "src": "D1-32",
+   "typ": "perspektive",
+   "q": "Welche Bänder begrenzen das Foramen ischiadicum minus?",
+   "o": [
+    "Lig. inguinale und Lig. lacunare",
+    "Lig. sacrospinale und Lig. sacrotuberale",
+    "Lig. iliolumbale und Lig. sacroiliacum",
+    "Lig. pubicum superius und inferius",
+    "Lig. capitis femoris"
+   ],
+   "a": "B",
+   "expl": "Die beiden Bänder wandeln die Incisura ischiadica minor in ein Foramen um. Hindurch ziehen die Sehne des M. obturatorius internus und die Pudendusstraße.",
+   "dis": {
+    "A": "Begrenzen den Schenkelring.",
+    "C": "Falsch.",
+    "D": "An der Symphyse.",
+    "E": "Im Hüftgelenk."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-33-1",
+   "src": "D1-33",
+   "typ": "perspektive",
+   "q": "Welches Band verbindet das Ovar mit der seitlichen Beckenwand?",
+   "o": [
+    "Lig. ovarii proprium",
+    "Lig. teres uteri",
+    "Lig. suspensorium ovarii",
+    "Lig. cardinale",
+    "Lig. sacrouterinum"
+   ],
+   "a": "C",
+   "expl": "Im Lig. suspensorium ovarii (Lig. infundibulopelvicum) verlaufen A. und V. ovarica. Bei der Ovarektomie wird es abgesetzt.",
+   "dis": {
+    "A": "Verbindet Ovar und Uterus.",
+    "B": "Zieht durch den Leistenkanal.",
+    "D": "Zervix zur Beckenwand.",
+    "E": "Zervix zum Kreuzbein."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-33-2",
+   "src": "D1-33",
+   "typ": "perspektive",
+   "q": "Welche Struktur im Ovar entsteht nach dem Eisprung aus dem Follikel?",
+   "o": [
+    "Corpus albicans",
+    "Primordialfollikel",
+    "Graaf-Follikel",
+    "Corpus luteum",
+    "Corpus spongiosum"
+   ],
+   "a": "D",
+   "expl": "Der Gelbkörper bildet Progesteron. Ohne Schwangerschaft bildet er sich nach etwa 14 Tagen zum Corpus albicans zurück.",
+   "dis": {
+    "A": "Narbe nach Rückbildung des Gelbkörpers.",
+    "B": "Ruhender Follikel vor der Reifung.",
+    "C": "Sprungreifer Follikel.",
+    "E": "Schwellkörper."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-34-1",
+   "src": "D1-34",
+   "typ": "perspektive",
+   "q": "Welche Strukturen liegen in einem Portalfeld der Leber?",
+   "o": [
+    "Zentralvene und Lebervene",
+    "Nur Lymphgefäße",
+    "Ast der V. hepatica und Gallengang",
+    "Sinusoide allein",
+    "Ast der V. portae, Ast der A. hepatica und Gallengang"
+   ],
+   "a": "E",
+   "expl": "Die Lebervenenäste verlaufen getrennt von den Portalfeldern. Sie sammeln das Blut aus den Zentralvenen.",
+   "dis": {
+    "A": "Liegen im Läppchenzentrum.",
+    "B": "Falsch.",
+    "C": "Lebervenen liegen nicht im Portalfeld.",
+    "D": "Liegen zwischen den Leberplatten."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-34-2",
+   "src": "D1-34",
+   "typ": "perspektive",
+   "q": "Welches Epithel kleidet die interlobulären Gallengänge im Portalfeld aus?",
+   "o": [
+    "Einschichtiges kubisches Epithel",
+    "Mehrschichtiges Plattenepithel",
+    "Endothel",
+    "Urothel",
+    "Flimmerepithel"
+   ],
+   "a": "A",
+   "expl": "Die Gallengänge sind an ihrem kubischen Epithel zu erkennen. Daneben liegt der dünnwandige, weite Pfortaderast und der kleine, dickwandige Arterienast.",
+   "dis": {
+    "B": "Falsch.",
+    "C": "Kleidet Gefäße aus.",
+    "D": "Harnwege.",
+    "E": "Atemwege."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-35-1",
+   "src": "D1-35",
+   "typ": "perspektive",
+   "q": "Wo liegen die Mesangiumzellen im Glomerulus?",
+   "o": [
+    "Außen auf der Bowman-Kapsel",
+    "Zwischen den Kapillarschlingen",
+    "Im proximalen Tubulus",
+    "Im Lumen der Kapillaren",
+    "In der Macula densa"
+   ],
+   "a": "B",
+   "expl": "Die Mesangiumzellen stützen die Kapillarschlingen, phagozytieren Ablagerungen an der Basalmembran und können sich kontrahieren.",
+   "dis": {
+    "A": "Falsch.",
+    "C": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-35-2",
+   "src": "D1-35",
+   "typ": "klinik",
+   "q": "Was zeigt sich im Urin, wenn der glomeruläre Filter geschädigt ist?",
+   "o": [
+    "Glukosurie bei normalem Blutzucker als Hauptbefund",
+    "Völlig normaler Urin",
+    "Proteinurie und gegebenenfalls Hämaturie",
+    "Nur Bilirubin",
+    "Ketonkörper"
+   ],
+   "a": "C",
+   "expl": "Beim nephrotischen Syndrom gehen große Mengen Eiweiß verloren, beim nephritischen Syndrom zusätzlich Erythrozyten. Ursache ist meist eine Schädigung von Podozyten oder Basalmembran.",
+   "dis": {
+    "A": "Typisch für Tubulusstörungen.",
+    "B": "Falsch.",
+    "D": "Falsch.",
+    "E": "Stoffwechselstörung."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-36-1",
+   "src": "D1-36",
+   "typ": "perspektive",
+   "q": "Welche Fläche der Prostata ist bei der rektalen Untersuchung tastbar?",
+   "o": [
+    "Die Vorderfläche",
+    "Die Oberfläche (Basis)",
+    "Nur der Apex von vorne",
+    "Die Hinterfläche",
+    "Keine"
+   ],
+   "a": "D",
+   "expl": "Die Hinterfläche liegt der Rektumvorderwand an und ist durch die Denonvilliers-Faszie von ihr getrennt. Hier liegt die periphere Zone.",
+   "dis": {
+    "A": "Liegt zur Symphyse.",
+    "B": "Liegt an der Blase.",
+    "C": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-36-2",
+   "src": "D1-36",
+   "typ": "nachbarschaft",
+   "q": "Welcher Muskel liegt den Seitenflächen der Prostata an?",
+   "o": [
+    "M. obturatorius externus",
+    "M. piriformis",
+    "M. gluteus maximus",
+    "M. iliopsoas",
+    "M. levator ani (Pars puboprostatica)"
+   ],
+   "a": "E",
+   "expl": "Die medialen Fasern des M. levator ani umgreifen die Prostata seitlich. Sie werden auch als M. levator prostatae bezeichnet.",
+   "dis": {
+    "A": "Liegt außerhalb des Beckens.",
+    "B": "Liegt hinten.",
+    "C": "Liegt außen.",
+    "D": "Liegt im großen Becken."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-37-1",
+   "src": "D1-37",
+   "typ": "perspektive",
+   "q": "Welche Grube der vorderen Bauchwand innen entspricht der Austrittsstelle indirekter Leistenhernien?",
+   "o": [
+    "Fossa inguinalis lateralis",
+    "Fossa inguinalis medialis",
+    "Fossa supravesicalis",
+    "Fossa iliaca",
+    "Fossa ovarica"
+   ],
+   "a": "A",
+   "expl": "Die Fossa inguinalis lateralis liegt lateral der Plica umbilicalis lateralis mit den Vasa epigastrica inferiora. Hier liegt der innere Leistenring.",
+   "dis": {
+    "B": "Direkte Hernie.",
+    "C": "Seltene Supravesikalhernie.",
+    "D": "Liegt im Becken.",
+    "E": "Liegt im Becken."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-37-2",
+   "src": "D1-37",
+   "typ": "perspektive",
+   "q": "Welche Falte trennt innen die Fossa inguinalis lateralis von der medialis?",
+   "o": [
+    "Plica umbilicalis medialis",
+    "Plica umbilicalis lateralis",
+    "Plica umbilicalis mediana",
+    "Plica gastropancreatica",
+    "Plica interureterica"
+   ],
+   "a": "B",
+   "expl": "Die Plica umbilicalis lateralis wird von den Vasa epigastrica inferiora aufgeworfen. Sie ist die Grenze zwischen indirekten und direkten Leistenhernien.",
+   "dis": {
+    "A": "Trennt medialis und supravesicalis.",
+    "C": "Liegt median.",
+    "D": "Liegt in der Bursa omentalis.",
+    "E": "Liegt in der Blase."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-38-1",
+   "src": "D1-38",
+   "typ": "perspektive",
+   "q": "Welche Gefäße münden in den linken Vorhof?",
+   "o": [
+    "Vier Vv. pulmonales",
+    "V. cava superior und inferior",
+    "Sinus coronarius",
+    "Truncus pulmonalis",
+    "Aorta"
+   ],
+   "a": "A",
+   "expl": "Der linke Vorhof erhält sauerstoffreiches Blut aus den Lungenvenen und gibt es über die Mitralklappe an den linken Ventrikel weiter. Sein glattwandiger Teil entsteht aus den einbezogenen Lungenvenen.",
+   "dis": {
+    "B": "Münden in den rechten Vorhof.",
+    "C": "Mündet in den rechten Vorhof.",
+    "D": "Verlässt den rechten Ventrikel.",
+    "E": "Verlässt den linken Ventrikel."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-38-2",
+   "src": "D1-38",
+   "typ": "perspektive",
+   "q": "Wo liegt das Herzohr des linken Vorhofs?",
+   "o": [
+    "Rechts neben der Aorta ascendens",
+    "Links neben dem Truncus pulmonalis",
+    "An der Herzspitze",
+    "Am Zwerchfell",
+    "Hinter der V. cava inferior"
+   ],
+   "a": "B",
+   "expl": "Das linke Herzohr ist schmal und lang. Bei Vorhofflimmern entstehen hier bevorzugt Thromben, die zu Schlaganfällen führen können.",
+   "dis": {
+    "A": "Rechtes Herzohr.",
+    "C": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-39-1",
+   "src": "D1-39",
+   "typ": "perspektive",
+   "q": "Wie viele Segmente hat der rechte Lungenunterlappen?",
+   "o": [
+    "Zwei",
+    "Drei",
+    "Fünf (Segmente 6 bis 10)",
+    "Zehn",
+    "Eins"
+   ],
+   "a": "C",
+   "expl": "Rechts: Oberlappen Segmente 1–3, Mittellappen 4–5, Unterlappen 6–10. Segment 6 ist das apikale (superiore) Unterlappensegment.",
+   "dis": {
+    "A": "Mittellappen.",
+    "B": "Oberlappen.",
+    "D": "Ganze rechte Lunge.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-39-2",
+   "src": "D1-39",
+   "typ": "perspektive",
+   "q": "Welche Segmente bilden die Lingula der linken Lunge?",
+   "o": [
+    "Segmente 1 bis 3",
+    "Segmente 6 und 7",
+    "Segmente 8 bis 10",
+    "Segmente 4 und 5 (Segmentum lingulare superius und inferius)",
+    "Nur Segment 6"
+   ],
+   "a": "D",
+   "expl": "Die Lingula ist das linke Gegenstück zum rechten Mittellappen. Sie wird über den Lingulabronchus aus dem Oberlappenbronchus belüftet.",
+   "dis": {
+    "A": "Oberlappen ohne Lingula.",
+    "B": "Unterlappen.",
+    "C": "Basale Unterlappensegmente.",
+    "E": "Apikales Unterlappensegment."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-40-1",
+   "src": "D1-40",
+   "typ": "perspektive",
+   "q": "Welche Ladung trägt die glomeruläre Basalmembran überwiegend?",
+   "o": [
+    "Positiv",
+    "Neutral",
+    "Wechselnd mit dem Herzschlag",
+    "Sie hat keine Ladung",
+    "Negativ"
+   ],
+   "a": "E",
+   "expl": "Heparansulfat-Proteoglykane machen die Basalmembran negativ. Negativ geladene Proteine wie Albumin werden dadurch zusätzlich zurückgehalten.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "D": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-40-2",
+   "src": "D1-40",
+   "typ": "perspektive",
+   "q": "Welches Protein ist ein wichtiger Bestandteil der Schlitzmembran zwischen den Podozytenfortsätzen?",
+   "o": [
+    "Nephrin",
+    "Myosin",
+    "Hämoglobin",
+    "Albumin",
+    "Keratin"
+   ],
+   "a": "A",
+   "expl": "Mutationen im Nephrin-Gen verursachen ein angeborenes nephrotisches Syndrom (finnischer Typ). Das zeigt die Bedeutung der Schlitzmembran für den Filter.",
+   "dis": {
+    "B": "Motorprotein.",
+    "C": "Sauerstofftransport.",
+    "D": "Plasmaprotein.",
+    "E": "Intermediärfilament der Epithelien."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-41-1",
+   "src": "D1-41",
+   "typ": "perspektive",
+   "q": "Wie verläuft die Radix mesenterii?",
+   "o": [
+    "Quer von rechts nach links in Höhe des Nabels",
+    "Von der Flexura duodenojejunalis links oben schräg zur rechten Fossa iliaca",
+    "Vertikal entlang der Wirbelsäule",
+    "Von der Leber zum Magen",
+    "Vom Sigma zum Kreuzbein"
+   ],
+   "a": "B",
+   "expl": "Die etwa 15 cm lange Mesenterialwurzel kreuzt Duodenum, Aorta, V. cava inferior und den rechten Ureter. Sie enthält A. und V. mesenterica superior.",
+   "dis": {
+    "A": "Falsch.",
+    "C": "Falsch.",
+    "D": "Omentum minus.",
+    "E": "Mesocolon sigmoideum."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-41-2",
+   "src": "D1-41",
+   "typ": "perspektive",
+   "q": "Was unterscheidet primär von sekundär retroperitonealen Organen?",
+   "o": [
+    "Primär retroperitoneale Organe liegen intraperitoneal.",
+    "Sekundär retroperitoneale Organe hatten nie ein Mesenterium.",
+    "Primär retroperitoneale Organe hatten nie ein Mesenterium, sekundär retroperitoneale haben es durch Verwachsung verloren.",
+    "Es gibt keinen Unterschied.",
+    "Primär retroperitoneale Organe liegen im Thorax."
+   ],
+   "a": "C",
+   "expl": "Primär retroperitoneal sind z. B. Nieren, Nebennieren und Ureteren. Sekundär retroperitoneal sind z. B. Pankreas, große Teile des Duodenums und Colon ascendens bzw. descendens.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Umgekehrt.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-42-1",
+   "src": "D1-42",
+   "typ": "perspektive",
+   "q": "Wodurch unterscheidet sich die Haut der Axilla histologisch von anderer Haut?",
+   "o": [
+    "Durch fehlende Haare",
+    "Durch fehlende Epidermis",
+    "Durch Flimmerepithel",
+    "Durch zahlreiche apokrine Duftdrüsen",
+    "Durch Becherzellen"
+   ],
+   "a": "D",
+   "expl": "Apokrine Duftdrüsen münden in Haarfollikel und werden erst ab der Pubertät aktiv. Sie finden sich in Axilla, Genital- und Perianalregion.",
+   "dis": {
+    "A": "Die Axilla ist behaart.",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-42-2",
+   "src": "D1-42",
+   "typ": "perspektive",
+   "q": "Welche Struktur kennzeichnet die Papillae vallatae der Zunge?",
+   "o": [
+    "Verhornte Spitzen ohne Geschmacksknospen",
+    "Lymphfollikel",
+    "Flimmerepithel",
+    "Kolloidfollikel",
+    "Ein Ringgraben mit Geschmacksknospen und Ebner-Spüldrüsen"
+   ],
+   "a": "E",
+   "expl": "Die 7–12 Wallpapillen liegen vor dem Sulcus terminalis. Ihre Spüldrüsen reinigen den Graben, damit neue Geschmacksstoffe die Knospen erreichen.",
+   "dis": {
+    "A": "Papillae filiformes.",
+    "B": "Tonsilla lingualis.",
+    "C": "Falsch.",
+    "D": "Schilddrüse."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-43-1",
+   "src": "D1-43",
+   "typ": "nachbarschaft",
+   "q": "Wo liegt die linke Nebenniere?",
+   "o": [
+    "Am oberen medialen Pol der linken Niere, hinter der Bursa omentalis und dem Pankreas",
+    "Vor dem Magen",
+    "Hinter der V. cava inferior",
+    "In der Leberpforte",
+    "Im kleinen Becken"
+   ],
+   "a": "A",
+   "expl": "Die linke Nebenniere reicht halbmondförmig vom oberen Pol bis zum Hilus der linken Niere. Vorne liegen Bursa omentalis, Magen und Pankreaskörper.",
+   "dis": {
+    "B": "Falsch.",
+    "C": "Rechte Nebenniere.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-43-2",
+   "src": "D1-43",
+   "typ": "perspektive",
+   "q": "Wie heißt die Aorta unterhalb des Hiatus aorticus?",
+   "o": [
+    "Aorta thoracica",
+    "Aorta abdominalis",
+    "Arcus aortae",
+    "Aorta ascendens",
+    "Truncus coeliacus"
+   ],
+   "a": "B",
+   "expl": "Die Aorta wird nach Durchtritt durch den Hiatus aorticus in Höhe Th12 zur Aorta abdominalis. Sie teilt sich in Höhe L4 in die Aa. iliacae communes.",
+   "dis": {
+    "A": "Oberhalb des Zwerchfells.",
+    "C": "Aortenbogen.",
+    "D": "Aufsteigende Aorta.",
+    "E": "Erster unpaarer Ast."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-44-1",
+   "src": "D1-44",
+   "typ": "perspektive",
+   "q": "Wohin mündet der Ausführungsgang der Glandula vesiculosa?",
+   "o": [
+    "Direkt in die Harnblase",
+    "In die Pars membranacea der Urethra",
+    "In den Ductus deferens, mit dem er den Ductus ejaculatorius bildet",
+    "In das Rektum",
+    "In die Pars spongiosa"
+   ],
+   "a": "C",
+   "expl": "Ductus excretorius der Samenblase und Ampulla ductus deferentis vereinigen sich zum Ductus ejaculatorius. Dieser mündet am Colliculus seminalis in die Pars prostatica.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Falsch.",
+    "D": "Falsch.",
+    "E": "Mündung der Cowper-Drüsen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-44-2",
+   "src": "D1-44",
+   "typ": "perspektive",
+   "q": "Welcher Farbstoff verleiht den Epithelzellen der Samenblase im Alter oft eine gelbliche Färbung?",
+   "o": [
+    "Melanin",
+    "Bilirubin",
+    "Hämosiderin",
+    "Lipofuszin",
+    "Karotin"
+   ],
+   "a": "D",
+   "expl": "Lipofuszin ist ein Alterspigment aus Abbauprodukten. Es findet sich im Samenblasenepithel, aber auch in Herzmuskel- und Nervenzellen.",
+   "dis": {
+    "A": "Haut und Augen.",
+    "B": "Gallenfarbstoff.",
+    "C": "Eisenpigment.",
+    "E": "Pflanzenfarbstoff."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-45-1",
+   "src": "D1-45",
+   "typ": "perspektive",
+   "q": "Warum färben sich Belegzellen in der HE-Färbung eosinophil?",
+   "o": [
+    "Wegen ihres hohen H+-Gehalts",
+    "Wegen vieler Ribosomen",
+    "Wegen Schleimgranula",
+    "Wegen Glykogen",
+    "Wegen ihrer vielen Mitochondrien"
+   ],
+   "a": "E",
+   "expl": "Die Protonenpumpe braucht viel ATP, deshalb haben Belegzellen sehr viele Mitochondrien. Hauptzellen sind dagegen durch ihr raues ER basophil.",
+   "dis": {
+    "A": "Kein Grund für die Färbung.",
+    "B": "Würde basophil machen.",
+    "C": "Würde hell machen.",
+    "D": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-45-2",
+   "src": "D1-45",
+   "typ": "perspektive",
+   "q": "Welchen Stoff bilden Belegzellen neben der Salzsäure?",
+   "o": [
+    "Intrinsic Factor",
+    "Pepsinogen",
+    "Gastrin",
+    "Schleim",
+    "Histamin"
+   ],
+   "a": "A",
+   "expl": "Der Intrinsic Factor ist für die Aufnahme von Vitamin B12 im Ileum nötig. Bei Autoimmungastritis fehlt er; es entsteht eine perniziöse Anämie.",
+   "dis": {
+    "B": "Hauptzellen.",
+    "C": "G-Zellen.",
+    "D": "Nebenzellen und Oberflächenepithel.",
+    "E": "ECL-Zellen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-46-1",
+   "src": "D1-46",
+   "typ": "nachbarschaft",
+   "q": "Welches Organ liegt der Milz links benachbart, ohne an der Leber eine Impression zu bilden?",
+   "o": [
+    "Rechte Niere",
+    "Linke Kolonflexur",
+    "Duodenum",
+    "Gallenblase",
+    "Rechte Nebenniere"
+   ],
+   "a": "B",
+   "expl": "Die Milz liegt links unter dem Zwerchfell und erreicht die Leber nicht. Ihre Nachbarn sind Magen, linke Niere, linke Kolonflexur und Pankreasschwanz.",
+   "dis": {
+    "A": "Bildet eine Leberimpression.",
+    "C": "Bildet eine Leberimpression.",
+    "D": "Liegt in der Leberunterfläche.",
+    "E": "Bildet eine Leberimpression."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-46-2",
+   "src": "D1-46",
+   "typ": "perspektive",
+   "q": "Wann sind die Impressionen an der Leber gut erkennbar?",
+   "o": [
+    "Nur beim lebenden Patienten im Ultraschall",
+    "Nur bei Leberzirrhose",
+    "An der in situ fixierten Leber",
+    "Nur nach Entfernung aus dem Körper ohne Fixierung",
+    "Nie"
+   ],
+   "a": "C",
+   "expl": "Die Leber ist weich und passt sich ihren Nachbarn an. Die Impressionen sind deshalb nur an der im Körper fixierten Leber deutlich.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Falsch.",
+    "D": "Die weiche Leber verliert dann die Form.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-48-1",
+   "src": "D1-48",
+   "typ": "perspektive",
+   "q": "Wo liegt das Rete testis?",
+   "o": [
+    "Im Nebenhodenkopf",
+    "Im Samenstrang",
+    "In der Prostata",
+    "Im Mediastinum testis",
+    "In der Tunica vaginalis"
+   ],
+   "a": "D",
+   "expl": "Das Rete testis ist ein Netzwerk von Spalträumen im bindegewebigen Mediastinum testis. Es verbindet die Tubuli recti mit den Ductuli efferentes.",
+   "dis": {
+    "A": "Dort liegen die Ductuli efferentes.",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-48-2",
+   "src": "D1-48",
+   "typ": "perspektive",
+   "q": "Welches Epithel kleidet das Rete testis aus?",
+   "o": [
+    "Mehrschichtiges Plattenepithel",
+    "Zweireihiges Epithel mit Stereozilien",
+    "Urothel",
+    "Keimepithel mit Spermatogonien",
+    "Einschichtiges flaches bis kubisches Epithel"
+   ],
+   "a": "E",
+   "expl": "Das Rete testis hat unregelmäßige, mit flachem Epithel ausgekleidete Spalten. Die Ductuli efferentes zeigen dagegen ein typisches Wellenrelief aus hohen und niedrigen Zellen.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Ductus epididymidis.",
+    "C": "Harnwege.",
+    "D": "Tubuli seminiferi."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-49-1",
+   "src": "D1-49",
+   "typ": "perspektive",
+   "q": "In welchen Gang mündet der Ductus cysticus?",
+   "o": [
+    "In den Ductus hepaticus communis, der dann Ductus choledochus heißt",
+    "In den Ductus pancreaticus",
+    "Direkt ins Duodenum",
+    "In die Gallenblase zurück",
+    "In die V. portae"
+   ],
+   "a": "A",
+   "expl": "Ab der Einmündung des Ductus cysticus heißt der gemeinsame Gang Ductus choledochus. Er zieht im Lig. hepatoduodenale hinter Duodenum und Pankreaskopf zur Papille.",
+   "dis": {
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-49-2",
+   "src": "D1-49",
+   "typ": "klinik",
+   "q": "Was ist das Mirizzi-Syndrom?",
+   "o": [
+    "Ein Stein im Ductus pancreaticus",
+    "Ein Stein im Gallenblasenhals bzw. Ductus cysticus drückt von außen auf den Ductus hepaticus communis.",
+    "Eine Entzündung der Leberkapsel",
+    "Ein Verschluss der Lebervenen",
+    "Ein Gallensteinileus"
+   ],
+   "a": "B",
+   "expl": "Beim Mirizzi-Syndrom entsteht ein Verschlussikterus, obwohl der Stein nicht im Hauptgallengang liegt. Es kann zu einer Fistel zwischen beiden Gängen kommen.",
+   "dis": {
+    "A": "Falsch.",
+    "C": "Fitz-Hugh-Curtis-Syndrom.",
+    "D": "Budd-Chiari-Syndrom.",
+    "E": "Stein im Darm."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-50-1",
+   "src": "D1-50",
+   "typ": "perspektive",
+   "q": "Welche Struktur liegt in einem Transversalschnitt in Höhe Th4/Th5 typischerweise?",
+   "o": [
+    "Die Herzspitze",
+    "Der Hiatus oesophageus",
+    "Der Übergang vom Aortenbogen in die Aorta descendens",
+    "Der Kehlkopf",
+    "Die Nieren"
+   ],
+   "a": "C",
+   "expl": "In der Ebene des Angulus sterni beginnt und endet der Aortenbogen, und die Trachea teilt sich. Der Aortenbogen selbst liegt oberhalb dieser Ebene im oberen Mediastinum.",
+   "dis": {
+    "A": "Tiefer.",
+    "B": "Th10.",
+    "D": "Hals.",
+    "E": "Abdomen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-50-2",
+   "src": "D1-50",
+   "typ": "perspektive",
+   "q": "In welcher Wirbelhöhe liegt die Herzspitze etwa?",
+   "o": [
+    "Th2",
+    "Th4",
+    "L2",
+    "Th8–Th9 bzw. 5. ICR",
+    "C7"
+   ],
+   "a": "D",
+   "expl": "Die Herzspitze liegt im 5. ICR links etwas innerhalb der Medioklavikularlinie. Dort ist der Herzspitzenstoß tastbar.",
+   "dis": {
+    "A": "Zu hoch.",
+    "B": "Höhe der Trachealbifurkation.",
+    "C": "Zu tief.",
+    "E": "Viel zu hoch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-51-1",
+   "src": "D1-51",
+   "typ": "perspektive",
+   "q": "Welche Form haben die Knorpelspangen der Trachea?",
+   "o": [
+    "Vollständig geschlossene Ringe",
+    "Kleine unregelmäßige Plättchen",
+    "Längsverlaufende Stäbe",
+    "Es gibt keinen Knorpel",
+    "Hufeisenförmig, hinten offen"
+   ],
+   "a": "E",
+   "expl": "Die 16–20 Knorpelspangen sind hinten durch den M. trachealis und Bindegewebe (Paries membranaceus) verbunden. So kann sich der Ösophagus beim Schlucken ausdehnen.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Typisch für Bronchien.",
+    "C": "Falsch.",
+    "D": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-51-2",
+   "src": "D1-51",
+   "typ": "perspektive",
+   "q": "Welcher Knorpeltyp bildet die Trachealspangen?",
+   "o": [
+    "Hyaliner Knorpel",
+    "Elastischer Knorpel",
+    "Faserknorpel",
+    "Knochen",
+    "Keiner"
+   ],
+   "a": "A",
+   "expl": "Die hyalinen Knorpelspangen halten die Trachea offen. Im Alter können sie verkalken.",
+   "dis": {
+    "B": "Epiglottis und Ohrmuschel.",
+    "C": "Bandscheiben und Symphyse.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-52-1",
+   "src": "D1-52",
+   "typ": "perspektive",
+   "q": "Welche Interkostalmuskeln unterstützen die Exspiration?",
+   "o": [
+    "Mm. intercostales externi",
+    "Mm. intercostales interni (Pars interossea)",
+    "Mm. levatores costarum",
+    "Mm. scaleni",
+    "M. serratus posterior superior"
+   ],
+   "a": "B",
+   "expl": "Die Interni verlaufen von hinten oben nach vorne unten, also wie Hände vor dem Bauch gekreuzt. Sie senken die Rippen und verkleinern den Thorax.",
+   "dis": {
+    "A": "Inspiratorisch.",
+    "C": "Inspiratorisch.",
+    "D": "Inspiratorisch.",
+    "E": "Inspiratorisch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-52-2",
+   "src": "D1-52",
+   "typ": "perspektive",
+   "q": "Welcher der folgenden Muskeln kann als Atemhilfsmuskel die Inspiration unterstützen?",
+   "o": [
+    "M. rectus abdominis",
+    "M. obliquus internus abdominis",
+    "M. sternocleidomastoideus",
+    "M. transversus abdominis",
+    "M. latissimus dorsi beim Husten"
+   ],
+   "a": "C",
+   "expl": "Bei fixiertem Kopf hebt der M. sternocleidomastoideus Sternum und Clavicula an. Bei schwerer Atemnot sieht man seinen Einsatz deutlich.",
+   "dis": {
+    "A": "Exspiratorisch.",
+    "B": "Exspiratorisch.",
+    "D": "Exspiratorisch.",
+    "E": "Eher exspiratorisch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-53-1",
+   "src": "D1-53",
+   "typ": "perspektive",
+   "q": "Welches Epithel kleidet Trachea und Bronchien aus?",
+   "o": [
+    "Mehrschichtiges Plattenepithel",
+    "Einschichtiges Plattenepithel",
+    "Urothel",
+    "Mehrreihiges Flimmerepithel mit Becherzellen",
+    "Einschichtiges Zylinderepithel mit Bürstensaum"
+   ],
+   "a": "D",
+   "expl": "Die Zilien befördern den Schleimfilm in Richtung Rachen (mukoziliäre Clearance). Rauchen lähmt die Zilien.",
+   "dis": {
+    "A": "Mundhöhle und Ösophagus.",
+    "B": "Alveolen (Pneumozyten Typ I).",
+    "C": "Harnwege.",
+    "E": "Darm."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-53-2",
+   "src": "D1-53",
+   "typ": "klinik",
+   "q": "Welche Erbkrankheit mit unbeweglichen Zilien führt zu chronischen Atemwegsinfekten und manchmal zu einem Situs inversus?",
+   "o": [
+    "Mukoviszidose",
+    "Asthma bronchiale",
+    "Sarkoidose",
+    "Alpha-1-Antitrypsin-Mangel",
+    "Primäre ziliäre Dyskinesie (Kartagener-Syndrom)"
+   ],
+   "a": "E",
+   "expl": "Defekte Dyneinarme machen die Zilien unbeweglich. Weil Zilien auch die Seitenfestlegung im Embryo steuern, liegt bei etwa der Hälfte ein Situs inversus vor.",
+   "dis": {
+    "A": "Zähes Sekret, Zilien normal.",
+    "B": "Keine Zilienstörung.",
+    "C": "Granulomatöse Erkrankung.",
+    "D": "Emphysem."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-54-1",
+   "src": "D1-54",
+   "typ": "perspektive",
+   "q": "Wo wird der rechte Mittellappen am besten auskultiert?",
+   "o": [
+    "Vorne rechts zwischen 4. und 6. Rippe",
+    "Hinten rechts unten",
+    "Über der Lungenspitze",
+    "Links vorne",
+    "Hinten rechts oben"
+   ],
+   "a": "A",
+   "expl": "Der Mittellappen liegt fast nur vorne. Hinten hört man rechts überwiegend den Unterlappen ab etwa der 4. Rippe nach unten.",
+   "dis": {
+    "B": "Unterlappen.",
+    "C": "Oberlappen.",
+    "D": "Lingula bzw. linke Lunge.",
+    "E": "Oberlappen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-54-2",
+   "src": "D1-54",
+   "typ": "perspektive",
+   "q": "Welche Fissur trennt rechts Oberlappen und Mittellappen?",
+   "o": [
+    "Fissura obliqua",
+    "Fissura horizontalis",
+    "Fissura ligamenti teretis",
+    "Fissura orbitalis",
+    "Es gibt keine Fissur"
+   ],
+   "a": "B",
+   "expl": "Die Fissura horizontalis verläuft etwa entlang der 4. Rippe vorne. Die Fissura obliqua zieht hinten von etwa Th3 schräg nach vorne zur 6. Rippe.",
+   "dis": {
+    "A": "Trennt Unterlappen von Ober- und Mittellappen.",
+    "C": "Leber.",
+    "D": "Schädel.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-55-1",
+   "src": "D1-55",
+   "typ": "perspektive",
+   "q": "Was ist das Lig. pulmonale?",
+   "o": [
+    "Ein Band zwischen Lungenspitze und 1. Rippe",
+    "Ein Band zwischen Herz und Lunge",
+    "Eine Pleuraduplikatur, die vom Lungenhilum nach unten zieht",
+    "Ein Muskel",
+    "Ein Gefäß"
+   ],
+   "a": "C",
+   "expl": "Am Hilum schlägt die Pleura visceralis in die parietalis um. Unterhalb des Hilums legen sich beide Blätter zum Lig. pulmonale zusammen.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-55-2",
+   "src": "D1-55",
+   "typ": "perspektive",
+   "q": "Zu welchem Lappen gehört die Lingula?",
+   "o": [
+    "Zum rechten Mittellappen",
+    "Zum linken Unterlappen",
+    "Zum rechten Unterlappen",
+    "Zum linken Oberlappen",
+    "Zum rechten Oberlappen"
+   ],
+   "a": "D",
+   "expl": "Die linke Lunge hat nur zwei Lappen; die Lingula mit den Segmenten 4 und 5 entspricht dem rechten Mittellappen. Neben ihr liegt die Incisura cardiaca.",
+   "dis": {
+    "A": "Entspricht ihr funktionell, ist aber rechts.",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-56-1",
+   "src": "D1-56",
+   "typ": "perspektive",
+   "q": "Wo verlaufen die Pulmonalvenen innerhalb eines Lungensegments?",
+   "o": [
+    "Zentral mit dem Segmentbronchus",
+    "Nur subpleural",
+    "Im Mediastinum",
+    "Im Bronchuslumen",
+    "Intersegmental an den Segmentgrenzen"
+   ],
+   "a": "E",
+   "expl": "Segmentbronchus und Pulmonalarterienast liegen zentral, die Venen an den Grenzen. Bei der Segmentresektion dienen die Venen als Orientierung.",
+   "dis": {
+    "A": "Verlauf der Pulmonalarterie.",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "D": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-56-2",
+   "src": "D1-56",
+   "typ": "perspektive",
+   "q": "Woher stammen die Rr. bronchiales der linken Lunge meist?",
+   "o": [
+    "Direkt aus der Aorta thoracica",
+    "Aus der A. pulmonalis",
+    "Aus der A. thoracica interna",
+    "Aus der A. subclavia",
+    "Aus den Koronararterien"
+   ],
+   "a": "A",
+   "expl": "Die Rr. bronchiales sind die Vasa privata der Lunge. Rechts entspringen sie oft aus einer hinteren Interkostalarterie, links aus der Aorta.",
+   "dis": {
+    "B": "Funktionelles Gefäß, nicht Vas privatum.",
+    "C": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-57-1",
+   "src": "D1-57",
+   "typ": "perspektive",
+   "q": "Welche Wirkung hat der Sympathikus auf die Pupille?",
+   "o": [
+    "Miosis",
+    "Mydriasis über den M. dilatator pupillae",
+    "Kontraktion des M. ciliaris",
+    "Keine Wirkung",
+    "Tränensekretion"
+   ],
+   "a": "B",
+   "expl": "Sympathische Fasern aus dem Ganglion cervicale superius erweitern die Pupille. Beim Horner-Syndrom fällt diese Wirkung aus.",
+   "dis": {
+    "A": "Parasympathikus.",
+    "C": "Parasympathikus (Akkommodation).",
+    "D": "Falsch.",
+    "E": "Parasympathikus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-57-2",
+   "src": "D1-57",
+   "typ": "perspektive",
+   "q": "Welche Wirkung hat der Sympathikus auf die AV-Überleitung am Herzen?",
+   "o": [
+    "Er verlangsamt sie.",
+    "Er unterbricht sie vollständig.",
+    "Er beschleunigt sie (positiv dromotrop).",
+    "Keine Wirkung",
+    "Er wirkt nur auf die Vorhöfe."
+   ],
+   "a": "C",
+   "expl": "Der Sympathikus wirkt positiv chronotrop, dromotrop, inotrop und bathmotrop. Der Vagus wirkt vor allem negativ chronotrop und dromotrop.",
+   "dis": {
+    "A": "Parasympathikus.",
+    "B": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-58-1",
+   "src": "D1-58",
+   "typ": "perspektive",
+   "q": "In welcher Phase der Lungenentwicklung beginnt die Surfactantbildung?",
+   "o": [
+    "In der pseudoglandulären Phase",
+    "In der embryonalen Phase",
+    "Erst nach der Geburt",
+    "In der sakkulären Phase (etwa ab der 24. Woche)",
+    "In der kanalikulären Phase vor Woche 16"
+   ],
+   "a": "D",
+   "expl": "Pneumozyten Typ II bilden Surfactant ab etwa der 24. Woche, ausreichend erst um die 34. Woche. Bei Frühgeborenen droht deshalb ein Atemnotsyndrom.",
+   "dis": {
+    "A": "Zu früh.",
+    "B": "Zu früh.",
+    "C": "Zu spät.",
+    "E": "Zu früh."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-58-2",
+   "src": "D1-58",
+   "typ": "perspektive",
+   "q": "Was kennzeichnet die pseudoglanduläre Phase der Lungenentwicklung?",
+   "o": [
+    "Alveolen sind bereits funktionstüchtig.",
+    "Surfactant wird gebildet.",
+    "Die Lungenknospe entsteht gerade.",
+    "Kapillaren berühren die Alveolen.",
+    "Das Bronchialsystem verzweigt sich bis zu den Bronchioli terminales, noch ohne Gasaustausch."
+   ],
+   "a": "E",
+   "expl": "Die pseudoglanduläre Phase reicht etwa von Woche 5 bis 17. Im Schnitt erinnert das Gewebe an eine Drüse mit vielen Gangquerschnitten.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Später.",
+    "C": "Embryonale Phase.",
+    "D": "Kanalikuläre und spätere Phasen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-59-1",
+   "src": "D1-59",
+   "typ": "perspektive",
+   "q": "Wodurch entsteht die Ausatmung in Ruhe überwiegend?",
+   "o": [
+    "Passiv durch die elastischen Rückstellkräfte von Lunge und Thorax",
+    "Durch Kontraktion der Bauchmuskeln",
+    "Durch Kontraktion des Zwerchfells",
+    "Durch Kontraktion der Mm. intercostales externi",
+    "Durch die Herzaktion"
+   ],
+   "a": "A",
+   "expl": "Die Lunge zieht sich durch elastische Fasern und die Oberflächenspannung der Alveolen zusammen. Bei Emphysem ist diese Rückstellkraft vermindert.",
+   "dis": {
+    "B": "Nur bei forcierter Exspiration.",
+    "C": "Inspiratorisch.",
+    "D": "Inspiratorisch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-59-2",
+   "src": "D1-59",
+   "typ": "klinik",
+   "q": "Warum kollabiert die Lunge bei einem Pneumothorax?",
+   "o": [
+    "Weil die Bronchien verstopft sind",
+    "Weil Luft in den Pleuraspalt eindringt und die Haftung zwischen den Pleurablättern aufhebt",
+    "Weil das Zwerchfell gelähmt ist",
+    "Weil das Herz die Lunge verdrängt",
+    "Weil die Rippen brechen"
+   ],
+   "a": "B",
+   "expl": "Normalerweise hält der kapilläre Flüssigkeitsfilm die Lunge an der Brustwand. Dringt Luft ein, folgt die Lunge ihrer Eigenelastizität und zieht sich zum Hilum zurück.",
+   "dis": {
+    "A": "Atelektase durch Obstruktion.",
+    "C": "Falsch.",
+    "D": "Falsch.",
+    "E": "Nicht der Mechanismus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-60-1",
+   "src": "D1-60",
+   "typ": "perspektive",
+   "q": "Welches Gefäß begleitet in der Lunge die Bronchien?",
+   "o": [
+    "V. pulmonalis",
+    "V. azygos",
+    "A. pulmonalis",
+    "V. cava superior",
+    "Aorta"
+   ],
+   "a": "C",
+   "expl": "Im Schnitt liegen Bronchus und Pulmonalarterienast nebeneinander. Die Pulmonalvenen liegen getrennt in den Bindegewebssepten.",
+   "dis": {
+    "A": "Verläuft intersegmental.",
+    "B": "Mediastinum.",
+    "D": "Mediastinum.",
+    "E": "Mediastinum."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-60-2",
+   "src": "D1-60",
+   "typ": "perspektive",
+   "q": "Wo verlaufen die Pulmonalvenen histologisch?",
+   "o": [
+    "Direkt neben den Bronchiolen",
+    "In der Bronchialwand",
+    "In der Alveolarwand als große Gefäße",
+    "In den interlobulären Bindegewebssepten fern der Bronchien",
+    "In der Pleura visceralis allein"
+   ],
+   "a": "D",
+   "expl": "Die Lage im Septum hilft, Pulmonalvenen von Arterien zu unterscheiden. Arterienäste liegen bronchusbegleitend im Zentrum der Läppchen.",
+   "dis": {
+    "A": "Verlauf der Arterienäste.",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-73-1",
+   "src": "D1-73",
+   "typ": "perspektive",
+   "q": "Wie verändert sich die Lage des Uterus bei stark gefüllter Harnblase?",
+   "o": [
+    "Er kippt stärker nach vorne.",
+    "Er verschwindet aus dem Becken.",
+    "Er dreht sich um 180°.",
+    "Er bleibt völlig unverändert.",
+    "Er richtet sich auf, die Anteversion nimmt ab."
+   ],
+   "a": "E",
+   "expl": "Die volle Blase hebt den Uterus an. Deshalb wird für den transabdominalen Ultraschall eine volle Blase benötigt; sie dient als Schallfenster.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "D": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-73-2",
+   "src": "D1-73",
+   "typ": "perspektive",
+   "q": "Welche Bänder halten den Uterus vor allem in seiner Anteversion?",
+   "o": [
+    "Ligg. teretia uteri",
+    "Ligg. suspensoria ovarii",
+    "Lig. falciforme",
+    "Lig. inguinale",
+    "Lig. pulmonale"
+   ],
+   "a": "A",
+   "expl": "Die runden Mutterbänder ziehen vom Tubenwinkel nach vorne durch den Leistenkanal. Sie ziehen den Uterusfundus nach vorne.",
+   "dis": {
+    "B": "Halten die Ovarien.",
+    "C": "Leber.",
+    "D": "Leiste.",
+    "E": "Lunge."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-74-1",
+   "src": "D1-74",
+   "typ": "perspektive",
+   "q": "Welcher Ast der A. uterina versorgt die Vagina?",
+   "o": [
+    "Rami helicini",
+    "Ramus vaginalis",
+    "Ramus tubarius",
+    "Ramus ovaricus",
+    "A. cystica"
+   ],
+   "a": "B",
+   "expl": "Die Vagina wird zusätzlich von der A. vaginalis aus der A. iliaca interna versorgt. Die Äste bilden die Aa. azygos vaginae an Vorder- und Hinterwand.",
+   "dis": {
+    "A": "Corpus uteri.",
+    "C": "Tube.",
+    "D": "Ovar.",
+    "E": "Gallenblase."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-74-2",
+   "src": "D1-74",
+   "typ": "perspektive",
+   "q": "Wie verändern sich die Uterusarterien in der Schwangerschaft?",
+   "o": [
+    "Sie verschließen sich.",
+    "Sie verengen sich dauerhaft.",
+    "Sie erweitern sich stark und werden gestreckt.",
+    "Sie bleiben unverändert.",
+    "Sie werden zu Venen."
+   ],
+   "a": "C",
+   "expl": "Der Blutfluss zum Uterus steigt von etwa 50 auf über 500 ml pro Minute. Deshalb können Blutungen unter der Geburt rasch lebensbedrohlich werden.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-75-1",
+   "src": "D1-75",
+   "typ": "nachbarschaft",
+   "q": "In welcher Peritonealfalte liegt das Lig. ovarii proprium?",
+   "o": [
+    "Im Omentum majus",
+    "Im Lig. falciforme",
+    "Im Mesocolon sigmoideum",
+    "Im hinteren Blatt des Lig. latum uteri",
+    "Im Lig. hepatoduodenale"
+   ],
+   "a": "D",
+   "expl": "Das Lig. ovarii proprium wirft am hinteren Blatt des Lig. latum eine Falte auf. Das Lig. teres uteri liegt am vorderen Blatt.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-75-2",
+   "src": "D1-75",
+   "typ": "perspektive",
+   "q": "Welcher Ast der A. uterina verläuft im Lig. ovarii proprium?",
+   "o": [
+    "Ramus vaginalis",
+    "Rami helicini",
+    "Ramus tubarius",
+    "A. cystica",
+    "Ramus ovaricus"
+   ],
+   "a": "E",
+   "expl": "Der Ramus ovaricus zieht zum Ovar und anastomosiert mit der A. ovarica. So entsteht eine doppelte Versorgung des Ovars.",
+   "dis": {
+    "A": "Zur Vagina.",
+    "B": "Am Uterusrand.",
+    "C": "In der Mesosalpinx.",
+    "D": "Gallenblase."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-76-1",
+   "src": "D1-76",
+   "typ": "perspektive",
+   "q": "Wie heißt der in die Vagina ragende Teil der Zervix?",
+   "o": [
+    "Portio vaginalis cervicis",
+    "Portio supravaginalis",
+    "Isthmus uteri",
+    "Fundus uteri",
+    "Fornix vaginae"
+   ],
+   "a": "A",
+   "expl": "Die Portio trägt Plattenepithel und ist bei der gynäkologischen Spekulumuntersuchung sichtbar. Um sie herum liegt das Scheidengewölbe.",
+   "dis": {
+    "B": "Liegt oberhalb der Vagina.",
+    "C": "Übergang zum Corpus.",
+    "D": "Oberster Teil.",
+    "E": "Scheidengewölbe."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-76-2",
+   "src": "D1-76",
+   "typ": "perspektive",
+   "q": "Wo schlägt das Peritoneum vom Uterus auf das Rektum um?",
+   "o": [
+    "Am Fundus uteri",
+    "Im Bereich des hinteren Scheidengewölbes (Douglas-Raum)",
+    "Am Isthmus vorne",
+    "An der Portio vaginalis",
+    "Am Ovar"
+   ],
+   "a": "B",
+   "expl": "Hinten reicht das Peritoneum tiefer als vorne und bedeckt noch die Zervix und den obersten Teil der Vagina. Vorne schlägt es schon am Isthmus auf die Blase um.",
+   "dis": {
+    "A": "Zu hoch.",
+    "C": "Umschlag auf die Blase.",
+    "D": "Die Portio hat kein Peritoneum.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-77-1",
+   "src": "D1-77",
+   "typ": "perspektive",
+   "q": "Wie verändert sich der Zervixschleim zum Zeitpunkt des Eisprungs?",
+   "o": [
+    "Er wird zäh und undurchlässig.",
+    "Er verschwindet ganz.",
+    "Er wird dünnflüssig, klar und spinnbar.",
+    "Er wird blutig.",
+    "Er wird verhornt."
+   ],
+   "a": "C",
+   "expl": "Östrogen macht den Schleim um den Eisprung durchlässig für Spermien. Progesteron macht ihn danach zäh; diese Wirkung nutzt auch die Minipille.",
+   "dis": {
+    "A": "Typisch in der Lutealphase.",
+    "B": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-77-2",
+   "src": "D1-77",
+   "typ": "perspektive",
+   "q": "Was sind Ovula Nabothi?",
+   "o": [
+    "Unreife Eizellen im Ovar",
+    "Tumoren der Tube",
+    "Teile der Plazenta",
+    "Retentionszysten verschlossener Zervixdrüsen",
+    "Lymphfollikel der Vagina"
+   ],
+   "a": "D",
+   "expl": "Wird Zylinderepithel von Plattenepithel überwachsen, können Drüsenausgänge verschlossen werden. Es entstehen harmlose, schleimgefüllte Zysten an der Portio.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-78-1",
+   "src": "D1-78",
+   "typ": "perspektive",
+   "q": "Auf welchem Muskel verlaufen die Vasa ovarica retroperitoneal nach kaudal?",
+   "o": [
+    "M. quadratus lumborum",
+    "M. rectus abdominis",
+    "M. iliacus",
+    "M. piriformis",
+    "M. psoas major"
+   ],
+   "a": "E",
+   "expl": "Die Vasa ovarica ziehen auf dem M. psoas nach unten und kreuzen dabei den Ureter von vorne. Am Beckeneingang treten sie ins Lig. suspensorium ovarii.",
+   "dis": {
+    "A": "Liegt lateral.",
+    "B": "Vorne.",
+    "C": "Im großen Becken lateral.",
+    "D": "Im kleinen Becken hinten."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-78-2",
+   "src": "D1-78",
+   "typ": "klinik",
+   "q": "Was ist das Ovarialvenensyndrom?",
+   "o": [
+    "Eine Kompression des Ureters durch eine erweiterte V. ovarica",
+    "Ein Verschluss der A. ovarica",
+    "Eine Zyste im Ovar",
+    "Eine Entzündung der Tube",
+    "Ein Ovarialkarzinom"
+   ],
+   "a": "A",
+   "expl": "Die erweiterte V. ovarica, meist rechts, kann den Ureter an der Kreuzungsstelle einengen. Es kann ein Harnaufstau entstehen.",
+   "dis": {
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-79-1",
+   "src": "D1-79",
+   "typ": "perspektive",
+   "q": "Wo entspringen die Aa. ovaricae?",
+   "o": [
+    "Aus den Aa. renales",
+    "Beidseits direkt aus der Aorta abdominalis",
+    "Aus den Aa. iliacae internae",
+    "Aus der A. mesenterica inferior",
+    "Aus den Aa. femorales"
+   ],
+   "a": "B",
+   "expl": "Die Aa. ovaricae entspringen etwa in Höhe L2 knapp unterhalb der Nierenarterien. Ihr hoher Ursprung erklärt sich durch den Deszensus der Gonaden.",
+   "dis": {
+    "A": "Nur als Variante.",
+    "C": "Ursprung der A. uterina.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-79-2",
+   "src": "D1-79",
+   "typ": "perspektive",
+   "q": "Wohin drainiert die linke V. suprarenalis, ähnlich wie die linke V. ovarica?",
+   "o": [
+    "In die V. cava inferior direkt",
+    "In die V. portae",
+    "In die linke V. renalis",
+    "In die V. azygos",
+    "In die V. iliaca interna"
+   ],
+   "a": "C",
+   "expl": "Links münden Gonaden- und Nebennierenvene in die Nierenvene, rechts direkt in die V. cava inferior. Die linke Nierenvene ist deshalb länger.",
+   "dis": {
+    "A": "Gilt rechts.",
+    "B": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-80-1",
+   "src": "D1-80",
+   "typ": "perspektive",
+   "q": "Welche Hülle umgibt die Schwellkörper des Penis und ist bei den Corpora cavernosa besonders kräftig?",
+   "o": [
+    "Tunica vaginalis",
+    "Tunica dartos",
+    "Fascia spermatica",
+    "Tunica albuginea",
+    "Tunica adventitia"
+   ],
+   "a": "D",
+   "expl": "Die derbe Tunica albuginea der Corpora cavernosa drosselt bei der Erektion den venösen Abfluss. Die dünnere Hülle des Corpus spongiosum lässt die Urethra offen.",
+   "dis": {
+    "A": "Hodenhülle.",
+    "B": "Skrotalhaut.",
+    "C": "Hodenhülle.",
+    "E": "Gefäßwandschicht."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-80-2",
+   "src": "D1-80",
+   "typ": "klinik",
+   "q": "Was ist eine Penisfraktur?",
+   "o": [
+    "Ein Knochenbruch im Penis",
+    "Eine Harnröhrenverengung",
+    "Eine Hodentorsion",
+    "Eine Phimose",
+    "Ein Riss der Tunica albuginea der Corpora cavernosa bei erigiertem Penis"
+   ],
+   "a": "E",
+   "expl": "Die Penisfraktur entsteht durch abruptes Abknicken des erigierten Penis. Typisch sind ein Knackgeräusch, sofortige Erschlaffung und ein Hämatom; sie wird operativ versorgt.",
+   "dis": {
+    "A": "Beim Menschen gibt es keinen Penisknochen.",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "D": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-81-1",
+   "src": "D1-81",
+   "typ": "perspektive",
+   "q": "Welche Zellen der Hodenkanälchen stützen die Keimzellen und bilden androgenbindendes Protein?",
+   "o": [
+    "Sertoli-Zellen",
+    "Leydig-Zellen",
+    "Spermatogonien",
+    "Myoidzellen",
+    "Plasmazellen"
+   ],
+   "a": "A",
+   "expl": "Sertoli-Zellen reichen von der Basalmembran bis zum Lumen. Ihre Tight Junctions bilden die Blut-Hoden-Schranke.",
+   "dis": {
+    "B": "Bilden Testosteron im Interstitium.",
+    "C": "Keimzellen.",
+    "D": "Kontraktile Zellen um die Tubuli.",
+    "E": "Bilden Antikörper."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-81-2",
+   "src": "D1-81",
+   "typ": "perspektive",
+   "q": "Welche Arterie versorgt den Ductus deferens?",
+   "o": [
+    "A. testicularis allein",
+    "A. ductus deferentis aus der A. vesicalis inferior bzw. superior",
+    "A. renalis",
+    "A. femoralis",
+    "A. mesenterica inferior"
+   ],
+   "a": "B",
+   "expl": "Die A. ductus deferentis begleitet den Samenleiter im Samenstrang und anastomosiert mit der A. testicularis. Diese Anastomose kann den Hoden nach Durchtrennung der A. testicularis teilweise versorgen.",
+   "dis": {
+    "A": "Versorgt den Hoden.",
+    "C": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-82-1",
+   "src": "D1-82",
+   "typ": "perspektive",
+   "q": "Wo werden die Spermien bis zur Ejakulation hauptsächlich gespeichert?",
+   "o": [
+    "In den Samenbläschen",
+    "In der Prostata",
+    "In der Cauda epididymidis und im Ductus deferens",
+    "In der Harnblase",
+    "In den Cowper-Drüsen"
+   ],
+   "a": "C",
+   "expl": "Die Samenbläschen heißen zwar so, sind aber Drüsen. Gespeichert werden die Spermien im Nebenhodenschwanz.",
+   "dis": {
+    "A": "Sie bilden Sekret, speichern keine Spermien.",
+    "B": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-82-2",
+   "src": "D1-82",
+   "typ": "perspektive",
+   "q": "Welche Substanz im Sekret der Samenbläschen kann Kontraktionen des weiblichen Genitaltrakts anregen?",
+   "o": [
+    "Insulin",
+    "Gastrin",
+    "Thyroxin",
+    "Prostaglandine",
+    "Cortisol"
+   ],
+   "a": "D",
+   "expl": "Prostaglandine wurden ursprünglich im Sperma entdeckt und nach der Prostata benannt, stammen aber vor allem aus den Samenbläschen. Daneben liefern diese Fruktose und Gerinnungsproteine.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-84-1",
+   "src": "D1-84",
+   "typ": "perspektive",
+   "q": "Was entsteht beim Mann aus dem Müller-Gang?",
+   "o": [
+    "Ductus deferens",
+    "Samenbläschen",
+    "Nebenhoden",
+    "Prostata",
+    "Er bildet sich weitgehend zurück; Reste sind Appendix testis und Utriculus prostaticus."
+   ],
+   "a": "E",
+   "expl": "Das Anti-Müller-Hormon der Sertoli-Zellen führt zur Rückbildung des Müller-Gangs. Fehlt es, entstehen beim Mann Uterus und Tuben.",
+   "dis": {
+    "A": "Wolff-Gang.",
+    "B": "Wolff-Gang.",
+    "C": "Wolff-Gang und Urniere.",
+    "D": "Urethra."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-84-2",
+   "src": "D1-84",
+   "typ": "perspektive",
+   "q": "Was entsteht bei der Frau aus dem Müller-Gang?",
+   "o": [
+    "Tuben, Uterus und oberer Teil der Vagina",
+    "Ovar",
+    "Harnblase",
+    "Vulva",
+    "Urethra"
+   ],
+   "a": "A",
+   "expl": "Die beiden Müller-Gänge verschmelzen kaudal zum Uterus. Eine unvollständige Verschmelzung führt zu Uterusfehlbildungen wie dem Uterus bicornis.",
+   "dis": {
+    "B": "Aus der Gonadenanlage.",
+    "C": "Sinus urogenitalis.",
+    "D": "Aus Genitalhöcker und -falten.",
+    "E": "Sinus urogenitalis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-85-1",
+   "src": "D1-85",
+   "typ": "perspektive",
+   "q": "Welche Lymphknoten sind beim linken Hodentumor typischerweise die erste Station?",
+   "o": [
+    "Interaortokavale Lymphknoten als einzige Station",
+    "Paraaortale Lymphknoten links in Höhe der linken Nierenvene",
+    "Oberflächliche Leistenlymphknoten",
+    "Lnn. iliaci interni",
+    "Axilläre Lymphknoten"
+   ],
+   "a": "B",
+   "expl": "Der linke Hoden drainiert entlang der V. testicularis sinistra zu den Lymphknoten nahe der linken Nierenvene. Der rechte drainiert eher interaortokaval.",
+   "dis": {
+    "A": "Typischer für den rechten Hoden.",
+    "C": "Hautlymphe.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-85-2",
+   "src": "D1-85",
+   "typ": "klinik",
+   "q": "Welcher Tumormarker ist bei nichtseminomatösen Keimzelltumoren des Hodens häufig erhöht?",
+   "o": [
+    "PSA",
+    "CEA",
+    "Alpha-Fetoprotein (AFP)",
+    "CA 19-9",
+    "Calcitonin"
+   ],
+   "a": "C",
+   "expl": "AFP und β-hCG werden bei Hodentumoren zur Diagnose und Verlaufskontrolle bestimmt. Ein reines Seminom bildet kein AFP.",
+   "dis": {
+    "A": "Prostata.",
+    "B": "Vor allem Darm.",
+    "D": "Vor allem Pankreas.",
+    "E": "Schilddrüse."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-86-1",
+   "src": "D1-86",
+   "typ": "perspektive",
+   "q": "Wie sind die Hepatozyten im Leberläppchen angeordnet?",
+   "o": [
+    "In Follikeln mit Kolloid",
+    "In Azini um einen Ausführungsgang",
+    "Ungeordnet ohne Struktur",
+    "In Platten bzw. Strängen, die radiär zur Zentralvene ziehen",
+    "In konzentrischen Lamellen"
+   ],
+   "a": "D",
+   "expl": "Zwischen den Leberzellplatten liegen die Sinusoide. Auf der gegenüberliegenden Seite der Hepatozyten bilden sich die Gallenkanälchen.",
+   "dis": {
+    "A": "Schilddrüse.",
+    "B": "Exokrine Drüsen.",
+    "C": "Falsch.",
+    "E": "Knochen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-86-2",
+   "src": "D1-86",
+   "typ": "perspektive",
+   "q": "Wie heißt der Spaltraum zwischen Sinusendothel und Hepatozyten?",
+   "o": [
+    "Bowman-Raum",
+    "Retzius-Raum",
+    "Douglas-Raum",
+    "Virchow-Robin-Raum",
+    "Disse-Raum"
+   ],
+   "a": "E",
+   "expl": "Über den Disse-Raum tauschen Hepatozyten Stoffe mit dem Blut aus. Hier liegen die Ito-Zellen, und hier entsteht die Leberlymphe.",
+   "dis": {
+    "A": "Niere.",
+    "B": "Vor der Blase.",
+    "C": "Becken.",
+    "D": "Gehirn."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-87-1",
+   "src": "D1-87",
+   "typ": "perspektive",
+   "q": "Woran erkennt man ein Spinalganglion histologisch?",
+   "o": [
+    "An großen runden pseudounipolaren Neuronen, umgeben von Mantelzellen",
+    "An multipolaren Neuronen mit Dendriten",
+    "An Hassall-Körperchen",
+    "An Spongiozyten",
+    "An Kolloid"
+   ],
+   "a": "A",
+   "expl": "Die pseudounipolaren Neurone liegen in Gruppen zwischen Nervenfaserbündeln. Ihre Kerne sind zentral, die Zellkörper rund und von Satellitenzellen umgeben.",
+   "dis": {
+    "B": "Vegetatives Ganglion.",
+    "C": "Thymus.",
+    "D": "Nebennierenrinde.",
+    "E": "Schilddrüse."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-87-2",
+   "src": "D1-87",
+   "typ": "perspektive",
+   "q": "Woran erkennt man die Zona fasciculata der Nebennierenrinde?",
+   "o": [
+    "An rundlichen Zellnestern unter der Kapsel",
+    "An hellen, lipidreichen Zellen (Spongiozyten) in parallelen Strängen",
+    "An netzförmigen Strängen mit Lipofuszin",
+    "An großen Neuronen",
+    "An Follikeln"
+   ],
+   "a": "B",
+   "expl": "Die Zona fasciculata ist die breiteste Rindenzone und bildet Cortisol. Die Lipidtropfen werden bei der Präparation herausgelöst, die Zellen wirken schaumig.",
+   "dis": {
+    "A": "Zona glomerulosa.",
+    "C": "Zona reticularis.",
+    "D": "Ganglion.",
+    "E": "Schilddrüse."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-88-1",
+   "src": "D1-88",
+   "typ": "perspektive",
+   "q": "Welche Zellschicht der Plazentazotten bildet die Hormone wie hCG?",
+   "o": [
+    "Synzytiotrophoblast",
+    "Zytotrophoblast",
+    "Dezidua",
+    "Amnionepithel",
+    "Endothel der Zottenkapillaren"
+   ],
+   "a": "A",
+   "expl": "Der Synzytiotrophoblast ist eine vielkernige Zellschicht ohne Zellgrenzen. Er bildet hCG, Progesteron und Östrogene und steht direkt mit dem mütterlichen Blut in Kontakt.",
+   "dis": {
+    "B": "Stammzellschicht darunter.",
+    "C": "Mütterliches Gewebe.",
+    "D": "Fruchthülle.",
+    "E": "Gefäßauskleidung."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-88-2",
+   "src": "D1-88",
+   "typ": "perspektive",
+   "q": "Wie viele Gefäße enthält die Nabelschnur normalerweise?",
+   "o": [
+    "Eine Arterie und zwei Venen",
+    "Zwei Arterien und eine Vene",
+    "Eine Arterie und eine Vene",
+    "Zwei Arterien und zwei Venen",
+    "Drei Arterien"
+   ],
+   "a": "B",
+   "expl": "Die Gefäße sind in die gallertige Wharton-Sulze eingebettet. Eine singuläre Nabelarterie kommt bei etwa 1 % vor und ist manchmal mit Fehlbildungen verbunden.",
+   "dis": {
+    "A": "Falsch.",
+    "C": "Singuläre Nabelarterie, eine Fehlbildung.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-89-1",
+   "src": "D1-89",
+   "typ": "perspektive",
+   "q": "Welches embryonale Gewebe induziert die Ureterknospe zur Nephronbildung?",
+   "o": [
+    "Mesonephrogenes Blastem",
+    "Ektoderm",
+    "Metanephrogenes Blastem",
+    "Neuralleiste",
+    "Entoderm des Darms"
+   ],
+   "a": "C",
+   "expl": "Ureterknospe und metanephrogenes Blastem induzieren sich gegenseitig. Fehlt einer der beiden Partner, entsteht keine Niere.",
+   "dis": {
+    "A": "Bildet die Urniere.",
+    "B": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-89-2",
+   "src": "D1-89",
+   "typ": "klinik",
+   "q": "Was ist eine Hufeisenniere?",
+   "o": [
+    "Fehlen einer Niere",
+    "Niere im Becken",
+    "Zystische Niere",
+    "Verschmelzung der unteren Nierenpole vor der Aorta",
+    "Doppelter Ureter"
+   ],
+   "a": "D",
+   "expl": "Beim Aufstieg bleibt die verschmolzene Niere an der A. mesenterica inferior hängen. Sie liegt deshalb tiefer als normal.",
+   "dis": {
+    "A": "Agenesie.",
+    "B": "Beckenniere.",
+    "C": "Zystenniere.",
+    "E": "Ureter duplex."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-90-1",
+   "src": "D1-90",
+   "typ": "perspektive",
+   "q": "Welche Schichten bilden die Darmzotten?",
+   "o": [
+    "Mukosa und Submukosa",
+    "Alle Wandschichten",
+    "Nur die Tunica muscularis",
+    "Nur die Serosa",
+    "Epithel und Lamina propria (ohne Submukosa)"
+   ],
+   "a": "E",
+   "expl": "Zotten sind Ausstülpungen der Schleimhaut ohne Submukosa. Sie enthalten ein zentrales Chylusgefäß und Kapillaren. In der Lamina propria verlaufen glatte Muskelzellen, die die Zotte bewegen.",
+   "dis": {
+    "A": "Bilden die Kerckring-Falten.",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "D": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-90-2",
+   "src": "D1-90",
+   "typ": "perspektive",
+   "q": "Welche Drüsen liegen typischerweise in der Submukosa des Duodenums?",
+   "o": [
+    "Brunner-Drüsen (Glandulae duodenales)",
+    "Lieberkühn-Krypten allein",
+    "Fundusdrüsen",
+    "Paneth-Zellen",
+    "Ebner-Drüsen"
+   ],
+   "a": "A",
+   "expl": "Die Brunner-Drüsen bilden ein alkalisches, schleimiges Sekret, das den sauren Chymus neutralisiert. Sie sind ein Erkennungsmerkmal des Duodenums.",
+   "dis": {
+    "B": "Liegen in der Mukosa.",
+    "C": "Magen.",
+    "D": "Liegen am Kryptengrund.",
+    "E": "Zunge."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-91-1",
+   "src": "D1-91",
+   "typ": "perspektive",
+   "q": "Welche Zellen liegen am Grund der Dünndarmkrypten und bilden Lysozym und Defensine?",
+   "o": [
+    "Becherzellen",
+    "Paneth-Zellen",
+    "M-Zellen",
+    "Enterozyten",
+    "Club-Zellen"
+   ],
+   "a": "B",
+   "expl": "Paneth-Zellen erkennt man an ihren großen, eosinophilen Granula. Sie schützen die Stammzellnische am Kryptengrund vor Bakterien.",
+   "dis": {
+    "A": "Bilden Schleim.",
+    "C": "Liegen über Peyer-Plaques.",
+    "D": "Resorbieren.",
+    "E": "Liegen in den Bronchiolen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-91-2",
+   "src": "D1-91",
+   "typ": "perspektive",
+   "q": "Wo liegen die Stammzellen der Darmschleimhaut?",
+   "o": [
+    "An der Zottenspitze",
+    "In der Submukosa",
+    "Im unteren Kryptenbereich",
+    "In der Tunica muscularis",
+    "In den Peyer-Plaques"
+   ],
+   "a": "C",
+   "expl": "Aus den Kryptenstammzellen wandern neue Zellen zur Zottenspitze und werden nach 3–5 Tagen abgestoßen. Deshalb reagiert der Darm empfindlich auf Chemotherapie.",
+   "dis": {
+    "A": "Dort werden alte Zellen abgestoßen.",
+    "B": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-92-1",
+   "src": "D1-92",
+   "typ": "perspektive",
+   "q": "Welches Epithel kleidet den Großteil der weiblichen Urethra aus?",
+   "o": [
+    "Einschichtiges Zylinderepithel",
+    "Flimmerepithel",
+    "Verhorntes Plattenepithel",
+    "Mehrschichtiges unverhorntes Plattenepithel (proximal Urothel)",
+    "Einschichtiges Plattenepithel"
+   ],
+   "a": "D",
+   "expl": "Die weibliche Urethra beginnt mit Urothel und geht in Plattenepithel über. In ihrer Wand liegt ein ausgeprägter Venenplexus, der zur Kontinenz beiträgt.",
+   "dis": {
+    "A": "Darm.",
+    "B": "Atemwege.",
+    "C": "Haut.",
+    "E": "Gefäße."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-92-2",
+   "src": "D1-92",
+   "typ": "perspektive",
+   "q": "Wo mündet die weibliche Harnröhre?",
+   "o": [
+    "In der Vagina",
+    "Am Damm",
+    "In der Zervix",
+    "Hinter der Scheidenöffnung",
+    "Im Vestibulum vaginae zwischen Klitoris und Scheidenöffnung"
+   ],
+   "a": "E",
+   "expl": "Das Ostium urethrae externum liegt etwa 2–3 cm unterhalb der Klitoris. Neben ihm münden die Skene-Drüsen.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "D": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-93-1",
+   "src": "D1-93",
+   "typ": "perspektive",
+   "q": "Was ist das Präputium?",
+   "o": [
+    "Eine Hautduplikatur, die die Glans penis bedeckt",
+    "Ein Schwellkörper",
+    "Ein Teil der Urethra",
+    "Eine Drüse",
+    "Ein Muskel"
+   ],
+   "a": "A",
+   "expl": "Das innere Blatt der Vorhaut ähnelt einer Schleimhaut, das äußere ist normale Haut. Es ist über das Frenulum mit der Glans verbunden.",
+   "dis": {
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-93-2",
+   "src": "D1-93",
+   "typ": "klinik",
+   "q": "Was ist eine Paraphimose?",
+   "o": [
+    "Eine angeborene Spaltbildung der Urethra",
+    "Eine zurückgestreifte, zu enge Vorhaut schnürt die Glans ein",
+    "Eine Entzündung der Glans",
+    "Eine Hodentorsion",
+    "Eine Harnröhrenstriktur"
+   ],
+   "a": "B",
+   "expl": "Die eingeklemmte Glans schwillt an, weil der venöse Abfluss behindert ist. Die Paraphimose ist ein Notfall und muss rasch reponiert werden.",
+   "dis": {
+    "A": "Hypospadie bzw. Epispadie.",
+    "C": "Balanitis.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-95-1",
+   "src": "D1-95",
+   "typ": "perspektive",
+   "q": "Was kennzeichnet die Prostata histologisch?",
+   "o": [
+    "Lymphfollikel mit Krypten",
+    "Hassall-Körperchen",
+    "Tubuloalveoläre Drüsen in einem fibromuskulären Stroma, teils mit Corpora amylacea",
+    "Kolloidfollikel",
+    "Zotten"
+   ],
+   "a": "C",
+   "expl": "Das Stroma der Prostata enthält viel glatte Muskulatur, die bei der Ejakulation das Sekret auspresst. Die Drüsenlumina sind unregelmäßig gefaltet.",
+   "dis": {
+    "A": "Tonsille.",
+    "B": "Thymus.",
+    "D": "Schilddrüse.",
+    "E": "Dünndarm."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-95-2",
+   "src": "D1-95",
+   "typ": "perspektive",
+   "q": "Welcher Blindsack liegt auf dem Colliculus seminalis und ist ein Rest des Müller-Gangs?",
+   "o": [
+    "Ductus ejaculatorius",
+    "Appendix testis",
+    "Ductus deferens",
+    "Utriculus prostaticus",
+    "Urachus"
+   ],
+   "a": "D",
+   "expl": "Der Utriculus prostaticus entspricht dem Uterus bzw. der oberen Vagina der Frau. Beidseits neben ihm münden die Ductus ejaculatorii.",
+   "dis": {
+    "A": "Wolff-Gang.",
+    "B": "Am Hoden.",
+    "C": "Wolff-Gang.",
+    "E": "Allantois."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-96-1",
+   "src": "D1-96",
+   "typ": "perspektive",
+   "q": "Woran erkennt man einen Graaf-Follikel?",
+   "o": [
+    "An einer einzigen Lage flacher Zellen um die Eizelle",
+    "An gelben, lipidreichen Zellen ohne Antrum",
+    "An hyalinem Narbengewebe",
+    "An Hassall-Körperchen",
+    "An einem großen flüssigkeitsgefüllten Antrum und dem Cumulus oophorus"
+   ],
+   "a": "E",
+   "expl": "Der sprungreife Graaf-Follikel misst etwa 2 cm. Die Eizelle liegt auf dem Cumulus oophorus, umgeben von der Corona radiata.",
+   "dis": {
+    "A": "Primordialfollikel.",
+    "B": "Corpus luteum.",
+    "C": "Corpus albicans.",
+    "D": "Thymus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-96-2",
+   "src": "D1-96",
+   "typ": "perspektive",
+   "q": "Welche Follikelzellen bilden unter FSH-Einfluss Östrogen?",
+   "o": [
+    "Granulosazellen",
+    "Leydig-Zellen",
+    "Sertoli-Zellen",
+    "Oozyte",
+    "Zellen der Theca externa"
+   ],
+   "a": "A",
+   "expl": "Die Theca-interna-Zellen bilden unter LH Androgene, die Granulosazellen wandeln sie unter FSH in Östrogen um (Zwei-Zell-Theorie).",
+   "dis": {
+    "B": "Hoden.",
+    "C": "Hoden.",
+    "D": "Keimzelle.",
+    "E": "Bindegewebe."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-97-1",
+   "src": "D1-97",
+   "typ": "perspektive",
+   "q": "Wie unterscheidet sich das Duodenum histologisch vom Jejunum?",
+   "o": [
+    "Durch fehlende Zotten",
+    "Durch Brunner-Drüsen in der Submukosa",
+    "Durch Plattenepithel",
+    "Durch Taenien",
+    "Durch Hassall-Körperchen"
+   ],
+   "a": "B",
+   "expl": "Brunner-Drüsen kommen nur im Duodenum vor. Das Ileum erkennt man dagegen an den Peyer-Plaques.",
+   "dis": {
+    "A": "Beide haben Zotten.",
+    "C": "Beide haben Zylinderepithel.",
+    "D": "Kolon.",
+    "E": "Thymus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-97-2",
+   "src": "D1-97",
+   "typ": "perspektive",
+   "q": "Wie unterscheidet sich das Pankreas histologisch von der Glandula parotidea?",
+   "o": [
+    "Durch Schleimdrüsen",
+    "Durch Streifenstücke",
+    "Durch Langerhans-Inseln und zentroazinäre Zellen",
+    "Durch Flimmerepithel",
+    "Durch Knorpel"
+   ],
+   "a": "C",
+   "expl": "Beide sind rein seröse Drüsen. Das Pankreas hat aber helle Inseln und zentroazinäre Zellen, die Parotis hat Streifenstücke und oft Fettzellen.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Hat die Parotis, nicht das Pankreas.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-98-1",
+   "src": "D1-98",
+   "typ": "perspektive",
+   "q": "Welches Organ bildet die Hinterwand der Bursa omentalis?",
+   "o": [
+    "Magen",
+    "Omentum minus",
+    "Lig. gastrocolicum",
+    "Pankreas (mit dem Peritoneum parietale)",
+    "Leber"
+   ],
+   "a": "D",
+   "expl": "Hinter der Bursa omentalis liegen Pankreas, linke Niere, linke Nebenniere, Aorta und Truncus coeliacus. Das erleichtert operative Zugänge zum Pankreas.",
+   "dis": {
+    "A": "Vorderwand.",
+    "B": "Vorderwand oben.",
+    "C": "Vorderwand unten.",
+    "E": "Grenzt oben mit dem Lobus caudatus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-98-2",
+   "src": "D1-98",
+   "typ": "perspektive",
+   "q": "Wie erreicht man die Bursa omentalis operativ am besten?",
+   "o": [
+    "Durch das Lig. phrenicocolicum",
+    "Durch das Lig. falciforme",
+    "Durch das Mesocolon sigmoideum",
+    "Durch die Radix mesenterii",
+    "Durch Eröffnung des Lig. gastrocolicum"
+   ],
+   "a": "E",
+   "expl": "Über das Lig. gastrocolicum gelangt man unterhalb des Magens breit in die Bursa omentalis. Das natürliche Foramen omentale ist dafür zu eng.",
+   "dis": {
+    "A": "Außerhalb der Bursa.",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "D": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-99-1",
+   "src": "D1-99",
+   "typ": "perspektive",
+   "q": "Wie heißt die Uterusschleimhaut in der Schwangerschaft?",
+   "o": [
+    "Dezidua",
+    "Perimetrium",
+    "Myometrium",
+    "Parametrium",
+    "Amnion"
+   ],
+   "a": "A",
+   "expl": "Unter Progesteron wandeln sich die Stromazellen in große, glykogenreiche Deziduazellen um. Der Teil unter der Plazenta heißt Decidua basalis.",
+   "dis": {
+    "B": "Uterusserosa.",
+    "C": "Muskelschicht.",
+    "D": "Bindegewebe neben dem Uterus.",
+    "E": "Fruchthülle."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-99-2",
+   "src": "D1-99",
+   "typ": "perspektive",
+   "q": "Welches Hormon erhält in der Frühschwangerschaft das Corpus luteum?",
+   "o": [
+    "FSH",
+    "hCG",
+    "Oxytocin",
+    "Prolaktin",
+    "Insulin"
+   ],
+   "a": "B",
+   "expl": "Der Trophoblast bildet hCG, das das Corpus luteum als Corpus luteum graviditatis erhält. Ab etwa der 10. Woche übernimmt die Plazenta die Progesteronbildung.",
+   "dis": {
+    "A": "Fördert die Follikelreifung.",
+    "C": "Wehenauslösend.",
+    "D": "Milchbildung.",
+    "E": "Blutzucker."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-100-1",
+   "src": "D1-100",
+   "typ": "klinik",
+   "q": "Was tritt bei einer Blockade des Ganglion stellatum typischerweise auf der gleichen Seite auf?",
+   "o": [
+    "Lähmung des Arms",
+    "Heiserkeit als einziges Symptom",
+    "Horner-Syndrom und warme, trockene Haut von Gesicht und Arm",
+    "Mydriasis",
+    "Verstärktes Schwitzen"
+   ],
+   "a": "C",
+   "expl": "Die Stellatumblockade unterbricht die sympathische Versorgung von Kopf, Hals und Arm. Gefäße erweitern sich, das Schwitzen fällt aus.",
+   "dis": {
+    "A": "Somatische Nerven bleiben intakt.",
+    "B": "Falsch.",
+    "D": "Gegenteil.",
+    "E": "Gegenteil."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-100-2",
+   "src": "D1-100",
+   "typ": "nachbarschaft",
+   "q": "Welches Gefäß liegt unmittelbar vor dem Ganglion stellatum?",
+   "o": [
+    "Aorta thoracica",
+    "V. cava superior",
+    "A. carotis externa",
+    "A. vertebralis",
+    "A. mesenterica superior"
+   ],
+   "a": "D",
+   "expl": "Das Ganglion liegt vor dem Hals der 1. Rippe bzw. dem Querfortsatz C7, hinter der A. vertebralis. Bei der Blockade wird deshalb vor der Injektion aspiriert.",
+   "dis": {
+    "A": "Tiefer.",
+    "B": "Tiefer und vorne.",
+    "C": "Höher.",
+    "E": "Abdomen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-108-1",
+   "src": "D1-108",
+   "typ": "perspektive",
+   "q": "Welcher Tubulusabschnitt ist wasserundurchlässig und verdünnt den Harn?",
+   "o": [
+    "Dünner absteigender Teil",
+    "Proximaler Tubulus",
+    "Sammelrohr unter ADH",
+    "Glomerulus",
+    "Dicker aufsteigender Teil der Henle-Schleife"
+   ],
+   "a": "E",
+   "expl": "Im dicken aufsteigenden Teil wird Salz ohne Wasser resorbiert. Der Harn wird hypoton, im Interstitium entsteht der hohe osmotische Gradient.",
+   "dis": {
+    "A": "Wasserdurchlässig.",
+    "B": "Isoosmotische Resorption.",
+    "C": "Wasserdurchlässig.",
+    "D": "Filtration."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-108-2",
+   "src": "D1-108",
+   "typ": "perspektive",
+   "q": "Wo wird unter Aldosteron Natrium gegen Kalium ausgetauscht?",
+   "o": [
+    "Im Verbindungstubulus und kortikalen Sammelrohr (Hauptzellen)",
+    "Im Glomerulus",
+    "Im proximalen Tubulus allein",
+    "Im dünnen absteigenden Teil",
+    "In der Bowman-Kapsel"
+   ],
+   "a": "A",
+   "expl": "Aldosteron steigert in den Hauptzellen ENaC-Kanäle und die Na+/K+-ATPase. Ein Hyperaldosteronismus führt deshalb zu Hypertonie und Hypokaliämie.",
+   "dis": {
+    "B": "Filtration.",
+    "C": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-114-1",
+   "src": "D1-114",
+   "typ": "perspektive",
+   "q": "Wo liegen die Samenbläschen im Verhältnis zur Ampulla ductus deferentis?",
+   "o": [
+    "Medial der Ampullen",
+    "Lateral der Ampullen",
+    "Vor der Symphyse",
+    "In der Prostata",
+    "Im Skrotum"
+   ],
+   "a": "B",
+   "expl": "An der Blasenhinterwand liegen die Ampullen medial, die Samenbläschen lateral. Unten vereinigen sich ihre Gänge zum Ductus ejaculatorius.",
+   "dis": {
+    "A": "Falsch.",
+    "C": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-114-2",
+   "src": "D1-114",
+   "typ": "perspektive",
+   "q": "Welcher Anteil des Ejakulats stammt aus der Prostata?",
+   "o": [
+    "Etwa 90 %",
+    "Etwa 1 %",
+    "Etwa 15–30 %",
+    "Etwa 60–70 %",
+    "Gar nichts"
+   ],
+   "a": "C",
+   "expl": "Das dünnflüssige, leicht saure Prostatasekret enthält Zitrat, Zink, saure Phosphatase und PSA. Der Großteil stammt aus den Samenbläschen.",
+   "dis": {
+    "A": "Zu viel.",
+    "B": "Zu wenig.",
+    "D": "Samenbläschen.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-115-1",
+   "src": "D1-115",
+   "typ": "perspektive",
+   "q": "Wie heißt das Lig. cardinale auch?",
+   "o": [
+    "Lig. teres uteri",
+    "Lig. suspensorium ovarii",
+    "Lig. pubovesicale",
+    "Lig. transversum cervicis (Mackenrodt-Band)",
+    "Lig. arcuatum"
+   ],
+   "a": "D",
+   "expl": "Das Mackenrodt-Band zieht von der Zervix zur seitlichen Beckenwand. Es ist der wichtigste Halteapparat gegen den Gebärmuttervorfall.",
+   "dis": {
+    "A": "Rundes Mutterband.",
+    "B": "Trichterbeckenband.",
+    "C": "Blasenband.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-115-2",
+   "src": "D1-115",
+   "typ": "klinik",
+   "q": "Was kann bei einer Schwäche des Halteapparats von Uterus und Beckenboden entstehen?",
+   "o": [
+    "Eine Eileiterschwangerschaft",
+    "Eine Ovarialzyste",
+    "Eine Endometriose",
+    "Ein Zervixkarzinom",
+    "Ein Descensus bzw. Prolaps uteri"
+   ],
+   "a": "E",
+   "expl": "Nach mehreren Geburten oder im Alter können Bänder und Beckenboden nachgeben. Der Uterus tritt tiefer, oft zusammen mit Blase (Zystozele) oder Rektum (Rektozele).",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "D": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-117-1",
+   "src": "D1-117",
+   "typ": "perspektive",
+   "q": "Welche Struktur liegt vor der Vagina?",
+   "o": [
+    "Urethra und Harnblasengrund",
+    "Rektum",
+    "Kreuzbein",
+    "Douglas-Raum",
+    "Os coccygis"
+   ],
+   "a": "A",
+   "expl": "Die Urethra ist mit der Scheidenvorderwand fest verwachsen. Deshalb kann eine Senkung der Vagina auch die Harnröhre verlagern und zu Inkontinenz führen.",
+   "dis": {
+    "B": "Liegt hinten.",
+    "C": "Liegt hinten.",
+    "D": "Grenzt oben hinten.",
+    "E": "Liegt hinten."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-117-2",
+   "src": "D1-117",
+   "typ": "perspektive",
+   "q": "Welches Epithel kleidet die Vagina aus?",
+   "o": [
+    "Einschichtiges Zylinderepithel",
+    "Mehrschichtiges unverhorntes, glykogenreiches Plattenepithel",
+    "Flimmerepithel",
+    "Urothel",
+    "Verhorntes Plattenepithel"
+   ],
+   "a": "B",
+   "expl": "Döderlein-Bakterien bauen das Glykogen zu Milchsäure ab und halten den pH sauer. Die Vagina besitzt keine Drüsen.",
+   "dis": {
+    "A": "Zervixkanal.",
+    "C": "Tube.",
+    "D": "Harnwege.",
+    "E": "Haut."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-118-1",
+   "src": "D1-118",
+   "typ": "perspektive",
+   "q": "Welche Vene mündet links zusammen mit der V. ovarica in die V. renalis sinistra?",
+   "o": [
+    "V. cava inferior",
+    "V. portae",
+    "V. suprarenalis sinistra",
+    "V. azygos",
+    "V. iliaca interna"
+   ],
+   "a": "C",
+   "expl": "Die linke Nierenvene nimmt die linke V. suprarenalis von oben und die linke Gonadenvene von unten auf. Rechts münden diese Venen direkt in die V. cava inferior.",
+   "dis": {
+    "A": "Die Nierenvene mündet in sie.",
+    "B": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-118-2",
+   "src": "D1-118",
+   "typ": "klinik",
+   "q": "Was kann bei einer Kompression der linken V. renalis zwischen Aorta und A. mesenterica superior entstehen?",
+   "o": [
+    "Budd-Chiari-Syndrom",
+    "Pfortaderthrombose",
+    "Leriche-Syndrom",
+    "Nussknacker-Syndrom mit Hämaturie und Varikozele bzw. pelvinen Varizen",
+    "Zollinger-Ellison-Syndrom"
+   ],
+   "a": "D",
+   "expl": "Der Rückstau in der linken Nierenvene staut auch die einmündende Gonadenvene. Bei Frauen entsteht das pelvine Stauungssyndrom.",
+   "dis": {
+    "A": "Lebervenen.",
+    "B": "Falsch.",
+    "C": "Aortenbifurkation.",
+    "E": "Gastrinom."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-120-1",
+   "src": "D1-120",
+   "typ": "perspektive",
+   "q": "Über welche Nerven erhält die Niere ihre sympathische Versorgung?",
+   "o": [
+    "Über den Plexus hypogastricus inferior",
+    "Über den N. pudendus",
+    "Über den N. femoralis",
+    "Über den N. phrenicus",
+    "Über den Plexus renalis aus den Nn. splanchnici"
+   ],
+   "a": "E",
+   "expl": "Der Plexus renalis begleitet die A. renalis. Sympathische Fasern steigern die Reninfreisetzung und verengen die Nierengefäße.",
+   "dis": {
+    "A": "Versorgt Beckenorgane.",
+    "B": "Damm.",
+    "C": "Oberschenkel.",
+    "D": "Zwerchfell."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-120-2",
+   "src": "D1-120",
+   "typ": "perspektive",
+   "q": "Über welche Nerven erhält der Plexus hypogastricus inferior seine sympathischen Fasern?",
+   "o": [
+    "Über die Nn. hypogastrici aus dem Plexus hypogastricus superior und die Nn. splanchnici sacrales",
+    "Über den N. vagus",
+    "Über die Nn. splanchnici pelvici",
+    "Über den N. pudendus",
+    "Über den N. obturatorius"
+   ],
+   "a": "A",
+   "expl": "Der Plexus hypogastricus superior liegt vor dem Promontorium und teilt sich in die beiden Nn. hypogastrici. Er wird bei der präsakralen Neurektomie gegen Beckenschmerzen durchtrennt.",
+   "dis": {
+    "B": "Parasympathisch und reicht nicht so tief.",
+    "C": "Parasympathisch.",
+    "D": "Somatisch.",
+    "E": "Somatisch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-121-1",
+   "src": "D1-121",
+   "typ": "perspektive",
+   "q": "Wie schwer ist eine gesunde Milz beim Erwachsenen etwa?",
+   "o": [
+    "Etwa 1500 g",
+    "Etwa 150 g",
+    "Etwa 15 g",
+    "Etwa 500 g",
+    "Etwa 3 kg"
+   ],
+   "a": "B",
+   "expl": "Merkregel 4-7-11: Die Milz ist etwa 4 cm dick, 7 cm breit und 11 cm lang und wiegt etwa 150 g.",
+   "dis": {
+    "A": "Etwa das Gewicht der Leber.",
+    "C": "Zu leicht.",
+    "D": "Spricht für eine Splenomegalie.",
+    "E": "Viel zu schwer."
+   },
+   "merk": "4-7-11.",
+   "img": null
+  },
+  {
+   "id": "V-D1-121-2",
+   "src": "D1-121",
+   "typ": "klinik",
+   "q": "Welche Funktion übernimmt die Milz bei fehlender Knochenmarkfunktion?",
+   "o": [
+    "Sie bildet Galle.",
+    "Sie produziert Insulin.",
+    "Sie kann wieder Blut bilden (extramedulläre Blutbildung).",
+    "Sie filtert Harn.",
+    "Sie bildet Surfactant."
+   ],
+   "a": "C",
+   "expl": "Die Milz bildet in der Fetalzeit Blut. Bei Knochenmarkfibrose kann sie diese Funktion wieder aufnehmen und vergrößert sich dabei stark.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-130-1",
+   "src": "D1-130",
+   "typ": "perspektive",
+   "q": "Welche Struktur trennt den Lobus caudatus vom linken Leberlappen?",
+   "o": [
+    "Porta hepatis",
+    "Fossa vesicae biliaris",
+    "Lig. coronarium",
+    "Fissura ligamenti venosi",
+    "Lig. triangulare dextrum"
+   ],
+   "a": "D",
+   "expl": "In der Fissura ligamenti venosi liegt das Lig. venosum, der Rest des Ductus venosus. Dort setzt auch das Omentum minus an.",
+   "dis": {
+    "A": "Trennt Lobus caudatus und Lobus quadratus.",
+    "B": "Trennt Lobus quadratus und rechten Lappen.",
+    "C": "Begrenzt die Area nuda.",
+    "E": "Rechter Rand der Area nuda."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-130-2",
+   "src": "D1-130",
+   "typ": "perspektive",
+   "q": "Welche Struktur trennt den Lobus quadratus vom linken Leberlappen?",
+   "o": [
+    "Fissura ligamenti venosi",
+    "Sulcus venae cavae",
+    "Fossa vesicae biliaris",
+    "Porta hepatis",
+    "Fissura ligamenti teretis"
+   ],
+   "a": "E",
+   "expl": "Das Lig. teres hepatis zieht vom Nabel im Unterrand des Lig. falciforme zur Leberpforte. Seine Fissur bildet die linke Grenze des Lobus quadratus.",
+   "dis": {
+    "A": "Trennt Lobus caudatus und linken Lappen.",
+    "B": "Begrenzt den Lobus caudatus rechts.",
+    "C": "Begrenzt den Lobus quadratus rechts.",
+    "D": "Begrenzt ihn hinten."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-132-1",
+   "src": "D1-132",
+   "typ": "perspektive",
+   "q": "Woher stammt die A. colica sinistra?",
+   "o": [
+    "Aus der A. mesenterica inferior",
+    "Aus der A. mesenterica superior",
+    "Aus dem Truncus coeliacus",
+    "Aus der A. iliaca interna",
+    "Aus der A. renalis"
+   ],
+   "a": "A",
+   "expl": "Die A. colica sinistra versorgt das Colon descendens und den linken Teil des Colon transversum. Sie anastomosiert über die Riolan-Anastomose mit der A. colica media.",
+   "dis": {
+    "B": "Gibt A. colica dextra und media ab.",
+    "C": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-132-2",
+   "src": "D1-132",
+   "typ": "perspektive",
+   "q": "Wie liegt das Zäkum in Bezug auf das Peritoneum meistens?",
+   "o": [
+    "Immer primär retroperitoneal",
+    "Intraperitoneal, kann aber auch teilweise retroperitoneal fixiert sein",
+    "Immer extraperitoneal im Becken",
+    "Im Thorax",
+    "In der Bursa omentalis"
+   ],
+   "a": "B",
+   "expl": "Das Zäkum ist meist frei beweglich mit Peritonealüberzug, hat aber kein echtes Mesenterium. Die Lage ist variabel; das erklärt verschiedene Appendixlagen.",
+   "dis": {
+    "A": "Falsch.",
+    "C": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-133-1",
+   "src": "D1-133",
+   "typ": "perspektive",
+   "q": "In welchem Ganglion werden die sympathischen Fasern für Dünndarm und Colon ascendens umgeschaltet?",
+   "o": [
+    "Ganglion stellatum",
+    "Ganglion ciliare",
+    "Ganglion mesentericum superius",
+    "Ganglion impar",
+    "Spinalganglion"
+   ],
+   "a": "C",
+   "expl": "Das Ganglion mesentericum superius liegt am Abgang der gleichnamigen Arterie. Die postganglionären Fasern ziehen mit den Arterienästen zum Darm.",
+   "dis": {
+    "A": "Hals bzw. oberer Thorax.",
+    "B": "Auge.",
+    "D": "Steißbein.",
+    "E": "Sensibel."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-133-2",
+   "src": "D1-133",
+   "typ": "perspektive",
+   "q": "Mit welchen Arterien ziehen die vegetativen Nervenfasern zu den Darmabschnitten?",
+   "o": [
+    "Frei durch die Bauchhöhle",
+    "Im Ductus thoracicus",
+    "Entlang der Venen allein",
+    "Als Geflechte entlang der versorgenden Arterien",
+    "Im Peritoneum parietale"
+   ],
+   "a": "D",
+   "expl": "Postganglionäre Fasern bilden periarterielle Plexus, z. B. den Plexus mesentericus superior. Deshalb gleichen sich Gefäß- und Nervenversorgungsgebiete.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-135-1",
+   "src": "D1-135",
+   "typ": "perspektive",
+   "q": "In welches Venensystem fließt das Blut der V. rectalis superior?",
+   "o": [
+    "Direkt in die V. cava inferior",
+    "In die V. azygos",
+    "In die V. renalis",
+    "In die V. femoralis",
+    "Über die V. mesenterica inferior in die V. portae"
+   ],
+   "a": "E",
+   "expl": "Im Rektum treffen Pfortader- und Kavasystem aufeinander. Diese portokavale Anastomose kann sich bei portaler Hypertension erweitern.",
+   "dis": {
+    "A": "Gilt für Vv. rectales mediae und inferiores.",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "D": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-135-2",
+   "src": "D1-135",
+   "typ": "klinik",
+   "q": "Warum werden Zäpfchen gut wirksam, ohne zuerst die Leber zu passieren?",
+   "o": [
+    "Weil das untere Rektum über die Vv. rectales mediae und inferiores in die V. cava inferior drainiert",
+    "Weil das Rektum keine Venen hat",
+    "Weil alle Rektumvenen in die Pfortader führen",
+    "Weil Zäpfchen nur lokal wirken",
+    "Weil die Leber keine Medikamente abbaut"
+   ],
+   "a": "A",
+   "expl": "Der First-Pass-Effekt der Leber wird teilweise umgangen. Wird das Zäpfchen zu hoch eingeführt, fließt mehr Blut über die V. rectalis superior zur Leber.",
+   "dis": {
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "D": "Viele wirken systemisch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-138-1",
+   "src": "D1-138",
+   "typ": "perspektive",
+   "q": "Aus welchem Gefäß entspringt die A. rectalis media?",
+   "o": [
+    "A. mesenterica inferior",
+    "A. iliaca interna",
+    "A. pudenda interna",
+    "Aorta direkt",
+    "A. femoralis"
+   ],
+   "a": "B",
+   "expl": "Das Rektum hat drei Zuflüsse: A. rectalis superior (A. mesenterica inferior), A. rectalis media (A. iliaca interna) und A. rectalis inferior (A. pudenda interna).",
+   "dis": {
+    "A": "Gibt die A. rectalis superior ab.",
+    "C": "Gibt die A. rectalis inferior ab.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-138-2",
+   "src": "D1-138",
+   "typ": "perspektive",
+   "q": "Welche Arterie ist der Hauptzufluss des Rektums?",
+   "o": [
+    "A. rectalis media",
+    "A. rectalis inferior",
+    "A. rectalis superior",
+    "A. sacralis mediana",
+    "A. glutea superior"
+   ],
+   "a": "C",
+   "expl": "Die A. rectalis superior ist der Endast der A. mesenterica inferior und versorgt den größten Teil des Rektums. Sie speist auch den Schwellkörper des Analkanals.",
+   "dis": {
+    "A": "Kleinerer Zufluss.",
+    "B": "Vor allem Analkanal.",
+    "D": "Kaum Beitrag.",
+    "E": "Gesäß."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-146-1",
+   "src": "D1-146",
+   "typ": "perspektive",
+   "q": "Welcher Duodenalabschnitt liegt intraperitoneal?",
+   "o": [
+    "Pars descendens",
+    "Pars horizontalis",
+    "Pars ascendens",
+    "Pars superior (Bulbus duodeni)",
+    "Kein Abschnitt"
+   ],
+   "a": "D",
+   "expl": "Der Bulbus duodeni ist beweglich und am Lig. hepatoduodenale aufgehängt. Ein Ulcus an seiner Vorderwand kann deshalb frei in die Bauchhöhle perforieren.",
+   "dis": {
+    "A": "Sekundär retroperitoneal.",
+    "B": "Sekundär retroperitoneal.",
+    "C": "Sekundär retroperitoneal.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-146-2",
+   "src": "D1-146",
+   "typ": "nachbarschaft",
+   "q": "Welche Gefäße überkreuzen die Pars horizontalis duodeni von ventral?",
+   "o": [
+    "Aorta und V. cava inferior",
+    "A. splenica",
+    "A. renalis",
+    "V. portae",
+    "A. und V. mesenterica superior"
+   ],
+   "a": "E",
+   "expl": "Die Pars horizontalis liegt zwischen den Mesenterialgefäßen vorne und Aorta bzw. V. cava hinten. Bei starkem Gewichtsverlust kann sie hier eingeklemmt werden (A.-mesenterica-superior-Syndrom).",
+   "dis": {
+    "A": "Liegen dahinter.",
+    "B": "Liegt höher.",
+    "C": "Liegt dahinter.",
+    "D": "Liegt höher."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-150-1",
+   "src": "D1-150",
+   "typ": "perspektive",
+   "q": "Woran erkennt man das Jejunum makroskopisch im Vergleich zum Ileum?",
+   "o": [
+    "An größerem Durchmesser, dickerer Wand und wenigen, langen Arkaden mit Vasa recta",
+    "An Taenien und Haustren",
+    "An vielen Peyer-Plaques",
+    "An vielen Arkadenreihen und kurzen Vasa recta",
+    "An retroperitonealer Lage"
+   ],
+   "a": "A",
+   "expl": "Das Jejunum liegt eher links oben und wirkt wegen der hohen Falten kräftiger. Im Mesenterium des Ileums liegt mehr Fett und es bildet mehrere Arkadenreihen.",
+   "dis": {
+    "B": "Kolon.",
+    "C": "Ileum.",
+    "D": "Ileum.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-150-2",
+   "src": "D1-150",
+   "typ": "perspektive",
+   "q": "Wie heißt die Grenze zwischen Duodenum und Jejunum?",
+   "o": [
+    "Flexura coli dextra",
+    "Flexura duodenojejunalis",
+    "Valva ileocaecalis",
+    "Pylorus",
+    "Cardia"
+   ],
+   "a": "B",
+   "expl": "Die Flexura duodenojejunalis wird vom Treitz-Band (M. suspensorius duodeni) gehalten. Sie markiert auch die Grenze zwischen oberer und unterer gastrointestinaler Blutung.",
+   "dis": {
+    "A": "Kolon.",
+    "C": "Ileum-Zäkum.",
+    "D": "Magen-Duodenum.",
+    "E": "Ösophagus-Magen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-151-1",
+   "src": "D1-151",
+   "typ": "nachbarschaft",
+   "q": "An welchem Organ liegt die Flexura coli dextra?",
+   "o": [
+    "An der Milz",
+    "Am Magen",
+    "An der Leberunterfläche vor der rechten Niere",
+    "Am Sigma",
+    "Im kleinen Becken"
+   ],
+   "a": "C",
+   "expl": "Die rechte Kolonflexur liegt tiefer als die linke. Sie hinterlässt an der Leber die Impressio colica.",
+   "dis": {
+    "A": "Flexura coli sinistra.",
+    "B": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-151-2",
+   "src": "D1-151",
+   "typ": "perspektive",
+   "q": "Welche Kolonflexur liegt höher?",
+   "o": [
+    "Die rechte Kolonflexur",
+    "Beide liegen gleich hoch",
+    "Keine, das Kolon hat keine Flexuren",
+    "Die linke Kolonflexur (Flexura splenica)",
+    "Die Flexura sigmoidea"
+   ],
+   "a": "D",
+   "expl": "Die linke Flexur liegt höher und ist durch das Lig. phrenicocolicum am Zwerchfell fixiert. Bei der Koloskopie ist sie oft schwer zu passieren.",
+   "dis": {
+    "A": "Liegt tiefer wegen der Leber.",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "E": "Kein üblicher Begriff."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-152-1",
+   "src": "D1-152",
+   "typ": "perspektive",
+   "q": "Welche Arterie versorgt das Colon transversum hauptsächlich?",
+   "o": [
+    "A. colica sinistra allein",
+    "A. ileocolica",
+    "A. sigmoidea",
+    "A. rectalis superior",
+    "A. colica media"
+   ],
+   "a": "E",
+   "expl": "Die A. colica media aus der A. mesenterica superior verläuft im Mesocolon transversum. Sie ist durch die Riolan-Anastomose und die Randarkade mit der A. colica sinistra verbunden.",
+   "dis": {
+    "A": "Linker Teil.",
+    "B": "Zäkum und Ileum.",
+    "C": "Sigma.",
+    "D": "Rektum."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-152-2",
+   "src": "D1-152",
+   "typ": "perspektive",
+   "q": "Wie heißt die Gefäßarkade entlang des Kolonrandes?",
+   "o": [
+    "Marginalarterie (Drummond-Arkade)",
+    "Circulus arteriosus Willisii",
+    "Arcus palmaris",
+    "Lig. arteriosum",
+    "Plexus pampiniformis"
+   ],
+   "a": "A",
+   "expl": "Die Marginalarterie verbindet alle Kolonarterien entlang des Darmrands. Am Griffiths-Punkt nahe der linken Flexur ist sie oft schwach ausgebildet.",
+   "dis": {
+    "B": "Gehirn.",
+    "C": "Hand.",
+    "D": "Herz.",
+    "E": "Hoden."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-159-1",
+   "src": "D1-159",
+   "typ": "perspektive",
+   "q": "Welche Arterie speist das Corpus cavernosum recti?",
+   "o": [
+    "A. rectalis inferior allein",
+    "A. rectalis superior",
+    "A. sacralis mediana",
+    "A. femoralis",
+    "A. vesicalis inferior"
+   ],
+   "a": "B",
+   "expl": "Der Schwellkörper ist arteriell gespeist. Deshalb ist Blut bei Hämorrhoidalblutungen hellrot.",
+   "dis": {
+    "A": "Vor allem Analhaut und Sphinkter.",
+    "C": "Kaum Beitrag.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-159-2",
+   "src": "D1-159",
+   "typ": "perspektive",
+   "q": "Welcher Muskel des Kontinenzorgans ist glatt und unwillkürlich?",
+   "o": [
+    "M. sphincter ani externus",
+    "M. puborectalis",
+    "M. sphincter ani internus",
+    "M. levator ani",
+    "M. gluteus maximus"
+   ],
+   "a": "C",
+   "expl": "Der innere Schließmuskel ist die verdickte Ringmuskulatur des Rektums und sorgt für den Dauerverschluss. Der äußere wird über den N. pudendus willkürlich gesteuert.",
+   "dis": {
+    "A": "Quergestreift, willkürlich.",
+    "B": "Quergestreift.",
+    "D": "Quergestreift.",
+    "E": "Quergestreift, nicht Teil des Kontinenzorgans."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-165-1",
+   "src": "D1-165",
+   "typ": "perspektive",
+   "q": "Welche Struktur bildet im Röntgen-Abdomen die Psoasrandschatten?",
+   "o": [
+    "Das Zwerchfell",
+    "Das Colon ascendens",
+    "Die Leber",
+    "Der Rand des M. psoas major gegen das retroperitoneale Fett",
+    "Die Harnblase"
+   ],
+   "a": "D",
+   "expl": "Der Psoasschatten ist sichtbar, weil Fett weniger dicht ist als Muskel. Ein Verlust des Schattens kann auf eine retroperitoneale Blutung oder einen Abszess hinweisen.",
+   "dis": {
+    "A": "Liegt oben.",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-165-2",
+   "src": "D1-165",
+   "typ": "perspektive",
+   "q": "Woran erkennt man das Kolon im Röntgenbild mit Kontrastmittel?",
+   "o": [
+    "An Kerckring-Falten",
+    "An Rugae gastricae",
+    "An Knorpelspangen",
+    "An Peyer-Plaques",
+    "An den Haustren"
+   ],
+   "a": "E",
+   "expl": "Die Haustren sind Aussackungen zwischen den Plicae semilunares und geben dem Kolon eine gekammerte Kontur. Kerckring-Falten des Dünndarms reichen dagegen über das ganze Lumen.",
+   "dis": {
+    "A": "Dünndarm.",
+    "B": "Magen.",
+    "C": "Trachea.",
+    "D": "Nicht röntgensichtbar."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-166-1",
+   "src": "D1-166",
+   "typ": "perspektive",
+   "q": "Aus welcher Arterie entspringt die A. pancreaticoduodenalis superior?",
+   "o": [
+    "A. gastroduodenalis",
+    "A. splenica",
+    "A. mesenterica inferior",
+    "A. renalis",
+    "A. cystica"
+   ],
+   "a": "A",
+   "expl": "Die A. pancreaticoduodenalis superior anastomosiert mit der inferior aus der A. mesenterica superior. Diese Arkade verbindet Truncus coeliacus und A. mesenterica superior.",
+   "dis": {
+    "B": "Pankreaskörper und -schwanz.",
+    "C": "Kolon.",
+    "D": "Niere.",
+    "E": "Gallenblase."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-166-2",
+   "src": "D1-166",
+   "typ": "nachbarschaft",
+   "q": "Welche Struktur liegt hinter der Pars superior duodeni und kann bei einem Hinterwandulkus arrodiert werden?",
+   "o": [
+    "A. splenica",
+    "A. gastroduodenalis",
+    "A. renalis dextra",
+    "A. colica media",
+    "A. epigastrica inferior"
+   ],
+   "a": "B",
+   "expl": "Die A. gastroduodenalis zieht hinter dem Bulbus duodeni nach unten. Ein penetrierendes Ulcus der Hinterwand kann eine lebensbedrohliche Blutung verursachen.",
+   "dis": {
+    "A": "Liegt links.",
+    "C": "Liegt tiefer.",
+    "D": "Liegt tiefer.",
+    "E": "Bauchwand."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-167-1",
+   "src": "D1-167",
+   "typ": "perspektive",
+   "q": "Welche Struktur ist eine Peritonealfalte, die den Uterus mit der seitlichen Beckenwand verbindet?",
+   "o": [
+    "Lig. teres uteri",
+    "Lig. ovarii proprium",
+    "Lig. latum uteri",
+    "Lig. pubovesicale",
+    "Lig. inguinale"
+   ],
+   "a": "C",
+   "expl": "Das Lig. latum ist eine frontale Peritonealduplikatur. Es teilt das kleine Becken in eine vordere und hintere Peritonealtasche.",
+   "dis": {
+    "A": "Bindegewebsstrang durch den Leistenkanal.",
+    "B": "Strang zwischen Ovar und Uterus.",
+    "D": "Blase.",
+    "E": "Leiste."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-167-2",
+   "src": "D1-167",
+   "typ": "nachbarschaft",
+   "q": "Wo verläuft der Ureter im Verhältnis zum Lig. latum uteri?",
+   "o": [
+    "In der Mesosalpinx",
+    "Im Lig. ovarii proprium",
+    "Am oberen freien Rand des Lig. latum",
+    "An der Basis des Lig. latum im Parametrium",
+    "Außerhalb des Beckens"
+   ],
+   "a": "D",
+   "expl": "Der Ureter zieht an der Basis des Lig. latum unter der A. uterina zur Blase. Bei Operationen wird er an der seitlichen Beckenwand dargestellt.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Falsch.",
+    "C": "Dort liegt die Tube.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-168-1",
+   "src": "D1-168",
+   "typ": "perspektive",
+   "q": "In welche zwei Stämme teilt sich die A. iliaca interna typischerweise?",
+   "o": [
+    "A. iliaca externa und A. femoralis",
+    "A. uterina und A. ovarica",
+    "A. glutea superior und A. femoralis",
+    "A. renalis und A. suprarenalis",
+    "Truncus anterior und Truncus posterior"
+   ],
+   "a": "E",
+   "expl": "Der hintere Stamm gibt parietale Äste ab (A. iliolumbalis, Aa. sacrales laterales, A. glutea superior). Der vordere versorgt Beckenorgane und gibt A. obturatoria, A. pudenda interna und A. glutea inferior ab.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "D": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-168-2",
+   "src": "D1-168",
+   "typ": "perspektive",
+   "q": "Welche Arterie ist der größte Ast des Truncus posterior der A. iliaca interna?",
+   "o": [
+    "A. glutea superior",
+    "A. pudenda interna",
+    "A. uterina",
+    "A. obturatoria",
+    "A. vesicalis inferior"
+   ],
+   "a": "A",
+   "expl": "Die A. glutea superior verlässt das Becken durch das Foramen suprapiriforme. Sie versorgt die Mm. glutei medius und minimus.",
+   "dis": {
+    "B": "Truncus anterior.",
+    "C": "Truncus anterior.",
+    "D": "Meist Truncus anterior.",
+    "E": "Truncus anterior."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-170-1",
+   "src": "D1-170",
+   "typ": "perspektive",
+   "q": "In welchem Sulcus verläuft der Sinus coronarius?",
+   "o": [
+    "Im Sulcus interventricularis anterior",
+    "Im hinteren Abschnitt des Sulcus coronarius",
+    "Im Sulcus terminalis",
+    "An der Herzspitze",
+    "Im Septum interatriale"
+   ],
+   "a": "B",
+   "expl": "Der Sinus coronarius liegt zwischen linkem Vorhof und linkem Ventrikel an der Herzhinterseite. Er ist etwa 2–3 cm lang.",
+   "dis": {
+    "A": "Falsch.",
+    "C": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-170-2",
+   "src": "D1-170",
+   "typ": "perspektive",
+   "q": "Welche Muskeln verbinden die Segelklappen über Sehnenfäden mit der Kammerwand?",
+   "o": [
+    "Mm. pectinati",
+    "Trabecula septomarginalis allein",
+    "Mm. papillares",
+    "Crista supraventricularis",
+    "M. trachealis"
+   ],
+   "a": "C",
+   "expl": "Links gibt es zwei, rechts meist drei Papillarmuskeln. Die Trabecula septomarginalis führt den rechten Tawara-Schenkel zum vorderen Papillarmuskel.",
+   "dis": {
+    "A": "Herzohren.",
+    "B": "Leitet Reizleitungsfasern.",
+    "D": "Ausflusstrakt rechts.",
+    "E": "Trachea."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-171-1",
+   "src": "D1-171",
+   "typ": "nachbarschaft",
+   "q": "Welche Struktur liegt im Thoraxquerschnitt direkt hinter dem linken Vorhof?",
+   "o": [
+    "Sternum",
+    "Truncus pulmonalis",
+    "Rechter Ventrikel",
+    "Ösophagus",
+    "Thymus"
+   ],
+   "a": "D",
+   "expl": "Ösophagus und linker Vorhof liegen eng aneinander, nur durch das Perikard getrennt. Darauf beruht die transösophageale Echokardiographie.",
+   "dis": {
+    "A": "Vorne.",
+    "B": "Vorne oben.",
+    "C": "Vorne.",
+    "E": "Vorne."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-171-2",
+   "src": "D1-171",
+   "typ": "perspektive",
+   "q": "Was ist der Sinus obliquus pericardii?",
+   "o": [
+    "Eine Perikardtasche zwischen Aorta und V. cava superior",
+    "Ein Herzvenengefäß",
+    "Ein Teil der Aortenwand",
+    "Eine Klappentasche",
+    "Eine Perikardtasche hinter dem linken Vorhof zwischen den Lungenvenen"
+   ],
+   "a": "E",
+   "expl": "Der Sinus obliquus ist ein Blindsack zwischen den Umschlagfalten um die Lungenvenen und die V. cava inferior. Der Sinus transversus liegt dagegen zwischen den arteriellen und venösen Gefäßstämmen.",
+   "dis": {
+    "A": "Sinus transversus pericardii.",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "D": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D1-169-1",
+   "src": "D1-169",
+   "typ": "perspektive",
+   "q": "Welche Struktur bildet die Vorderwand des Leistenkanals?",
+   "o": [
+    "Aponeurose des M. obliquus externus abdominis",
+    "Fascia transversalis",
+    "Lig. inguinale",
+    "M. obliquus internus und M. transversus abdominis",
+    "Peritoneum parietale"
+   ],
+   "a": "A",
+   "expl": "Merkregel MALT: Dach Muskeln (Internus und Transversus), Vorderwand Aponeurose des Externus, Boden Lig. inguinale, Hinterwand Fascia transversalis.",
+   "dis": {
+    "B": "Bildet die Hinterwand.",
+    "C": "Bildet den Boden.",
+    "D": "Bilden das Dach.",
+    "E": "Liegt hinter der Hinterwand."
+   },
+   "merk": "MALT: Muskeln, Aponeurose, Ligament, Transversalis.",
+   "img": null
+  },
+  {
+   "id": "V-D1-169-2",
+   "src": "D1-169",
+   "typ": "perspektive",
+   "q": "Welche Struktur bildet die Hinterwand des Leistenkanals?",
+   "o": [
+    "Aponeurose des M. obliquus externus",
+    "Fascia transversalis (medial verstärkt durch die Falx inguinalis)",
+    "Lig. inguinale",
+    "M. cremaster",
+    "Lig. lacunare"
+   ],
+   "a": "B",
+   "expl": "Die schwache Hinterwand im Hesselbach-Dreieck ist die Austrittsstelle direkter Leistenhernien. Bei der Hernienoperation wird sie mit Naht oder Netz verstärkt.",
+   "dis": {
+    "A": "Vorderwand.",
+    "C": "Boden.",
+    "D": "Hülle des Samenstrangs.",
+    "E": "Begrenzt den Schenkelring."
+   },
+   "merk": "",
+   "img": null
+  }
+ ]
+}

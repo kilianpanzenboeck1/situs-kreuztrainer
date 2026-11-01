@@ -1,0 +1,926 @@
+{
+ "chapter": "B3",
+ "status": "review",
+ "cards": [
+  {
+   "id": "V-NI-1-1",
+   "src": "NI-1",
+   "typ": "perspektive",
+   "q": "Welche Strukturen der bleibenden Niere entstehen aus der Ureterknospe?",
+   "o": [
+    "Ureter, Nierenbecken, Kelche und Sammelrohre",
+    "Glomeruli und proximale Tubuli",
+    "Die Henle-Schleifen",
+    "Die Nebenniere",
+    "Die Harnblase"
+   ],
+   "a": "A",
+   "expl": "Die Ureterknospe verzweigt sich zum ableitenden System. An jedem Sammelrohrende induziert sie im metanephrogenen Blastem die Bildung eines Nephrons.",
+   "dis": {
+    "B": "Entstehen aus dem metanephrogenen Blastem.",
+    "C": "Entstehen aus dem metanephrogenen Blastem.",
+    "D": "Eigene Anlage.",
+    "E": "Entsteht aus dem Sinus urogenitalis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-1-2",
+   "src": "NI-1",
+   "typ": "perspektive",
+   "q": "Wann ist die Nephronbildung beim Menschen abgeschlossen?",
+   "o": [
+    "Erst im 2. Lebensjahr",
+    "Etwa um die 36. Schwangerschaftswoche, also vor der Geburt",
+    "Mit der Pubertät",
+    "Bereits in der 8. Woche",
+    "Sie geht lebenslang weiter"
+   ],
+   "a": "B",
+   "expl": "Nach der Geburt entstehen keine neuen Nephrone mehr, sie wachsen nur noch. Frühgeborene haben deshalb oft weniger Nephrone.",
+   "dis": {
+    "A": "Nach der Geburt entstehen keine neuen Nephrone.",
+    "C": "Falsch.",
+    "D": "Zu früh.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-2-1",
+   "src": "NI-2",
+   "typ": "klinik",
+   "q": "Was entsteht, wenn sich die Ureterknospe früh teilt?",
+   "o": [
+    "Eine Hufeisenniere",
+    "Eine Zystenniere",
+    "Ein Ureter fissus bzw. duplex (Doppelureter)",
+    "Eine Urachusfistel",
+    "Eine Nierenagenesie"
+   ],
+   "a": "C",
+   "expl": "Teilt sich die Knospe nur teilweise, entsteht ein Y-förmiger Ureter fissus. Bilden sich zwei Knospen, entstehen zwei getrennte Ureteren (Ureter duplex).",
+   "dis": {
+    "A": "Fusion der unteren Nierenpole.",
+    "B": "Genetische Erkrankung.",
+    "D": "Rest der Allantois.",
+    "E": "Fehlen der Ureterknospe."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-2-2",
+   "src": "NI-2",
+   "typ": "klinik",
+   "q": "Was ist die Folge, wenn die Ureterknospe beidseits nicht angelegt wird?",
+   "o": [
+    "Eine Hufeisenniere",
+    "Ein Doppelureter",
+    "Eine Beckenniere",
+    "Beidseitige Nierenagenesie mit Oligohydramnion (Potter-Sequenz)",
+    "Ein Polyhydramnion"
+   ],
+   "a": "D",
+   "expl": "Ohne Ureterknospe entsteht keine Nachniere. Ohne fetalen Harn fehlt Fruchtwasser; es kommt zu Lungenhypoplasie und Gesichtsdeformitäten.",
+   "dis": {
+    "A": "Fusion, keine Agenesie.",
+    "B": "Zu viele Knospen.",
+    "C": "Fehlender Aszensus.",
+    "E": "Gegenteil: zu wenig Fruchtwasser."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-3-1",
+   "src": "NI-3",
+   "typ": "perspektive",
+   "q": "In welcher Reihenfolge entstehen die drei Nierengenerationen?",
+   "o": [
+    "Nachniere, Urniere, Vorniere",
+    "Urniere, Vorniere, Nachniere",
+    "Vorniere, Nachniere, Urniere",
+    "Alle drei entstehen gleichzeitig",
+    "Vorniere, Urniere, Nachniere"
+   ],
+   "a": "E",
+   "expl": "Alle drei entstehen aus dem intermediären Mesoderm von kranial nach kaudal. Nur die Nachniere (Metanephros) wird zur bleibenden Niere.",
+   "dis": {
+    "A": "Umgekehrt.",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "D": "Sie folgen nacheinander von kranial nach kaudal."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-3-2",
+   "src": "NI-3",
+   "typ": "perspektive",
+   "q": "Was wird aus der Vorniere (Pronephros)?",
+   "o": [
+    "Sie bildet sich vollständig zurück und ist beim Menschen nie funktionstüchtig.",
+    "Sie wird zur bleibenden Niere.",
+    "Sie wird zur Nebenniere.",
+    "Sie wird zum Hoden.",
+    "Sie wird zur Harnblase."
+   ],
+   "a": "A",
+   "expl": "Die Vorniere entsteht in der 4. Woche im Halsbereich und verschwindet rasch. Ihr Gang wird aber vom Urnierengang weiterverwendet.",
+   "dis": {
+    "B": "Das ist die Nachniere.",
+    "C": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-4-1",
+   "src": "NI-4",
+   "typ": "perspektive",
+   "q": "In welcher Markzone der Niere findet man noch die Pars recta des proximalen Tubulus?",
+   "o": [
+    "Im Innenstreifen der Außenzone",
+    "Im Außenstreifen der Außenzone",
+    "In der Innenzone",
+    "In der Papillenspitze",
+    "Im Nierenbecken"
+   ],
+   "a": "B",
+   "expl": "Der Übergang vom proximalen geraden Tubulus zum dünnen Intermediärtubulus markiert die Grenze zwischen Außen- und Innenstreifen der Außenzone.",
+   "dis": {
+    "A": "Dort beginnt der dünne Teil der Henle-Schleife.",
+    "C": "Dort nur dünne Schleifen und Sammelrohre.",
+    "D": "Nur Sammelrohre.",
+    "E": "Kein Parenchym."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-4-2",
+   "src": "NI-4",
+   "typ": "perspektive",
+   "q": "Wodurch erkennt man den proximalen Tubulus histologisch?",
+   "o": [
+    "An flachem Plattenepithel",
+    "An hellen Zellen mit scharfen Zellgrenzen",
+    "An einem dichten Bürstensaum und eosinophilem Zytoplasma",
+    "An Kinozilien",
+    "An Becherzellen"
+   ],
+   "a": "C",
+   "expl": "Die zahlreichen Mitochondrien machen das Zytoplasma eosinophil, der Bürstensaum vergrößert die Resorptionsfläche. Das Lumen wirkt deshalb oft eng und unscharf.",
+   "dis": {
+    "A": "Typisch für den dünnen Intermediärtubulus.",
+    "B": "Typisch für Sammelrohre.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-5-1",
+   "src": "NI-5",
+   "typ": "perspektive",
+   "q": "Was wird beim Mann aus dem Urnierengang (Wolff-Gang)?",
+   "o": [
+    "Uterus und Tuben",
+    "Die Harnblase",
+    "Die Urethra",
+    "Nebenhodengang, Ductus deferens und Samenbläschen",
+    "Die Prostata allein"
+   ],
+   "a": "D",
+   "expl": "Testosteron erhält den Wolff-Gang. Das Anti-Müller-Hormon der Sertoli-Zellen lässt den Müller-Gang zurückbilden.",
+   "dis": {
+    "A": "Entstehen aus dem Müller-Gang.",
+    "B": "Sinus urogenitalis.",
+    "C": "Sinus urogenitalis.",
+    "E": "Entsteht aus der Urethra."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-5-2",
+   "src": "NI-5",
+   "typ": "klinik",
+   "q": "Woher stammt die Gefäßversorgung einer Beckenniere meist?",
+   "o": [
+    "Aus der A. renalis in normaler Höhe",
+    "Aus der A. subclavia",
+    "Aus dem Truncus coeliacus",
+    "Aus der A. femoralis",
+    "Aus tiefen Ästen wie der A. iliaca communis oder der distalen Aorta"
+   ],
+   "a": "E",
+   "expl": "Beim Aszensus erhält die Niere nacheinander neue Gefäße aus der Umgebung. Bleibt sie im Becken, behält sie diese tiefen Gefäße.",
+   "dis": {
+    "A": "Die Niere ist nicht aufgestiegen.",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "D": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-6-1",
+   "src": "NI-6",
+   "typ": "perspektive",
+   "q": "Welcher Abschnitt des Nephrons bildet den dicken aufsteigenden Teil der Henle-Schleife?",
+   "o": [
+    "Pars recta des distalen Tubulus",
+    "Pars recta des proximalen Tubulus",
+    "Intermediärtubulus",
+    "Sammelrohr",
+    "Pars convoluta des proximalen Tubulus"
+   ],
+   "a": "A",
+   "expl": "Der dicke aufsteigende Teil ist wasserundurchlässig und resorbiert über den NKCC2-Transporter Natrium, Kalium und Chlorid. Hier wirken Schleifendiuretika.",
+   "dis": {
+    "B": "Dicker absteigender Teil.",
+    "C": "Dünner Teil.",
+    "D": "Gehört nicht zum Nephron.",
+    "E": "Liegt in der Rinde."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-6-2",
+   "src": "NI-6",
+   "typ": "perspektive",
+   "q": "Welches Diuretikum hemmt den Na-K-2Cl-Kotransporter im dicken aufsteigenden Teil der Henle-Schleife?",
+   "o": [
+    "Hydrochlorothiazid",
+    "Furosemid",
+    "Spironolacton",
+    "Amilorid",
+    "Acetazolamid"
+   ],
+   "a": "B",
+   "expl": "Schleifendiuretika sind die stärksten Diuretika, weil im dicken aufsteigenden Teil etwa 25 % des filtrierten Natriums resorbiert werden.",
+   "dis": {
+    "A": "Wirkt im distalen Konvolut.",
+    "C": "Aldosteronantagonist im Sammelrohr.",
+    "D": "Hemmt ENaC im Sammelrohr.",
+    "E": "Hemmt die Carboanhydrase im proximalen Tubulus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-7-1",
+   "src": "NI-7",
+   "typ": "perspektive",
+   "q": "Welche Nephrone haben besonders lange Henle-Schleifen, die bis in die Innenzone reichen?",
+   "o": [
+    "Superfizielle (kortikale) Nephrone",
+    "Alle Nephrone gleich",
+    "Juxtamedulläre Nephrone",
+    "Nur die Nephrone der Nebenniere",
+    "Keine, die Schleifen enden in der Rinde"
+   ],
+   "a": "C",
+   "expl": "Juxtamedulläre Nephrone liegen nahe der Markgrenze und bauen mit ihren langen Schleifen den osmotischen Gradienten im Mark auf.",
+   "dis": {
+    "A": "Haben kurze Schleifen.",
+    "B": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-7-2",
+   "src": "NI-7",
+   "typ": "perspektive",
+   "q": "Wie heißen die großen Sammelrohre, die auf der Papillenspitze münden?",
+   "o": [
+    "Ductuli efferentes",
+    "Ductus pancreatici",
+    "Tubuli recti",
+    "Ductus papillares",
+    "Ductus lactiferi"
+   ],
+   "a": "D",
+   "expl": "Die Ductus papillares münden an der Area cribrosa der Papille in den Calix minor. Ab hier fließt der Endharn ohne weitere Veränderung ab.",
+   "dis": {
+    "A": "Am Hoden.",
+    "B": "Pankreas.",
+    "C": "Am Hoden.",
+    "E": "Brustdrüse."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-8-1",
+   "src": "NI-8",
+   "typ": "perspektive",
+   "q": "Welche Strukturen findet man in der Nierenrinde, aber nicht im Mark?",
+   "o": [
+    "Dünne Henle-Schleifen",
+    "Ductus papillares",
+    "Vasa recta",
+    "Nur Sammelrohre",
+    "Glomeruli und gewundene Tubuli"
+   ],
+   "a": "E",
+   "expl": "Die Rinde enthält die Nierenkörperchen und die gewundenen Tubulusabschnitte. Das Mark enthält die geraden Anteile, Henle-Schleifen und Sammelrohre.",
+   "dis": {
+    "A": "Liegen im Mark.",
+    "B": "Liegen in der Papille.",
+    "C": "Liegen im Mark.",
+    "D": "Kommen in beiden vor."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-8-2",
+   "src": "NI-8",
+   "typ": "perspektive",
+   "q": "Wo liegt die Macula densa?",
+   "o": [
+    "In der Rinde, am Übergang der Pars recta in die Pars convoluta des distalen Tubulus",
+    "Im Innenstreifen des Marks",
+    "In der Papille",
+    "Im Sammelrohr",
+    "Im proximalen Tubulus"
+   ],
+   "a": "A",
+   "expl": "Der distale Tubulus kehrt zum Gefäßpol seines eigenen Glomerulus zurück. Dort bilden seine dicht gepackten Zellen die Macula densa.",
+   "dis": {
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-9-1",
+   "src": "NI-9",
+   "typ": "perspektive",
+   "q": "In welche Richtung ist der Fasziensack der Niere offen?",
+   "o": [
+    "Nach kranial",
+    "Nach kaudal-medial",
+    "Nach lateral",
+    "Nach ventral",
+    "Er ist allseits verschlossen"
+   ],
+   "a": "B",
+   "expl": "Vorderes und hinteres Blatt der Fascia renalis verbinden sich oben und lateral, unten bleiben sie offen. Entzündungen und Blutungen können sich deshalb nach kaudal ausbreiten.",
+   "dis": {
+    "A": "Oben ist er verschlossen.",
+    "C": "Lateral ist er geschlossen.",
+    "D": "Falsch.",
+    "E": "Unten bleibt er offen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-9-2",
+   "src": "NI-9",
+   "typ": "perspektive",
+   "q": "Wie heißt die Fascia renalis mit ihrem Eigennamen?",
+   "o": [
+    "Denonvilliers-Faszie",
+    "Scarpa-Faszie",
+    "Gerota-Faszie",
+    "Colles-Faszie",
+    "Waldeyer-Faszie"
+   ],
+   "a": "C",
+   "expl": "Die Gerota-Faszie umschließt Niere, Nebenniere und Fettkapsel. Bei der radikalen Nephrektomie wird die Niere mitsamt der Faszie entfernt.",
+   "dis": {
+    "A": "Zwischen Rektum und Prostata.",
+    "B": "Bauchwandfaszie.",
+    "D": "Dammfaszie.",
+    "E": "Zwischen Rektum und Kreuzbein."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-10-1",
+   "src": "NI-10",
+   "typ": "perspektive",
+   "q": "Wo mündet der Ureter bei der Frau?",
+   "o": [
+    "Im Vestibulum vaginae",
+    "In die Vagina",
+    "In den Uterus",
+    "In die Harnblase am Trigonum vesicae",
+    "Ins Rektum"
+   ],
+   "a": "D",
+   "expl": "Die Ureteren münden bei beiden Geschlechtern schräg durch die Blasenwand an den oberen Ecken des Trigonum vesicae.",
+   "dis": {
+    "A": "Mündung der Urethra.",
+    "B": "Nur als Fehlbildung (ektoper Ureter).",
+    "C": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-10-2",
+   "src": "NI-10",
+   "typ": "klinik",
+   "q": "Welches Symptom ist typisch für einen ektop in die Vagina mündenden Ureter beim Mädchen?",
+   "o": [
+    "Harnverhalt",
+    "Hämaturie als einziges Symptom",
+    "Fieber ohne Harnsymptome",
+    "Starke Flankenschmerzen beim Wasserlassen",
+    "Ständiges Harnträufeln trotz normaler Miktion"
+   ],
+   "a": "E",
+   "expl": "Der ektope Ureter mündet unterhalb des Schließmuskels. Deshalb tropft Harn ständig, obwohl das Mädchen sonst normal Wasser lässt.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Nicht typisch.",
+    "C": "Nicht typisch.",
+    "D": "Typisch für Reflux."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-11-1",
+   "src": "NI-11",
+   "typ": "nachbarschaft",
+   "q": "Welche Struktur liegt bei der Frau ventral des Ureters an ihrer Kreuzungsstelle neben der Zervix?",
+   "o": [
+    "A. uterina",
+    "A. iliaca externa",
+    "A. iliaca communis",
+    "M. psoas major",
+    "Os sacrum"
+   ],
+   "a": "A",
+   "expl": "Etwa 1–2 cm seitlich der Zervix unterkreuzt der Ureter die A. uterina. Bei der Hysterektomie muss er hier geschont werden.",
+   "dis": {
+    "B": "Liegt dorsal des Ureters.",
+    "C": "Liegt dorsal des Ureters.",
+    "D": "Liegt dorsal.",
+    "E": "Liegt dorsal."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-11-2",
+   "src": "NI-11",
+   "typ": "nachbarschaft",
+   "q": "Welche Darmabschnitte liegen ventral des rechten Ureters in der Pars abdominalis?",
+   "o": [
+    "Colon sigmoideum",
+    "Pars descendens duodeni und die Mesenterialwurzel bzw. das Ileum",
+    "Magen",
+    "Colon descendens",
+    "Milz"
+   ],
+   "a": "B",
+   "expl": "Der rechte Ureter liegt hinter Duodenum, Vasa ovarica bzw. testicularia und Mesenterialwurzel. Der linke Ureter liegt hinter dem Mesocolon sigmoideum.",
+   "dis": {
+    "A": "Liegt vor dem linken Ureter.",
+    "C": "Liegt höher.",
+    "D": "Liegt links.",
+    "E": "Liegt links oben."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-12-1",
+   "src": "NI-12",
+   "typ": "perspektive",
+   "q": "Aus welchen Gefäßen erhält der Ureter seine arterielle Versorgung?",
+   "o": [
+    "Ausschließlich aus der A. rectalis inferior",
+    "Ausschließlich aus der A. renalis",
+    "Segmental aus A. renalis, A. testicularis bzw. ovarica, Aorta und Ästen der A. iliaca interna",
+    "Aus der A. mesenterica superior allein",
+    "Aus der A. femoralis"
+   ],
+   "a": "C",
+   "expl": "Die Ureteräste bilden in der Adventitia ein längs verlaufendes Netz. Wird der Ureter bei Operationen zu stark freigelegt, kann er ischämisch werden.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Nur der obere Teil.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-12-2",
+   "src": "NI-12",
+   "typ": "nachbarschaft",
+   "q": "Wie liegen Ureter und Vasa testicularia an ihrer Kreuzungsstelle zueinander?",
+   "o": [
+    "Der Ureter liegt ventral der Vasa testicularia.",
+    "Sie kreuzen sich nicht.",
+    "Der Ureter verläuft innerhalb des Samenstrangs.",
+    "Der Ureter liegt dorsal der Vasa testicularia.",
+    "Sie verlaufen im selben Kanal durch die Bauchwand."
+   ],
+   "a": "D",
+   "expl": "Auf dem M. psoas überkreuzen die Gonadengefäße den Ureter von ventral. Dasselbe gilt bei der Frau für die Vasa ovarica.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Sie kreuzen sich auf dem M. psoas.",
+    "C": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-13-1",
+   "src": "NI-13",
+   "typ": "perspektive",
+   "q": "Wie ist die Tunica muscularis des Ureters im unteren Drittel aufgebaut?",
+   "o": [
+    "Nur eine Ringschicht",
+    "Quergestreifte Muskulatur",
+    "Innere Ring- und äußere Längsschicht wie im Darm",
+    "Keine Muskulatur",
+    "Innere Längs-, mittlere Ring- und äußere Längsschicht"
+   ],
+   "a": "E",
+   "expl": "Im oberen Ureter gibt es zwei Muskelschichten (innen längs, außen zirkulär), im unteren Drittel kommt eine äußere Längsschicht hinzu. Die Muskelzüge verlaufen eigentlich spiralig.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Falsch.",
+    "C": "Gilt im Darm, nicht im unteren Ureter.",
+    "D": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-13-2",
+   "src": "NI-13",
+   "typ": "perspektive",
+   "q": "Welche Form hat das Lumen des Ureters im Querschnitt typischerweise?",
+   "o": [
+    "Sternförmig durch Längsfalten der Schleimhaut",
+    "Rund und glatt",
+    "Mit Zotten",
+    "Mit Krypten",
+    "Spaltförmig quer"
+   ],
+   "a": "A",
+   "expl": "Die Längsfalten verstreichen, wenn eine Harnportion den Ureter dehnt. Zusammen mit dem Urothel ist das sternförmige Lumen ein Erkennungsmerkmal.",
+   "dis": {
+    "B": "Falsch.",
+    "C": "Typisch für den Dünndarm.",
+    "D": "Typisch für den Dickdarm.",
+    "E": "Typisch für die Vagina."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-14-1",
+   "src": "NI-14",
+   "typ": "nachbarschaft",
+   "q": "Hinter welcher Peritonealtasche lässt sich der linke Ureter operativ aufsuchen?",
+   "o": [
+    "Recessus hepatorenalis",
+    "Recessus intersigmoideus an der Wurzel des Mesocolon sigmoideum",
+    "Bursa omentalis",
+    "Excavatio vesicouterina",
+    "Recessus subphrenicus"
+   ],
+   "a": "B",
+   "expl": "Der linke Ureter liegt hinter der Wurzel des Mesocolon sigmoideum. Der Recessus intersigmoideus dient Chirurgen als Leitstruktur, um ihn aufzusuchen.",
+   "dis": {
+    "A": "Liegt rechts im Oberbauch.",
+    "C": "Liegt hinter dem Magen.",
+    "D": "Liegt vor dem Uterus.",
+    "E": "Liegt unter dem Zwerchfell."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-14-2",
+   "src": "NI-14",
+   "typ": "perspektive",
+   "q": "Vor welchen Knochenfortsätzen projiziert sich die Pars abdominalis des Ureters im Röntgenbild?",
+   "o": [
+    "Vor den Dornfortsätzen",
+    "Vor den Rippen",
+    "Vor den Spitzen der Processus costales der Lendenwirbel",
+    "Vor dem Kreuzbein",
+    "Vor den Hüftköpfen"
+   ],
+   "a": "C",
+   "expl": "Im Röntgen projiziert sich der Ureter etwa über die Querfortsätze der LWS. Röntgendichte Steine werden dort gesucht.",
+   "dis": {
+    "A": "Liegen median.",
+    "B": "Zu hoch.",
+    "D": "Erst im Becken.",
+    "E": "Zu lateral und tief."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-15-1",
+   "src": "NI-15",
+   "typ": "perspektive",
+   "q": "Welche embryonale Struktur hinterlässt als Rest einen Strang von der Blasenspitze zum Nabel?",
+   "o": [
+    "Ductus omphaloentericus",
+    "Ductus venosus",
+    "A. umbilicalis",
+    "Allantois (Urachus)",
+    "Müller-Gang"
+   ],
+   "a": "D",
+   "expl": "Die Allantois obliteriert zum Urachus (Lig. umbilicale medianum). Reste können als Urachuszyste, -sinus oder -fistel bestehen bleiben.",
+   "dis": {
+    "A": "Verbindet Darm und Dottersack.",
+    "B": "Liegt an der Leber.",
+    "C": "Wird zum Lig. umbilicale mediale.",
+    "E": "Wird zu Uterus und Tube."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-15-2",
+   "src": "NI-15",
+   "typ": "klinik",
+   "q": "Was tritt bei einem offenen Ductus omphaloentericus am Nabel aus?",
+   "o": [
+    "Urin",
+    "Blut",
+    "Galle",
+    "Liquor",
+    "Darminhalt (Stuhl)"
+   ],
+   "a": "E",
+   "expl": "Der Ductus omphaloentericus verband den Dünndarm mit dem Dottersack. Bleibt ein Teil bestehen, entsteht meist ein Meckel-Divertikel im Ileum.",
+   "dis": {
+    "A": "Spricht für eine Urachusfistel.",
+    "B": "Kein typischer Befund.",
+    "C": "Falsch.",
+    "D": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-16-1",
+   "src": "NI-16",
+   "typ": "perspektive",
+   "q": "Welcher Rezeptortyp vermittelt die Kontraktion des M. detrusor vesicae durch Acetylcholin?",
+   "o": [
+    "Muskarinerge M3-Rezeptoren",
+    "Nikotinerge Rezeptoren",
+    "β1-Adrenozeptoren",
+    "α1-Adrenozeptoren",
+    "H2-Rezeptoren"
+   ],
+   "a": "A",
+   "expl": "Anticholinergika gegen die überaktive Blase blockieren diese M3-Rezeptoren. Typische Nebenwirkungen sind Mundtrockenheit und Verstopfung.",
+   "dis": {
+    "B": "An Ganglien und Skelettmuskulatur.",
+    "C": "Am Herzen.",
+    "D": "Am Blasenhals.",
+    "E": "Im Magen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-16-2",
+   "src": "NI-16",
+   "typ": "perspektive",
+   "q": "Wodurch entsteht die Peristaltik des Ureters?",
+   "o": [
+    "Durch nikotinerge Innervation der Muskelzellen",
+    "Durch Schrittmacherzellen im Nierenbecken, nervenunabhängig",
+    "Ausschließlich durch den Vagus",
+    "Durch die Schwerkraft",
+    "Durch willkürliche Kontraktion"
+   ],
+   "a": "B",
+   "expl": "Schrittmacherzellen im Nierenbecken lösen myogene Kontraktionswellen aus. Das vegetative Nervensystem moduliert sie nur.",
+   "dis": {
+    "A": "Falsch.",
+    "C": "Falsch.",
+    "D": "Sie fördert auch im Liegen.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-17-1",
+   "src": "NI-17",
+   "typ": "perspektive",
+   "q": "Wie wirkt der Sympathikus auf den glatten Blasenhals (M. sphincter urethrae internus)?",
+   "o": [
+    "Er erschlafft ihn.",
+    "Er hat keine Wirkung.",
+    "Er kontrahiert ihn über α1-Rezeptoren.",
+    "Er wirkt über nikotinerge Rezeptoren.",
+    "Er löst die Miktion aus."
+   ],
+   "a": "C",
+   "expl": "Die Kontraktion des Blasenhalses verhindert auch den Rückfluss des Ejakulats in die Blase. α1-Blocker erschlaffen ihn und erleichtern die Miktion bei Prostatavergrößerung.",
+   "dis": {
+    "A": "Gegenteil.",
+    "B": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-17-2",
+   "src": "NI-17",
+   "typ": "klinik",
+   "q": "Welche Medikamentengruppe erleichtert bei benigner Prostatahyperplasie die Miktion durch Erschlaffung von Blasenhals und Prostatamuskulatur?",
+   "o": [
+    "β-Blocker",
+    "Parasympatholytika",
+    "Schleifendiuretika",
+    "α1-Blocker wie Tamsulosin",
+    "Opioide"
+   ],
+   "a": "D",
+   "expl": "Tamsulosin blockiert α1A-Rezeptoren in Prostata und Blasenhals. Der Harnstrahl wird kräftiger, die Restharnmenge sinkt.",
+   "dis": {
+    "A": "Wirken am Herzen.",
+    "B": "Hemmen den Detrusor und können einen Harnverhalt auslösen.",
+    "C": "Steigern die Harnmenge.",
+    "E": "Können einen Harnverhalt auslösen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-18-1",
+   "src": "NI-18",
+   "typ": "perspektive",
+   "q": "Welcher Teil der Harnblase ist vom Peritoneum überzogen?",
+   "o": [
+    "Die gesamte Blase allseitig",
+    "Nur der Blasenhals",
+    "Nur die Vorderwand",
+    "Gar kein Teil",
+    "Die Oberfläche (Facies superior) und ein Teil der Hinterwand"
+   ],
+   "a": "E",
+   "expl": "Die Harnblase liegt subperitoneal im kleinen Becken. Das Peritoneum bedeckt nur ihr Dach und schlägt auf Uterus bzw. Rektum um.",
+   "dis": {
+    "A": "Sie liegt extraperitoneal.",
+    "B": "Falsch.",
+    "C": "Dort liegt der Retzius-Raum.",
+    "D": "Die Oberfläche ist überzogen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-18-2",
+   "src": "NI-18",
+   "typ": "perspektive",
+   "q": "Wie heißt das Bindegewebe um die Harnblase?",
+   "o": [
+    "Paracystium",
+    "Parametrium",
+    "Paraproctium",
+    "Mesometrium",
+    "Perimetrium"
+   ],
+   "a": "A",
+   "expl": "Das Paracystium enthält Gefäße und Nerven der Blase. Die Blasenmuskulatur selbst heißt M. detrusor vesicae.",
+   "dis": {
+    "B": "Neben dem Uterus.",
+    "C": "Um das Rektum.",
+    "D": "Teil des Lig. latum.",
+    "E": "Uterusserosa."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-19-1",
+   "src": "NI-19",
+   "typ": "perspektive",
+   "q": "Welche zwei Krümmungen hat die männliche Harnröhre?",
+   "o": [
+    "Flexura duodenojejunalis und Flexura coli",
+    "Curvatura infrapubica und Curvatura praepubica",
+    "Curvatura major und minor",
+    "Flexura sacralis und perinealis",
+    "Sie hat keine Krümmungen"
+   ],
+   "a": "B",
+   "expl": "Die Curvatura praepubica verstreicht beim Anheben des Penis. Die Curvatura infrapubica ist fixiert und muss beim Katheterisieren überwunden werden.",
+   "dis": {
+    "A": "Darmkrümmungen.",
+    "C": "Magenkurvaturen.",
+    "D": "Rektumkrümmungen.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-19-2",
+   "src": "NI-19",
+   "typ": "klinik",
+   "q": "Wie wird der Penis beim Einführen eines Katheters gehalten, um die vordere Krümmung auszugleichen?",
+   "o": [
+    "Er wird nach unten gedrückt",
+    "Er wird zur Seite gebogen",
+    "Er wird nach oben gestreckt (zur Bauchdecke angehoben)",
+    "Seine Lage spielt keine Rolle",
+    "Er wird abgeknickt"
+   ],
+   "a": "C",
+   "expl": "Durch Strecken verstreicht die Curvatura praepubica. Vor der Pars membranacea wird der Penis dann gesenkt, um die zweite Krümmung zu passieren.",
+   "dis": {
+    "A": "Verstärkt die Krümmung.",
+    "B": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-20-1",
+   "src": "NI-20",
+   "typ": "perspektive",
+   "q": "In welchen Harnröhrenabschnitt münden die Ausführungsgänge der Prostatadrüsen?",
+   "o": [
+    "Pars spongiosa",
+    "Pars membranacea",
+    "Fossa navicularis",
+    "Pars prostatica",
+    "Pars intramuralis"
+   ],
+   "a": "D",
+   "expl": "Die etwa 30–50 Prostatadrüsen münden seitlich des Colliculus seminalis in die Pars prostatica.",
+   "dis": {
+    "A": "Mündung der Cowper-Drüsen.",
+    "B": "Keine Drüsenmündung.",
+    "C": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-NI-20-2",
+   "src": "NI-20",
+   "typ": "perspektive",
+   "q": "In welchen Harnröhrenabschnitt münden die Glandulae bulbourethrales?",
+   "o": [
+    "Pars prostatica",
+    "Pars membranacea",
+    "Harnblase",
+    "Fossa navicularis",
+    "Proximale Pars spongiosa (Bulbusbereich)"
+   ],
+   "a": "E",
+   "expl": "Die Cowper-Drüsen liegen im Bereich des Beckenbodens, ihre Gänge ziehen nach vorne und münden in den Bulbusanteil der Pars spongiosa.",
+   "dis": {
+    "A": "Mündung von Prostata und Ductus ejaculatorii.",
+    "B": "Dort liegen die Drüsen, sie münden aber weiter distal.",
+    "C": "Falsch.",
+    "D": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  }
+ ]
+}

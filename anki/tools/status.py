@@ -1,9 +1,9 @@
 """Fortschritt anzeigen und STATUS.md neu schreiben. Aufruf: python3 tools/status.py"""
 import collections
-from common import quiz, config, cards, P
+from common import quiz, config, cards, P, dupes
 
 chs, qs = quiz(); cfg = config()
-cnt = collections.Counter(q['c'] for q in qs)
+DU = dupes(); cnt = collections.Counter(q['c'] for q in qs if q['id'] not in DU)
 lines = ['# Situs-Anki – Fortschritt', '', '(automatisch erzeugt von tools/status.py)', '']
 nxt = None
 for st in cfg['stages']:

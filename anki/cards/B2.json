@@ -1,0 +1,880 @@
+{
+ "chapter": "B2",
+ "status": "review",
+ "cards": [
+  {
+   "id": "V-LY-1-1",
+   "src": "LY-1",
+   "typ": "nachbarschaft",
+   "q": "Welches Organ liegt mit seinem Schwanz häufig im Lig. splenorenale und reicht bis zum Milzhilus?",
+   "o": [
+    "Pankreas",
+    "Linke Niere",
+    "Magen",
+    "Colon transversum",
+    "Linke Nebenniere"
+   ],
+   "a": "A",
+   "expl": "Die Cauda pancreatis kann bis in den Milzhilus reichen. Bei einer Splenektomie muss sie deshalb geschont werden, sonst droht eine Pankreasfistel.",
+   "dis": {
+    "B": "Liegt dahinter retroperitoneal.",
+    "C": "Ist über das Lig. gastrosplenicum verbunden.",
+    "D": "Liegt tiefer.",
+    "E": "Liegt am oberen Nierenpol."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-LY-1-2",
+   "src": "LY-1",
+   "typ": "perspektive",
+   "q": "Welche Gefäße verlaufen im Lig. gastrosplenicum?",
+   "o": [
+    "A. und V. splenica",
+    "Aa. und Vv. gastricae breves sowie A. gastroomentalis sinistra",
+    "V. portae",
+    "A. gastrica dextra",
+    "A. mesenterica superior"
+   ],
+   "a": "B",
+   "expl": "Das Lig. gastrosplenicum verbindet große Kurvatur und Milzhilus. Seine kurzen Magengefäße werden bei der Splenektomie durchtrennt.",
+   "dis": {
+    "A": "Verlaufen im Lig. splenorenale.",
+    "C": "Verläuft im Lig. hepatoduodenale.",
+    "D": "Verläuft im Omentum minus.",
+    "E": "Verläuft im Mesenterium."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-LY-3-1",
+   "src": "LY-3",
+   "typ": "nachbarschaft",
+   "q": "Wie verläuft die A. splenica auf dem Weg zur Milz?",
+   "o": [
+    "Am Unterrand des Duodenums nach rechts",
+    "Durch das Lig. hepatoduodenale",
+    "Geschlängelt am Oberrand des Pankreas nach links",
+    "Im Mesenterium des Dünndarms",
+    "Hinter der linken Niere"
+   ],
+   "a": "C",
+   "expl": "Die A. splenica ist der größte Ast des Truncus coeliacus. Ihr geschlängelter Verlauf erlaubt die Bewegung von Magen und Milz.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Verlauf der A. hepatica propria.",
+    "D": "Verlauf der A. mesenterica superior.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-LY-3-2",
+   "src": "LY-3",
+   "typ": "nachbarschaft",
+   "q": "Wie verläuft die V. splenica im Verhältnis zum Pankreas?",
+   "o": [
+    "Geschlängelt am Oberrand des Pankreas",
+    "Vor dem Magen",
+    "Durch das Lig. teres hepatis",
+    "Gerade an der Hinterfläche des Pankreaskörpers",
+    "Im Mesocolon sigmoideum"
+   ],
+   "a": "D",
+   "expl": "Die V. splenica liegt in einer Rinne an der Pankreashinterfläche und vereinigt sich hinter dem Pankreashals mit der V. mesenterica superior zur V. portae. Im Ultraschall dient sie als Leitstruktur für das Pankreas.",
+   "dis": {
+    "A": "Verlauf der Arterie.",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-LY-4-1",
+   "src": "LY-4",
+   "typ": "perspektive",
+   "q": "In welche Vene drainiert der Thymus hauptsächlich?",
+   "o": [
+    "V. azygos",
+    "V. portae",
+    "V. jugularis externa",
+    "Sinus coronarius",
+    "V. brachiocephalica sinistra"
+   ],
+   "a": "E",
+   "expl": "Die Vv. thymicae münden meist in die linke V. brachiocephalica, die hinter dem Thymus quer durch das obere Mediastinum zieht.",
+   "dis": {
+    "A": "Drainiert die hintere Thoraxwand.",
+    "B": "Bauchvene.",
+    "C": "Halsvene, oberflächlich.",
+    "D": "Herzvenen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-LY-4-2",
+   "src": "LY-4",
+   "typ": "perspektive",
+   "q": "Wann ist der Thymus im Verhältnis zur Körpergröße am größten?",
+   "o": [
+    "Im Kindesalter bis zur Pubertät",
+    "Im hohen Alter",
+    "Er bleibt lebenslang gleich groß",
+    "Erst ab dem 40. Lebensjahr",
+    "Nur während der Schwangerschaft"
+   ],
+   "a": "A",
+   "expl": "Im Kindesalter prägt der Thymus die T-Lymphozyten. Ab der Pubertät wird er zunehmend durch Fettgewebe ersetzt (Altersinvolution), bleibt aber teilweise aktiv.",
+   "dis": {
+    "B": "Dann ist er weitgehend verfettet.",
+    "C": "Er bildet sich zurück.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-LY-5-1",
+   "src": "LY-5",
+   "typ": "perspektive",
+   "q": "Welche Zellen findet man vor allem in den Milzfollikeln?",
+   "o": [
+    "T-Lymphozyten",
+    "B-Lymphozyten",
+    "Erythrozyten",
+    "Hepatozyten",
+    "Megakaryozyten"
+   ],
+   "a": "B",
+   "expl": "Die Milzfollikel sitzen den PALS seitlich an. Nach Antigenkontakt bilden sie Keimzentren wie im Lymphknoten.",
+   "dis": {
+    "A": "Vor allem in den PALS.",
+    "C": "In der roten Pulpa.",
+    "D": "Leberzellen.",
+    "E": "Im Knochenmark."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-LY-5-2",
+   "src": "LY-5",
+   "typ": "klinik",
+   "q": "Gegen welche Erreger sind Menschen nach einer Splenektomie besonders anfällig?",
+   "o": [
+    "Nur Viren",
+    "Nur Pilze",
+    "Bekapselte Bakterien wie Pneumokokken",
+    "Würmer",
+    "Keine, die Milz ist entbehrlich"
+   ],
+   "a": "C",
+   "expl": "Die Milz filtert bekapselte Bakterien aus dem Blut und bildet Antikörper dagegen. Ohne Milz droht die OPSI-Sepsis; deshalb wird gegen Pneumokokken, Meningokokken und Haemophilus geimpft.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Falsch.",
+    "D": "Kein besonderes Risiko.",
+    "E": "Es besteht ein lebenslanges Risiko."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-LY-6-1",
+   "src": "LY-6",
+   "typ": "perspektive",
+   "q": "In welchem Teil des Thymus kommen Hassall-Körperchen vor?",
+   "o": [
+    "In der Rinde",
+    "In der Kapsel",
+    "Nur in den Septen",
+    "Im Mark",
+    "Im umgebenden Fettgewebe"
+   ],
+   "a": "D",
+   "expl": "Die Thymusrinde ist dicht mit Thymozyten gefüllt und dunkler, das Mark heller. Nur im Mark findet man Hassall-Körperchen.",
+   "dis": {
+    "A": "Dort sind sie selten bis fehlend.",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-LY-6-2",
+   "src": "LY-6",
+   "typ": "perspektive",
+   "q": "Was geschieht im Thymus bei der positiven Selektion der T-Zellen?",
+   "o": [
+    "Autoreaktive T-Zellen werden vermehrt.",
+    "B-Zellen reifen zu Plasmazellen.",
+    "Erythrozyten werden gebildet.",
+    "Antikörper werden gebildet.",
+    "Es überleben nur T-Zellen, die körpereigene MHC-Moleküle erkennen."
+   ],
+   "a": "E",
+   "expl": "In der Rinde werden T-Zellen auf MHC-Erkennung geprüft (positive Selektion). Im Mark werden autoreaktive Zellen beseitigt (negative Selektion); die meisten Thymozyten sterben dabei.",
+   "dis": {
+    "A": "Sie werden eliminiert (negative Selektion).",
+    "B": "Falsch.",
+    "C": "Falsch.",
+    "D": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-LY-7-1",
+   "src": "LY-7",
+   "typ": "bild",
+   "q": "Aus welchem Kollagentyp bestehen die schwarz gefärbten Fasern?",
+   "o": [
+    "Kollagen Typ III",
+    "Kollagen Typ I",
+    "Kollagen Typ II",
+    "Kollagen Typ IV",
+    "Elastin"
+   ],
+   "a": "A",
+   "expl": "Die versilberten Fasern sind retikuläre Fasern aus Kollagen Typ III. Wegen ihrer Darstellbarkeit durch Silbersalze nennt man sie auch argyrophil.",
+   "dis": {
+    "B": "Bildet kräftige Fasern in Sehnen und Knochen.",
+    "C": "Typisch für hyalinen Knorpel.",
+    "D": "Bildet Basalmembranen.",
+    "E": "Bildet elastische Fasern."
+   },
+   "merk": "",
+   "img": "img/i56.jpg"
+  },
+  {
+   "id": "V-LY-7-2",
+   "src": "LY-7",
+   "typ": "bild",
+   "q": "Welche Zellen bilden die schwarz gefärbten Fasern im Lymphknoten?",
+   "o": [
+    "Follikuläre dendritische Zellen",
+    "Fibroblastische Retikulumzellen",
+    "Plasmazellen",
+    "Makrophagen",
+    "Endothelzellen"
+   ],
+   "a": "B",
+   "expl": "Die fibroblastischen Retikulumzellen bilden ein dreidimensionales Netz. Es dient den Lymphozyten als Leitschiene und transportiert kleine Moleküle (Konduits).",
+   "dis": {
+    "A": "Halten Antigen in den Follikeln.",
+    "C": "Bilden Antikörper.",
+    "D": "Phagozytieren.",
+    "E": "Kleiden Gefäße aus."
+   },
+   "merk": "",
+   "img": "img/i56.jpg"
+  },
+  {
+   "id": "V-LY-8-1",
+   "src": "LY-8",
+   "typ": "perspektive",
+   "q": "Woraus besteht das Grundgerüst des Thymus?",
+   "o": [
+    "Aus Fibroblasten und retikulären Fasern",
+    "Aus Knorpel",
+    "Aus Epithelretikulumzellen",
+    "Aus glatter Muskulatur",
+    "Aus Hepatozyten"
+   ],
+   "a": "C",
+   "expl": "Der Thymus entsteht aus dem Entoderm der 3. Schlundtasche. Seine Epithelzellen bilden ein Netz, in dem die T-Zellen heranreifen.",
+   "dis": {
+    "A": "Typisch für Lymphknoten und Milz.",
+    "B": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-LY-8-2",
+   "src": "LY-8",
+   "typ": "perspektive",
+   "q": "Aus welcher Schlundtasche entwickelt sich das Thymusepithel?",
+   "o": [
+    "Aus der 1. Schlundtasche",
+    "Aus der 2. Schlundtasche",
+    "Aus der 4. Schlundtasche",
+    "Aus der 3. Schlundtasche",
+    "Aus dem Mesoderm des Herzens"
+   ],
+   "a": "D",
+   "expl": "Die 3. Schlundtasche bildet den Thymus und die unteren Epithelkörperchen. Bei der DiGeorge-Fehlbildung fehlen beide.",
+   "dis": {
+    "A": "Wird zu Paukenhöhle und Tuba auditiva.",
+    "B": "Bildet die Fossa tonsillaris.",
+    "C": "Bildet die oberen Epithelkörperchen.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-LY-9-1",
+   "src": "LY-9",
+   "typ": "perspektive",
+   "q": "Über welche Gefäße gelangt Lymphe in den Lymphknoten?",
+   "o": [
+    "Vasa efferentia am Hilus",
+    "Hochendotheliale Venolen",
+    "Die Zentralarterie",
+    "Den Ductus thoracicus direkt",
+    "Vasa afferentia an der konvexen Oberfläche"
+   ],
+   "a": "E",
+   "expl": "Mehrere Vasa afferentia münden in den Randsinus. Die Lymphe fließt über Intermediär- und Marksinus zum Hilus und verlässt den Knoten über wenige Vasa efferentia.",
+   "dis": {
+    "A": "Verlassen den Knoten.",
+    "B": "Bringen Lymphozyten aus dem Blut.",
+    "C": "Gibt es in der Milz.",
+    "D": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-LY-9-2",
+   "src": "LY-9",
+   "typ": "perspektive",
+   "q": "Welche Lymphozyten liegen überwiegend im Paracortex?",
+   "o": [
+    "T-Lymphozyten",
+    "B-Lymphozyten",
+    "Plasmazellen",
+    "Granulozyten",
+    "Erythrozyten"
+   ],
+   "a": "A",
+   "expl": "Der Paracortex ist die T-Zell-Zone mit den hochendothelialen Venolen. Bei angeborenem T-Zell-Mangel ist er verkümmert.",
+   "dis": {
+    "B": "Liegen vor allem in den Follikeln des Cortex.",
+    "C": "Liegen vor allem in den Marksträngen.",
+    "D": "Kein typischer Ort.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-LY-10-1",
+   "src": "LY-10",
+   "typ": "perspektive",
+   "q": "Wie viel Lymphe wird im Körper pro Tag etwa gebildet?",
+   "o": [
+    "Etwa 20 ml",
+    "Etwa 2–3 Liter",
+    "Etwa 200 ml",
+    "Etwa 20 Liter",
+    "Etwa 180 Liter"
+   ],
+   "a": "B",
+   "expl": "Von den etwa 20 Litern, die täglich in den Kapillaren abfiltriert werden, gelangen 2–3 Liter nicht zurück ins Blut. Sie werden über die Lymphe abtransportiert.",
+   "dis": {
+    "A": "Viel zu wenig.",
+    "C": "Zu wenig.",
+    "D": "Entspricht der Filtration in den Kapillaren, nicht der Lymphe.",
+    "E": "Primärharn pro Tag."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-LY-10-2",
+   "src": "LY-10",
+   "typ": "perspektive",
+   "q": "Welche Lymphe ist besonders proteinreich?",
+   "o": [
+    "Die Lymphe aus der Haut",
+    "Die Lymphe aus der Skelettmuskulatur",
+    "Die Lymphe aus der Leber",
+    "Alle Lymphe ist gleich proteinreich",
+    "Die Lymphe aus dem Gehirn"
+   ],
+   "a": "C",
+   "expl": "Die Lebersinusoide sind sehr durchlässig, deshalb ist die Leberlymphe proteinreich. Darmlymphe nach fettreicher Mahlzeit ist milchig trüb (Chylus).",
+   "dis": {
+    "A": "Eher proteinarm.",
+    "B": "Eher proteinarm.",
+    "D": "Der Gehalt unterscheidet sich je nach Organ.",
+    "E": "Das Gehirn hat kaum klassische Lymphgefäße."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-LY-11-1",
+   "src": "LY-11",
+   "typ": "perspektive",
+   "q": "Welches lymphatische Organ ist in den Blutkreislauf und nicht in den Lymphstrom eingeschaltet?",
+   "o": [
+    "Lymphknoten",
+    "Tonsilla palatina",
+    "Peyer-Plaques",
+    "Milz",
+    "Appendix vermiformis"
+   ],
+   "a": "D",
+   "expl": "Die Milz filtert das Blut, Lymphknoten filtern die Lymphe. Deshalb hat die Milz keine afferenten Lymphgefäße und keinen Randsinus.",
+   "dis": {
+    "A": "In den Lymphstrom eingeschaltet.",
+    "B": "MALT.",
+    "C": "MALT.",
+    "E": "MALT."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-LY-11-2",
+   "src": "LY-11",
+   "typ": "perspektive",
+   "q": "Welches lymphatische Organ hat keine Lymphfollikel?",
+   "o": [
+    "Milz",
+    "Lymphknoten",
+    "Tonsilla palatina",
+    "Peyer-Plaques",
+    "Thymus"
+   ],
+   "a": "E",
+   "expl": "Im Thymus reifen T-Zellen ohne Antigenkontakt heran; B-Zell-Follikel fehlen. Sein Aufbau gliedert sich in Rinde und Mark mit Hassall-Körperchen.",
+   "dis": {
+    "A": "Hat Milzfollikel.",
+    "B": "Hat Follikel in der Rinde.",
+    "C": "Hat viele Follikel.",
+    "D": "Bestehen aus Follikeln."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-LY-12-1",
+   "src": "LY-12",
+   "typ": "nachbarschaft",
+   "q": "Welche Öffnung liegt in der Nähe der Tonsilla pharyngea an der Seitenwand des Nasopharynx?",
+   "o": [
+    "Ostium pharyngeum tubae auditivae",
+    "Choane",
+    "Aditus laryngis",
+    "Isthmus faucium",
+    "Ductus nasolacrimalis"
+   ],
+   "a": "A",
+   "expl": "Die Tubenöffnung liegt seitlich im Nasopharynx, umgeben vom Torus tubarius mit der Tonsilla tubaria. Vergrößertes lymphatisches Gewebe kann sie verlegen.",
+   "dis": {
+    "B": "Öffnung der Nase nach hinten, vorne im Nasopharynx.",
+    "C": "Kehlkopfeingang.",
+    "D": "Übergang Mundhöhle–Rachen.",
+    "E": "Mündet im unteren Nasengang."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-LY-12-2",
+   "src": "LY-12",
+   "typ": "klinik",
+   "q": "Wie wird ein durch vergrößerte Rachenmandeln bedingter chronischer Paukenerguss beim Kind behandelt?",
+   "o": [
+    "Tonsillektomie der Gaumenmandeln allein",
+    "Adenotomie, eventuell mit Paukenröhrchen",
+    "Entfernung des Trommelfells",
+    "Langzeit-Antibiotika ohne Operation als Standard",
+    "Bestrahlung"
+   ],
+   "a": "B",
+   "expl": "Die Entfernung der Rachenmandel macht die Tube wieder frei. Ein Paukenröhrchen belüftet zusätzlich das Mittelohr.",
+   "dis": {
+    "A": "Behebt die Tubenverlegung nicht.",
+    "C": "Falsch.",
+    "D": "Nicht die Standardtherapie.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-LY-13-1",
+   "src": "LY-13",
+   "typ": "perspektive",
+   "q": "Aus welcher Arterie entspringt der Hauptast zur Gaumenmandel (Ramus tonsillaris)?",
+   "o": [
+    "A. vertebralis",
+    "A. thyroidea inferior",
+    "A. facialis",
+    "A. subclavia",
+    "A. temporalis superficialis"
+   ],
+   "a": "C",
+   "expl": "Die Tonsille wird aus mehreren Ästen versorgt, hauptsächlich vom Ramus tonsillaris der A. facialis. Dazu kommen Äste von A. pharyngea ascendens, A. palatina descendens und A. lingualis.",
+   "dis": {
+    "A": "Versorgt Gehirn und Halswirbelsäule.",
+    "B": "Versorgt die Schilddrüse.",
+    "D": "Falsch.",
+    "E": "Versorgt die Schläfe."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-LY-13-2",
+   "src": "LY-13",
+   "typ": "nachbarschaft",
+   "q": "Welches große Gefäß liegt etwa 2 cm lateral-dorsal der Gaumenmandel und ist bei der Tonsillektomie gefährdet?",
+   "o": [
+    "A. carotis externa direkt in der Tonsillenkapsel",
+    "V. subclavia",
+    "Aortenbogen",
+    "A. carotis interna",
+    "A. vertebralis"
+   ],
+   "a": "D",
+   "expl": "Lateral der Tonsillenloge liegen M. constrictor pharyngis superior und dahinter das Spatium parapharyngeum mit der A. carotis interna. Eine stark geschlängelte Carotis kann nahe an die Tonsille heranreichen.",
+   "dis": {
+    "A": "Liegt weiter lateral.",
+    "B": "Liegt viel tiefer.",
+    "C": "Liegt im Thorax.",
+    "E": "Liegt im Wirbelkanal."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-LY-14-1",
+   "src": "LY-14",
+   "typ": "perspektive",
+   "q": "Welcher Antikörper wird im MALT besonders gebildet und auf die Schleimhaut abgegeben?",
+   "o": [
+    "IgE",
+    "IgM",
+    "IgD",
+    "IgG",
+    "IgA"
+   ],
+   "a": "E",
+   "expl": "Plasmazellen der Lamina propria bilden dimeres IgA. Es wird durch das Epithel transportiert und schützt die Schleimhautoberfläche.",
+   "dis": {
+    "A": "Vermittelt Allergien.",
+    "B": "Erster Antikörper der Immunantwort, vor allem im Blut.",
+    "C": "Vor allem auf B-Zellen.",
+    "D": "Hauptantikörper im Blut."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-LY-14-2",
+   "src": "LY-14",
+   "typ": "perspektive",
+   "q": "Welche Zellen der Epidermis sind antigenpräsentierende dendritische Zellen?",
+   "o": [
+    "Langerhans-Zellen",
+    "Merkel-Zellen",
+    "Melanozyten",
+    "Keratinozyten",
+    "M-Zellen"
+   ],
+   "a": "A",
+   "expl": "Langerhans-Zellen nehmen in der Haut Antigen auf und wandern damit in die regionalen Lymphknoten. Funktionell gehören sie zum Immunsystem der Haut, nicht zum MALT.",
+   "dis": {
+    "B": "Mechanorezeptoren.",
+    "C": "Bilden Melanin.",
+    "D": "Hauptzellen der Epidermis.",
+    "E": "Liegen im Darmepithel."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-LY-15-1",
+   "src": "LY-15",
+   "typ": "perspektive",
+   "q": "Welches Epithel bedeckt die Tonsilla palatina?",
+   "o": [
+    "Mehrreihiges Flimmerepithel",
+    "Mehrschichtiges unverhorntes Plattenepithel",
+    "Einschichtiges Zylinderepithel",
+    "Urothel",
+    "Verhorntes Plattenepithel"
+   ],
+   "a": "B",
+   "expl": "Gaumen- und Zungenmandel tragen das Plattenepithel der Mundhöhle. Nur die Rachenmandel trägt respiratorisches Flimmerepithel.",
+   "dis": {
+    "A": "Typisch für die Rachenmandel.",
+    "C": "Typisch für Appendix und Ileum.",
+    "D": "Typisch für Harnwege.",
+    "E": "Typisch für die Haut."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-LY-15-2",
+   "src": "LY-15",
+   "typ": "perspektive",
+   "q": "Welches lymphatische Organ hat ein einschichtiges Zylinderepithel mit Krypten und einen dichten Ring aus Lymphfollikeln?",
+   "o": [
+    "Tonsilla pharyngea",
+    "Tonsilla palatina",
+    "Appendix vermiformis",
+    "Thymus",
+    "Lymphknoten"
+   ],
+   "a": "C",
+   "expl": "Die Appendix hat die Wand eines Dickdarms mit Krypten, aber besonders viel lymphatisches Gewebe in Mukosa und Submukosa.",
+   "dis": {
+    "A": "Hat Flimmerepithel.",
+    "B": "Hat Plattenepithel.",
+    "D": "Hat kein Oberflächenepithel.",
+    "E": "Hat kein Oberflächenepithel."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-LY-16-1",
+   "src": "LY-16",
+   "typ": "bild",
+   "q": "Wo liegt das gezeigte Organ?",
+   "o": [
+    "Am Rachendach",
+    "Zwischen den Gaumenbögen",
+    "Im terminalen Ileum",
+    "Am Zungengrund hinter dem Sulcus terminalis",
+    "Im vorderen Mediastinum"
+   ],
+   "a": "D",
+   "expl": "Die Zungenmandel liegt im hinteren Zungendrittel. Ihre Krypten sind flach und unverzweigt; oft münden Schleimdrüsen am Kryptengrund.",
+   "dis": {
+    "A": "Ort der Tonsilla pharyngea.",
+    "B": "Ort der Tonsilla palatina.",
+    "C": "Ort der Peyer-Plaques.",
+    "E": "Ort des Thymus."
+   },
+   "merk": "",
+   "img": "img/i57.jpg"
+  },
+  {
+   "id": "V-LY-16-2",
+   "src": "LY-16",
+   "typ": "bild",
+   "q": "Was liegt am Grund der Krypten des gezeigten Organs häufig und unterscheidet es von der Gaumenmandel?",
+   "o": [
+    "Hassall-Körperchen",
+    "Zentralarterien",
+    "Becherzellen im Oberflächenepithel",
+    "Ein Randsinus",
+    "Mündungen muköser Drüsen, die die Krypten durchspülen"
+   ],
+   "a": "E",
+   "expl": "Die Zungendrüsen spülen die flachen Krypten der Zungenmandel. Deshalb entzündet sie sich seltener als die Gaumenmandel mit ihren tiefen, verzweigten Krypten.",
+   "dis": {
+    "A": "Kennzeichen des Thymus.",
+    "B": "Kennzeichen der Milz.",
+    "C": "Typisch für den Darm.",
+    "D": "Kennzeichen des Lymphknotens."
+   },
+   "merk": "",
+   "img": "img/i57.jpg"
+  },
+  {
+   "id": "V-LY-17-1",
+   "src": "LY-17",
+   "typ": "bild",
+   "q": "Welche Arterie versorgt das gezeigte Organ?",
+   "o": [
+    "A. appendicularis aus der A. ileocolica",
+    "A. colica media",
+    "A. sigmoidea",
+    "A. gastroduodenalis",
+    "A. rectalis superior"
+   ],
+   "a": "A",
+   "expl": "Das Präparat zeigt die Appendix. Die A. appendicularis verläuft in der Mesoappendix und ist eine Endarterie; ein Verschluss führt rasch zur Gangrän.",
+   "dis": {
+    "B": "Versorgt das Colon transversum.",
+    "C": "Versorgt das Sigma.",
+    "D": "Versorgt Duodenum und Pankreaskopf.",
+    "E": "Versorgt das obere Rektum."
+   },
+   "merk": "",
+   "img": "img/i58.jpg"
+  },
+  {
+   "id": "V-LY-17-2",
+   "src": "LY-17",
+   "typ": "bild",
+   "q": "Wodurch unterscheidet sich das gezeigte Organ histologisch vom Colon?",
+   "o": [
+    "Durch Zotten",
+    "Durch das kleine Lumen und die vielen Lymphfollikel, die bis in die Submukosa reichen",
+    "Durch Plattenepithel",
+    "Durch das Fehlen von Krypten",
+    "Durch Hassall-Körperchen"
+   ],
+   "a": "B",
+   "expl": "Die Appendix hat Krypten und Becherzellen wie das Kolon, aber ein enges Lumen und einen fast geschlossenen Ring aus Lymphfollikeln. Taenien fehlen.",
+   "dis": {
+    "A": "Hat weder Kolon noch Appendix.",
+    "C": "Beide haben Zylinderepithel.",
+    "D": "Beide haben Krypten.",
+    "E": "Kennzeichen des Thymus."
+   },
+   "merk": "",
+   "img": "img/i58.jpg"
+  },
+  {
+   "id": "V-LY-18-1",
+   "src": "LY-18",
+   "typ": "perspektive",
+   "q": "Wie unterscheiden sich M-Zellen von Enterozyten an ihrer Oberfläche?",
+   "o": [
+    "Sie haben besonders lange Mikrovilli.",
+    "Sie tragen Kinozilien.",
+    "Sie haben nur kurze, spärliche Mikrovilli statt eines Bürstensaums.",
+    "Sie sind verhornt.",
+    "Sie bilden Schleim wie Becherzellen."
+   ],
+   "a": "C",
+   "expl": "Die flache Oberfläche erleichtert die Aufnahme von Antigenen. Basal bilden M-Zellen eine Tasche, in der Lymphozyten und dendritische Zellen das Antigen übernehmen.",
+   "dis": {
+    "A": "Falsch.",
+    "B": "Falsch.",
+    "D": "Falsch.",
+    "E": "Falsch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-LY-18-2",
+   "src": "LY-18",
+   "typ": "perspektive",
+   "q": "Wie heißt das spezialisierte Epithel über den Peyer-Plaques?",
+   "o": [
+    "Urothel",
+    "Respiratorisches Epithel",
+    "Keimepithel",
+    "Follikelassoziiertes Epithel (Domepithel)",
+    "Mesothel"
+   ],
+   "a": "D",
+   "expl": "Das Domepithel enthält M-Zellen, aber kaum Becherzellen. So wird die Schleimschicht dünn gehalten und Antigen gelangt leichter an die M-Zellen.",
+   "dis": {
+    "A": "Harnwege.",
+    "B": "Atemwege.",
+    "C": "Ovaroberfläche.",
+    "E": "Seröse Häute."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-LY-19-1",
+   "src": "LY-19",
+   "typ": "perspektive",
+   "q": "Welche Tonsillen bilden zusammen den Waldeyer-Rachenring?",
+   "o": [
+    "Nur die Gaumenmandeln",
+    "Tonsillen und Peyer-Plaques",
+    "Tonsillen und Thymus",
+    "Tonsillen und Halslymphknoten",
+    "Tonsilla pharyngea, Tonsillae tubariae, Tonsillae palatinae und Tonsilla lingualis"
+   ],
+   "a": "E",
+   "expl": "Der lymphatische Rachenring umgibt den Eingang zu Atem- und Speiseweg. Dort hat das Immunsystem früh Kontakt mit eingeatmeten und verschluckten Antigenen.",
+   "dis": {
+    "A": "Unvollständig.",
+    "B": "Peyer-Plaques liegen im Ileum.",
+    "C": "Der Thymus gehört nicht dazu.",
+    "D": "Die Lymphknoten gehören nicht dazu."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-LY-19-2",
+   "src": "LY-19",
+   "typ": "perspektive",
+   "q": "Wo liegt die Tonsilla tubaria?",
+   "o": [
+    "Am Torus tubarius an der Öffnung der Tuba auditiva",
+    "Am Zungengrund",
+    "Zwischen den Gaumenbögen",
+    "Am Rachendach",
+    "Im Kehlkopf"
+   ],
+   "a": "A",
+   "expl": "Die Tonsilla tubaria ist eine kleine Ansammlung lymphatischen Gewebes im seitlichen Nasopharynx. Sie setzt die Rachenmandel nach lateral fort.",
+   "dis": {
+    "B": "Tonsilla lingualis.",
+    "C": "Tonsilla palatina.",
+    "D": "Tonsilla pharyngea.",
+    "E": "Keine Tonsille."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-LY-20-1",
+   "src": "LY-20",
+   "typ": "bild",
+   "q": "Wie heißt der Spaltraum direkt unter der Kapsel des gezeigten Organs?",
+   "o": [
+    "Marksinus",
+    "Randsinus (subkapsulärer Sinus)",
+    "Rote Pulpa",
+    "Spatium perisinusoideum",
+    "Recessus costodiaphragmaticus"
+   ],
+   "a": "B",
+   "expl": "Die Lymphe aus den Vasa afferentia sammelt sich zuerst im Randsinus. Dort sitzen Makrophagen, und hier siedeln sich Tumorzellen bei Metastasen zuerst an.",
+   "dis": {
+    "A": "Liegt im Mark.",
+    "C": "Teil der Milz.",
+    "D": "Liegt in der Leber.",
+    "E": "Pleuraraum."
+   },
+   "merk": "",
+   "img": "img/i59.jpg"
+  },
+  {
+   "id": "V-LY-20-2",
+   "src": "LY-20",
+   "typ": "bild",
+   "q": "Wie nennt man die hellen, runden Zentren der Follikel im gezeigten Präparat?",
+   "o": [
+    "Hassall-Körperchen",
+    "Zentralarterien",
+    "Keimzentren",
+    "Glomeruli",
+    "Corpora albicantia"
+   ],
+   "a": "C",
+   "expl": "In den Keimzentren vermehren sich aktivierte B-Zellen und durchlaufen die Affinitätsreifung. Um das helle Zentrum liegt die dunklere Mantelzone.",
+   "dis": {
+    "A": "Kennzeichen des Thymus.",
+    "B": "Kennzeichen der Milz.",
+    "D": "Kennzeichen der Niere.",
+    "E": "Ovarnarben."
+   },
+   "merk": "",
+   "img": "img/i59.jpg"
+  }
+ ]
+}

@@ -5,7 +5,8 @@ from common import quiz, config, flags, flag_text, P
 
 ch_id = sys.argv[1]
 chs, qs = quiz(); cfg = config(); fl = flags()
-items = [q for q in qs if q['c'] == ch_id]
+from common import dupes
+DU = dupes(); items = [q for q in qs if q['c'] == ch_id and q['id'] not in DU]
 bs = cfg['batch_size_originals']
 out = [f"# {chs[ch_id]['partTitle']} – {chs[ch_id]['title']} ({len(items)} Originalfragen, Ziel {len(items)*cfg['variants_per_question']} Varianten)\n",
        f"Varianten-IDs: V-<src>-1, V-<src>-2 … · Stil: STYLE.md · Ausgabe: cards/{ch_id}.json\n"]

@@ -25,16 +25,16 @@
 - [x] A10 10. Leber, Pankreas und Galle – 60/60 Karten – released
 
 ## Etappe 3c – Teil A Rest
-- [ ] A11 11. Das lymphatische System – 56/56 Karten – review
-- [ ] A12 12. Weibliche Geschlechtsorgane – 52/52 Karten – review
-- [ ] A13 13. Männliche Geschlechtsorgane – 64/64 Karten – review
-- [ ] A14 14. Niere, Ureter und Harnblase – 60/60 Karten – review
-- [ ] A15 15. Darmregion – Bauchwand, Hernien und Beckenwand – 58/58 Karten – review
+- [x] A11 11. Das lymphatische System – 56/56 Karten – released
+- [x] A12 12. Weibliche Geschlechtsorgane – 52/52 Karten – released
+- [x] A13 13. Männliche Geschlechtsorgane – 64/64 Karten – released
+- [x] A14 14. Niere, Ureter und Harnblase – 60/60 Karten – released
+- [x] A15 15. Darmregion – Bauchwand, Hernien und Beckenwand – 58/58 Karten – released
 
 ## Etappe 4 – Teil B + C
-- [ ] B1 Thorax – 0/40 Karten – offen
-- [ ] B2 Lymphatisches System – 0/40 Karten – offen
-- [ ] B3 Niere und ableitende Harnwege – 0/40 Karten – offen
-- [ ] C1 Altfragen 1–172 – 0/344 Karten – offen
+- [ ] B1 Thorax – 38/38 Karten – review
+- [ ] B2 Lymphatisches System – 38/38 Karten – review
+- [ ] B3 Niere und ableitende Harnwege – 40/40 Karten – review
+- [ ] C1 Altfragen 1–172 – 216/216 Karten – review
 
-**Nächstes Kapitel:** A11
+**Nächstes Kapitel:** B1
