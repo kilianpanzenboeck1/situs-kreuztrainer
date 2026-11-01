@@ -41,3 +41,6 @@ Das Deck entsteht über mehrere Sitzungen. Alles Nötige liegt in diesem Ordner.
 - Lange Etappen in mehreren Sitzungen erledigen. Nach jedem Batch committen, damit jede Sitzung genau dort weitermacht.
 - `source/quiz.json` ist eine Kopie aus dem Kreuztrainer und wird nicht bearbeitet. Neue Strittigkeiten kommen in `flags.json`.
 - Bilder liegen in `../img/` (Namen wie in `quiz.json` → `img`). Neue Bildvarianten verwenden nur diese Bilder.
+
+## Dubletten (Teil B/C)
+`python3 tools/dupes.py` schreibt `dupes.json`: Originale aus B/C, die eine frühere Frage mit gleicher Lösung wiederholen, bekommen keine eigenen Varianten. prepare/validate/status berücksichtigen das automatisch. `python3 tools/stemdup.py CH` prüft, ob ein Variantenstamm schon in einem anderen Kapitel vorkommt.
