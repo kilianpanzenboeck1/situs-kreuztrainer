@@ -6,16 +6,16 @@
 - [x] D1 Truncus (Rumpf) – 48/48 Karten – released
 
 ## Etappe 2 – Teil D
-- [ ] D2 Cingula et Membra (Gürtel und Extremitäten) – 140/140 Karten – review
-- [ ] D3 Collum (Hals) – 48/48 Karten – review
-- [ ] D4 Caput (Kopf) – 66/66 Karten – review
+- [x] D2 Cingula et Membra (Gürtel und Extremitäten) – 140/140 Karten – released
+- [x] D3 Collum (Hals) – 48/48 Karten – released
+- [x] D4 Caput (Kopf) – 66/66 Karten – released
 
 ## Etappe 3a – Teil A Thorax
-- [ ] A1 1. Herz – 0/60 Karten – offen
-- [ ] A2 2. Lunge – 0/62 Karten – offen
-- [ ] A3 3. Mediastinum – 0/58 Karten – offen
-- [ ] A4 4. Großarterien – 0/62 Karten – offen
-- [ ] A5 5. Großvenen – 0/60 Karten – offen
+- [ ] A1 1. Herz – 60/60 Karten – review
+- [ ] A2 2. Lunge – 62/62 Karten – review
+- [ ] A3 3. Mediastinum – 58/58 Karten – review
+- [ ] A4 4. Großarterien – 62/62 Karten – review
+- [ ] A5 5. Großvenen – 58/60 Karten – review
 
 ## Etappe 3b – Teil A Abdomen
 - [ ] A6 6. Peritoneum – 0/30 Karten – offen
@@ -37,4 +37,4 @@
 - [ ] B3 Niere und ableitende Harnwege – 0/40 Karten – offen
 - [ ] C1 Altfragen 1–172 – 0/344 Karten – offen
 
-**Nächstes Kapitel:** D2
+**Nächstes Kapitel:** A1

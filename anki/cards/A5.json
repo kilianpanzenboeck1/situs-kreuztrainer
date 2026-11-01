@@ -1,0 +1,1340 @@
+{
+ "chapter": "A5",
+ "status": "review",
+ "cards": [
+  {
+   "id": "V-F1-60-1",
+   "src": "F1-60",
+   "typ": "umkehrung",
+   "q": "Welche Vene mündet nicht in die V. cava inferior?",
+   "o": [
+    "V. splenica (lienalis)",
+    "Vv. hepaticae",
+    "V. renalis dextra",
+    "V. testicularis bzw. ovarica dextra",
+    "Vv. lumbales"
+   ],
+   "a": "A",
+   "expl": "Die V. splenica gehört zum Pfortadersystem. Ihr Blut fließt über V. portae, Leber und Vv. hepaticae in die V. cava inferior, mündet aber nicht direkt.",
+   "dis": {
+    "B": "Münden direkt unter dem Zwerchfell.",
+    "C": "Mündet direkt.",
+    "D": "Mündet direkt.",
+    "E": "Münden direkt bzw. über die V. lumbalis ascendens."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-60-2",
+   "src": "F1-60",
+   "typ": "nachbarschaft",
+   "q": "Welche Gonadenvene mündet direkt in die V. cava inferior?",
+   "o": [
+    "Die linke V. testicularis",
+    "Die rechte V. testicularis bzw. ovarica",
+    "Beide Vv. testiculares",
+    "Keine; beide münden in die V. portae",
+    "Die linke V. ovarica"
+   ],
+   "a": "B",
+   "expl": "Rechts mündet die Gonadenvene spitzwinklig direkt in die V. cava inferior, links rechtwinklig in die V. renalis sinistra.",
+   "dis": {
+    "A": "Mündet in die V. renalis sinistra.",
+    "C": "Nur die rechte mündet direkt.",
+    "D": "Gonadenvenen gehören nicht zum Pfortadersystem.",
+    "E": "Mündet in die V. renalis sinistra."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-61-1",
+   "src": "F1-61",
+   "typ": "nachbarschaft",
+   "q": "Wo verläuft die V. subclavia in Bezug auf den M. scalenus anterior?",
+   "o": [
+    "Durch die hintere Skalenuslücke",
+    "Hinter dem M. scalenus medius",
+    "Vor dem M. scalenus anterior",
+    "Durch die Foramina transversaria",
+    "Im Canalis caroticus"
+   ],
+   "a": "C",
+   "expl": "Die V. subclavia zieht über die 1. Rippe vor dem Ansatz des M. scalenus anterior. Der Muskel trennt sie von der dahinter liegenden A. subclavia.",
+   "dis": {
+    "A": "Dort ziehen A. subclavia und Plexus brachialis.",
+    "B": "Zu weit dorsal.",
+    "D": "Dort verlaufen die Vasa vertebralia.",
+    "E": "Dort verläuft die A. carotis interna."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-61-2",
+   "src": "F1-61",
+   "typ": "klinik",
+   "q": "Wo wird die V. subclavia beim infraklavikulären Zugang typischerweise punktiert?",
+   "o": [
+    "Oberhalb der Clavicula am Vorderrand des M. trapezius",
+    "Im 5. ICR in der Medioklavikularlinie",
+    "Tief in der Achselhöhle",
+    "Knapp unterhalb der Clavicula am Übergang vom medialen zum mittleren Drittel, Richtung Fossa jugularis",
+    "Direkt medial am Sternoklavikulargelenk"
+   ],
+   "a": "D",
+   "expl": "Die Nadel wird unter der Clavicula zur Fossa jugularis vorgeschoben. Gefahren sind Pneumothorax und Punktion der A. subclavia.",
+   "dis": {
+    "A": "Dort liegt die V. subclavia nicht oberflächlich.",
+    "B": "Zu tief, Gefahr für Lunge und Herz.",
+    "C": "Dort liegt die V. axillaris.",
+    "E": "Dort liegt die V. brachiocephalica tief hinter dem Knochen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-62-1",
+   "src": "F1-62",
+   "typ": "umkehrung",
+   "q": "Welche Venen vereinigen sich zur V. iliaca communis?",
+   "o": [
+    "V. femoralis und V. saphena magna",
+    "V. renalis und V. testicularis",
+    "V. portae und V. splenica",
+    "V. lumbalis ascendens und V. azygos",
+    "V. iliaca externa und V. iliaca interna"
+   ],
+   "a": "E",
+   "expl": "Die V. iliaca interna sammelt Blut aus Becken und Gesäß, die V. iliaca externa aus dem Bein. Beide vereinigen sich vor dem Iliosakralgelenk zur V. iliaca communis.",
+   "dis": {
+    "A": "Vereinigen sich am Hiatus saphenus.",
+    "B": "Die V. testicularis mündet links in die V. renalis.",
+    "C": "Pfortadersystem.",
+    "D": "Längsverbindung an der hinteren Bauchwand."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-62-2",
+   "src": "F1-62",
+   "typ": "perspektive",
+   "q": "Welche Vene verbindet die Vv. lumbales und setzt sich nach oben in die V. azygos bzw. V. hemiazygos fort?",
+   "o": [
+    "V. lumbalis ascendens",
+    "V. iliolumbalis",
+    "V. renalis",
+    "V. portae",
+    "V. testicularis"
+   ],
+   "a": "A",
+   "expl": "Die V. lumbalis ascendens zieht hinter dem M. psoas aufwärts. Rechts setzt sie sich in die V. azygos, links in die V. hemiazygos fort; so entsteht eine Umgehung der V. cava inferior.",
+   "dis": {
+    "B": "Mündet in die V. iliaca interna.",
+    "C": "Mündet in die V. cava inferior.",
+    "D": "Führt Blut zur Leber.",
+    "E": "Gonadenvene."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-63-1",
+   "src": "F1-63",
+   "typ": "nachbarschaft",
+   "q": "Wo münden die Vv. hepaticae?",
+   "o": [
+    "In die V. portae",
+    "Direkt unterhalb des Zwerchfells in die V. cava inferior",
+    "In die V. splenica",
+    "Mit eigener Öffnung direkt in den rechten Vorhof",
+    "In die V. azygos"
+   ],
+   "a": "B",
+   "expl": "Die drei Lebervenen (dextra, intermedia, sinistra) verlassen die Leber an ihrer Hinterfläche und münden in die V. cava inferior, kurz bevor diese durch das Zwerchfell tritt.",
+   "dis": {
+    "A": "Die Pfortader führt Blut zur Leber hin.",
+    "C": "Gehört zum Pfortadersystem.",
+    "D": "Sie münden vorher in die V. cava inferior.",
+    "E": "Liegt im Thorax."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-63-2",
+   "src": "F1-63",
+   "typ": "klinik",
+   "q": "Wie heißt der Verschluss der Lebervenen mit Lebervergrößerung, Aszites und Bauchschmerzen?",
+   "o": [
+    "Leriche-Syndrom",
+    "Wallenberg-Syndrom",
+    "Budd-Chiari-Syndrom",
+    "Dunbar-Syndrom",
+    "Mallory-Weiss-Syndrom"
+   ],
+   "a": "C",
+   "expl": "Beim Budd-Chiari-Syndrom ist der venöse Abfluss der Leber blockiert. Es entsteht ein posthepatischer Pfortaderhochdruck mit Aszites.",
+   "dis": {
+    "A": "Verschluss der Aortenbifurkation.",
+    "B": "Infarkt der dorsolateralen Medulla oblongata.",
+    "D": "Kompression des Truncus coeliacus.",
+    "E": "Schleimhauteinrisse am gastroösophagealen Übergang."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-64-1",
+   "src": "F1-64",
+   "typ": "nachbarschaft",
+   "q": "Wie liegt die V. femoralis im Adduktorenkanal zur A. femoralis?",
+   "o": [
+    "Ventral der Arterie",
+    "Immer medial wie in der Leiste",
+    "In einem eigenen, getrennten Kanal",
+    "Dorsal (hinter) der Arterie",
+    "Epifaszial"
+   ],
+   "a": "D",
+   "expl": "In der Leiste liegt die V. femoralis medial der Arterie. Im Verlauf nach distal zieht sie hinter die Arterie und liegt in der Kniekehle oberflächlich zu ihr.",
+   "dis": {
+    "A": "Die Arterie liegt vorne.",
+    "B": "Im Kanal wechselt sie nach dorsal.",
+    "C": "Beide verlaufen im Adduktorenkanal.",
+    "E": "Sie ist eine tiefe Vene."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-64-2",
+   "src": "F1-64",
+   "typ": "klinik",
+   "q": "Ein Patient hat nach einem Langstreckenflug ein geschwollenes, warmes, schmerzhaftes Bein. Welche Venen sind am ehesten betroffen?",
+   "o": [
+    "V. saphena magna",
+    "V. cephalica",
+    "V. portae",
+    "V. jugularis externa",
+    "Tiefe Beinvenen wie V. poplitea und V. femoralis"
+   ],
+   "a": "E",
+   "expl": "Beim langen Sitzen fehlt die Muskelpumpe, das Blut staut sich. Typisch ist die tiefe Beinvenenthrombose mit Schwellung, Schmerz und Überwärmung.",
+   "dis": {
+    "A": "Eine oberflächliche Thrombophlebitis ist meist als roter Strang tastbar.",
+    "B": "Liegt am Arm.",
+    "C": "Liegt im Abdomen.",
+    "D": "Liegt am Hals."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-65-1",
+   "src": "F1-65",
+   "typ": "nachbarschaft",
+   "q": "Wo mündet die rechte V. testicularis?",
+   "o": [
+    "Direkt in die V. cava inferior",
+    "In die V. renalis dextra",
+    "In die V. iliaca externa",
+    "In die V. portae",
+    "In die V. azygos"
+   ],
+   "a": "A",
+   "expl": "Die rechte V. testicularis zieht auf dem M. psoas nach oben und mündet spitzwinklig in die V. cava inferior.",
+   "dis": {
+    "B": "So mündet die linke Gonadenvene, aber in die linke Nierenvene.",
+    "C": "Keine Mündung der Gonadenvene.",
+    "D": "Gehört nicht zum Pfortadersystem.",
+    "E": "Liegt im Thorax."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-65-2",
+   "src": "F1-65",
+   "typ": "klinik",
+   "q": "Warum tritt eine Varikozele (Krampfadern des Plexus pampiniformis) häufiger links auf?",
+   "o": [
+    "Weil der linke Hoden höher steht",
+    "Weil die linke V. testicularis rechtwinklig in die V. renalis sinistra mündet, in der ein höherer Druck herrscht",
+    "Weil rechts keine V. testicularis existiert",
+    "Weil die Aorta rechts liegt",
+    "Weil die V. cava inferior links liegt"
+   ],
+   "a": "B",
+   "expl": "Die linke Gonadenvene ist länger und mündet rechtwinklig in die V. renalis sinistra. Wird diese zwischen Aorta und A. mesenterica superior eingeengt (Nussknacker), steigt der Druck zusätzlich.",
+   "dis": {
+    "A": "Er steht eher tiefer.",
+    "C": "Beide Seiten haben eine.",
+    "D": "Die Aorta liegt links.",
+    "E": "Sie liegt rechts."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-66-1",
+   "src": "F1-66",
+   "typ": "bild",
+   "q": "Durch welche Öffnung verlässt die markierte Vene den Schädel?",
+   "o": [
+    "Foramen magnum",
+    "Canalis caroticus",
+    "Foramen jugulare",
+    "Foramen ovale",
+    "Foramen spinosum"
+   ],
+   "a": "C",
+   "expl": "Die markierte Vene ist die V. jugularis interna. Sie entsteht im Foramen jugulare aus dem Sinus sigmoideus und zieht in der Vagina carotica nach unten.",
+   "dis": {
+    "A": "Durchtritt von Medulla oblongata und Aa. vertebrales.",
+    "B": "Durchtritt der A. carotis interna.",
+    "D": "Durchtritt des N. mandibularis.",
+    "E": "Durchtritt der A. meningea media."
+   },
+   "merk": "",
+   "img": "img/i23.jpg"
+  },
+  {
+   "id": "V-F1-66-2",
+   "src": "F1-66",
+   "typ": "bild",
+   "q": "Welche Gesichtsvene mündet im Trigonum caroticum in die markierte Vene?",
+   "o": [
+    "V. jugularis externa",
+    "V. cephalica",
+    "V. azygos",
+    "V. facialis",
+    "V. thoracica interna"
+   ],
+   "a": "D",
+   "expl": "Die V. facialis zieht über den Unterkiefer und mündet in Höhe des Zungenbeins in die V. jugularis interna. Über die V. angularis besteht eine Verbindung zum Sinus cavernosus.",
+   "dis": {
+    "A": "Mündet in die V. subclavia.",
+    "B": "Liegt am Arm.",
+    "C": "Liegt im Thorax.",
+    "E": "Mündet in die V. brachiocephalica."
+   },
+   "merk": "",
+   "img": "img/i23.jpg"
+  },
+  {
+   "id": "V-F1-67-1",
+   "src": "F1-67",
+   "typ": "bild",
+   "q": "Warum ist die markierte Vene länger als ihr Gegenstück auf der rechten Seite?",
+   "o": [
+    "Weil die linke Niere tiefer liegt",
+    "Weil sie zur Leber zieht",
+    "Weil sie hinter der Wirbelsäule verläuft",
+    "Weil rechts keine Nierenvene existiert",
+    "Weil die V. cava inferior rechts liegt und die Vene vor der Aorta nach rechts ziehen muss"
+   ],
+   "a": "E",
+   "expl": "Die markierte Vene ist die V. renalis sinistra. Wegen ihrer Länge wird bei Lebendspenden bevorzugt die linke Niere entnommen.",
+   "dis": {
+    "A": "Die linke Niere liegt eher höher.",
+    "B": "Sie mündet in die V. cava inferior.",
+    "C": "Sie verläuft vor der Aorta.",
+    "D": "Beide Nieren haben eine Nierenvene."
+   },
+   "merk": "",
+   "img": "img/i24.jpg"
+  },
+  {
+   "id": "V-F1-67-2",
+   "src": "F1-67",
+   "typ": "bild",
+   "q": "Welche Venen münden typischerweise in die markierte Vene?",
+   "o": [
+    "V. testicularis bzw. ovarica sinistra und V. suprarenalis sinistra",
+    "Vv. hepaticae",
+    "V. portae",
+    "V. iliaca communis",
+    "V. azygos"
+   ],
+   "a": "A",
+   "expl": "Die linke Nierenvene nimmt die linke Gonadenvene und die linke Nebennierenvene auf, rechts münden diese direkt in die V. cava inferior.",
+   "dis": {
+    "B": "Münden in die V. cava inferior.",
+    "C": "Führt zur Leber.",
+    "D": "Bildet die V. cava inferior.",
+    "E": "Liegt im Thorax."
+   },
+   "merk": "",
+   "img": "img/i24.jpg"
+  },
+  {
+   "id": "V-F1-68-1",
+   "src": "F1-68",
+   "typ": "perspektive",
+   "q": "Über welchen Weg gelangt das Blut aus Magen, Darm und Milz in die V. cava inferior?",
+   "o": [
+    "Direkt über die Vv. mesentericae",
+    "Über die V. portae durch die Leber und dann über die Vv. hepaticae",
+    "Über die V. renalis",
+    "Über die V. azygos",
+    "Über den Ductus thoracicus"
+   ],
+   "a": "B",
+   "expl": "Das Blut der unpaaren Bauchorgane passiert erst die Leber (Pfortaderkreislauf), bevor es in die V. cava inferior gelangt.",
+   "dis": {
+    "A": "Diese münden in die Pfortader.",
+    "C": "Nur die linke Gonadenvene mündet hier.",
+    "D": "Nur bei portokavalen Umgehungen.",
+    "E": "Lymphgang."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-68-2",
+   "src": "F1-68",
+   "typ": "perspektive",
+   "q": "Welche Venenverbindung ist eine kavokavale Anastomose?",
+   "o": [
+    "V. portae – V. splenica",
+    "V. renalis – V. testicularis",
+    "V. lumbalis ascendens – V. azygos bzw. V. hemiazygos",
+    "V. facialis – V. jugularis interna",
+    "V. cephalica – V. axillaris"
+   ],
+   "a": "C",
+   "expl": "Über die Vv. lumbales ascendentes, V. azygos und V. hemiazygos kann Blut aus dem Gebiet der V. cava inferior in die V. cava superior gelangen, z. B. bei einem Verschluss der unteren Hohlvene.",
+   "dis": {
+    "A": "Beide gehören zum Pfortadersystem.",
+    "B": "Normale Mündung, keine Umgehung.",
+    "D": "Normale Mündung.",
+    "E": "Normale Mündung."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-69-1",
+   "src": "F1-69",
+   "typ": "nachbarschaft",
+   "q": "Wo entsteht die V. portae?",
+   "o": [
+    "In der Leber aus den Vv. hepaticae",
+    "Aus der V. cava inferior",
+    "Im kleinen Becken",
+    "Hinter dem Pankreashals aus V. mesenterica superior und V. splenica",
+    "Im Thorax"
+   ],
+   "a": "D",
+   "expl": "Die V. portae entsteht hinter dem Collum pancreatis (etwa L1/L2) und zieht im Lig. hepatoduodenale zur Leberpforte. Sie liegt hinter dem Pankreas, nicht davor.",
+   "dis": {
+    "A": "Die Lebervenen verlassen die Leber.",
+    "B": "Die Pfortader mündet nicht dort.",
+    "C": "Zu tief.",
+    "E": "Liegt im Abdomen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-69-2",
+   "src": "F1-69",
+   "typ": "nachbarschaft",
+   "q": "In welche Vene mündet die V. mesenterica inferior typischerweise?",
+   "o": [
+    "In die V. renalis sinistra",
+    "In die V. testicularis",
+    "In die Vv. hepaticae",
+    "In die V. azygos",
+    "In die V. splenica"
+   ],
+   "a": "E",
+   "expl": "Die V. mesenterica inferior mündet meist hinter dem Pankreas in die V. splenica, seltener in den Konfluens oder die V. mesenterica superior.",
+   "dis": {
+    "A": "Keine typische Mündung.",
+    "B": "Gonadenvene.",
+    "C": "Münden in die V. cava inferior.",
+    "D": "Liegt im Thorax."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-70-1",
+   "src": "F1-70",
+   "typ": "perspektive",
+   "q": "Welche Struktur verhindert in den Beinvenen den Rückfluss nach distal?",
+   "o": [
+    "Venenklappen",
+    "Arterienklappen",
+    "Lymphknoten",
+    "Faszien allein",
+    "Ein muskulärer Sphinkter"
+   ],
+   "a": "A",
+   "expl": "Venenklappen sind Endothelduplikaturen. Zusammen mit der Muskelpumpe und der arteriovenösen Kopplung treiben sie das Blut gegen die Schwerkraft zum Herzen.",
+   "dis": {
+    "B": "Arterien haben außer am Herzen keine Klappen.",
+    "C": "Liegen im Lymphsystem.",
+    "D": "Unterstützen die Muskelpumpe, verhindern aber keinen Rückfluss.",
+    "E": "Kommt in Beinvenen nicht vor."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-70-2",
+   "src": "F1-70",
+   "typ": "klinik",
+   "q": "Was entsteht, wenn die Klappen der oberflächlichen Beinvenen schließen nicht mehr richtig?",
+   "o": [
+    "Aneurysmen",
+    "Varizen (Krampfadern)",
+    "Primäres Lymphödem",
+    "Claudicatio intermittens",
+    "Raynaud-Syndrom"
+   ],
+   "a": "B",
+   "expl": "Bei Klappeninsuffizienz fließt das Blut zurück, die Venen erweitern sich und schlängeln sich. Typisch betroffen sind V. saphena magna und parva.",
+   "dis": {
+    "A": "Arterielle Ausweitungen.",
+    "C": "Angeborene Lymphabflussstörung.",
+    "D": "Symptom der arteriellen Verschlusskrankheit.",
+    "E": "Vasospasmus der Fingerarterien."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-71-1",
+   "src": "F1-71",
+   "typ": "bild",
+   "q": "Besitzt die markierte Vene Venenklappen?",
+   "o": [
+    "Ja, eine Mündungsklappe wie die Valvula venae cavae inferioris",
+    "Ja, zahlreiche Klappen",
+    "Nein, sie ist klappenlos.",
+    "Nur bei Kindern",
+    "Nur während der Inspiration"
+   ],
+   "a": "C",
+   "expl": "Die markierte Vene ist die V. cava superior. Sie ist klappenlos; deshalb sieht man Druckschwankungen des rechten Vorhofs als Pulsationen an den Halsvenen.",
+   "dis": {
+    "A": "Eine solche Klappe gibt es nur an der V. cava inferior.",
+    "B": "Typisch für Beinvenen.",
+    "D": "Auch Kinder haben dort keine Klappen.",
+    "E": "Klappen sind strukturell, nicht atemabhängig."
+   },
+   "merk": "",
+   "img": "img/i25.jpg"
+  },
+  {
+   "id": "V-F1-71-2",
+   "src": "F1-71",
+   "typ": "bild",
+   "q": "In welchem Mediastinalabschnitt liegt der obere Teil der markierten Vene?",
+   "o": [
+    "Mediastinum posterius",
+    "Mediastinum anterius",
+    "Gar keinem; sie liegt im Hals",
+    "Mediastinum superius",
+    "Pleurahöhle"
+   ],
+   "a": "D",
+   "expl": "Die V. cava superior entsteht hinter dem 1. rechten Rippenknorpel im oberen Mediastinum. Ihr unterer Teil liegt im Perikard und damit im Mediastinum medium.",
+   "dis": {
+    "A": "Liegt hinter dem Perikard.",
+    "B": "Schmaler Raum vor dem Perikard.",
+    "C": "Sie liegt im Thorax.",
+    "E": "Liegt außerhalb des Mediastinums."
+   },
+   "merk": "",
+   "img": "img/i25.jpg"
+  },
+  {
+   "id": "V-F1-72-1",
+   "src": "F1-72",
+   "typ": "bild",
+   "q": "Welche Strukturen liegen im Lig. hepatoduodenale ventral der grün markierten Vene?",
+   "o": [
+    "V. cava inferior",
+    "Aorta",
+    "Pankreasschwanz",
+    "Ductus thoracicus",
+    "A. hepatica propria und Ductus choledochus"
+   ],
+   "a": "E",
+   "expl": "Die grün markierte Vene ist die V. portae. Sie liegt im Lig. hepatoduodenale dorsal; davor liegen rechts der Ductus choledochus und links die A. hepatica propria.",
+   "dis": {
+    "A": "Liegt hinter dem Foramen omentale.",
+    "B": "Liegt retroperitoneal links.",
+    "C": "Liegt am Milzhilus.",
+    "D": "Liegt im Thorax bzw. retroperitoneal."
+   },
+   "merk": "",
+   "img": "img/i26.jpg"
+  },
+  {
+   "id": "V-F1-72-2",
+   "src": "F1-72",
+   "typ": "bild",
+   "q": "Welches Organ durchströmt das Blut der grün markierten Vene, bevor es die V. cava inferior erreicht?",
+   "o": [
+    "Leber (über die Sinusoide)",
+    "Milz",
+    "Niere",
+    "Lunge",
+    "Herz direkt"
+   ],
+   "a": "A",
+   "expl": "Die Pfortader verzweigt sich in der Leber bis in die Sinusoide. Dort werden Nährstoffe verarbeitet und Giftstoffe abgebaut; danach fließt das Blut über die Zentralvenen und Lebervenen ab.",
+   "dis": {
+    "B": "Liefert Blut in die Pfortader, wird aber nicht von ihr durchströmt.",
+    "C": "Eigener Kreislauf über die V. renalis.",
+    "D": "Liegt im kleinen Kreislauf.",
+    "E": "Erst nach der Leber."
+   },
+   "merk": "",
+   "img": "img/i26.jpg"
+  },
+  {
+   "id": "V-F1-73-1",
+   "src": "F1-73",
+   "typ": "perspektive",
+   "q": "Welche Venen verbindet die V. mediana cubiti?",
+   "o": [
+    "V. brachialis und V. axillaris",
+    "V. cephalica und V. basilica",
+    "V. radialis und V. ulnaris",
+    "V. jugularis externa und interna",
+    "Vv. perforantes"
+   ],
+   "a": "B",
+   "expl": "Die V. mediana cubiti zieht in der Ellenbeuge schräg von der V. cephalica (radial) zur V. basilica (ulnar). Sie ist gut sichtbar und fixiert, deshalb ideal für Blutentnahmen.",
+   "dis": {
+    "A": "Tiefe Venen.",
+    "C": "Tiefe Begleitvenen der Unterarmarterien.",
+    "D": "Halsvenen.",
+    "E": "Verbinden oberflächliches und tiefes System."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-73-2",
+   "src": "F1-73",
+   "typ": "nachbarschaft",
+   "q": "Welche Struktur trennt in der Ellenbeuge die V. mediana cubiti von A. brachialis und N. medianus?",
+   "o": [
+    "Retinaculum flexorum",
+    "Lig. anulare radii",
+    "Aponeurosis m. bicipitis brachii (Lacertus fibrosus)",
+    "M. brachioradialis",
+    "Septum intermusculare brachii mediale"
+   ],
+   "a": "C",
+   "expl": "Die Bizepsaponeurose zieht von der Bizepssehne nach medial in die Unterarmfaszie. Sie schützt A. brachialis und N. medianus bei Venenpunktionen.",
+   "dis": {
+    "A": "Liegt am Handgelenk.",
+    "B": "Liegt im Ellenbogengelenk.",
+    "D": "Begrenzt die Ellenbeuge lateral.",
+    "E": "Liegt am Oberarm."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-41/F2-60-1",
+   "src": "D2-41/F2-60",
+   "typ": "perspektive",
+   "q": "Welche Wandschicht ist bei großen Venen (z. B. V. cava inferior) besonders kräftig ausgebildet?",
+   "o": [
+    "Tunica media",
+    "Tunica intima",
+    "Membrana elastica interna",
+    "Tunica adventitia (mit längs verlaufenden glatten Muskelbündeln)",
+    "Endothel"
+   ],
+   "a": "D",
+   "expl": "Große Venen haben eine dünne Media und eine dicke Adventitia mit Längsmuskulatur. Arterien haben dagegen die dickste Media.",
+   "dis": {
+    "A": "Bei Venen relativ dünn.",
+    "B": "Dünn.",
+    "C": "Bei Venen kaum ausgebildet.",
+    "E": "Einschichtig."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-41/F2-60-2",
+   "src": "D2-41/F2-60",
+   "typ": "perspektive",
+   "q": "Warum kollabieren Venen leichter als Arterien?",
+   "o": [
+    "Weil sie mehr elastische Fasern enthalten",
+    "Weil ihnen das Endothel fehlt",
+    "Weil ihr Innendruck höher ist",
+    "Weil ihnen die Adventitia fehlt",
+    "Weil ihre Wand dünner ist und eine schwächere Media hat"
+   ],
+   "a": "E",
+   "expl": "Venen sind Niederdruckgefäße mit dünner Wand und großer Dehnbarkeit (Kapazitätsgefäße). Bei Volumenmangel kollabieren sie; das erschwert die Venenpunktion im Schock.",
+   "dis": {
+    "A": "Arterien haben mehr elastische Fasern.",
+    "B": "Alle Gefäße haben Endothel.",
+    "C": "Der venöse Druck ist niedriger.",
+    "D": "Venen haben eine kräftige Adventitia."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-42/F2-62-1",
+   "src": "D2-42/F2-62",
+   "typ": "perspektive",
+   "q": "Welche Struktur ist beim Erwachsenen der Rest der V. umbilicalis?",
+   "o": [
+    "Lig. teres hepatis",
+    "Lig. venosum",
+    "Lig. arteriosum",
+    "Plica umbilicalis medialis",
+    "Urachus (Plica umbilicalis mediana)"
+   ],
+   "a": "A",
+   "expl": "Die V. umbilicalis führt pränatal sauerstoffreiches Blut von der Plazenta zum Fetus. Nach der Geburt obliteriert sie zum Lig. teres hepatis im Unterrand des Lig. falciforme.",
+   "dis": {
+    "B": "Rest des Ductus venosus.",
+    "C": "Rest des Ductus arteriosus.",
+    "D": "Enthält die obliterierte A. umbilicalis.",
+    "E": "Rest des Allantoisgangs."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-42/F2-62-2",
+   "src": "D2-42/F2-62",
+   "typ": "perspektive",
+   "q": "Welche fetale Verbindung leitet Blut der V. umbilicalis an der Leber vorbei in die V. cava inferior?",
+   "o": [
+    "Ductus arteriosus",
+    "Ductus venosus (Arantii)",
+    "Foramen ovale",
+    "Ductus thoracicus",
+    "Sinus coronarius"
+   ],
+   "a": "B",
+   "expl": "Der Ductus venosus lässt einen Großteil des Nabelvenenbluts die Leber umgehen. Postnatal verschließt er sich zum Lig. venosum.",
+   "dis": {
+    "A": "Verbindet Truncus pulmonalis und Aorta.",
+    "C": "Verbindet die Vorhöfe.",
+    "D": "Lymphgang.",
+    "E": "Sammelt Herzvenenblut."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-61-1",
+   "src": "F2-61",
+   "typ": "klinik",
+   "q": "Welche Strukturen können bei einer zu tiefen Punktion in der medialen Ellenbeuge verletzt werden?",
+   "o": [
+    "R. profundus n. radialis",
+    "N. ulnaris",
+    "A. brachialis und N. medianus",
+    "V. subclavia",
+    "Pleura"
+   ],
+   "a": "C",
+   "expl": "Medial in der Ellenbeuge liegen A. brachialis und N. medianus unter der Bizepsaponeurose. Lateral verläuft der N. radialis tiefer.",
+   "dis": {
+    "A": "Liegt lateral unter dem M. supinator.",
+    "B": "Liegt hinter dem Epicondylus medialis, nicht in der Ellenbeuge.",
+    "D": "Liegt am Schlüsselbein.",
+    "E": "Liegt im Thorax."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-61-2",
+   "src": "F2-61",
+   "typ": "nachbarschaft",
+   "q": "Wo durchbricht die V. basilica die Fascia brachii?",
+   "o": [
+    "Im Sulcus deltoideopectoralis",
+    "In der Ellenbeuge",
+    "Am Handgelenk",
+    "Im Hiatus basilicus etwa in der Mitte des medialen Oberarms",
+    "In der Achselspitze"
+   ],
+   "a": "D",
+   "expl": "Die V. basilica tritt im Hiatus basilicus unter die Faszie und mündet in die Vv. brachiales bzw. V. axillaris.",
+   "dis": {
+    "A": "Dort zieht die V. cephalica in die Tiefe.",
+    "B": "Dort ist sie noch epifaszial.",
+    "C": "Viel zu distal.",
+    "E": "Zu proximal."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-63-1",
+   "src": "F2-63",
+   "typ": "klinik",
+   "q": "Warum wird für einen zentralen Venenkatheter bevorzugt die rechte V. jugularis interna gewählt?",
+   "o": [
+    "Weil links keine V. jugularis interna existiert",
+    "Weil das Herz rechts liegt",
+    "Weil links die A. carotis fehlt",
+    "Weil die Pleurakuppel rechts höher steht",
+    "Sie verläuft geradlinig zur V. cava superior, und rechts liegt kein Ductus thoracicus."
+   ],
+   "a": "E",
+   "expl": "Von rechts führt der Weg über V. brachiocephalica dextra fast gerade in die V. cava superior. Links mündet der Ductus thoracicus in den Venenwinkel und kann verletzt werden.",
+   "dis": {
+    "A": "Beide Seiten haben eine.",
+    "B": "Das Herz liegt überwiegend links.",
+    "C": "Beide Seiten haben eine A. carotis.",
+    "D": "Das wäre eher ein Nachteil."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-63-2",
+   "src": "F2-63",
+   "typ": "klinik",
+   "q": "Wo wird die V. jugularis interna beim zentralen Zugang typischerweise punktiert?",
+   "o": [
+    "Im Dreieck zwischen den beiden Köpfen des M. sternocleidomastoideus, lateral der A. carotis communis",
+    "Medial der Trachea",
+    "Hinter dem M. trapezius",
+    "Im Trigonum submandibulare",
+    "Auf dem Proc. mastoideus"
+   ],
+   "a": "A",
+   "expl": "Die V. jugularis interna liegt lateral der A. carotis communis in der Vagina carotica. Man tastet den Karotispuls und punktiert lateral davon, heute meist ultraschallgesteuert.",
+   "dis": {
+    "B": "Dort liegen Schilddrüse und Trachea.",
+    "C": "Zu weit dorsal.",
+    "D": "Zu weit kranial-medial.",
+    "E": "Knochen, keine Vene."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-64-1",
+   "src": "F2-64",
+   "typ": "nachbarschaft",
+   "q": "Welche Struktur liegt im Nierenhilus am weitesten ventral?",
+   "o": [
+    "A. renalis",
+    "V. renalis",
+    "Pelvis renalis",
+    "Ureter",
+    "N. phrenicus"
+   ],
+   "a": "B",
+   "expl": "Im Nierenhilus liegen von ventral nach dorsal: V. renalis, A. renalis, Nierenbecken.",
+   "dis": {
+    "A": "Liegt zwischen Vene und Nierenbecken.",
+    "C": "Liegt am weitesten dorsal.",
+    "D": "Liegt unterhalb des Hilus.",
+    "E": "Liegt im Thorax."
+   },
+   "merk": "„VAN“ von vorne: Vene – Arterie – Nierenbecken.",
+   "img": null
+  },
+  {
+   "id": "V-F2-64-2",
+   "src": "F2-64",
+   "typ": "klinik",
+   "q": "In welche Vene wächst ein Nierenzellkarzinom häufig ein?",
+   "o": [
+    "V. portae",
+    "V. azygos",
+    "V. renalis, teilweise bis in die V. cava inferior",
+    "V. jugularis interna",
+    "V. saphena magna"
+   ],
+   "a": "C",
+   "expl": "Nierenzellkarzinome wachsen gern als Tumorzapfen in die V. renalis und können bis in die V. cava inferior oder den rechten Vorhof reichen. Links kann dadurch eine Varikozele entstehen.",
+   "dis": {
+    "A": "Gehört zum Pfortadersystem.",
+    "B": "Liegt im Thorax.",
+    "D": "Liegt am Hals.",
+    "E": "Liegt am Bein."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-43/F2-65-1",
+   "src": "D2-43/F2-65",
+   "typ": "perspektive",
+   "q": "Welche V. brachiocephalica ist länger, und warum?",
+   "o": [
+    "Die rechte, weil das Herz rechts liegt",
+    "Beide sind gleich lang",
+    "Die linke, weil sie hinter der Aorta verläuft",
+    "Die linke, weil sie schräg hinter dem Manubrium sterni nach rechts zur V. cava superior zieht",
+    "Die rechte, weil sie den Ductus thoracicus aufnimmt"
+   ],
+   "a": "D",
+   "expl": "Die V. cava superior liegt rechts. Die linke V. brachiocephalica muss deshalb die Mittellinie kreuzen und ist deutlich länger als die rechte, die fast senkrecht verläuft.",
+   "dis": {
+    "A": "Das Herz liegt überwiegend links.",
+    "B": "Die linke ist etwa doppelt so lang.",
+    "C": "Sie verläuft vor den Ästen des Aortenbogens.",
+    "E": "Der Ductus thoracicus mündet links."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-43/F2-65-2",
+   "src": "D2-43/F2-65",
+   "typ": "perspektive",
+   "q": "Welche oberflächliche Halsvene mündet typischerweise in die V. subclavia?",
+   "o": [
+    "V. facialis",
+    "V. thyroidea superior",
+    "V. azygos",
+    "V. vertebralis",
+    "V. jugularis externa"
+   ],
+   "a": "E",
+   "expl": "Die V. jugularis externa zieht epifaszial über den M. sternocleidomastoideus und mündet im seitlichen Halsdreieck in die V. subclavia. Bei Rechtsherzinsuffizienz ist sie gestaut sichtbar.",
+   "dis": {
+    "A": "Mündet in die V. jugularis interna.",
+    "B": "Mündet in die V. jugularis interna.",
+    "C": "Mündet in die V. cava superior.",
+    "D": "Mündet in die V. brachiocephalica."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-66-1",
+   "src": "F2-66",
+   "typ": "klinik",
+   "q": "Ein Bronchialkarzinom komprimiert die V. cava superior. Welcher Befund ist typisch?",
+   "o": [
+    "Schwellung von Gesicht, Hals und Armen mit gestauten Halsvenen",
+    "Beidseitige Beinödeme",
+    "Aszites",
+    "Hämaturie",
+    "Ikterus"
+   ],
+   "a": "A",
+   "expl": "Beim V.-cava-superior-Syndrom staut sich das Blut aus Kopf, Hals und Armen. Über Kollateralen (V. azygos, Brustwandvenen) kann es teilweise umgeleitet werden.",
+   "dis": {
+    "B": "Typisch für eine Abflussstörung der V. cava inferior.",
+    "C": "Typisch für Pfortaderhochdruck.",
+    "D": "Spricht für Erkrankungen der Harnwege.",
+    "E": "Spricht für Leber- oder Gallenwegserkrankungen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-66-2",
+   "src": "F2-66",
+   "typ": "perspektive",
+   "q": "Über welche Venen gelangt das Blut aus dem Arm in die V. cava superior?",
+   "o": [
+    "Die V. cephalica mündet direkt in die V. cava superior.",
+    "V. axillaris → V. subclavia → V. brachiocephalica",
+    "Die V. basilica mündet in die V. azygos.",
+    "Die V. brachialis mündet in die V. jugularis externa.",
+    "Über die V. thoracica interna"
+   ],
+   "a": "B",
+   "expl": "Die tiefen Armvenen sammeln sich in der V. axillaris, die an der 1. Rippe zur V. subclavia wird. Diese bildet mit der V. jugularis interna die V. brachiocephalica.",
+   "dis": {
+    "A": "Sie mündet in die V. axillaris.",
+    "C": "Sie mündet in die Vv. brachiales bzw. V. axillaris.",
+    "D": "Sie mündet in die V. axillaris.",
+    "E": "Sammelt Blut aus der vorderen Brustwand."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-67-1",
+   "src": "F2-67",
+   "typ": "nachbarschaft",
+   "q": "Wo beginnt die V. saphena magna?",
+   "o": [
+    "Hinter dem Malleolus lateralis",
+    "In der Kniekehle",
+    "Vor dem Malleolus medialis aus dem Arcus venosus dorsalis pedis",
+    "An der Fußsohle",
+    "In der Leiste"
+   ],
+   "a": "C",
+   "expl": "Die V. saphena magna beginnt am medialen Fußrand vor dem Innenknöchel und zieht an der Innenseite des Beins zum Hiatus saphenus. Vor dem Malleolus medialis eignet sie sich für einen venösen Notfallzugang.",
+   "dis": {
+    "A": "Dort beginnt die V. saphena parva.",
+    "B": "Dort mündet die V. saphena parva.",
+    "D": "Das Plantarnetz drainiert überwiegend in die Tiefe.",
+    "E": "Dort mündet sie."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-67-2",
+   "src": "F2-67",
+   "typ": "klinik",
+   "q": "Welche Vene wird in der Herzchirurgie häufig als Bypass-Gefäß verwendet?",
+   "o": [
+    "V. femoralis",
+    "V. jugularis interna",
+    "V. portae",
+    "V. saphena magna",
+    "V. cava inferior"
+   ],
+   "a": "D",
+   "expl": "Die V. saphena magna ist lang, oberflächlich und entbehrlich, weil das tiefe System den Abfluss übernimmt. Sie wird als aortokoronarer Venenbypass verwendet.",
+   "dis": {
+    "A": "Wird für den Abfluss des Beins gebraucht.",
+    "B": "Wird für den Kopfabfluss gebraucht.",
+    "C": "Unverzichtbar für die Leber.",
+    "E": "Unverzichtbar."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-44/F2-68-1",
+   "src": "D2-44/F2-68",
+   "typ": "nachbarschaft",
+   "q": "Wo verläuft die V. mesenterica inferior?",
+   "o": [
+    "Rechts neben dem Colon ascendens",
+    "Im Lig. hepatoduodenale",
+    "Im Leistenkanal",
+    "Hinter der Aorta",
+    "Retroperitoneal links neben der Flexura duodenojejunalis zur V. splenica"
+   ],
+   "a": "E",
+   "expl": "Die V. mesenterica inferior steigt links retroperitoneal auf, zieht an der Plica duodenalis superior vorbei und mündet hinter dem Pankreas in die V. splenica.",
+   "dis": {
+    "A": "Dort verläuft die V. colica dextra.",
+    "B": "Dort verläuft die V. portae.",
+    "C": "Dort verläuft der Samenstrang.",
+    "D": "Sie liegt links der Aorta vor dem M. psoas."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-44/F2-68-2",
+   "src": "D2-44/F2-68",
+   "typ": "klinik",
+   "q": "Welche portokavale Anastomose liegt im Rektum?",
+   "o": [
+    "V. rectalis superior – Vv. rectales mediae und inferiores",
+    "V. gastrica sinistra – V. azygos",
+    "Vv. paraumbilicales – Vv. epigastricae",
+    "V. renalis – V. lumbalis",
+    "V. splenica – V. renalis"
+   ],
+   "a": "A",
+   "expl": "Die V. rectalis superior fließt über die V. mesenterica inferior zur Pfortader, die Vv. rectales mediae und inferiores über die V. iliaca interna zur V. cava inferior. Bei portaler Hypertension erweitern sich diese Verbindungen.",
+   "dis": {
+    "B": "Anastomose am Ösophagus.",
+    "C": "Anastomose am Nabel.",
+    "D": "Kavokavale Verbindung.",
+    "E": "Nur als spontaner Shunt bei Pfortaderhochdruck."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-45/F2-69-1",
+   "src": "D2-45/F2-69",
+   "typ": "klinik",
+   "q": "Über welche portokavale Anastomose entstehen bei portaler Hypertension Ösophagusvarizen?",
+   "o": [
+    "Vv. paraumbilicales – Vv. epigastricae",
+    "V. gastrica sinistra – Vv. oesophageae – V. azygos",
+    "V. rectalis superior – Vv. rectales mediae",
+    "V. renalis – V. testicularis",
+    "V. facialis – Sinus cavernosus"
+   ],
+   "a": "B",
+   "expl": "Bei erhöhtem Pfortaderdruck fließt Blut über die V. gastrica sinistra in die submukösen Venen des Ösophagus und weiter zur V. azygos. Ösophagusvarizen können lebensbedrohlich bluten.",
+   "dis": {
+    "A": "Führt zum Caput medusae.",
+    "C": "Anastomose im Rektum.",
+    "D": "Normale Mündung.",
+    "E": "Venöse Verbindung im Gesicht."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-45/F2-69-2",
+   "src": "D2-45/F2-69",
+   "typ": "klinik",
+   "q": "Was versteht man unter einem Caput medusae?",
+   "o": [
+    "Hämorrhoiden",
+    "Ösophagusvarizen",
+    "Erweiterte Bauchwandvenen um den Nabel bei portaler Hypertension",
+    "Lebermetastasen",
+    "Eine Nabelhernie"
+   ],
+   "a": "C",
+   "expl": "Über die Vv. paraumbilicales im Lig. teres hepatis fließt Pfortaderblut zur Bauchwand und weiter zu den Vv. epigastricae. Die gestauten Venen strahlen um den Nabel aus.",
+   "dis": {
+    "A": "Gefäßpolster im Analkanal.",
+    "B": "Liegen in der Speiseröhre.",
+    "D": "Tumorabsiedlungen.",
+    "E": "Vorwölbung von Bauchinhalt durch den Nabelring."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-70-1",
+   "src": "F2-70",
+   "typ": "nachbarschaft",
+   "q": "Welche oberflächliche Vene mündet in der Kniekehle in die V. poplitea?",
+   "o": [
+    "V. saphena magna",
+    "V. profunda femoris",
+    "V. tibialis anterior",
+    "V. saphena parva",
+    "V. cephalica"
+   ],
+   "a": "D",
+   "expl": "Die V. saphena parva beginnt hinter dem Malleolus lateralis, zieht an der Wadenmitte nach oben und durchbricht in der Kniekehle die Faszie zur V. poplitea.",
+   "dis": {
+    "A": "Mündet in der Leiste in die V. femoralis.",
+    "B": "Tiefe Oberschenkelvene.",
+    "C": "Tiefe Unterschenkelvene.",
+    "E": "Liegt am Arm."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-70-2",
+   "src": "F2-70",
+   "typ": "nachbarschaft",
+   "q": "Durch welche Öffnung zieht die V. poplitea nach proximal und wird zur V. femoralis?",
+   "o": [
+    "Hiatus saphenus",
+    "Canalis obturatorius",
+    "Lacuna vasorum",
+    "Foramen ischiadicum majus",
+    "Hiatus adductorius"
+   ],
+   "a": "E",
+   "expl": "A. und V. poplitea treten durch den Hiatus adductorius im Ansatz des M. adductor magnus. Proximal davon heißen sie A. und V. femoralis.",
+   "dis": {
+    "A": "Mündungsstelle der V. saphena magna.",
+    "B": "Durchtritt der Vasa obturatoria.",
+    "C": "Liegt unter dem Leistenband.",
+    "D": "Verbindung Becken – Gesäß."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-46/F2-71-1",
+   "src": "D2-46/F2-71",
+   "typ": "nachbarschaft",
+   "q": "Welcher Muskel trennt V. subclavia und A. subclavia voneinander?",
+   "o": [
+    "M. scalenus anterior",
+    "M. scalenus medius",
+    "M. sternocleidomastoideus",
+    "M. subclavius",
+    "M. omohyoideus"
+   ],
+   "a": "A",
+   "expl": "Die V. subclavia zieht vor, die A. subclavia hinter dem M. scalenus anterior über die 1. Rippe. Der Muskel ist der wichtigste Leitmuskel der Region.",
+   "dis": {
+    "B": "Liegt hinter der A. subclavia.",
+    "C": "Liegt oberflächlicher.",
+    "D": "Liegt unter der Clavicula.",
+    "E": "Zieht oberflächlich durch das seitliche Halsdreieck."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-46/F2-71-2",
+   "src": "D2-46/F2-71",
+   "typ": "perspektive",
+   "q": "Welche Vene setzt sich an der 1. Rippe in die V. subclavia fort?",
+   "o": [
+    "V. brachialis",
+    "V. axillaris",
+    "V. jugularis interna",
+    "V. cephalica",
+    "V. brachiocephalica"
+   ],
+   "a": "B",
+   "expl": "Die V. axillaris heißt am Außenrand der 1. Rippe V. subclavia. Diese vereinigt sich hinter dem Sternoklavikulargelenk mit der V. jugularis interna zur V. brachiocephalica.",
+   "dis": {
+    "A": "Mündet weiter distal in die V. axillaris.",
+    "C": "Vereinigt sich mit der V. subclavia zur V. brachiocephalica.",
+    "D": "Mündet in die V. axillaris.",
+    "E": "Entsteht erst aus der V. subclavia."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-72-1",
+   "src": "F2-72",
+   "typ": "perspektive",
+   "q": "Welche Venen verbinden am Bein das oberflächliche mit dem tiefen Venensystem?",
+   "o": [
+    "V. saphena magna",
+    "V. iliaca interna",
+    "Vv. perforantes",
+    "V. lumbalis ascendens",
+    "Vv. comitantes der A. femoralis"
+   ],
+   "a": "C",
+   "expl": "Die Vv. perforantes durchbrechen die Faszie und leiten das Blut mit Klappen vom oberflächlichen ins tiefe System. Sind sie insuffizient, entstehen Varizen und Ulcera.",
+   "dis": {
+    "A": "Selbst eine oberflächliche Vene.",
+    "B": "Beckenvene.",
+    "D": "Liegt an der hinteren Bauchwand.",
+    "E": "Gehören zum tiefen System."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-72-2",
+   "src": "F2-72",
+   "typ": "klinik",
+   "q": "Was ist die gefürchtetste akute Komplikation einer tiefen Beinvenenthrombose?",
+   "o": [
+    "Schlaganfall",
+    "Myokardinfarkt",
+    "Niereninfarkt",
+    "Lungenembolie",
+    "Mesenterialinfarkt"
+   ],
+   "a": "D",
+   "expl": "Ein abgelöster Thrombus gelangt über V. cava inferior und rechtes Herz in die Lungenarterien. Große Embolien können zum akuten Rechtsherzversagen führen.",
+   "dis": {
+    "A": "Nur bei offenem Foramen ovale als paradoxe Embolie.",
+    "B": "Arterielle Thrombose der Koronarien.",
+    "C": "Meist arteriell-embolisch.",
+    "E": "Meist arteriell-embolisch aus dem linken Herzen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-47/F2-73-1",
+   "src": "D2-47/F2-73",
+   "typ": "klinik",
+   "q": "Bei welcher Rhythmusstörung wird häufig eine Pulmonalvenenisolation durchgeführt, weil ihre Auslöser oft an den Mündungen der Vv. pulmonales liegen?",
+   "o": [
+    "AV-Block III. Grades",
+    "Kammerflimmern",
+    "Sinusbradykardie",
+    "Wolff-Parkinson-White-Syndrom",
+    "Vorhofflimmern"
+   ],
+   "a": "E",
+   "expl": "Myokard reicht als Hülse in die Mündungen der Lungenvenen. Von dort ausgehende Erregungen können Vorhofflimmern auslösen; sie werden durch Ablation elektrisch isoliert.",
+   "dis": {
+    "A": "Wird mit einem Schrittmacher behandelt.",
+    "B": "Notfall, Defibrillation.",
+    "C": "Kein Fokus an den Lungenvenen.",
+    "D": "Akzessorische Leitungsbahn zwischen Vorhof und Kammer."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-47/F2-73-2",
+   "src": "D2-47/F2-73",
+   "typ": "nachbarschaft",
+   "q": "Welche Pleurafalte zieht von der Lungenwurzel unterhalb der unteren Lungenvenen nach kaudal?",
+   "o": [
+    "Lig. pulmonale",
+    "Lig. arteriosum",
+    "Lig. falciforme",
+    "Lig. teres hepatis",
+    "Recessus costodiaphragmaticus"
+   ],
+   "a": "A",
+   "expl": "Die Pleura umhüllt die Lungenwurzel wie eine Manschette, die nach unten als doppelte Falte zum Lig. pulmonale ausläuft. Es enthält keine größeren Gefäße.",
+   "dis": {
+    "B": "Verbindet Aortenbogen und A. pulmonalis sinistra.",
+    "C": "Peritonealfalte an der Leber.",
+    "D": "Rest der Nabelvene.",
+    "E": "Reserveraum der Pleurahöhle, keine Falte."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-74-1",
+   "src": "F2-74",
+   "typ": "perspektive",
+   "q": "Über welche Gefäße wird das sauerstoffarme Blut aus dem Herzmuskel abgeleitet?",
+   "o": [
+    "Über die Aa. coronariae",
+    "Über die Herzvenen, vor allem über den Sinus coronarius in den rechten Vorhof",
+    "Über die Vv. pulmonales",
+    "Direkt über die V. cava inferior",
+    "Über den Ductus thoracicus"
+   ],
+   "a": "B",
+   "expl": "Die meisten Herzvenen münden in den Sinus coronarius, der in den rechten Vorhof mündet. Kleine Vv. cardiacae anteriores und minimae münden direkt in die Herzhöhlen.",
+   "dis": {
+    "A": "Führen sauerstoffreiches Blut zum Myokard.",
+    "C": "Führen sauerstoffreiches Blut aus der Lunge.",
+    "D": "Herzvenen münden nicht in die V. cava inferior.",
+    "E": "Lymphgang."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-74-2",
+   "src": "F2-74",
+   "typ": "umkehrung",
+   "q": "Welche Gefäße versorgen den Herzmuskel mit sauerstoffreichem Blut?",
+   "o": [
+    "Vv. cardiacae",
+    "Vv. pulmonales",
+    "Aa. coronariae",
+    "Sinus coronarius",
+    "Vv. cardiacae minimae"
+   ],
+   "a": "C",
+   "expl": "Die A. coronaria dextra und sinistra entspringen aus den Sinus aortae und versorgen das Myokard. Eine „Vena coronaria“ versorgt den Herzmuskel nicht.",
+   "dis": {
+    "A": "Führen sauerstoffarmes Blut ab.",
+    "B": "Führen das Blut aus der Lunge zum linken Vorhof.",
+    "D": "Sammelt venöses Herzblut.",
+    "E": "Kleine Venen."
+   },
+   "merk": "",
+   "img": null
+  }
+ ]
+}
