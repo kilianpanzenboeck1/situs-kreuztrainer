@@ -1,6 +1,6 @@
 # Situs-Anki – Spezifikation (Tamás-Stil)
 
-Status: Entwurf, wartet auf Freigabe durch Kilian. Änderungen hier eintragen, bevor die nächste Etappe startet.
+Status: Freigegeben von Kilian am 01.11.2026 (Standards: 2 Varianten, Teil D zuerst, Originale als eigener Unterstapel).
 
 ## Ziel
 Anki-Deck aus der Situs-Fragensammlung (Teile A–D, 822 Fragen). Kilian kann alle Originalfragen sicher – das Deck besteht vor allem aus **neuen Alternativfragen**, die denselben Stoff aus anderem Blickwinkel prüfen.
