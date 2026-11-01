@@ -1,0 +1,1432 @@
+{
+ "chapter": "A2",
+ "status": "draft",
+ "cards": [
+  {
+   "id": "V-F1-15-1",
+   "src": "F1-15",
+   "typ": "perspektive",
+   "q": "Aus welchem Herzraum entspringt der Truncus pulmonalis?",
+   "o": [
+    "Ventriculus dexter",
+    "Ventriculus sinister",
+    "Atrium dextrum",
+    "Atrium sinistrum",
+    "Arcus aortae"
+   ],
+   "a": "A",
+   "expl": "Der Truncus pulmonalis entspringt aus dem Conus arteriosus des rechten Ventrikels und führt sauerstoffarmes Blut zur Lunge.",
+   "dis": {
+    "B": "Aus ihm entspringt die Aorta.",
+    "C": "Nimmt das Körpervenenblut auf.",
+    "D": "Nimmt die Vv. pulmonales auf.",
+    "E": "Ist über das Lig. arteriosum nur mit der A. pulmonalis sinistra verbunden."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-15-2",
+   "src": "F1-15",
+   "typ": "nachbarschaft",
+   "q": "Wo teilt sich der Truncus pulmonalis in die beiden Aa. pulmonales?",
+   "o": [
+    "Erst im Lungenhilus",
+    "In der Konkavität des Aortenbogens etwa in Höhe Th4/Th5",
+    "In Höhe Th10",
+    "An der Herzspitze",
+    "In Höhe C7"
+   ],
+   "a": "B",
+   "expl": "Der Truncus pulmonalis zieht nach links-hinten und teilt sich unter dem Aortenbogen. Die A. pulmonalis dextra zieht hinter Aorta ascendens und V. cava superior zum rechten Hilus.",
+   "dis": {
+    "A": "Die Teilung liegt schon im Mediastinum.",
+    "C": "Viel zu tief.",
+    "D": "Der Truncus entspringt an der Herzbasis.",
+    "E": "Viel zu hoch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-16-1",
+   "src": "F1-16",
+   "typ": "perspektive",
+   "q": "In welchen Herzraum münden die Vv. pulmonales?",
+   "o": [
+    "Ventriculus sinister",
+    "Atrium dextrum",
+    "Atrium sinistrum",
+    "Ventriculus dexter",
+    "Sinus coronarius"
+   ],
+   "a": "C",
+   "expl": "Die Lungenvenen bringen das oxygenierte Blut in den linken Vorhof; von dort gelangt es durch die Mitralklappe in den linken Ventrikel.",
+   "dis": {
+    "A": "Erhält das Blut erst über die Mitralklappe.",
+    "B": "Nimmt die Hohlvenen auf.",
+    "D": "Pumpt das Blut in den Truncus pulmonalis.",
+    "E": "Sammelt Herzvenenblut."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-16-2",
+   "src": "F1-16",
+   "typ": "perspektive",
+   "q": "Wie viele Vv. pulmonales münden typischerweise in das Herz?",
+   "o": [
+    "Zwei",
+    "Sechs",
+    "Eine",
+    "Vier",
+    "Acht"
+   ],
+   "a": "D",
+   "expl": "Typisch münden je eine obere und untere V. pulmonalis von rechts und links, also vier, in den linken Vorhof. Varianten mit drei oder fünf Venen kommen vor.",
+   "dis": {
+    "A": "Es gibt pro Seite meist zwei.",
+    "B": "Nur bei Varianten.",
+    "C": "Zu wenig.",
+    "E": "Zu viele."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-17-1",
+   "src": "F1-17",
+   "typ": "perspektive",
+   "q": "Aus welchem Gefäß entspringen die linken Rr. bronchiales typischerweise?",
+   "o": [
+    "Truncus pulmonalis",
+    "A. subclavia",
+    "A. carotis communis",
+    "V. azygos",
+    "Aorta thoracica"
+   ],
+   "a": "E",
+   "expl": "Die Rr. bronchiales sind die Vasa privata der Lunge. Links entspringen sie meist direkt aus der Aorta thoracica, rechts häufig aus einer A. intercostalis posterior.",
+   "dis": {
+    "A": "Gehört zum Lungenkreislauf (Vasa publica).",
+    "B": "Gibt die A. thoracica interna ab.",
+    "C": "Versorgt Hals und Kopf.",
+    "D": "Vene, keine Arterie."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-17-2",
+   "src": "F1-17",
+   "typ": "perspektive",
+   "q": "Wohin fließt das Blut der Vv. bronchiales überwiegend ab?",
+   "o": [
+    "In die V. azygos bzw. V. hemiazygos",
+    "In den Truncus pulmonalis",
+    "In die V. portae",
+    "In die V. jugularis externa",
+    "In den Sinus coronarius"
+   ],
+   "a": "A",
+   "expl": "Die Vv. bronchiales der hilusnahen Bronchien münden in V. azygos und V. hemiazygos. Ein Teil des Bronchialblutes fließt über Anastomosen in die Vv. pulmonales ab.",
+   "dis": {
+    "B": "Arterielles Gefäß des Lungenkreislaufs.",
+    "C": "Sammelt Blut aus dem Verdauungstrakt.",
+    "D": "Sammelt oberflächlich Blut aus dem Kopf.",
+    "E": "Sammelt Herzvenenblut."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-18-1",
+   "src": "F1-18",
+   "typ": "perspektive",
+   "q": "Aus welchen Rückenmarkssegmenten stammen die sympathischen Fasern für Trachea und Lunge?",
+   "o": [
+    "C1–C3",
+    "Th1–Th5",
+    "L1–L2",
+    "S2–S4",
+    "Th10–L2"
+   ],
+   "a": "B",
+   "expl": "Die präganglionären sympathischen Neurone für die Thoraxorgane liegen im Seitenhorn Th1–Th5. Postganglionäre Fasern aus dem Grenzstrang ziehen zum Plexus pulmonalis.",
+   "dis": {
+    "A": "Kein sympathisches Ursprungsgebiet.",
+    "C": "Versorgt Beckenorgane.",
+    "D": "Parasympathisches Sakralmark.",
+    "E": "Versorgt u. a. Darm und Niere."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-18-2",
+   "src": "F1-18",
+   "typ": "nachbarschaft",
+   "q": "Welches vegetative Geflecht bildet sich am Lungenhilus?",
+   "o": [
+    "Plexus cardiacus",
+    "Plexus coeliacus",
+    "Plexus pulmonalis",
+    "Plexus brachialis",
+    "Plexus hypogastricus inferior"
+   ],
+   "a": "C",
+   "expl": "Am Hilus vereinigen sich vagale (parasympathische) und sympathische Fasern zum Plexus pulmonalis. Von dort ziehen sie mit Bronchien und Gefäßen in die Lunge.",
+   "dis": {
+    "A": "Liegt an der Herzbasis bzw. am Aortenbogen.",
+    "B": "Liegt am Truncus coeliacus im Oberbauch.",
+    "D": "Somatisches Nervengeflecht für den Arm.",
+    "E": "Liegt im kleinen Becken."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-19-1",
+   "src": "F1-19",
+   "typ": "nachbarschaft",
+   "q": "Wo verläuft der N. vagus im Thorax in Bezug auf die Lungenwurzel?",
+   "o": [
+    "Ventral der Lungenwurzel",
+    "Durch das Lungenparenchym",
+    "Lateral auf den Rippen",
+    "Dorsal der Lungenwurzel",
+    "Innerhalb des Perikards"
+   ],
+   "a": "D",
+   "expl": "Der N. vagus zieht hinter der Lungenwurzel nach kaudal und bildet am Ösophagus den Plexus oesophageus. Der N. phrenicus verläuft vor der Lungenwurzel.",
+   "dis": {
+    "A": "Dort verläuft der N. phrenicus.",
+    "B": "Er verläuft im Mediastinum.",
+    "C": "Dort verlaufen die Interkostalnerven.",
+    "E": "Kein Nerv verläuft in der Perikardhöhle."
+   },
+   "merk": "Phrenicus vorne, Vagus hinten.",
+   "img": null
+  },
+  {
+   "id": "V-F1-19-2",
+   "src": "F1-19",
+   "typ": "perspektive",
+   "q": "Welche Wirkung hat die Aktivierung vagaler Fasern auf die Bronchialdrüsen?",
+   "o": [
+    "Hemmung der Sekretion",
+    "Keine Wirkung",
+    "Vasokonstriktion der Bronchialarterien",
+    "Bronchodilatation",
+    "Steigerung der Sekretion"
+   ],
+   "a": "E",
+   "expl": "Acetylcholin aus vagalen Fasern verengt die Bronchien und steigert die Schleimsekretion. Deshalb können Anticholinergika die Bronchien weiten und die Sekretion verringern.",
+   "dis": {
+    "A": "Das ist eher sympathische Wirkung.",
+    "B": "Die Drüsen sind parasympathisch innerviert.",
+    "C": "Gefäßwirkung, nicht Drüsenwirkung.",
+    "D": "Der Parasympathikus wirkt bronchokonstriktorisch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-20-1",
+   "src": "F1-20",
+   "typ": "nachbarschaft",
+   "q": "Welche Lymphknoten liegen direkt unterhalb der Trachealbifurkation?",
+   "o": [
+    "Nodi lymphoidei tracheobronchiales inferiores",
+    "Nodi lymphoidei parasternales",
+    "Nodi lymphoidei axillares",
+    "Nodi lymphoidei cervicales profundi superiores",
+    "Nodi lymphoidei coeliaci"
+   ],
+   "a": "A",
+   "expl": "Die Bifurkationslymphknoten sammeln Lymphe aus beiden Lungen. Vergrößert können sie die Bifurkation spreizen; im Röntgen ist dann der Bifurkationswinkel vergrößert.",
+   "dis": {
+    "B": "Liegen entlang der Vasa thoracica interna.",
+    "C": "Liegen in der Achsel.",
+    "D": "Liegen am Hals.",
+    "E": "Liegen im Oberbauch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-20-2",
+   "src": "F1-20",
+   "typ": "perspektive",
+   "q": "Welche Lymphknoten sind die ersten Stationen für die Lymphe aus dem Lungenparenchym?",
+   "o": [
+    "Nodi lymphoidei paratracheales",
+    "Nodi lymphoidei intrapulmonales bzw. bronchopulmonales",
+    "Nodi lymphoidei axillares",
+    "Nodi lymphoidei inguinales",
+    "Nodi lymphoidei mesenterici"
+   ],
+   "a": "B",
+   "expl": "Die Lymphe fließt entlang der Bronchien über intrapulmonale und bronchopulmonale (Hilus-)Lymphknoten zu den tracheobronchialen und paratrachealen Lymphknoten. Von dort geht sie in den Truncus bronchomediastinalis.",
+   "dis": {
+    "A": "Liegen weiter zentral entlang der Trachea.",
+    "C": "Drainieren den Arm und die Brustwand.",
+    "D": "Drainieren das Bein.",
+    "E": "Drainieren den Darm."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-21-1",
+   "src": "F1-21",
+   "typ": "perspektive",
+   "q": "Über welchen Lymphstamm gelangt die Lymphe der Lunge schließlich in den Venenwinkel?",
+   "o": [
+    "Truncus jugularis",
+    "Truncus subclavius",
+    "Truncus bronchomediastinalis",
+    "Truncus intestinalis",
+    "Truncus lumbalis"
+   ],
+   "a": "C",
+   "expl": "Die Trunci bronchomediastinales sammeln Lymphe aus Lunge und Mediastinum. Sie münden rechts in den Ductus lymphaticus dexter und links in den Ductus thoracicus bzw. direkt in den Venenwinkel.",
+   "dis": {
+    "A": "Sammelt Lymphe aus Kopf und Hals.",
+    "B": "Sammelt Lymphe aus dem Arm.",
+    "D": "Sammelt Lymphe aus dem Darm.",
+    "E": "Sammelt Lymphe aus Bein und Becken."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-21-2",
+   "src": "F1-21",
+   "typ": "klinik",
+   "q": "Lymphe aus dem linken Unterlappen fließt teilweise über die Bifurkationslymphknoten zur rechten Seite. Was bedeutet das für ein Bronchialkarzinom im linken Unterlappen?",
+   "o": [
+    "Es kann nicht lymphogen metastasieren.",
+    "Es metastasiert ausschließlich in die Axilla.",
+    "Es metastasiert nur hämatogen in die Leber.",
+    "Lymphknotenmetastasen sind auch in rechten mediastinalen Lymphknoten möglich.",
+    "Ipsilaterale Lymphknoten sind nie betroffen."
+   ],
+   "a": "D",
+   "expl": "Der linke Unterlappen drainiert teilweise über die Bifurkationsknoten nach rechts. Deshalb müssen bei der Stadieneinteilung auch kontralaterale mediastinale Lymphknoten untersucht werden.",
+   "dis": {
+    "A": "Bronchialkarzinome metastasieren früh lymphogen.",
+    "B": "Die Axilla drainiert die Brustwand.",
+    "C": "Hämatogene Metastasen kommen zusätzlich vor, aber nicht ausschließlich.",
+    "E": "Zuerst sind meist ipsilaterale Knoten betroffen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-22-1",
+   "src": "F1-22",
+   "typ": "umkehrung",
+   "q": "Welche Lungenfläche liegt dem Zwerchfell auf?",
+   "o": [
+    "Facies costalis",
+    "Facies mediastinalis",
+    "Facies interlobaris",
+    "Apex pulmonis",
+    "Facies diaphragmatica"
+   ],
+   "a": "E",
+   "expl": "Die Lunge hat eine Facies costalis, mediastinalis, diaphragmatica und Facies interlobares. Die Facies diaphragmatica ist konkav und bildet die Basis pulmonis.",
+   "dis": {
+    "A": "Liegt den Rippen an.",
+    "B": "Grenzt an das Mediastinum.",
+    "C": "Liegt in den Fissuren.",
+    "D": "Lungenspitze."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-22-2",
+   "src": "F1-22",
+   "typ": "nachbarschaft",
+   "q": "Welche Struktur hinterlässt an der Facies mediastinalis der linken Lunge den tiefsten Abdruck?",
+   "o": [
+    "Herz (Impressio cardiaca)",
+    "Ösophagus",
+    "V. cava superior",
+    "V. azygos",
+    "Leber"
+   ],
+   "a": "A",
+   "expl": "Weil das Herz nach links verlagert ist, ist die Impressio cardiaca links tief. Dazu kommen links die Abdrücke von Aortenbogen und Aorta descendens.",
+   "dis": {
+    "B": "Hinterlässt rechts eine Furche.",
+    "C": "Liegt rechts.",
+    "D": "Liegt rechts.",
+    "E": "Liegt unter dem rechten Zwerchfell, nicht mediastinal."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-23-1",
+   "src": "F1-23",
+   "typ": "perspektive",
+   "q": "Welche Einkerbung am Vorderrand der linken Lunge ist durch die Herzlage bedingt?",
+   "o": [
+    "Fissura horizontalis",
+    "Incisura cardiaca",
+    "Hilum pulmonis",
+    "Lingula pulmonis sinistri",
+    "Sulcus arteriae subclaviae"
+   ],
+   "a": "B",
+   "expl": "Die Incisura cardiaca lässt einen Teil des Herzbeutels ohne Lungenüberdeckung (absolute Herzdämpfung). Darunter liegt die Lingula. Die linke Lunge ist dadurch kleiner als die rechte.",
+   "dis": {
+    "A": "Liegt in der rechten Lunge.",
+    "C": "Ein- und Austrittsstelle der Lungenwurzel.",
+    "D": "Zungenförmiger Fortsatz unterhalb der Incisura.",
+    "E": "Furche an der Lungenspitze."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-23-2",
+   "src": "F1-23",
+   "typ": "perspektive",
+   "q": "Welcher Anteil der linken Lunge entspricht entwicklungsgeschichtlich dem rechten Mittellappen?",
+   "o": [
+    "Lobus inferior",
+    "Apex pulmonis",
+    "Lingula pulmonis sinistri",
+    "Apikales Segment des Oberlappens",
+    "Incisura cardiaca"
+   ],
+   "a": "C",
+   "expl": "Die Lingula ist der untere Teil des linken Oberlappens mit zwei Segmenten (S4, S5). Sie wird wie der rechte Mittellappen von einem eigenen Bronchus versorgt.",
+   "dis": {
+    "A": "Entspricht dem rechten Unterlappen.",
+    "B": "Lungenspitze.",
+    "D": "Entspricht dem rechten apikalen Segment.",
+    "E": "Einkerbung, kein Lungengewebe."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-24-1",
+   "src": "F1-24",
+   "typ": "umkehrung",
+   "q": "Welche Fissur trennt in der rechten Lunge den Oberlappen vom Mittellappen?",
+   "o": [
+    "Fissura obliqua",
+    "Fissura mediana anterior",
+    "Incisura cardiaca",
+    "Fissura horizontalis",
+    "Fissura interlobaris inferior"
+   ],
+   "a": "D",
+   "expl": "Die rechte Lunge hat zwei Fissuren (obliqua und horizontalis) und drei Lappen. Die linke hat nur die Fissura obliqua und zwei Lappen.",
+   "dis": {
+    "A": "Trennt den Unterlappen von Ober- und Mittellappen.",
+    "B": "Furche am Rückenmark.",
+    "C": "Einkerbung der linken Lunge.",
+    "E": "Kein Fachbegriff der Lunge."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-24-2",
+   "src": "F1-24",
+   "typ": "klinik",
+   "q": "Entlang welcher Rippe projiziert sich die Fissura horizontalis der rechten Lunge auf die vordere Brustwand?",
+   "o": [
+    "2. Rippe",
+    "6. Rippe",
+    "8. Rippe",
+    "Clavicula",
+    "4. Rippe"
+   ],
+   "a": "E",
+   "expl": "Die Fissura horizontalis verläuft etwa horizontal entlang der 4. Rippe zur mittleren Axillarlinie, wo sie auf die Fissura obliqua trifft. Das hilft bei der Zuordnung von Auskultationsbefunden.",
+   "dis": {
+    "A": "Zu hoch.",
+    "B": "Hier verläuft vorne die Fissura obliqua bzw. der untere Lungenrand.",
+    "C": "Zu tief.",
+    "D": "Liegt oberhalb des Oberlappens."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-25-1",
+   "src": "F1-25",
+   "typ": "klinik",
+   "q": "In welchen Hauptbronchus gelangen aspirierte Fremdkörper häufiger, und warum?",
+   "o": [
+    "In den rechten, weil er steiler und weiter ist",
+    "In den linken, weil er steiler abgeht",
+    "In den linken, weil er kürzer ist",
+    "In beide gleich häufig",
+    "In den rechten, weil er enger ist"
+   ],
+   "a": "A",
+   "expl": "Der rechte Hauptbronchus setzt die Trachea fast gerade fort, ist kürzer und weiter. Fremdkörper landen deshalb meist rechts, oft im Unterlappen.",
+   "dis": {
+    "B": "Der linke Hauptbronchus verläuft flacher.",
+    "C": "Der linke Hauptbronchus ist länger.",
+    "D": "Rechts ist deutlich häufiger.",
+    "E": "Er ist weiter, nicht enger."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-25-2",
+   "src": "F1-25",
+   "typ": "perspektive",
+   "q": "Welche Aussage zum linken Hauptbronchus trifft im Vergleich zum rechten zu?",
+   "o": [
+    "Er ist kürzer und steiler.",
+    "Er ist länger und geht in einem flacheren Winkel von der Trachea ab.",
+    "Er ist gleich lang und gleich steil.",
+    "Er verläuft senkrecht nach unten.",
+    "Er gibt einen eparteriellen Oberlappenbronchus ab."
+   ],
+   "a": "B",
+   "expl": "Der linke Hauptbronchus ist etwa 4–5 cm lang und zieht unter dem Aortenbogen flach nach links. Der rechte ist etwa 1–2,5 cm lang und steiler.",
+   "dis": {
+    "A": "Das gilt für den rechten Hauptbronchus.",
+    "C": "Es gibt deutliche Unterschiede.",
+    "D": "Er zieht schräg unter dem Aortenbogen nach links.",
+    "E": "Das gilt für die rechte Seite."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-26-1",
+   "src": "F1-26",
+   "typ": "nachbarschaft",
+   "q": "Welche Struktur liegt im linken Lungenhilus typischerweise am weitesten kranial?",
+   "o": [
+    "Bronchus principalis sinister",
+    "Vv. pulmonales",
+    "A. pulmonalis sinistra",
+    "Lig. pulmonale",
+    "Nodi lymphoidei bronchopulmonales"
+   ],
+   "a": "C",
+   "expl": "Links liegt die A. pulmonalis oben, darunter und dahinter der Hauptbronchus, vorne-unten die Vv. pulmonales. Rechts liegt der Oberlappenbronchus über der Arterie (eparteriell).",
+   "dis": {
+    "A": "Liegt unter bzw. hinter der Arterie.",
+    "B": "Liegen am weitesten ventral und kaudal.",
+    "D": "Pleurafalte unterhalb des Hilus.",
+    "E": "Liegen um den Bronchus herum."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-26-2",
+   "src": "F1-26",
+   "typ": "nachbarschaft",
+   "q": "Welche Struktur liegt im rechten Lungenhilus typischerweise am weitesten kranial?",
+   "o": [
+    "A. pulmonalis dextra",
+    "V. pulmonalis inferior dextra",
+    "Lig. pulmonale",
+    "Bronchus lobaris superior dexter (eparterieller Bronchus)",
+    "N. phrenicus"
+   ],
+   "a": "D",
+   "expl": "Der rechte Oberlappenbronchus geht schon vor dem Eintritt der A. pulmonalis ab und liegt über ihr. Deshalb heißt er eparterieller Bronchus.",
+   "dis": {
+    "A": "Liegt unter dem Oberlappenbronchus.",
+    "B": "Liegt am weitesten kaudal.",
+    "C": "Liegt unterhalb des Hilus.",
+    "E": "Verläuft vor der Lungenwurzel, nicht im Hilus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-27-1",
+   "src": "F1-27",
+   "typ": "klinik",
+   "q": "Ein Tumor in der Lungenspitze (Pancoast-Tumor) verursacht Schulter-Arm-Schmerzen und ein Horner-Syndrom. Welche Strukturen sind infiltriert?",
+   "o": [
+    "N. femoralis",
+    "N. facialis",
+    "N. ischiadicus",
+    "N. accessorius allein",
+    "Untere Anteile des Plexus brachialis und der Truncus sympathicus (Ganglion stellatum)"
+   ],
+   "a": "E",
+   "expl": "Die Lungenspitze reicht über die 1. Rippe in die obere Thoraxapertur. Dort liegen der untere Plexus brachialis (C8, Th1) und das Ganglion stellatum. Ihre Infiltration erklärt Armschmerzen und Horner-Syndrom.",
+   "dis": {
+    "A": "Liegt in der Leiste.",
+    "B": "Liegt im Kopfbereich.",
+    "C": "Liegt im Becken bzw. Gesäß.",
+    "D": "Würde keine Armschmerzen und kein Horner-Syndrom erklären."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-27-2",
+   "src": "F1-27",
+   "typ": "klinik",
+   "q": "Warum kann bei einer Punktion der V. subclavia ein Pneumothorax entstehen?",
+   "o": [
+    "Weil die Pleurakuppel mit der Lungenspitze über die 1. Rippe hinausragt",
+    "Weil die Lunge im Mediastinum liegt",
+    "Weil die V. subclavia durch die Lunge verläuft",
+    "Weil das Zwerchfell bis zur Clavicula reicht",
+    "Weil die Trachea direkt unter der V. subclavia liegt"
+   ],
+   "a": "A",
+   "expl": "Die Pleurakuppel liegt direkt hinter und unter der V. subclavia. Eine zu tief geführte Nadel kann sie anstechen.",
+   "dis": {
+    "B": "Die Lungen liegen lateral des Mediastinums.",
+    "C": "Sie verläuft über der 1. Rippe außerhalb der Pleura.",
+    "D": "Das Zwerchfell liegt viel tiefer.",
+    "E": "Eine Trachealverletzung verursacht keinen Pneumothorax."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-28-1",
+   "src": "F1-28",
+   "typ": "umkehrung",
+   "q": "Was bezeichnet der Begriff „Basis pulmonis“?",
+   "o": [
+    "Die Lungenspitze",
+    "Die dem Zwerchfell aufliegende Unterfläche der Lunge",
+    "Die Lungenwurzel",
+    "Den Lungenhilus",
+    "Die Lingula"
+   ],
+   "a": "B",
+   "expl": "Die Basis pulmonis ist die konkave Unterfläche (Facies diaphragmatica), die dem Zwerchfell aufliegt. Ihr gegenüber liegt der Apex.",
+   "dis": {
+    "A": "Apex pulmonis.",
+    "C": "Radix pulmonis.",
+    "D": "Ein- und Austrittsstelle an der Facies mediastinalis.",
+    "E": "Fortsatz des linken Oberlappens."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-28-2",
+   "src": "F1-28",
+   "typ": "perspektive",
+   "q": "Was versteht man unter der Radix pulmonis?",
+   "o": [
+    "Die Lungenspitze",
+    "Die Lungenbasis",
+    "Die Gesamtheit der Strukturen, die am Hilum in die Lunge ein- und austreten",
+    "Die kleinste morphologische Baueinheit der Lunge",
+    "Die Pleurakuppel"
+   ],
+   "a": "C",
+   "expl": "Die Lungenwurzel besteht aus Hauptbronchus, A. und Vv. pulmonales, Bronchialgefäßen, Lymphgefäßen und Nerven. Sie ist von Pleura umhüllt, die unten zum Lig. pulmonale ausläuft.",
+   "dis": {
+    "A": "Apex pulmonis.",
+    "B": "Basis pulmonis.",
+    "D": "Lobulus pulmonis.",
+    "E": "Cupula pleurae."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-29-1",
+   "src": "F1-29",
+   "typ": "umkehrung",
+   "q": "Welcher Lappen fehlt der linken Lunge im Vergleich zur rechten?",
+   "o": [
+    "Lobus superior",
+    "Lobus inferior",
+    "Lingula",
+    "Lobus medius",
+    "Apex pulmonis"
+   ],
+   "a": "D",
+   "expl": "Die linke Lunge hat nur Ober- und Unterlappen. Dem rechten Mittellappen entspricht links die Lingula des Oberlappens.",
+   "dis": {
+    "A": "Ist links vorhanden.",
+    "B": "Ist links vorhanden.",
+    "C": "Ist links vorhanden, als Teil des Oberlappens.",
+    "E": "Ist links vorhanden."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-29-2",
+   "src": "F1-29",
+   "typ": "perspektive",
+   "q": "Welche Lappen trennt die Fissura obliqua der rechten Lunge?",
+   "o": [
+    "Den Oberlappen vom Mittellappen",
+    "Nur Ober- und Unterlappen",
+    "Den Mittellappen von der Lingula",
+    "Sie trennt keine Lappen",
+    "Den Unterlappen von Ober- und Mittellappen"
+   ],
+   "a": "E",
+   "expl": "Die Fissura obliqua zieht schräg von dorsal-oben nach ventral-unten. Rechts trennt sie den Unterlappen von Ober- und Mittellappen, links den Ober- vom Unterlappen.",
+   "dis": {
+    "A": "Das tut die Fissura horizontalis.",
+    "B": "Rechts grenzt sie auch an den Mittellappen.",
+    "C": "Die Lingula liegt links.",
+    "D": "Sie ist eine Lappengrenze."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-14/F2-15-1",
+   "src": "D2-14/F2-15",
+   "typ": "perspektive",
+   "q": "Welche Lunge ist größer, und warum?",
+   "o": [
+    "Die rechte, weil das Herz nach links verlagert ist",
+    "Die linke, weil die Leber rechts Platz wegnimmt",
+    "Beide sind gleich groß",
+    "Die linke, weil sie drei Lappen hat",
+    "Die rechte, weil sie bis ins Abdomen reicht"
+   ],
+   "a": "A",
+   "expl": "Das Herz liegt zu zwei Dritteln links der Medianebene. Die linke Lunge ist dadurch schmaler (Incisura cardiaca) und hat nur zwei Lappen.",
+   "dis": {
+    "B": "Die Leber hebt nur das rechte Zwerchfell an; die rechte Lunge bleibt größer.",
+    "C": "Die rechte ist größer.",
+    "D": "Die linke hat zwei Lappen.",
+    "E": "Keine Lunge reicht ins Abdomen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-14/F2-15-2",
+   "src": "D2-14/F2-15",
+   "typ": "perspektive",
+   "q": "Welcher Muskel ist der wichtigste Inspirationsmuskel?",
+   "o": [
+    "Mm. intercostales interni",
+    "Diaphragma",
+    "M. rectus abdominis",
+    "M. latissimus dorsi",
+    "M. trapezius"
+   ],
+   "a": "B",
+   "expl": "Das Zwerchfell (N. phrenicus, C3–C5) senkt sich bei Kontraktion und vergrößert den Thorax nach unten. Es leistet in Ruhe den größten Teil der Inspiration.",
+   "dis": {
+    "A": "Wirken überwiegend exspiratorisch.",
+    "C": "Exspirationshilfsmuskel (Bauchpresse).",
+    "D": "Hilft eher bei forcierter Exspiration (Hustenmuskel).",
+    "E": "Kein wesentlicher Atemmuskel."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-15/F2-16-1",
+   "src": "D2-15/F2-16",
+   "typ": "perspektive",
+   "q": "Welche Aussage zum Aufbau eines bronchopulmonalen Segments trifft zu?",
+   "o": [
+    "Die Venen verlaufen zentral, die Arterie intersegmental.",
+    "Die Segmente sind durch Fissuren mit Pleura getrennt.",
+    "Segmentbronchus und Segmentarterie verlaufen zentral, die Venen intersegmental.",
+    "Jedes Segment hat einen eigenen pleurabedeckten Hilus.",
+    "Segmente können chirurgisch nicht einzeln entfernt werden."
+   ],
+   "a": "C",
+   "expl": "Ein Segment ist ein keilförmiges Areal um einen Segmentbronchus mit begleitender Segmentarterie. Die Venen liegen an den Grenzen; daran orientiert sich der Chirurg bei einer Segmentresektion.",
+   "dis": {
+    "A": "Genau umgekehrt.",
+    "B": "Segmente sind durch Bindegewebssepten getrennt, nicht durch Fissuren.",
+    "D": "Es gibt nur einen Lungenhilus.",
+    "E": "Segmentresektionen sind möglich."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-15/F2-16-2",
+   "src": "D2-15/F2-16",
+   "typ": "klinik",
+   "q": "Welches Lungensegment ist bei Aspiration in Rückenlage besonders häufig betroffen?",
+   "o": [
+    "Segmentum apicale des Oberlappens (S1)",
+    "Segmentum laterale des Mittellappens (S4)",
+    "Segmentum basale posterius (S10)",
+    "Segmentum superius des Unterlappens (S6)",
+    "Segmentum anterius des Oberlappens (S3)"
+   ],
+   "a": "D",
+   "expl": "Der Bronchus für S6 geht nach dorsal ab. In Rückenlage fließt Aspirat der Schwerkraft folgend dorthin; typisch ist eine Aspirationspneumonie im rechten S6.",
+   "dis": {
+    "A": "Bei Aspiration im Liegen seltener.",
+    "B": "Liegt ventral.",
+    "C": "Eher bei Aspiration im Sitzen bzw. Stehen.",
+    "E": "Liegt ventral."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-16/F2-17-1",
+   "src": "D2-16/F2-17",
+   "typ": "nachbarschaft",
+   "q": "Welche Struktur hinterlässt eine deutliche Furche an der Facies mediastinalis der linken Lunge hinter dem Hilus?",
+   "o": [
+    "V. azygos",
+    "V. cava superior",
+    "Ösophagus",
+    "Trachea",
+    "Aorta (Arcus und Pars descendens)"
+   ],
+   "a": "E",
+   "expl": "Links bogen sich Aortenbogen und Aorta descendens um bzw. hinter dem Hilus. Sie hinterlassen den Sulcus aortae an der fixierten Lunge.",
+   "dis": {
+    "A": "Liegt rechts.",
+    "B": "Liegt rechts.",
+    "C": "Hinterlässt vor allem rechts eine Furche.",
+    "D": "Liegt median, kaum Kontakt links."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-16/F2-17-2",
+   "src": "D2-16/F2-17",
+   "typ": "nachbarschaft",
+   "q": "Welche Struktur hinterlässt an der Facies mediastinalis der rechten Lunge eine Furche, die bogenförmig über den Hilus zieht?",
+   "o": [
+    "Arcus venae azygos",
+    "Arcus aortae",
+    "Truncus pulmonalis",
+    "Herzspitze",
+    "Ductus thoracicus"
+   ],
+   "a": "A",
+   "expl": "Die V. azygos zieht über den rechten Hauptbronchus nach vorne und mündet in die V. cava superior. An der rechten Lunge hinterlässt sie den Sulcus venae azygos.",
+   "dis": {
+    "B": "Liegt links.",
+    "C": "Liegt links-ventral im Perikard.",
+    "D": "Liegt links.",
+    "E": "Zu klein für eine Furche."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-17/F2-18-1",
+   "src": "D2-17/F2-18",
+   "typ": "bild",
+   "q": "Auf welcher Höhe beginnt die mit 3 markierte Fissur dorsal etwa?",
+   "o": [
+    "In Höhe C7",
+    "In Höhe des Dornfortsatzes von Th3/Th4",
+    "In Höhe Th8",
+    "In Höhe Th12",
+    "In Höhe L1"
+   ],
+   "a": "B",
+   "expl": "Die Fissura obliqua beginnt dorsal etwa in Höhe Th3/Th4 und zieht schräg nach vorne-unten bis zur 6. Rippe in der Medioklavikularlinie. Bei abduziertem Arm folgt sie etwa dem Margo medialis scapulae.",
+   "dis": {
+    "A": "Zu hoch, das ist die Höhe der Lungenspitze.",
+    "C": "Zu tief.",
+    "D": "Zu tief; dort liegt der untere Lungenrand bzw. die Pleuragrenze.",
+    "E": "Liegt unterhalb des Thorax."
+   },
+   "merk": "",
+   "img": "img/i10.jpg"
+  },
+  {
+   "id": "V-D2-17/F2-18-2",
+   "src": "D2-17/F2-18",
+   "typ": "bild",
+   "q": "Entlang welcher Rippe endet die mit 3 markierte Fissur ventral?",
+   "o": [
+    "4. Rippe",
+    "2. Rippe",
+    "6. Rippe",
+    "10. Rippe",
+    "Clavicula"
+   ],
+   "a": "C",
+   "expl": "Die Fissura obliqua erreicht vorne die 6. Rippe bzw. den 6. Rippenknorpel. Unterhalb davon liegt vorne der Mittellappen bzw. die Lingula, dorsal überwiegend der Unterlappen.",
+   "dis": {
+    "A": "Verlauf der Fissura horizontalis.",
+    "B": "Zu hoch.",
+    "D": "Zu tief, Pleuragrenze in der Axillarlinie.",
+    "E": "Liegt oberhalb der Lunge."
+   },
+   "merk": "",
+   "img": "img/i10.jpg"
+  },
+  {
+   "id": "V-D2-18/F2-19-1",
+   "src": "D2-18/F2-19",
+   "typ": "bild",
+   "q": "Welches Gefäß hinterlässt an der mit 1 markierten Stelle eine Furche?",
+   "o": [
+    "Aorta descendens",
+    "V. cava inferior",
+    "V. azygos",
+    "A. subclavia",
+    "Truncus pulmonalis"
+   ],
+   "a": "D",
+   "expl": "Nr. 1 markiert den Apex pulmonis. Über ihn zieht die A. subclavia und hinterlässt den Sulcus a. subclaviae. Deshalb sind Lungenspitzentumoren eng mit Gefäßen und Plexus brachialis benachbart.",
+   "dis": {
+    "A": "Liegt weiter unten an der linken Lunge.",
+    "B": "Liegt unter dem Zwerchfell bzw. am Herzen.",
+    "C": "Liegt am rechten Hilus.",
+    "E": "Liegt im Perikard."
+   },
+   "merk": "",
+   "img": "img/i11.jpg"
+  },
+  {
+   "id": "V-D2-18/F2-19-2",
+   "src": "D2-18/F2-19",
+   "typ": "bild",
+   "q": "Wie weit reicht die mit 1 markierte Struktur nach kranial?",
+   "o": [
+    "Bis zum 2. Halswirbel",
+    "Sie bleibt unterhalb der Clavicula.",
+    "Bis zum Kieferwinkel",
+    "Etwa 10 cm über die Clavicula",
+    "Etwa 2–3 cm über die Clavicula in die Fossa supraclavicularis major"
+   ],
+   "a": "E",
+   "expl": "Die Lungenspitze überragt die 1. Rippe und die Clavicula und liegt in der Pleurakuppel in der Fossa supraclavicularis. Dort ist sie bei Punktionen und Verletzungen gefährdet.",
+   "dis": {
+    "A": "Viel zu hoch.",
+    "B": "Sie überragt die Clavicula.",
+    "C": "Viel zu hoch.",
+    "D": "Viel zu hoch."
+   },
+   "merk": "",
+   "img": "img/i11.jpg"
+  },
+  {
+   "id": "V-D2-19/F2-20-1",
+   "src": "D2-19/F2-20",
+   "typ": "perspektive",
+   "q": "Was versteht man unter einem Acinus der Lunge?",
+   "o": [
+    "Das Gebiet, das von einem Bronchiolus terminalis versorgt wird",
+    "Einen Lungenlappen",
+    "Ein Lungensegment",
+    "Eine Pleurafalte",
+    "Eine einzelne Alveole"
+   ],
+   "a": "A",
+   "expl": "Der Acinus ist die respiratorische Einheit distal eines Bronchiolus terminalis (Bronchioli respiratorii, Ductus und Sacculi alveolares). Mehrere Acini bilden einen Lobulus.",
+   "dis": {
+    "B": "Lobus pulmonis.",
+    "C": "Segmentum bronchopulmonale.",
+    "D": "Z. B. Lig. pulmonale.",
+    "E": "Ein Acinus enthält viele Alveolen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-19/F2-20-2",
+   "src": "D2-19/F2-20",
+   "typ": "perspektive",
+   "q": "In welchem Abschnitt des Bronchialbaums findet erstmals Gasaustausch statt?",
+   "o": [
+    "Bronchiolus terminalis",
+    "Bronchiolus respiratorius",
+    "Segmentbronchus",
+    "Hauptbronchus",
+    "Trachea"
+   ],
+   "a": "B",
+   "expl": "Die Bronchioli respiratorii tragen in ihrer Wand bereits einzelne Alveolen. Ab hier beginnt der respiratorische Teil.",
+   "dis": {
+    "A": "Letzter rein luftleitender Abschnitt.",
+    "C": "Rein luftleitend, mit Knorpel.",
+    "D": "Rein luftleitend.",
+    "E": "Rein luftleitend."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-20/F2-21-1",
+   "src": "D2-20/F2-21",
+   "typ": "umkehrung",
+   "q": "Welche Lungenfläche liegt in den Fissuren zwischen den Lappen?",
+   "o": [
+    "Facies costalis",
+    "Facies mediastinalis",
+    "Facies interlobaris",
+    "Facies diaphragmatica",
+    "Margo anterior"
+   ],
+   "a": "C",
+   "expl": "Die Facies interlobares sind die einander zugewandten Flächen der Lappen in den Fissuren. Sie sind von Pleura visceralis überzogen.",
+   "dis": {
+    "A": "Liegt den Rippen an.",
+    "B": "Grenzt an das Mediastinum.",
+    "D": "Liegt dem Zwerchfell auf.",
+    "E": "Vorderer Rand."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-20/F2-21-2",
+   "src": "D2-20/F2-21",
+   "typ": "perspektive",
+   "q": "Welcher Lungenrand gleitet bei tiefer Inspiration in den Recessus costodiaphragmaticus?",
+   "o": [
+    "Margo anterior",
+    "Apex pulmonis",
+    "Hilum pulmonis",
+    "Margo inferior",
+    "Lingula"
+   ],
+   "a": "D",
+   "expl": "Der Recessus costodiaphragmaticus ist ein Reserveraum der Pleurahöhle. Bei Inspiration gleitet der untere Lungenrand hinein; bei Ergüssen sammelt sich hier zuerst Flüssigkeit.",
+   "dis": {
+    "A": "Gleitet in den Recessus costomediastinalis.",
+    "B": "Liegt in der Pleurakuppel.",
+    "C": "Liegt mediastinal.",
+    "E": "Liegt vorne-unten links, gleitet in den Recessus costomediastinalis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-22-1",
+   "src": "F2-22",
+   "typ": "perspektive",
+   "q": "Wo projiziert sich der untere Lungenrand in Atemmittellage in der Medioklavikularlinie?",
+   "o": [
+    "4. Rippe",
+    "8. Rippe",
+    "10. Rippe",
+    "12. Rippe",
+    "6. Rippe"
+   ],
+   "a": "E",
+   "expl": "Der untere Lungenrand liegt in der Medioklavikularlinie an der 6., in der mittleren Axillarlinie an der 8. und paravertebral an der 10. Rippe. Die Pleuragrenze liegt jeweils etwa zwei Rippen tiefer.",
+   "dis": {
+    "A": "Zu hoch.",
+    "B": "Lungenrand in der mittleren Axillarlinie.",
+    "C": "Lungenrand paravertebral.",
+    "D": "Pleuragrenze paravertebral."
+   },
+   "merk": "Lunge 6–8–10, Pleura 8–10–12.",
+   "img": null
+  },
+  {
+   "id": "V-F2-22-2",
+   "src": "F2-22",
+   "typ": "perspektive",
+   "q": "Wo projiziert sich die untere Pleuragrenze in der mittleren Axillarlinie?",
+   "o": [
+    "10. Rippe",
+    "6. Rippe",
+    "8. Rippe",
+    "12. Rippe",
+    "4. Rippe"
+   ],
+   "a": "A",
+   "expl": "Die Pleura reicht etwa zwei Rippen tiefer als die Lunge. Der Zwischenraum ist der Recessus costodiaphragmaticus, in den die Lunge bei Inspiration gleitet.",
+   "dis": {
+    "B": "Lungenrand in der Medioklavikularlinie.",
+    "C": "Lungenrand in der mittleren Axillarlinie.",
+    "D": "Pleuragrenze paravertebral.",
+    "E": "Viel zu hoch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-21/F2-23-1",
+   "src": "D2-21/F2-23",
+   "typ": "nachbarschaft",
+   "q": "Welches Geflecht bilden die Nn. vagi unterhalb der Lungenwurzel?",
+   "o": [
+    "Plexus coeliacus",
+    "Plexus oesophageus",
+    "Plexus brachialis",
+    "Plexus cervicalis",
+    "Plexus hypogastricus superior"
+   ],
+   "a": "B",
+   "expl": "Unter der Lungenwurzel verflechten sich beide Nn. vagi am Ösophagus. Daraus entstehen Truncus vagalis anterior und posterior, die mit dem Ösophagus durch das Zwerchfell treten.",
+   "dis": {
+    "A": "Liegt im Oberbauch.",
+    "C": "Somatisches Geflecht für den Arm.",
+    "D": "Somatisches Geflecht am Hals.",
+    "E": "Liegt vor der Aortenbifurkation."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-21/F2-23-2",
+   "src": "D2-21/F2-23",
+   "typ": "perspektive",
+   "q": "Welcher Reflex wird über vagale Afferenzen von Dehnungssensoren der Lunge vermittelt und beendet die Inspiration?",
+   "o": [
+    "Patellarsehnenreflex",
+    "Kornealreflex",
+    "Hering-Breuer-Reflex",
+    "Babinski-Zeichen",
+    "Achillessehnenreflex"
+   ],
+   "a": "C",
+   "expl": "Langsam adaptierende Dehnungssensoren in der Atemwegsmuskulatur melden über den N. vagus die Lungenfüllung. Bei starker Dehnung wird die Inspiration gehemmt.",
+   "dis": {
+    "A": "Monosynaptischer Dehnungsreflex über L3/L4.",
+    "B": "Afferenz V1, Efferenz N. facialis.",
+    "D": "Pathologischer Reflex bei Pyramidenbahnläsion.",
+    "E": "Dehnungsreflex über S1."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-22/F2-24-1",
+   "src": "D2-22/F2-24",
+   "typ": "perspektive",
+   "q": "Aus welchen Arterien wird die Pleura parietalis costalis versorgt?",
+   "o": [
+    "Aa. pulmonales",
+    "Aa. bronchiales",
+    "Aa. coronariae",
+    "Aa. intercostales",
+    "Aa. carotides"
+   ],
+   "a": "D",
+   "expl": "Die Pleura parietalis gehört zur Brustwand und wird von Gefäßen der Brustwand versorgt (Aa. intercostales, A. thoracica interna, A. pericardiacophrenica).",
+   "dis": {
+    "A": "Versorgen den Gasaustausch, nicht die Brustwand.",
+    "B": "Versorgen Bronchien und Pleura visceralis mit.",
+    "C": "Versorgen das Herz.",
+    "E": "Versorgen Kopf und Hals."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-22/F2-24-2",
+   "src": "D2-22/F2-24",
+   "typ": "klinik",
+   "q": "Ein Patient hat atemabhängige, scharf lokalisierte Schmerzen an der seitlichen Brustwand bei einer Pleuritis. Welche Nerven leiten diesen Schmerz?",
+   "o": [
+    "N. vagus",
+    "Truncus sympathicus",
+    "N. phrenicus",
+    "N. accessorius",
+    "Nn. intercostales"
+   ],
+   "a": "E",
+   "expl": "Die Pleura parietalis costalis wird somatisch von den Interkostalnerven innerviert und ist schmerzempfindlich. Die Pleura visceralis ist dagegen schmerzunempfindlich.",
+   "dis": {
+    "A": "Leitet viszerale Afferenzen, keinen scharf lokalisierten Pleuraschmerz.",
+    "B": "Vegetativ.",
+    "C": "Innerviert die Pleura mediastinalis und diaphragmatica (Schmerz in der Schulter), nicht die Pleura costalis.",
+    "D": "Rein motorisch für M. trapezius und M. sternocleidomastoideus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-25-1",
+   "src": "F2-25",
+   "typ": "perspektive",
+   "q": "Welche Zellen bilden den Surfactant?",
+   "o": [
+    "Typ-II-Pneumozyten",
+    "Typ-I-Pneumozyten",
+    "Alveolarmakrophagen",
+    "Becherzellen",
+    "Kapillarendothelzellen"
+   ],
+   "a": "A",
+   "expl": "Typ-II-Pneumozyten bilden Surfactant, der die Oberflächenspannung senkt und den Kollaps der Alveolen verhindert. Bei Frühgeborenen fehlt er oft (Atemnotsyndrom).",
+   "dis": {
+    "B": "Bilden die dünne Gasaustauschfläche.",
+    "C": "Phagozytieren Partikel.",
+    "D": "Bilden Schleim in den Bronchien.",
+    "E": "Kleiden die Kapillaren aus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-25-2",
+   "src": "F2-25",
+   "typ": "perspektive",
+   "q": "Aus welchen Schichten besteht die Blut-Luft-Schranke?",
+   "o": [
+    "Typ-II-Pneumozyt, Makrophage und Endothel",
+    "Typ-I-Pneumozyt, gemeinsame Basalmembran und Kapillarendothel",
+    "Flimmerepithel, Knorpel und Endothel",
+    "Typ-I-Pneumozyt, glatte Muskulatur und Endothel",
+    "Pleura visceralis und Endothel"
+   ],
+   "a": "B",
+   "expl": "Die Blut-Luft-Schranke ist nur etwa 0,5 µm dick. Sie besteht aus dem Zytoplasma der Typ-I-Pneumozyten, der verschmolzenen Basalmembran und dem Kapillarendothel.",
+   "dis": {
+    "A": "Typ-II-Zellen und Makrophagen bilden nicht die Barriere.",
+    "C": "Aufbau der Bronchialwand.",
+    "D": "In der Alveolarwand liegt keine glatte Muskelschicht zwischen Luft und Blut.",
+    "E": "Die Pleura liegt an der Lungenoberfläche."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-24/F2-26-1",
+   "src": "D2-24/F2-26",
+   "typ": "perspektive",
+   "q": "Welches Blut führen die Vv. pulmonales?",
+   "o": [
+    "Sauerstoffarmes Blut",
+    "Gemischtes Blut",
+    "Sauerstoffreiches Blut",
+    "Lymphe",
+    "Reines Blutplasma"
+   ],
+   "a": "C",
+   "expl": "Im Lungenkreislauf sind die Bezeichnungen „Arterie“ und „Vene“ an die Flussrichtung gebunden: Venen führen zum Herzen. Die Vv. pulmonales führen deshalb oxygeniertes Blut.",
+   "dis": {
+    "A": "Das führen die Aa. pulmonales.",
+    "B": "Nur wenig Bronchialvenenblut mischt sich bei.",
+    "D": "Lymphe fließt in Lymphgefäßen.",
+    "E": "Sie führen Vollblut."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-24/F2-26-2",
+   "src": "D2-24/F2-26",
+   "typ": "klinik",
+   "q": "Bei einer akuten Linksherzinsuffizienz staut sich das Blut zuerst wohin zurück?",
+   "o": [
+    "In die V. cava inferior (Beinödeme)",
+    "In die V. portae",
+    "In die V. jugularis externa",
+    "In die Vv. pulmonales und den Lungenkreislauf (Lungenödem)",
+    "In die Hirnvenen"
+   ],
+   "a": "D",
+   "expl": "Pumpt der linke Ventrikel ungenügend, steigt der Druck im linken Vorhof und in den Lungenvenen. Flüssigkeit tritt ins Interstitium und in die Alveolen aus (Lungenödem, Dyspnoe, Rasselgeräusche).",
+   "dis": {
+    "A": "Typisch für Rechtsherzinsuffizienz.",
+    "B": "Typisch für Leberzirrhose bzw. Rechtsherzinsuffizienz.",
+    "C": "Gestaute Halsvenen sprechen für Rechtsherzinsuffizienz.",
+    "E": "Kein typisches Zeichen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-25/F2-27-1",
+   "src": "D2-25/F2-27",
+   "typ": "klinik",
+   "q": "Warum werden bei COPD inhalative Anticholinergika (z. B. Tiotropium) eingesetzt?",
+   "o": [
+    "Sie aktivieren direkt den Sympathikus.",
+    "Sie wirken antibakteriell.",
+    "Sie steigern die Schleimproduktion.",
+    "Sie verengen die Bronchialgefäße.",
+    "Sie hemmen die vagal vermittelte Bronchokonstriktion."
+   ],
+   "a": "E",
+   "expl": "Muskarinrezeptor-Antagonisten blockieren die Acetylcholinwirkung an der glatten Bronchialmuskulatur. Die Bronchien weiten sich, und die Schleimsekretion nimmt ab.",
+   "dis": {
+    "A": "Das tun β2-Sympathomimetika.",
+    "B": "Sie haben keine antibiotische Wirkung.",
+    "C": "Sie verringern eher die Sekretion.",
+    "D": "Kein relevanter Wirkmechanismus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-25/F2-27-2",
+   "src": "D2-25/F2-27",
+   "typ": "perspektive",
+   "q": "Über welchen Rezeptor wirkt Acetylcholin bronchokonstriktorisch an der glatten Bronchialmuskulatur?",
+   "o": [
+    "M3-Rezeptor",
+    "β2-Rezeptor",
+    "α1-Rezeptor",
+    "Nikotinischer Rezeptor vom Muskeltyp",
+    "H2-Rezeptor"
+   ],
+   "a": "A",
+   "expl": "Die glatte Bronchialmuskulatur trägt muskarinische M3-Rezeptoren. Ihre Aktivierung führt über Gq zur Kontraktion und damit zur Bronchokonstriktion.",
+   "dis": {
+    "B": "Vermittelt die Bronchodilatation.",
+    "C": "Vermittelt vor allem Vasokonstriktion.",
+    "D": "Liegt an der motorischen Endplatte.",
+    "E": "Histaminrezeptor, v. a. im Magen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-26/F2-28-1",
+   "src": "D2-26/F2-28",
+   "typ": "perspektive",
+   "q": "Über welchen Rezeptor wirken Adrenalin und Salbutamol an den Bronchien dilatierend?",
+   "o": [
+    "β1-Rezeptor",
+    "β2-Rezeptor",
+    "α1-Rezeptor",
+    "M3-Rezeptor",
+    "H1-Rezeptor"
+   ],
+   "a": "B",
+   "expl": "β2-Rezeptoren der glatten Bronchialmuskulatur erhöhen über Gs und cAMP die Relaxation. Deshalb sind β2-Mimetika Notfallmedikamente beim Asthmaanfall.",
+   "dis": {
+    "A": "Wirkt vor allem am Herzen.",
+    "C": "Vasokonstriktion.",
+    "D": "Vermittelt Bronchokonstriktion.",
+    "E": "Histamin wirkt darüber bronchokonstriktorisch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-26/F2-28-2",
+   "src": "D2-26/F2-28",
+   "typ": "klinik",
+   "q": "Warum können nichtselektive Betablocker bei Asthmatikern gefährlich sein?",
+   "o": [
+    "Sie verursachen eine Hypertonie.",
+    "Sie verursachen eine Tachykardie.",
+    "Sie blockieren β2-Rezeptoren und können einen Bronchospasmus auslösen.",
+    "Sie verursachen eine Hyperglykämie.",
+    "Sie verursachen Durchfall."
+   ],
+   "a": "C",
+   "expl": "Ohne β2-vermittelte Dilatation überwiegt der vagale Tonus an den Bronchien. Bei Asthmatikern kann das einen schweren Bronchospasmus auslösen.",
+   "dis": {
+    "A": "Sie senken den Blutdruck.",
+    "B": "Sie senken die Herzfrequenz.",
+    "D": "Kein Hauptproblem beim Asthma.",
+    "E": "Keine relevante Nebenwirkung in diesem Zusammenhang."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-29-1",
+   "src": "F2-29",
+   "typ": "perspektive",
+   "q": "Welche Sensoren lösen bei mechanischer Reizung durch Staubpartikel Husten und Bronchokonstriktion aus?",
+   "o": [
+    "Langsam adaptierende Dehnungssensoren",
+    "Barorezeptoren",
+    "Kardiosensoren",
+    "Irritant-Sensoren (schnell adaptierende Rezeptoren)",
+    "Muskelspindeln"
+   ],
+   "a": "D",
+   "expl": "Irritant-Sensoren liegen im Epithel der Atemwege und reagieren schnell auf Staub, Rauch und Gase. Über vagale Afferenzen lösen sie Husten, Bronchokonstriktion und Schleimsekretion aus.",
+   "dis": {
+    "A": "Vermitteln den Hering-Breuer-Reflex.",
+    "B": "Messen den Blutdruck.",
+    "C": "Messen Vorhofdehnung bzw. Herzaktivität.",
+    "E": "Messen die Muskellänge."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-29-2",
+   "src": "F2-29",
+   "typ": "perspektive",
+   "q": "Wo liegen die langsam adaptierenden Dehnungssensoren der Lunge?",
+   "o": [
+    "Im Alveolarepithel (Typ-I-Zellen)",
+    "In der Pleura parietalis",
+    "Im Zwerchfell",
+    "Im Glomus caroticum",
+    "In der glatten Muskulatur der Atemwege"
+   ],
+   "a": "E",
+   "expl": "Die langsam adaptierenden Dehnungssensoren registrieren die Dehnung der Bronchialwand bei Inspiration. Sie leiten über den N. vagus und vermitteln den Hering-Breuer-Reflex.",
+   "dis": {
+    "A": "Diese dienen dem Gasaustausch.",
+    "B": "Dort liegen somatische Schmerzfasern.",
+    "C": "Dort liegen Muskelspindeln und Sehnenorgane.",
+    "D": "Peripherer Chemorezeptor am Hals."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-23-1",
+   "src": "D2-23",
+   "typ": "perspektive",
+   "q": "Was geschieht mit dem Thymus nach der Pubertät?",
+   "o": [
+    "Er bildet sich zu einem Fettkörper zurück (Involution).",
+    "Er wächst bis ins hohe Alter weiter.",
+    "Er wandelt sich in einen Lymphknoten um.",
+    "Er verknöchert vollständig.",
+    "Er wandert ins hintere Mediastinum."
+   ],
+   "a": "A",
+   "expl": "Nach der Pubertät wird das lymphatische Gewebe des Thymus weitgehend durch Fett ersetzt (Thymusrestkörper). Ein kleiner Teil bleibt aktiv.",
+   "dis": {
+    "B": "Er ist um die Pubertät am größten.",
+    "C": "Er bleibt ein Thymusrestkörper.",
+    "D": "Er wird zu Fettgewebe.",
+    "E": "Er bleibt im vorderen oberen Mediastinum."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-23-2",
+   "src": "D2-23",
+   "typ": "nachbarschaft",
+   "q": "Wo liegt der Thymus?",
+   "o": [
+    "Im Mediastinum posterius",
+    "Im Mediastinum superius, mit Ausläufern ins Mediastinum anterius",
+    "Im Mediastinum medium innerhalb des Perikards",
+    "Retroperitoneal",
+    "Ausschließlich am Hals unterhalb der Schilddrüse"
+   ],
+   "a": "B",
+   "expl": "Der Thymus liegt hinter dem Manubrium sterni vor den großen Gefäßen. Beim Kind kann er bis ins vordere Mediastinum und an den Hals reichen.",
+   "dis": {
+    "A": "Dort liegen Aorta descendens und Ösophagus (falsche Aussage im Original).",
+    "C": "Dort liegt das Herz.",
+    "D": "Liegt im Thorax.",
+    "E": "Er liegt überwiegend hinter dem Sternum."
+   },
+   "merk": "",
+   "img": null
+  }
+ ]
+}
