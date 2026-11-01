@@ -1,0 +1,1478 @@
+{
+ "chapter": "A9",
+ "status": "draft",
+ "cards": [
+  {
+   "id": "V-F1-112-1",
+   "src": "F1-112",
+   "typ": "perspektive",
+   "q": "Aus welcher Struktur entstehen innere Hämorrhoiden?",
+   "o": [
+    "Aus dem Corpus cavernosum recti, das arteriell aus der A. rectalis superior gespeist wird",
+    "Aus der V. rectalis inferior",
+    "Aus der V. portae",
+    "Aus dem Plexus pampiniformis",
+    "Aus der V. saphena magna"
+   ],
+   "a": "A",
+   "expl": "Hämorrhoiden sind Vergrößerungen des arteriovenösen Schwellkörpers oberhalb der Linea pectinata. Er wird vor allem von Endästen der A. rectalis superior versorgt; deshalb bluten Hämorrhoiden hellrot.",
+   "dis": {
+    "B": "Das war die falsche Aussage im Original.",
+    "C": "Liegt an der Leber.",
+    "D": "Venengeflecht im Samenstrang.",
+    "E": "Beinvene."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-112-2",
+   "src": "F1-112",
+   "typ": "perspektive",
+   "q": "Wohin fließt das Blut der V. rectalis superior?",
+   "o": [
+    "In die V. iliaca interna",
+    "Über die V. mesenterica inferior zur V. portae",
+    "Direkt in die V. cava inferior",
+    "In die V. pudenda interna",
+    "In die V. renalis"
+   ],
+   "a": "B",
+   "expl": "Das obere Rektum drainiert portal, das mittlere und untere systemisch. Deshalb umgehen rektal verabreichte Medikamente teilweise den First-Pass-Effekt der Leber.",
+   "dis": {
+    "A": "Dorthin fließt die V. rectalis media.",
+    "C": "Nur über die mittleren und unteren Rektalvenen.",
+    "D": "Dorthin fließt die V. rectalis inferior.",
+    "E": "Kein Zusammenhang."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-113-1",
+   "src": "F1-113",
+   "typ": "perspektive",
+   "q": "Welches Epithel findet man in der Zona columnalis oberhalb der Linea pectinata?",
+   "o": [
+    "Verhorntes Plattenepithel",
+    "Urothel",
+    "Überwiegend Zylinderepithel (Übergangszone zum Plattenepithel)",
+    "Flimmerepithel",
+    "Endothel"
+   ],
+   "a": "C",
+   "expl": "Von oben nach unten folgen im Analkanal Zylinderepithel, eine Übergangszone, unverhorntes Plattenepithel im Pecten analis und verhorntes Plattenepithel in der Zona cutanea.",
+   "dis": {
+    "A": "Typisch für die Zona cutanea.",
+    "B": "Typisch für die Harnwege.",
+    "D": "Typisch für die Atemwege.",
+    "E": "Kleidet Gefäße aus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-113-2",
+   "src": "F1-113",
+   "typ": "klinik",
+   "q": "Warum sind innere Hämorrhoiden meist schmerzlos, während eine Analfissur sehr schmerzhaft ist?",
+   "o": [
+    "Weil der Analkanal keine Nerven hat",
+    "Weil der N. pudendus oberhalb der Linea pectinata liegt",
+    "Weil Hämorrhoiden tief im Becken liegen",
+    "Oberhalb der Linea pectinata ist die Schleimhaut viszeral, unterhalb somatisch (N. pudendus) innerviert.",
+    "Weil Schleim die Nerven betäubt"
+   ],
+   "a": "D",
+   "expl": "Die Linea pectinata ist die Grenze zwischen entodermalem und ektodermalem Anteil. Unterhalb ist die Haut sehr schmerzempfindlich, deshalb tun Fissuren und Perianalthrombosen weh.",
+   "dis": {
+    "A": "Er ist sensibel gut versorgt.",
+    "B": "Er versorgt die Region unterhalb.",
+    "C": "Sie liegen im Analkanal.",
+    "E": "Keine schmerzstillende Wirkung."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-114-1",
+   "src": "F1-114",
+   "typ": "perspektive",
+   "q": "Welcher Muskel bildet eine Schlinge um den anorektalen Übergang und erzeugt den anorektalen Winkel?",
+   "o": [
+    "M. sphincter ani internus",
+    "M. coccygeus",
+    "M. piriformis",
+    "M. obturatorius internus",
+    "M. puborectalis"
+   ],
+   "a": "E",
+   "expl": "Der M. puborectalis zieht das Rektum nach vorne zur Symphyse und knickt es ab. Dieser Winkel ist wichtig für die Grobkontinenz; bei der Defäkation erschlafft er.",
+   "dis": {
+    "A": "Glatter Ringmuskel des Analkanals.",
+    "B": "Hinterer Teil des Beckenbodens.",
+    "C": "Außenrotator im Hüftgelenk.",
+    "D": "Laterale Beckenwand."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-114-2",
+   "src": "F1-114",
+   "typ": "perspektive",
+   "q": "Welcher Nerv innerviert den M. sphincter ani externus?",
+   "o": [
+    "N. pudendus (Nn. rectales inferiores)",
+    "N. obturatorius",
+    "N. vagus",
+    "Nn. splanchnici lumbales",
+    "N. genitofemoralis"
+   ],
+   "a": "A",
+   "expl": "Der äußere Schließmuskel ist quergestreift und willkürlich steuerbar. Eine Pudendusläsion (z. B. nach Geburt) kann zu Stuhlinkontinenz führen.",
+   "dis": {
+    "B": "Innerviert die Adduktoren.",
+    "C": "Erreicht das Rektum nicht.",
+    "D": "Sympathisch.",
+    "E": "Innerviert u. a. den M. cremaster."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-115-1",
+   "src": "F1-115",
+   "typ": "perspektive",
+   "q": "Aus welcher Arterie entspringt die A. rectalis media?",
+   "o": [
+    "A. mesenterica inferior",
+    "A. iliaca interna",
+    "A. pudenda interna",
+    "Aorta abdominalis direkt",
+    "A. femoralis"
+   ],
+   "a": "B",
+   "expl": "Die A. rectalis media entspringt aus dem vorderen Stamm der A. iliaca interna und erreicht das Rektum seitlich oberhalb des Beckenbodens.",
+   "dis": {
+    "A": "Gibt die A. rectalis superior ab.",
+    "C": "Gibt die A. rectalis inferior ab.",
+    "D": "Gibt die A. sacralis mediana ab.",
+    "E": "Versorgt das Bein."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-115-2",
+   "src": "F1-115",
+   "typ": "perspektive",
+   "q": "Aus welcher Arterie entspringt die A. rectalis inferior?",
+   "o": [
+    "A. mesenterica inferior",
+    "A. iliaca externa",
+    "A. pudenda interna",
+    "A. sacralis mediana",
+    "A. obturatoria"
+   ],
+   "a": "C",
+   "expl": "Die A. rectalis inferior zweigt im Alcock-Kanal von der A. pudenda interna ab und zieht durch die Fossa ischioanalis zum Analkanal und äußeren Schließmuskel.",
+   "dis": {
+    "A": "Gibt die A. rectalis superior ab.",
+    "B": "Versorgt Bein und Bauchwand.",
+    "D": "Trägt kaum zur Rektumversorgung bei.",
+    "E": "Versorgt die Adduktoren."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-116-1",
+   "src": "F1-116",
+   "typ": "perspektive",
+   "q": "Welche Zone des Analkanals liegt oberhalb der Linea pectinata?",
+   "o": [
+    "Pecten analis",
+    "Zona cutanea",
+    "Linea anocutanea",
+    "Zona columnalis mit Columnae und Sinus anales",
+    "Perianalhaut mit Haaren"
+   ],
+   "a": "D",
+   "expl": "Die Columnae anales sind Längsfalten über dem Corpus cavernosum recti. Zwischen ihnen liegen die Sinus anales, in die die Proktodealdrüsen münden.",
+   "dis": {
+    "A": "Liegt zwischen Linea pectinata und Linea anocutanea.",
+    "B": "Liegt unterhalb der Linea anocutanea.",
+    "C": "Ist eine Grenzlinie, keine Zone.",
+    "E": "Liegt außen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-116-2",
+   "src": "F1-116",
+   "typ": "klinik",
+   "q": "Wohin drainiert die Lymphe des Analkanals unterhalb der Linea pectinata?",
+   "o": [
+    "Zu den Nodi mesenterici inferiores",
+    "Zu den Nodi iliaci interni",
+    "Zu den Nodi coeliaci",
+    "Zu den Nodi axillares",
+    "Zu den Nodi lymphoidei inguinales superficiales"
+   ],
+   "a": "E",
+   "expl": "Das Lymphabflussgebiet folgt der embryonalen Herkunft. Analkarzinome unterhalb der Linea pectinata metastasieren deshalb in die Leistenlymphknoten.",
+   "dis": {
+    "A": "Abflussweg des oberen Rektums.",
+    "B": "Abflussweg des mittleren Rektums.",
+    "C": "Oberbauch.",
+    "D": "Arm und Brustwand."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-117-1",
+   "src": "F1-117",
+   "typ": "perspektive",
+   "q": "Welche histologische Besonderheit hat die Appendix vermiformis?",
+   "o": [
+    "Zahlreiche Lymphfollikel in Mukosa und Submukosa",
+    "Brunner-Drüsen",
+    "Zotten",
+    "Belegzellen",
+    "Plicae circulares"
+   ],
+   "a": "A",
+   "expl": "Die Appendix gehört zum darmassoziierten lymphatischen Gewebe („Darmtonsille“). Wie das übrige Kolon hat sie Krypten ohne Zotten.",
+   "dis": {
+    "B": "Typisch für das Duodenum.",
+    "C": "Typisch für den Dünndarm.",
+    "D": "Typisch für den Magen.",
+    "E": "Typisch für den Dünndarm."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-117-2",
+   "src": "F1-117",
+   "typ": "nachbarschaft",
+   "q": "In welcher Peritonealfalte verläuft die A. appendicularis?",
+   "o": [
+    "Mesocolon transversum",
+    "Mesoappendix",
+    "Lig. hepatoduodenale",
+    "Mesocolon sigmoideum",
+    "Radix mesenterii"
+   ],
+   "a": "B",
+   "expl": "Die Mesoappendix ist ein kleines dreieckiges Meso hinter dem terminalen Ileum. Bei der Appendektomie wird die A. appendicularis darin unterbunden.",
+   "dis": {
+    "A": "Enthält die A. colica media.",
+    "C": "Enthält die Leberpforten-Strukturen.",
+    "D": "Enthält die Aa. sigmoideae.",
+    "E": "Enthält den Stamm der Mesenterialgefäße."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-118-1",
+   "src": "F1-118",
+   "typ": "perspektive",
+   "q": "Wie heißt die Verschmelzungsfaszie, entlang der Colon ascendens und descendens chirurgisch mobilisiert werden?",
+   "o": [
+    "Gerota-Faszie",
+    "Denonvilliers-Faszie",
+    "Toldt-Faszie",
+    "Scarpa-Faszie",
+    "Waldeyer-Faszie"
+   ],
+   "a": "C",
+   "expl": "Die Toldt-Faszie entsteht aus dem mit der hinteren Bauchwand verschmolzenen Meso. Entlang dieser blutarmen Schicht kann der Chirurg das Kolon wieder nach medial klappen.",
+   "dis": {
+    "A": "Faszie um Niere und Nebenniere.",
+    "B": "Faszie zwischen Rektum und Prostata bzw. Vagina.",
+    "D": "Tiefe Schicht der Bauchwand-Subkutis.",
+    "E": "Präsakrale Faszie hinter dem Rektum."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-118-2",
+   "src": "F1-118",
+   "typ": "nachbarschaft",
+   "q": "Welche Strukturen liegen dorsal des Colon descendens?",
+   "o": [
+    "Leber",
+    "Magen",
+    "Rechte Niere",
+    "Linke Niere (unterer Teil) und M. quadratus lumborum",
+    "Harnblase"
+   ],
+   "a": "D",
+   "expl": "Das Colon descendens liegt retroperitoneal vor dem lateralen Rand der linken Niere und den Muskeln der hinteren Bauchwand.",
+   "dis": {
+    "A": "Liegt rechts oben.",
+    "B": "Liegt weiter kranial.",
+    "C": "Liegt rechts.",
+    "E": "Liegt im kleinen Becken."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-119-1",
+   "src": "F1-119",
+   "typ": "perspektive",
+   "q": "Welcher Schleimhautbefund ist typisch für das Kolon?",
+   "o": [
+    "Zotten mit Paneth-Zellen",
+    "Brunner-Drüsen",
+    "Plicae circulares",
+    "Belegzellen",
+    "Tiefe Krypten mit vielen Becherzellen, keine Zotten"
+   ],
+   "a": "E",
+   "expl": "Die Kolonschleimhaut hat eine glatte Oberfläche mit dicht stehenden Krypten. Der Schleim der Becherzellen erleichtert das Gleiten des eingedickten Stuhls.",
+   "dis": {
+    "A": "Typisch für den Dünndarm.",
+    "B": "Typisch für das Duodenum.",
+    "C": "Typisch für den Dünndarm.",
+    "D": "Typisch für den Magen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-119-2",
+   "src": "F1-119",
+   "typ": "perspektive",
+   "q": "Wie heißen die Fettanhängsel an der Kolonoberfläche?",
+   "o": [
+    "Appendices epiploicae (omentales)",
+    "Haustren",
+    "Tänien",
+    "Plicae semilunares",
+    "Mesoappendix"
+   ],
+   "a": "A",
+   "expl": "Die Appendices epiploicae hängen vor allem entlang der Taenia libera und omentalis. Sie sind ein Erkennungsmerkmal des Dickdarms.",
+   "dis": {
+    "B": "Ausbuchtungen der Kolonwand.",
+    "C": "Längsmuskelstreifen.",
+    "D": "Halbmondförmige Falten der Kolonschleimhaut.",
+    "E": "Meso der Appendix."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-120-1",
+   "src": "F1-120",
+   "typ": "nachbarschaft",
+   "q": "Hinter welchem Darmabschnitt zieht die A. appendicularis zur Appendix?",
+   "o": [
+    "Vor dem Colon transversum",
+    "Hinter dem terminalen Ileum",
+    "Durch die Leber",
+    "Hinter dem Magen",
+    "Im Lig. teres hepatis"
+   ],
+   "a": "B",
+   "expl": "Die A. appendicularis entspringt aus der A. ileocolica, zieht hinter dem Ileumende vorbei und läuft im freien Rand der Mesoappendix zur Spitze.",
+   "dis": {
+    "A": "Liegt weiter oben.",
+    "C": "Kein Zusammenhang.",
+    "D": "Liegt im Oberbauch.",
+    "E": "Liegt an der Leber."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-120-2",
+   "src": "F1-120",
+   "typ": "perspektive",
+   "q": "Mit welcher Arterie anastomosiert die A. ileocolica am Kolon?",
+   "o": [
+    "A. sigmoidea",
+    "A. rectalis superior",
+    "A. colica dextra",
+    "A. gastroomentalis dextra",
+    "A. renalis"
+   ],
+   "a": "C",
+   "expl": "Die Kolonarterien sind über eine Randarkade (A. marginalis coli) miteinander verbunden. Am Colon ascendens verbinden sich A. ileocolica und A. colica dextra.",
+   "dis": {
+    "A": "Liegt am linken Kolon.",
+    "B": "Liegt am Rektum.",
+    "D": "Liegt am Magen.",
+    "E": "Liegt retroperitoneal."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-121-1",
+   "src": "F1-121",
+   "typ": "perspektive",
+   "q": "In welche Vene mündet die V. colica sinistra?",
+   "o": [
+    "V. cava inferior",
+    "V. renalis sinistra",
+    "V. iliaca communis",
+    "V. mesenterica inferior",
+    "V. azygos"
+   ],
+   "a": "D",
+   "expl": "Die V. colica sinistra drainiert das Colon descendens in die V. mesenterica inferior. Diese mündet meist in die V. splenica.",
+   "dis": {
+    "A": "Kolonvenen gehören zum Pfortadersystem.",
+    "B": "Kein Zusammenhang.",
+    "C": "Beckenvene.",
+    "E": "Liegt im Thorax."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-121-2",
+   "src": "F1-121",
+   "typ": "perspektive",
+   "q": "Wohin drainieren die Venen des Colon sigmoideum?",
+   "o": [
+    "In die V. iliaca externa",
+    "Direkt in die V. cava inferior",
+    "In die V. renalis",
+    "In die V. testicularis",
+    "Über die Vv. sigmoideae in die V. mesenterica inferior"
+   ],
+   "a": "E",
+   "expl": "Das gesamte Kolon und das obere Rektum drainieren portal. Kolonkarzinome metastasieren hämatogen deshalb zuerst in die Leber.",
+   "dis": {
+    "A": "Beinvene.",
+    "B": "Pfortadersystem.",
+    "C": "Kein Zusammenhang.",
+    "D": "Gonadenvene."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-122-1",
+   "src": "F1-122",
+   "typ": "perspektive",
+   "q": "Welche Arterie bildet entlang des gesamten Kolons eine Randarkade?",
+   "o": [
+    "A. marginalis coli (Drummond)",
+    "A. ileocolica allein",
+    "A. sacralis mediana",
+    "Aa. lumbales",
+    "A. renalis"
+   ],
+   "a": "A",
+   "expl": "Die A. marginalis verläuft nahe dem mesenterialen Rand des Kolons und verbindet alle Kolonarterien. Von ihr gehen die Vasa recta zur Darmwand.",
+   "dis": {
+    "B": "Versorgt nur Caecum und Ileumende.",
+    "C": "Liegt vor dem Os sacrum.",
+    "D": "Versorgen die Bauchwand.",
+    "E": "Versorgt die Niere."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-122-2",
+   "src": "F1-122",
+   "typ": "klinik",
+   "q": "Welcher Kolonabschnitt ist am häufigsten von Divertikeln betroffen?",
+   "o": [
+    "Caecum",
+    "Colon sigmoideum",
+    "Colon transversum",
+    "Colon ascendens",
+    "Rektum"
+   ],
+   "a": "B",
+   "expl": "Im Sigma ist der Innendruck am höchsten. Die Schleimhaut stülpt sich an Gefäßdurchtrittsstellen durch die Muskulatur aus (Pseudodivertikel).",
+   "dis": {
+    "A": "In Europa selten betroffen.",
+    "C": "Selten betroffen.",
+    "D": "Eher in Asien häufiger.",
+    "E": "Praktisch nie betroffen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-123-1",
+   "src": "F1-123",
+   "typ": "klinik",
+   "q": "Wo ist der Schmerz bei einer Sigmadivertikulitis typischerweise lokalisiert?",
+   "o": [
+    "Im rechten Unterbauch",
+    "Im Epigastrium",
+    "Im linken Unterbauch",
+    "In der rechten Schulter",
+    "In der rechten Flanke"
+   ],
+   "a": "C",
+   "expl": "Die Divertikulitis wird deshalb auch „Linksappendizitis“ genannt. Typisch sind Schmerzen, Fieber und tastbare Walze im linken Unterbauch.",
+   "dis": {
+    "A": "Typisch für Appendizitis.",
+    "B": "Typisch für Magen oder Pankreas.",
+    "D": "Bei Zwerchfellreizung rechts.",
+    "E": "Typisch für Niere rechts."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-123-2",
+   "src": "F1-123",
+   "typ": "perspektive",
+   "q": "In welcher Höhe geht das Colon sigmoideum etwa in das Rektum über?",
+   "o": [
+    "In Höhe L1",
+    "In Höhe Th12",
+    "An der Steißbeinspitze",
+    "In Höhe S2/S3",
+    "In Höhe der Symphyse"
+   ],
+   "a": "D",
+   "expl": "Am rektosigmoidalen Übergang enden Meso, Tänien und Haustren. Das Rektum folgt dann der Krümmung des Kreuzbeins.",
+   "dis": {
+    "A": "Zu hoch.",
+    "B": "Viel zu hoch.",
+    "C": "Dort liegt der Übergang zum Analkanal.",
+    "E": "Zu weit vorne und unten."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-124-1",
+   "src": "F1-124",
+   "typ": "umkehrung",
+   "q": "Welche Arterie ist kein Ast der A. mesenterica superior?",
+   "o": [
+    "A. colica media",
+    "A. colica dextra",
+    "A. ileocolica",
+    "Aa. jejunales",
+    "A. colica sinistra"
+   ],
+   "a": "E",
+   "expl": "Die A. colica sinistra ist der erste Ast der A. mesenterica inferior. Die A. mesenterica superior versorgt das Kolon nur bis zum Cannon-Böhm-Punkt.",
+   "dis": {
+    "A": "Ast der A. mesenterica superior.",
+    "B": "Ast der A. mesenterica superior.",
+    "C": "Ast der A. mesenterica superior.",
+    "D": "Äste der A. mesenterica superior."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-124-2",
+   "src": "F1-124",
+   "typ": "perspektive",
+   "q": "Welchen Kolonabschnitt versorgt die A. colica dextra vor allem?",
+   "o": [
+    "Colon ascendens",
+    "Colon descendens",
+    "Colon sigmoideum",
+    "Rektum",
+    "Appendix vermiformis"
+   ],
+   "a": "A",
+   "expl": "Die A. colica dextra zieht retroperitoneal nach rechts zum Colon ascendens und anastomosiert mit A. ileocolica und A. colica media.",
+   "dis": {
+    "B": "A. colica sinistra.",
+    "C": "Aa. sigmoideae.",
+    "D": "Aa. rectales.",
+    "E": "A. appendicularis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-125-1",
+   "src": "F1-125",
+   "typ": "perspektive",
+   "q": "Welche Hauptfunktion hat die Schleimhaut des Kolons?",
+   "o": [
+    "Eiweißverdauung",
+    "Resorption von Wasser und Natrium sowie Schleimbildung",
+    "Fettverdauung mit Gallensäuren",
+    "Salzsäurebildung",
+    "Resorption von Vitamin B12"
+   ],
+   "a": "B",
+   "expl": "Das Kolon resorbiert täglich etwa 1–1,5 l Wasser. Seine Epithelzellen haben dichte Schlussleisten und eine geringe Ionenpermeabilität.",
+   "dis": {
+    "A": "Findet in Magen und Dünndarm statt.",
+    "C": "Findet im Dünndarm statt.",
+    "D": "Findet im Magen statt.",
+    "E": "Findet im terminalen Ileum statt."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-125-2",
+   "src": "F1-125",
+   "typ": "perspektive",
+   "q": "Welche Zellen überwiegen in den Krypten des Kolons?",
+   "o": [
+    "Paneth-Zellen",
+    "Belegzellen",
+    "Becherzellen",
+    "Hauptzellen",
+    "M-Zellen"
+   ],
+   "a": "C",
+   "expl": "Die Kolonkrypten enthalten sehr viele Becherzellen. Der Schleim schützt die Schleimhaut und erleichtert die Passage des festen Stuhls.",
+   "dis": {
+    "A": "Typisch für den Dünndarm.",
+    "B": "Typisch für den Magen.",
+    "D": "Typisch für den Magen.",
+    "E": "Liegen über lymphatischem Gewebe."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-126-1",
+   "src": "F1-126",
+   "typ": "perspektive",
+   "q": "Wie lang ist der Dickdarm insgesamt ungefähr?",
+   "o": [
+    "Etwa 30 cm",
+    "Etwa 5 m",
+    "Etwa 10 m",
+    "Etwa 1,5 m",
+    "Etwa 50 cm"
+   ],
+   "a": "D",
+   "expl": "Der Dickdarm reicht vom Caecum bis zum Anus und umrahmt den Dünndarm. Das Colon transversum ist sein längster und beweglichster Abschnitt.",
+   "dis": {
+    "A": "Zu kurz.",
+    "B": "Etwa die Länge des Dünndarms.",
+    "C": "Viel zu lang.",
+    "E": "Zu kurz."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-126-2",
+   "src": "F1-126",
+   "typ": "nachbarschaft",
+   "q": "Wie verhält sich das Colon transversum zum Omentum majus?",
+   "o": [
+    "Es liegt retroperitoneal hinter dem Pankreas.",
+    "Es liegt fest im kleinen Becken.",
+    "Es liegt hinter der Niere.",
+    "Es liegt im Thorax.",
+    "Es ist mit dem Omentum majus verwachsen, das vor ihm herabhängt."
+   ],
+   "a": "E",
+   "expl": "Das hintere Blatt des Omentum majus verschmilzt mit dem Colon transversum und seinem Meso. Deshalb sieht man nach Eröffnen des Bauches zuerst das Netz über dem Querkolon.",
+   "dis": {
+    "A": "Es liegt intraperitoneal mit Meso.",
+    "B": "Es hängt zwischen den Kolonflexuren.",
+    "C": "Es liegt vor dem Duodenum und Pankreas.",
+    "D": "Es liegt im Abdomen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-15-1",
+   "src": "F3-15",
+   "typ": "bild",
+   "q": "In welcher Region liegt die markierte Struktur normalerweise?",
+   "o": [
+    "Fossa iliaca dextra",
+    "Fossa iliaca sinistra",
+    "Epigastrium",
+    "Linkes kleines Becken",
+    "Linkes Hypochondrium"
+   ],
+   "a": "A",
+   "expl": "Die markierte Struktur ist das Caecum. Es liegt im rechten Unterbauch unterhalb der Einmündung des Ileums; daran hängt die Appendix.",
+   "dis": {
+    "B": "Dort liegt das Colon sigmoideum.",
+    "C": "Dort liegt der Magen.",
+    "D": "Dort liegt das Sigma.",
+    "E": "Dort liegt die Milz."
+   },
+   "merk": "",
+   "img": "img/i34.jpg"
+  },
+  {
+   "id": "V-F3-15-2",
+   "src": "F3-15",
+   "typ": "bild",
+   "q": "Welcher Darmabschnitt mündet von medial in die markierte Struktur?",
+   "o": [
+    "Jejunum",
+    "Ileum",
+    "Colon descendens",
+    "Duodenum",
+    "Colon sigmoideum"
+   ],
+   "a": "B",
+   "expl": "Das terminale Ileum mündet über die Valva ileocaecalis von medial in das Caecum. Unterhalb davon liegt der Blindsack mit der Appendix.",
+   "dis": {
+    "A": "Liegt weiter proximal.",
+    "C": "Liegt links.",
+    "D": "Liegt im Oberbauch.",
+    "E": "Liegt links im Becken."
+   },
+   "merk": "",
+   "img": "img/i34.jpg"
+  },
+  {
+   "id": "V-F3-16-1",
+   "src": "F3-16",
+   "typ": "perspektive",
+   "q": "Was kann eine insuffiziente Valva ileocaecalis begünstigen?",
+   "o": [
+    "Einen Ikterus",
+    "Eine Hämaturie",
+    "Eine bakterielle Fehlbesiedlung des Dünndarms",
+    "Eine Achalasie",
+    "Eine Pankreatitis"
+   ],
+   "a": "C",
+   "expl": "Die Bauhin-Klappe hält die bakterienreiche Dickdarmflora vom Ileum fern. Ist sie undicht, können Bakterien aufsteigen und Gallensäuren dekonjugieren (Fettstühle, B12-Mangel).",
+   "dis": {
+    "A": "Kein direkter Zusammenhang.",
+    "B": "Harnwege.",
+    "D": "Störung des unteren Ösophagussphinkters.",
+    "E": "Kein direkter Zusammenhang."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-16-2",
+   "src": "F3-16",
+   "typ": "klinik",
+   "q": "Bei einem Dickdarmverschluss mit schlussfähiger Bauhin-Klappe droht vor allem welche Komplikation?",
+   "o": [
+    "Magenruptur",
+    "Ösophagusruptur",
+    "Leberruptur",
+    "Perforation des Caecums durch Überdehnung",
+    "Milzruptur"
+   ],
+   "a": "D",
+   "expl": "Wenn das Gas weder nach vorne noch zurück ins Ileum entweichen kann, entsteht eine geschlossene Schlinge. Das Caecum hat den größten Durchmesser und die höchste Wandspannung (Laplace) und reißt zuerst.",
+   "dis": {
+    "A": "Der Magen ist vom Verschluss nicht betroffen.",
+    "B": "Kein Zusammenhang.",
+    "C": "Kein Zusammenhang.",
+    "E": "Kein Zusammenhang."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-17-1",
+   "src": "F3-17",
+   "typ": "klinik",
+   "q": "Welches klinische Zeichen spricht für eine retrozäkal gelegene, entzündete Appendix?",
+   "o": [
+    "Murphy-Zeichen",
+    "Kehr-Zeichen",
+    "Courvoisier-Zeichen",
+    "Cullen-Zeichen",
+    "Psoaszeichen (Schmerz bei Hüftbeugung gegen Widerstand)"
+   ],
+   "a": "E",
+   "expl": "Eine retrozäkale Appendix liegt dem M. iliopsoas an. Seine Anspannung reizt das entzündete Gewebe; der McBurney-Druckschmerz ist dagegen oft schwach.",
+   "dis": {
+    "A": "Typisch für Cholezystitis.",
+    "B": "Typisch für Milzruptur.",
+    "C": "Typisch für Pankreaskopfkarzinom.",
+    "D": "Typisch für Einblutung, z. B. Pankreatitis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-17-2",
+   "src": "F3-17",
+   "typ": "klinik",
+   "q": "Bei welcher Lage der Appendix sind Schmerzen bei der rektalen Untersuchung oder Blasenbeschwerden typisch?",
+   "o": [
+    "Bei Beckenlage im kleinen Becken",
+    "Bei retrozäkaler Lage",
+    "Bei subhepatischer Lage",
+    "Bei präilealer Lage",
+    "Bei Lage im linken Oberbauch"
+   ],
+   "a": "A",
+   "expl": "Hängt die Appendix ins kleine Becken, liegt sie neben Rektum, Blase und bei Frauen den Adnexen. Das erklärt rektalen Druckschmerz und Pollakisurie.",
+   "dis": {
+    "B": "Eher Flanken- bzw. Psoasschmerz.",
+    "C": "Eher Oberbauchschmerz rechts.",
+    "D": "Eher klassischer Unterbauchschmerz.",
+    "E": "Nur bei Situs inversus oder Malrotation."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-18-1",
+   "src": "F3-18",
+   "typ": "perspektive",
+   "q": "Wo liegt der Lanz-Punkt?",
+   "o": [
+    "In der Mitte zwischen Nabel und Symphyse",
+    "Am Übergang vom rechten zum mittleren Drittel der Linie zwischen beiden Spinae iliacae anteriores superiores",
+    "Im linken Unterbauch",
+    "Am rechten Rippenbogen",
+    "Im Nabel"
+   ],
+   "a": "B",
+   "expl": "Der Lanz-Punkt entspricht ungefähr der Lage der Appendixspitze, der McBurney-Punkt der Appendixbasis.",
+   "dis": {
+    "A": "Kein Appendixdruckpunkt.",
+    "C": "Falsche Seite.",
+    "D": "Typisch für Gallenblase (Murphy).",
+    "E": "Kein Appendixdruckpunkt."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-18-2",
+   "src": "F3-18",
+   "typ": "klinik",
+   "q": "Was beschreibt das Rovsing-Zeichen?",
+   "o": [
+    "Schmerz bei Hüftbeugung gegen Widerstand",
+    "Inspiratorischer Atemstopp bei Druck unter den rechten Rippenbogen",
+    "Schmerz im rechten Unterbauch beim Ausstreichen des Kolons von links nach oben",
+    "Schmerz in der linken Schulter",
+    "Flankenhämatom"
+   ],
+   "a": "C",
+   "expl": "Beim retrograden Ausstreichen wird Darmgas in Richtung Caecum gedrückt und dehnt die entzündete Region. Ein positives Zeichen spricht für Appendizitis.",
+   "dis": {
+    "A": "Psoaszeichen.",
+    "B": "Murphy-Zeichen.",
+    "D": "Kehr-Zeichen.",
+    "E": "Grey-Turner-Zeichen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-19-1",
+   "src": "F3-19",
+   "typ": "umkehrung",
+   "q": "Welcher Kolonabschnitt ist wegen seines Mesos frei beweglich?",
+   "o": [
+    "Colon ascendens",
+    "Colon descendens",
+    "Unteres Rektumdrittel",
+    "Colon transversum",
+    "Canalis analis"
+   ],
+   "a": "D",
+   "expl": "Das Colon transversum und das Colon sigmoideum hängen an einem Meso und sind deshalb beweglich. Colon ascendens und descendens sind fixiert.",
+   "dis": {
+    "A": "Mit der hinteren Bauchwand verwachsen (das war die falsche Aussage im Original).",
+    "B": "Sekundär retroperitoneal fixiert.",
+    "C": "Extraperitoneal fixiert.",
+    "E": "Im Beckenboden fixiert."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-19-2",
+   "src": "F3-19",
+   "typ": "nachbarschaft",
+   "q": "Welche Peritonealtasche kommt hinter dem Caecum vor?",
+   "o": [
+    "Recessus piriformis",
+    "Recessus costodiaphragmaticus",
+    "Recessus sphenoethmoidalis",
+    "Recessus hepatorenalis",
+    "Recessus retrocaecalis"
+   ],
+   "a": "E",
+   "expl": "Am Caecum gibt es mehrere Bauchfelltaschen (Recessus ileocaecales, retrocaecalis). In den Recessus retrocaecalis kann sich die Appendix legen.",
+   "dis": {
+    "A": "Liegt im Hypopharynx.",
+    "B": "Liegt in der Pleurahöhle.",
+    "C": "Liegt in der Nasenhöhle.",
+    "D": "Liegt zwischen Leber und Niere."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-20-1",
+   "src": "F3-20",
+   "typ": "bild",
+   "q": "Welche Biegung bildet die markierte Struktur oben unter der Leber?",
+   "o": [
+    "Flexura coli dextra",
+    "Flexura coli sinistra",
+    "Flexura duodenojejunalis",
+    "Flexura sacralis",
+    "Flexura perinealis"
+   ],
+   "a": "A",
+   "expl": "Die markierte Struktur ist das Colon ascendens. Es steigt rechts auf und biegt unter der Leber an der Flexura coli dextra ins Colon transversum.",
+   "dis": {
+    "B": "Liegt links an der Milz.",
+    "C": "Gehört zum Dünndarm.",
+    "D": "Liegt am Rektum.",
+    "E": "Liegt am Rektum."
+   },
+   "merk": "",
+   "img": "img/i35.jpg"
+  },
+  {
+   "id": "V-F3-20-2",
+   "src": "F3-20",
+   "typ": "bild",
+   "q": "Welcher Nerv versorgt die markierte Struktur parasympathisch?",
+   "o": [
+    "Nn. splanchnici pelvici",
+    "N. vagus",
+    "N. pudendus",
+    "N. phrenicus",
+    "N. femoralis"
+   ],
+   "a": "B",
+   "expl": "Das Colon ascendens gehört zum Mitteldarm. Es wird parasympathisch vom N. vagus und arteriell aus der A. mesenterica superior versorgt.",
+   "dis": {
+    "A": "Versorgen das Kolon ab dem Cannon-Böhm-Punkt.",
+    "C": "Somatisch für den Damm.",
+    "D": "Innerviert das Zwerchfell.",
+    "E": "Versorgt den Oberschenkel."
+   },
+   "merk": "",
+   "img": "img/i35.jpg"
+  },
+  {
+   "id": "V-F3-21-1",
+   "src": "F3-21",
+   "typ": "bild",
+   "q": "Welche Äste gibt die markierte Arterie ab?",
+   "o": [
+    "A. colica media und A. colica sinistra",
+    "Aa. sigmoideae",
+    "A. appendicularis, Aa. caecales, R. ilealis und R. colicus",
+    "A. rectalis superior",
+    "Aa. gastricae"
+   ],
+   "a": "C",
+   "expl": "Die markierte Arterie ist die A. ileocolica. Sie versorgt das terminale Ileum, das Caecum, den Anfang des Colon ascendens und die Appendix.",
+   "dis": {
+    "A": "Äste von A. mesenterica superior bzw. inferior.",
+    "B": "Äste der A. mesenterica inferior.",
+    "D": "Endast der A. mesenterica inferior.",
+    "E": "Äste des Truncus coeliacus."
+   },
+   "merk": "",
+   "img": "img/i36.jpg"
+  },
+  {
+   "id": "V-F3-21-2",
+   "src": "F3-21",
+   "typ": "bild",
+   "q": "Aus welchem Gefäß entspringt die markierte Arterie?",
+   "o": [
+    "A. mesenterica inferior",
+    "Truncus coeliacus",
+    "A. iliaca interna",
+    "A. mesenterica superior",
+    "Direkt aus der Aorta"
+   ],
+   "a": "D",
+   "expl": "Die A. ileocolica ist der letzte (Endast) nach rechts abgehende Ast der A. mesenterica superior.",
+   "dis": {
+    "A": "Versorgt das linke Kolon.",
+    "B": "Versorgt den Oberbauch.",
+    "C": "Versorgt das Becken.",
+    "E": "Sie ist ein Ast der A. mesenterica superior."
+   },
+   "merk": "",
+   "img": "img/i36.jpg"
+  },
+  {
+   "id": "V-F3-22-1",
+   "src": "F3-22",
+   "typ": "bild",
+   "q": "Über welche Organe zieht der Ansatz der markierten Struktur an der hinteren Bauchwand quer hinweg?",
+   "o": [
+    "Über Harnblase und Rektum",
+    "Über Leber und Gallenblase",
+    "Über Milz und Magen",
+    "Über Ureter und Aorta im Becken",
+    "Über die Pars descendens duodeni und das Pankreas"
+   ],
+   "a": "E",
+   "expl": "Die markierte Struktur ist das Mesocolon transversum. Seine Wurzel zieht quer über Duodenum, Pankreaskopf und -körper zur linken Niere.",
+   "dis": {
+    "A": "Liegen im kleinen Becken.",
+    "B": "Liegen oberhalb.",
+    "C": "Liegen oberhalb bzw. intraperitoneal.",
+    "D": "Liegen tiefer."
+   },
+   "merk": "",
+   "img": "img/i37.jpg"
+  },
+  {
+   "id": "V-F3-22-2",
+   "src": "F3-22",
+   "typ": "bild",
+   "q": "Welche Struktur ist mit der Oberseite der markierten Struktur verwachsen?",
+   "o": [
+    "Omentum majus (hinteres Blatt)",
+    "Omentum minus",
+    "Lig. falciforme",
+    "Lig. teres hepatis",
+    "Mesoappendix"
+   ],
+   "a": "A",
+   "expl": "Das hintere Blatt des großen Netzes verschmilzt mit dem Mesocolon transversum. Dadurch ist die Bursa omentalis nach unten abgeschlossen.",
+   "dis": {
+    "B": "Zieht von der Leber zum Magen.",
+    "C": "Liegt an der Leber.",
+    "D": "Liegt an der Leber.",
+    "E": "Liegt im rechten Unterbauch."
+   },
+   "merk": "",
+   "img": "img/i37.jpg"
+  },
+  {
+   "id": "V-F3-23-1",
+   "src": "F3-23",
+   "typ": "nachbarschaft",
+   "q": "Bis wohin reicht die Flexura coli sinistra?",
+   "o": [
+    "Bis an die Gallenblase",
+    "Bis an den unteren Milzpol",
+    "Bis ins kleine Becken",
+    "Bis zum Nabel",
+    "Bis an die rechte Niere"
+   ],
+   "a": "B",
+   "expl": "Die linke Kolonflexur liegt hoch unter der Milz und ist über das Lig. phrenicocolicum befestigt.",
+   "dis": {
+    "A": "Liegt rechts.",
+    "C": "Viel zu tief.",
+    "D": "Liegt median.",
+    "E": "Falsche Seite."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-23-2",
+   "src": "F3-23",
+   "typ": "perspektive",
+   "q": "Welcher Kolonabschnitt liegt im linken Unterbauch und zieht ins kleine Becken?",
+   "o": [
+    "Caecum",
+    "Colon ascendens",
+    "Colon sigmoideum",
+    "Flexura coli dextra",
+    "Appendix vermiformis"
+   ],
+   "a": "C",
+   "expl": "Das Colon sigmoideum beginnt in der linken Fossa iliaca und zieht S-förmig ins kleine Becken, wo es in Höhe S2/S3 ins Rektum übergeht.",
+   "dis": {
+    "A": "Liegt rechts unten.",
+    "B": "Liegt rechts.",
+    "D": "Liegt rechts oben.",
+    "E": "Liegt rechts unten."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-24-1",
+   "src": "F3-24",
+   "typ": "bild",
+   "q": "Welches Organ liegt der markierten Struktur kranial direkt an?",
+   "o": [
+    "Milz",
+    "Magenfundus",
+    "Herz",
+    "Leber (Impressio colica)",
+    "Harnblase"
+   ],
+   "a": "D",
+   "expl": "Die markierte Struktur ist die Flexura coli dextra. Sie hinterlässt an der Leberunterfläche die Impressio colica; daneben liegt die Gallenblase.",
+   "dis": {
+    "A": "Liegt links.",
+    "B": "Liegt links oben.",
+    "C": "Liegt oberhalb des Zwerchfells.",
+    "E": "Liegt im Becken."
+   },
+   "merk": "",
+   "img": "img/i38.jpg"
+  },
+  {
+   "id": "V-F3-24-2",
+   "src": "F3-24",
+   "typ": "bild",
+   "q": "Welches Organ liegt dorsal der markierten Struktur?",
+   "o": [
+    "Linke Niere",
+    "Milz",
+    "Pankreasschwanz",
+    "Colon sigmoideum",
+    "Rechte Niere"
+   ],
+   "a": "E",
+   "expl": "Die rechte Kolonflexur liegt vor dem unteren Pol der rechten Niere und grenzt medial an die Pars descendens duodeni.",
+   "dis": {
+    "A": "Liegt links.",
+    "B": "Liegt links.",
+    "C": "Liegt links am Milzhilus.",
+    "D": "Liegt links unten."
+   },
+   "merk": "",
+   "img": "img/i38.jpg"
+  },
+  {
+   "id": "V-F3-25-1",
+   "src": "F3-25",
+   "typ": "perspektive",
+   "q": "Welchen Kolonabschnitt versorgt die A. colica media?",
+   "o": [
+    "Colon transversum (rechte zwei Drittel)",
+    "Caecum",
+    "Colon descendens",
+    "Colon sigmoideum",
+    "Rektum"
+   ],
+   "a": "A",
+   "expl": "Die A. colica media zieht im Mesocolon transversum zum Querkolon. Das linke Drittel wird von der A. colica sinistra mitversorgt.",
+   "dis": {
+    "B": "A. ileocolica.",
+    "C": "A. colica sinistra.",
+    "D": "Aa. sigmoideae.",
+    "E": "Aa. rectales."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-25-2",
+   "src": "F3-25",
+   "typ": "perspektive",
+   "q": "Welche Äste gibt die A. mesenterica inferior ab?",
+   "o": [
+    "A. colica media, A. colica dextra und A. ileocolica",
+    "A. colica sinistra, Aa. sigmoideae und A. rectalis superior",
+    "A. rectalis media und inferior",
+    "Aa. jejunales",
+    "A. gastroomentalis sinistra"
+   ],
+   "a": "B",
+   "expl": "Die A. mesenterica inferior entspringt in Höhe L3 und versorgt den Enddarm vom linken Querkolon bis zum oberen Rektum.",
+   "dis": {
+    "A": "Äste der A. mesenterica superior.",
+    "C": "Äste der A. iliaca interna bzw. pudenda interna.",
+    "D": "Äste der A. mesenterica superior.",
+    "E": "Ast der A. splenica."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-26-1",
+   "src": "F3-26",
+   "typ": "bild",
+   "q": "Welche Darmabschnitte versorgt die markierte Arterie vor allem?",
+   "o": [
+    "Caecum",
+    "Jejunum",
+    "Colon descendens und linkes Drittel des Colon transversum",
+    "Rektum",
+    "Appendix vermiformis"
+   ],
+   "a": "C",
+   "expl": "Die markierte Arterie ist die A. colica sinistra. Sie teilt sich in einen aufsteigenden Ast zur linken Flexur und einen absteigenden Ast zum Colon descendens.",
+   "dis": {
+    "A": "A. ileocolica.",
+    "B": "Aa. jejunales.",
+    "D": "Aa. rectales.",
+    "E": "A. appendicularis."
+   },
+   "merk": "",
+   "img": "img/i39.jpg"
+  },
+  {
+   "id": "V-F3-26-2",
+   "src": "F3-26",
+   "typ": "bild",
+   "q": "Welche Strukturen überkreuzt die markierte Arterie auf ihrem Weg nach links im Retroperitoneum?",
+   "o": [
+    "Aorta",
+    "V. cava inferior",
+    "Pankreasschwanz",
+    "Linken Ureter und Vasa testicularia bzw. ovarica",
+    "Pars descendens duodeni"
+   ],
+   "a": "D",
+   "expl": "Die A. colica sinistra verläuft retroperitoneal vor dem M. psoas und kreuzt dabei die Gonadengefäße und den linken Ureter. Bei linksseitigen Kolonresektionen muss der Ureter geschont werden.",
+   "dis": {
+    "A": "Sie entspringt indirekt aus ihr, kreuzt sie nicht.",
+    "B": "Liegt rechts.",
+    "C": "Liegt weiter oben.",
+    "E": "Liegt rechts."
+   },
+   "merk": "",
+   "img": "img/i39.jpg"
+  },
+  {
+   "id": "V-F3-27-1",
+   "src": "F3-27",
+   "typ": "bild",
+   "q": "Wohin fließt das venöse Blut der mit X markierten Struktur?",
+   "o": [
+    "Direkt in die V. cava inferior",
+    "In die V. renalis",
+    "In die V. azygos",
+    "In die V. iliaca externa",
+    "Über die V. mesenterica inferior zur V. portae"
+   ],
+   "a": "E",
+   "expl": "Die mit X markierte Struktur wird von der A. mesenterica inferior versorgt. Ihr venöses Blut fließt entsprechend über die V. mesenterica inferior zur Leber.",
+   "dis": {
+    "A": "Kolonvenen gehören zum Pfortadersystem.",
+    "B": "Kein Zusammenhang.",
+    "C": "Liegt im Thorax.",
+    "D": "Beinvene."
+   },
+   "merk": "",
+   "img": "img/i40.jpg"
+  },
+  {
+   "id": "V-F3-27-2",
+   "src": "F3-27",
+   "typ": "bild",
+   "q": "Welche Lymphknoten sind regionär für die mit X markierte Struktur?",
+   "o": [
+    "Nodi lymphoidei mesenterici inferiores",
+    "Nodi lymphoidei inguinales",
+    "Nodi lymphoidei axillares",
+    "Nodi lymphoidei cervicales",
+    "Nodi lymphoidei coeliaci"
+   ],
+   "a": "A",
+   "expl": "Die Lymphe folgt den Arterien: Was die A. mesenterica inferior versorgt, drainiert über die Nodi mesenterici inferiores zu den lumbalen Lymphknoten.",
+   "dis": {
+    "B": "Drainieren Bein und unteren Analkanal.",
+    "C": "Drainieren Arm und Brustwand.",
+    "D": "Drainieren Kopf und Hals.",
+    "E": "Drainieren den Oberbauch."
+   },
+   "merk": "",
+   "img": "img/i40.jpg"
+  },
+  {
+   "id": "V-F3-28-1",
+   "src": "F3-28",
+   "typ": "perspektive",
+   "q": "Welche Arterien versorgen das Colon sigmoideum?",
+   "o": [
+    "A. colica media",
+    "Aa. sigmoideae",
+    "A. ileocolica",
+    "A. rectalis inferior",
+    "A. pudenda interna"
+   ],
+   "a": "B",
+   "expl": "Zwei bis vier Aa. sigmoideae aus der A. mesenterica inferior ziehen im Mesocolon sigmoideum zum Sigma.",
+   "dis": {
+    "A": "Versorgt das Colon transversum.",
+    "C": "Versorgt Caecum und Ileumende.",
+    "D": "Versorgt den Analkanal.",
+    "E": "Versorgt den Damm."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-28-2",
+   "src": "F3-28",
+   "typ": "nachbarschaft",
+   "q": "Wo liegt der linke Ureter in Bezug auf das Mesocolon sigmoideum?",
+   "o": [
+    "Am Nierenhilus",
+    "In der Blasenwand",
+    "Hinter dem Recessus intersigmoideus an der Wurzel des Mesocolon sigmoideum",
+    "Am Leistenband",
+    "Am Promontorium rechts"
+   ],
+   "a": "C",
+   "expl": "Der Recessus intersigmoideus ist eine kleine Bauchfelltasche an der Wurzel des Sigmamesos. Er dient als Leitstruktur zum darunter liegenden linken Ureter.",
+   "dis": {
+    "A": "Dort beginnt der Ureter.",
+    "B": "Dort endet er.",
+    "D": "Kein Kontakt.",
+    "E": "Falsche Seite."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-29-1",
+   "src": "F3-29",
+   "typ": "perspektive",
+   "q": "Welcher Anteil des vegetativen Nervensystems erhöht den Tonus des M. sphincter ani internus?",
+   "o": [
+    "Parasympathikus",
+    "N. pudendus",
+    "N. obturatorius",
+    "Sympathikus",
+    "N. vagus"
+   ],
+   "a": "D",
+   "expl": "Der innere Sphinkter ist glatte Muskulatur im Dauertonus. Sympathische Fasern kontrahieren ihn, parasympathische Fasern (S2–S4) lösen über den rektoanalen Reflex seine Erschlaffung aus.",
+   "dis": {
+    "A": "Erschlafft den Sphinkter bei der Defäkation.",
+    "B": "Somatisch für den äußeren Sphinkter.",
+    "C": "Somatisch für die Adduktoren.",
+    "E": "Erreicht den Analkanal nicht."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-29-2",
+   "src": "F3-29",
+   "typ": "perspektive",
+   "q": "Welcher Muskel ist die verdickte Fortsetzung der Ringmuskulatur des Rektums?",
+   "o": [
+    "M. sphincter ani externus",
+    "M. puborectalis",
+    "M. levator ani",
+    "M. bulbospongiosus",
+    "M. sphincter ani internus"
+   ],
+   "a": "E",
+   "expl": "Die innere Ringmuskelschicht des Rektums verdickt sich im Analkanal zum M. sphincter ani internus. Er sorgt für etwa 70 % des Ruhedrucks.",
+   "dis": {
+    "A": "Quergestreifter Muskel des Beckenbodens.",
+    "B": "Teil des M. levator ani.",
+    "C": "Beckenbodenmuskel.",
+    "D": "Muskel des oberflächlichen Dammraums."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-30-1",
+   "src": "F3-30",
+   "typ": "bild",
+   "q": "Mit welchem Muskel ist der markierte Anteil kranial eng verbunden?",
+   "o": [
+    "M. puborectalis",
+    "M. obturatorius internus",
+    "M. gluteus maximus",
+    "M. piriformis",
+    "M. iliacus"
+   ],
+   "a": "A",
+   "expl": "Die Pars profunda des äußeren Sphinkters geht nach oben fließend in den M. puborectalis über. Beide bilden funktionell eine Einheit für die Kontinenz.",
+   "dis": {
+    "B": "Laterale Beckenwand.",
+    "C": "Gesäßmuskel außerhalb.",
+    "D": "Hintere Beckenwand.",
+    "E": "Liegt in der Fossa iliaca."
+   },
+   "merk": "",
+   "img": "img/i41.jpg"
+  },
+  {
+   "id": "V-F3-30-2",
+   "src": "F3-30",
+   "typ": "bild",
+   "q": "Zu welchem Muskeltyp gehört der markierte Muskel?",
+   "o": [
+    "Glatte Muskulatur mit autonomer Innervation",
+    "Quergestreifte, willkürlich steuerbare Skelettmuskulatur (N. pudendus)",
+    "Herzmuskulatur",
+    "Myoepithelzellen",
+    "Glatte Muskulatur unter sympathischer Kontrolle"
+   ],
+   "a": "B",
+   "expl": "Der M. sphincter ani externus besteht aus Pars subcutanea, superficialis und profunda. Er ist quergestreift und wird willkürlich über den N. pudendus kontrahiert.",
+   "dis": {
+    "A": "Gilt für den M. sphincter ani internus.",
+    "C": "Nur im Herzen.",
+    "D": "Liegen in Drüsen.",
+    "E": "Gilt für den inneren Sphinkter."
+   },
+   "merk": "",
+   "img": "img/i41.jpg"
+  },
+  {
+   "id": "V-F3-32-1",
+   "src": "F3-32",
+   "typ": "perspektive",
+   "q": "Welche Aufgabe hat das Corpus cavernosum recti?",
+   "o": [
+    "Alleinige Grobkontinenz",
+    "Auslösen des Defäkationsreflexes",
+    "Gas- und flüssigkeitsdichter Feinverschluss des Analkanals",
+    "Erektion",
+    "Schleimbildung"
+   ],
+   "a": "C",
+   "expl": "Die arteriell gefüllten Gefäßpolster dichten den Analkanal wie ein Ventil ab. Zusammen mit den Sphinkteren und dem M. puborectalis bilden sie das Kontinenzorgan.",
+   "dis": {
+    "A": "Wird vor allem von M. puborectalis und Sphinkteren geleistet.",
+    "B": "Geschieht über Dehnungsrezeptoren im Rektum.",
+    "D": "Funktion der Schwellkörper des Penis bzw. der Klitoris.",
+    "E": "Funktion der Becherzellen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-32-2",
+   "src": "F3-32",
+   "typ": "klinik",
+   "q": "Warum ist eine Blutung aus Hämorrhoiden typischerweise hellrot?",
+   "o": [
+    "Weil Hämorrhoiden rein venös sind",
+    "Weil Galle beigemischt ist",
+    "Weil das Blut aus dem Magen stammt",
+    "Weil das Corpus cavernosum recti arteriell gespeist wird",
+    "Weil das Blut aus der Lunge stammt"
+   ],
+   "a": "D",
+   "expl": "Das Gefäßpolster wird über Äste der A. rectalis superior arteriell gefüllt. Hellrotes Blut auf dem Stuhl spricht deshalb für eine Blutung aus dem Analkanal, muss aber trotzdem abgeklärt werden.",
+   "dis": {
+    "A": "Dann wäre das Blut dunkel.",
+    "B": "Galle färbt nicht hellrot.",
+    "C": "Magenblut wird schwarz (Teerstuhl).",
+    "E": "Kein Zusammenhang."
+   },
+   "merk": "",
+   "img": null
+  }
+ ]
+}

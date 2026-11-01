@@ -1611,6 +1611,52 @@
    },
    "merk": "",
    "img": null
+  },
+  {
+   "id": "V-F3-11-1",
+   "src": "F3-11",
+   "typ": "nachbarschaft",
+   "q": "Welcher Abschnitt des Ductus choledochus verläuft im Lig. hepatoduodenale?",
+   "o": [
+    "Pars supraduodenalis",
+    "Pars pancreatica",
+    "Ampulla hepatopancreatica",
+    "Ductus pancreaticus accessorius",
+    "Intrahepatischer Ductus hepaticus sinister"
+   ],
+   "a": "A",
+   "expl": "Der Ductus choledochus gliedert sich in Pars supraduodenalis (im Lig. hepatoduodenale), retroduodenalis, pancreatica und intraduodenalis.",
+   "dis": {
+    "B": "Verläuft im bzw. hinter dem Pankreaskopf.",
+    "C": "Liegt in der Duodenalwand an der Papille.",
+    "D": "Pankreasgang.",
+    "E": "Liegt in der Leber."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F3-11-2",
+   "src": "F3-11",
+   "typ": "perspektive",
+   "q": "Wie viel Galle bildet die Leber pro Tag etwa?",
+   "o": [
+    "50 ml",
+    "0,5–1 Liter",
+    "5 Liter",
+    "10 Liter",
+    "10 ml"
+   ],
+   "a": "B",
+   "expl": "Die Leber bildet täglich etwa 600 ml Galle. Die Gallenblase (Volumen 30–60 ml) dickt sie zwischen den Mahlzeiten ein.",
+   "dis": {
+    "A": "Etwa das Fassungsvermögen der Gallenblase.",
+    "C": "Viel zu viel.",
+    "D": "Viel zu viel.",
+    "E": "Viel zu wenig."
+   },
+   "merk": "",
+   "img": null
   }
  ]
 }
