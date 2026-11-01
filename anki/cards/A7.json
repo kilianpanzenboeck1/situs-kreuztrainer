@@ -1,0 +1,1340 @@
+{
+ "chapter": "A7",
+ "status": "draft",
+ "cards": [
+  {
+   "id": "V-F1-75-1",
+   "src": "F1-75",
+   "typ": "umkehrung",
+   "q": "Welche Struktur liegt primär retroperitoneal?",
+   "o": [
+    "Ureter",
+    "Pankreas",
+    "Pars descendens duodeni",
+    "Colon descendens",
+    "Magen"
+   ],
+   "a": "A",
+   "expl": "Primär retroperitoneal entstehen Nieren, Nebennieren, Ureteren, Aorta, V. cava inferior und der Grenzstrang. Sie hatten nie ein Meso.",
+   "dis": {
+    "B": "Sekundär retroperitoneal.",
+    "C": "Sekundär retroperitoneal.",
+    "D": "Sekundär retroperitoneal.",
+    "E": "Intraperitoneal."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-75-2",
+   "src": "F1-75",
+   "typ": "nachbarschaft",
+   "q": "Welche Faszie umhüllt Niere und Nebenniere gemeinsam mit ihrer Fettkapsel?",
+   "o": [
+    "Capsula fibrosa",
+    "Fascia renalis (Gerota)",
+    "Peritoneum viscerale",
+    "Pleura parietalis",
+    "Fascia lata"
+   ],
+   "a": "B",
+   "expl": "Die Niere ist von innen nach außen von Capsula fibrosa, Capsula adiposa und Fascia renalis umgeben. Die Gerota-Faszie schließt auch die Nebenniere ein und ist nach unten offen.",
+   "dis": {
+    "A": "Liegt direkt der Niere an und umhüllt die Nebenniere nicht.",
+    "C": "Die Niere liegt retroperitoneal.",
+    "D": "Liegt im Thorax.",
+    "E": "Faszie des Oberschenkels."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-76-1",
+   "src": "F1-76",
+   "typ": "perspektive",
+   "q": "Welche Dickdarmabschnitte liegen typischerweise sekundär retroperitoneal?",
+   "o": [
+    "Colon transversum und Colon sigmoideum",
+    "Jejunum und Ileum",
+    "Colon ascendens und Colon descendens",
+    "Appendix vermiformis",
+    "Bulbus duodeni"
+   ],
+   "a": "C",
+   "expl": "Colon ascendens und descendens verwachsen bei der Darmdrehung mit der hinteren Bauchwand. Colon transversum und sigmoideum behalten ihr Meso.",
+   "dis": {
+    "A": "Intraperitoneal mit eigenem Meso.",
+    "B": "Dünndarm, intraperitoneal.",
+    "D": "Intraperitoneal mit Mesoappendix.",
+    "E": "Dünndarm, intraperitoneal."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-76-2",
+   "src": "F1-76",
+   "typ": "klinik",
+   "q": "Warum kann eine Perforation an der Hinterwand der Pars descendens duodeni ohne freie Luft unter dem Zwerchfell verlaufen?",
+   "o": [
+    "Weil das Duodenum keine Luft enthält",
+    "Weil das Zwerchfell Luft absorbiert",
+    "Weil dieser Abschnitt intraperitoneal liegt",
+    "Weil dieser Abschnitt retroperitoneal liegt und die Luft ins Retroperitoneum austritt",
+    "Weil die Leber die Luft resorbiert"
+   ],
+   "a": "D",
+   "expl": "Nur Perforationen intraperitonealer Organe (z. B. Bulbus duodeni, Magenvorderwand) führen zu freier Luft in der Peritonealhöhle. Retroperitoneale Perforationen zeigen Luft entlang von Niere und M. psoas.",
+   "dis": {
+    "A": "Es enthält Luft und Sekret.",
+    "B": "Das tut es nicht.",
+    "C": "Er liegt retroperitoneal.",
+    "E": "Das tut sie nicht."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-77-1",
+   "src": "F1-77",
+   "typ": "perspektive",
+   "q": "An welcher Peritonealduplikatur ist das Colon transversum aufgehängt?",
+   "o": [
+    "Mesenterium (Radix mesenterii)",
+    "Lig. hepatoduodenale",
+    "Mesoappendix",
+    "Lig. teres hepatis",
+    "Mesocolon transversum"
+   ],
+   "a": "E",
+   "expl": "Das Mesocolon transversum zieht quer über Duodenum und Pankreas an der hinteren Bauchwand. Darin verläuft die A. colica media.",
+   "dis": {
+    "A": "Hält Jejunum und Ileum.",
+    "B": "Teil des Omentum minus.",
+    "C": "Meso der Appendix.",
+    "D": "Rest der Nabelvene."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-77-2",
+   "src": "F1-77",
+   "typ": "nachbarschaft",
+   "q": "Welches Band verbindet die große Magenkurvatur mit dem Colon transversum?",
+   "o": [
+    "Lig. gastrocolicum",
+    "Lig. gastrosplenicum",
+    "Lig. hepatogastricum",
+    "Lig. phrenicocolicum",
+    "Lig. splenorenale"
+   ],
+   "a": "A",
+   "expl": "Das Lig. gastrocolicum ist der obere Teil des Omentum majus. Durch seine Durchtrennung gelangt man chirurgisch in die Bursa omentalis.",
+   "dis": {
+    "B": "Verbindet Magen und Milz.",
+    "C": "Verbindet Leber und kleine Kurvatur.",
+    "D": "Verbindet linke Kolonflexur und Zwerchfell.",
+    "E": "Verbindet Milz und hintere Bauchwand."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-78-1",
+   "src": "F1-78",
+   "typ": "klinik",
+   "q": "Wo liegt der McBurney-Punkt, der Druckpunkt bei Appendizitis?",
+   "o": [
+    "In der Mitte zwischen Nabel und Symphyse",
+    "Am Übergang vom lateralen zum mittleren Drittel der Linie zwischen Nabel und rechter Spina iliaca anterior superior",
+    "Im linken Unterbauch",
+    "Im Epigastrium",
+    "In der linken Leiste"
+   ],
+   "a": "B",
+   "expl": "Der McBurney-Punkt entspricht etwa der Lage der Appendixbasis. Druckschmerz dort ist ein klassisches Appendizitiszeichen.",
+   "dis": {
+    "A": "Liegt median.",
+    "C": "Typisch für Divertikulitis.",
+    "D": "Dort beginnt der Schmerz oft, er ist aber nicht der McBurney-Punkt.",
+    "E": "Falsche Seite."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-78-2",
+   "src": "F1-78",
+   "typ": "nachbarschaft",
+   "q": "Wo findet man intraoperativ die Basis der Appendix vermiformis?",
+   "o": [
+    "In der Mitte des Colon ascendens",
+    "Am Ileum",
+    "Am Caecum, wo die drei Tänien zusammenlaufen",
+    "Am Colon sigmoideum",
+    "Am Rektum"
+   ],
+   "a": "C",
+   "expl": "Die drei Tänien des Kolons konvergieren am Caecum zur Appendixbasis. Ihre Spitze kann in verschiedenen Lagen liegen, z. B. retrozäkal oder im kleinen Becken.",
+   "dis": {
+    "A": "Zu weit kranial.",
+    "B": "Die Appendix gehört zum Caecum.",
+    "D": "Falsche Seite.",
+    "E": "Viel zu tief."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-79-1",
+   "src": "F1-79",
+   "typ": "perspektive",
+   "q": "Welcher Pankreasabschnitt reicht im Lig. splenorenale bis an die Milz und liegt dort intraperitoneal?",
+   "o": [
+    "Caput pancreatis",
+    "Collum pancreatis",
+    "Processus uncinatus",
+    "Cauda pancreatis",
+    "Corpus pancreatis"
+   ],
+   "a": "D",
+   "expl": "Das Pankreas ist überwiegend sekundär retroperitoneal. Nur der Schwanz liegt im Lig. splenorenale und ist bei Splenektomie gefährdet.",
+   "dis": {
+    "A": "Liegt in der Duodenalschlinge, retroperitoneal.",
+    "B": "Liegt vor der V. portae, retroperitoneal.",
+    "C": "Liegt hinter den Mesenterialgefäßen.",
+    "E": "Liegt vor der Wirbelsäule, retroperitoneal."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-79-2",
+   "src": "F1-79",
+   "typ": "umkehrung",
+   "q": "Welche Organgruppe liegt sekundär retroperitoneal?",
+   "o": [
+    "Niere, Nebenniere, Ureter",
+    "Magen, Milz, Leber",
+    "Harnblase und Prostata",
+    "Jejunum und Ileum",
+    "Pankreas, Duodenum (außer Bulbus), Colon ascendens und descendens"
+   ],
+   "a": "E",
+   "expl": "Sekundär retroperitoneale Organe hatten ursprünglich ein Meso, das mit dem Peritoneum parietale der hinteren Bauchwand verschmolzen ist.",
+   "dis": {
+    "A": "Primär retroperitoneal.",
+    "B": "Intraperitoneal.",
+    "C": "Subperitoneal.",
+    "D": "Intraperitoneal."
+   },
+   "merk": "Sekundär retroperitoneal: „DuPaCo“ – Duodenum, Pankreas, Colon ascendens und descendens.",
+   "img": null
+  },
+  {
+   "id": "V-F1-80-1",
+   "src": "F1-80",
+   "typ": "perspektive",
+   "q": "Welche Arterie wirft an der Hinterwand der Bursa omentalis die Plica hepatopancreatica auf?",
+   "o": [
+    "A. hepatica communis",
+    "A. gastrica sinistra",
+    "A. splenica",
+    "A. colica media",
+    "A. mesenterica inferior"
+   ],
+   "a": "A",
+   "expl": "Im Vestibulum der Bursa omentalis wölben A. gastrica sinistra (Plica gastropancreatica) und A. hepatica communis (Plica hepatopancreatica) das Peritoneum vor. Zwischen beiden liegt der Eingang in den Hauptraum der Bursa.",
+   "dis": {
+    "B": "Wirft die Plica gastropancreatica auf.",
+    "C": "Verläuft am Pankreasoberrand nach links.",
+    "D": "Verläuft im Mesocolon transversum.",
+    "E": "Verläuft im Unterbauch retroperitoneal."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-80-2",
+   "src": "F1-80",
+   "typ": "perspektive",
+   "q": "Welche Struktur liegt im Lig. teres hepatis?",
+   "o": [
+    "V. portae",
+    "Die obliterierte V. umbilicalis (mit Vv. paraumbilicales)",
+    "A. hepatica propria",
+    "Ductus choledochus",
+    "V. cava inferior"
+   ],
+   "a": "B",
+   "expl": "Das Lig. teres hepatis zieht im Unterrand des Lig. falciforme vom Nabel zur Leber. Die begleitenden Vv. paraumbilicales können sich bei portaler Hypertension erweitern.",
+   "dis": {
+    "A": "Liegt im Lig. hepatoduodenale.",
+    "C": "Liegt im Lig. hepatoduodenale.",
+    "D": "Liegt im Lig. hepatoduodenale.",
+    "E": "Liegt retroperitoneal hinter der Leber."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-81-1",
+   "src": "F1-81",
+   "typ": "perspektive",
+   "q": "Welche weiteren äußeren Merkmale kennzeichnen das Kolon neben den Tänien?",
+   "o": [
+    "Plicae circulares und Zotten",
+    "Peyer-Plaques",
+    "Haustren und Appendices epiploicae",
+    "Brunner-Drüsen",
+    "Kerckring-Falten"
+   ],
+   "a": "C",
+   "expl": "Die Tänien sind gebündelte Längsmuskelstreifen. Zwischen ihnen wölbt sich die Wand zu Haustren aus; Fettanhängsel hängen als Appendices epiploicae an der Oberfläche.",
+   "dis": {
+    "A": "Typisch für den Dünndarm.",
+    "B": "Typisch für das Ileum.",
+    "D": "Typisch für das Duodenum.",
+    "E": "Andere Bezeichnung für Plicae circulares im Dünndarm."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-81-2",
+   "src": "F1-81",
+   "typ": "perspektive",
+   "q": "In welchem Darmabschnitt laufen die Tänien zu einer geschlossenen Längsmuskelschicht auseinander?",
+   "o": [
+    "Caecum",
+    "Colon transversum",
+    "Colon sigmoideum",
+    "Rektum",
+    "Colon ascendens"
+   ],
+   "a": "D",
+   "expl": "Am Übergang vom Sigma zum Rektum verbreitern sich die Tänien zu einer durchgehenden Längsmuskulatur. Das Rektum hat deshalb weder Tänien noch Haustren.",
+   "dis": {
+    "A": "Hier beginnen die Tänien an der Appendixbasis.",
+    "B": "Hat drei Tänien.",
+    "C": "Hat noch Tänien, wenn auch breiter.",
+    "E": "Hat drei Tänien."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-83-1",
+   "src": "F1-83",
+   "typ": "perspektive",
+   "q": "Welcher Dickdarmabschnitt wird von der A. mesenterica inferior versorgt?",
+   "o": [
+    "Colon ascendens",
+    "Caecum",
+    "Jejunum",
+    "Pars descendens duodeni",
+    "Colon descendens"
+   ],
+   "a": "E",
+   "expl": "Die A. mesenterica inferior versorgt das linke Drittel des Colon transversum, Colon descendens, Colon sigmoideum und oberes Rektum.",
+   "dis": {
+    "A": "A. colica dextra (A. mesenterica superior).",
+    "B": "A. ileocolica.",
+    "C": "Aa. jejunales (A. mesenterica superior).",
+    "D": "Aa. pancreaticoduodenales."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-83-2",
+   "src": "F1-83",
+   "typ": "perspektive",
+   "q": "Welche Nerven versorgen das Colon descendens parasympathisch?",
+   "o": [
+    "Nn. splanchnici pelvici (S2–S4)",
+    "N. vagus",
+    "N. phrenicus",
+    "Nn. splanchnici majores",
+    "N. pudendus"
+   ],
+   "a": "A",
+   "expl": "Ab dem linken Drittel des Colon transversum übernimmt der sakrale Parasympathikus. Seine Fasern steigen über den Plexus hypogastricus inferior retroperitoneal zum Kolon auf.",
+   "dis": {
+    "B": "Versorgt nur bis zum Cannon-Böhm-Punkt.",
+    "C": "Innerviert das Zwerchfell.",
+    "D": "Sympathisch.",
+    "E": "Somatisch für den Damm."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-84-1",
+   "src": "F1-84",
+   "typ": "perspektive",
+   "q": "Welche Struktur ist beim Erwachsenen der Rest des Ductus venosus?",
+   "o": [
+    "Lig. teres hepatis",
+    "Lig. venosum",
+    "Lig. arteriosum",
+    "Lig. falciforme",
+    "Urachus"
+   ],
+   "a": "B",
+   "expl": "Der Ductus venosus verbindet pränatal die V. umbilicalis mit der V. cava inferior und lässt die Leber umgehen. Nach der Geburt verschließt er sich zum Lig. venosum.",
+   "dis": {
+    "A": "Rest der V. umbilicalis.",
+    "C": "Rest des Ductus arteriosus.",
+    "D": "Peritonealfalte, kein Gefäßrest.",
+    "E": "Rest des Allantoisgangs."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-84-2",
+   "src": "F1-84",
+   "typ": "nachbarschaft",
+   "q": "Wo liegt das Lig. venosum an der Leber?",
+   "o": [
+    "Im Lig. falciforme an der Vorderfläche",
+    "Neben der Gallenblase",
+    "In der Fissur zwischen Lobus caudatus und linkem Leberlappen",
+    "Im Milzhilus",
+    "Am Nabel"
+   ],
+   "a": "C",
+   "expl": "An der Leberunterfläche bilden Fissura ligamenti teretis und Fissura ligamenti venosi die linke Längsfurche. Das Lig. venosum zieht zum Omentum minus.",
+   "dis": {
+    "A": "Dort liegt das Lig. teres hepatis.",
+    "B": "Dort liegt die Fossa vesicae biliaris.",
+    "D": "Gehört nicht zur Leber.",
+    "E": "Dort beginnt das Lig. teres hepatis."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-85-1",
+   "src": "F1-85",
+   "typ": "perspektive",
+   "q": "Wie heißt die Mündungsstelle von Ductus choledochus und Ductus pancreaticus im Duodenum?",
+   "o": [
+    "Papilla duodeni minor",
+    "Plica circularis",
+    "Flexura duodenojejunalis",
+    "Papilla duodeni major (Vater)",
+    "Bulbus duodeni"
+   ],
+   "a": "D",
+   "expl": "Die Papilla duodeni major liegt an der medialen Wand der Pars descendens. Häufig vereinigen sich beide Gänge vorher zur Ampulla hepatopancreatica.",
+   "dis": {
+    "A": "Mündung des Ductus pancreaticus accessorius.",
+    "B": "Ringfalte der Schleimhaut.",
+    "C": "Übergang ins Jejunum.",
+    "E": "Anfangsteil des Duodenums."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-85-2",
+   "src": "F1-85",
+   "typ": "perspektive",
+   "q": "Welcher Schließmuskel umgibt die Mündung an der Papilla duodeni major?",
+   "o": [
+    "M. sphincter pyloricus",
+    "Bauhin-Klappe",
+    "M. sphincter ani internus",
+    "Unterer Ösophagussphinkter",
+    "M. sphincter ampullae hepatopancreaticae (Oddi)"
+   ],
+   "a": "E",
+   "expl": "Der Sphincter Oddi regelt den Abfluss von Galle und Pankreassekret. Ist er geschlossen, staut sich Galle in die Gallenblase zurück.",
+   "dis": {
+    "A": "Liegt am Magenausgang.",
+    "B": "Liegt am Übergang Ileum – Caecum.",
+    "C": "Liegt im Analkanal.",
+    "D": "Liegt am Mageneingang."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-86-1",
+   "src": "F1-86",
+   "typ": "perspektive",
+   "q": "Aus welchen Arterien wird der Pankreaskopf versorgt?",
+   "o": [
+    "Aus den Aa. pancreaticoduodenales superiores (A. gastroduodenalis) und inferiores (A. mesenterica superior)",
+    "Nur aus der A. splenica",
+    "Aus den Aa. gastricae breves",
+    "Aus der A. colica media",
+    "Aus der A. renalis"
+   ],
+   "a": "A",
+   "expl": "Am Pankreaskopf bilden die oberen und unteren Pankreatikoduodenalarterien Arkaden. So anastomosieren Truncus coeliacus und A. mesenterica superior.",
+   "dis": {
+    "B": "Sie versorgt Körper und Schwanz.",
+    "C": "Versorgen den Magenfundus.",
+    "D": "Versorgt das Colon transversum.",
+    "E": "Versorgt die Niere."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-86-2",
+   "src": "F1-86",
+   "typ": "nachbarschaft",
+   "q": "Welche Arterie verläuft geschlängelt am Oberrand des Pankreas zur Milz?",
+   "o": [
+    "A. gastrica sinistra",
+    "A. splenica",
+    "A. mesenterica superior",
+    "A. hepatica propria",
+    "A. renalis"
+   ],
+   "a": "B",
+   "expl": "Die A. splenica gibt am Pankreasoberrand Rr. pancreatici (u. a. A. pancreatica magna) ab und erreicht im Lig. splenorenale den Milzhilus.",
+   "dis": {
+    "A": "Zieht zur kleinen Kurvatur.",
+    "C": "Zieht hinter dem Pankreas nach unten.",
+    "D": "Zieht im Lig. hepatoduodenale zur Leber.",
+    "E": "Zieht retroperitoneal zur Niere."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-87-1",
+   "src": "F1-87",
+   "typ": "perspektive",
+   "q": "Woraus entspringt die A. suprarenalis media?",
+   "o": [
+    "Aus der A. renalis",
+    "Aus der A. phrenica inferior",
+    "Direkt aus der Aorta abdominalis",
+    "Aus dem Truncus coeliacus",
+    "Aus der A. mesenterica superior"
+   ],
+   "a": "C",
+   "expl": "Die Nebenniere hat drei Zuflüsse: oben aus der A. phrenica inferior, in der Mitte direkt aus der Aorta und unten aus der A. renalis.",
+   "dis": {
+    "A": "Daraus entspringt die A. suprarenalis inferior.",
+    "B": "Daraus entspringt die A. suprarenalis superior.",
+    "D": "Versorgt Oberbauchorgane.",
+    "E": "Versorgt den Mitteldarm."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-87-2",
+   "src": "F1-87",
+   "typ": "perspektive",
+   "q": "Aus welchem embryonalen Gewebe entsteht das Nebennierenmark?",
+   "o": [
+    "Mesoderm",
+    "Entoderm",
+    "Oberflächenektoderm",
+    "Neuralleiste",
+    "Mesonephros"
+   ],
+   "a": "D",
+   "expl": "Das Mark besteht aus umgewandelten postganglionären sympathischen Neuronen (chromaffine Zellen) aus der Neuralleiste. Es wird deshalb direkt von präganglionären Fasern innerviert.",
+   "dis": {
+    "A": "Daraus entsteht die Nebennierenrinde.",
+    "B": "Bildet Darmepithel und Drüsen des Darms.",
+    "C": "Bildet z. B. Epidermis.",
+    "E": "Urniere."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-88-1",
+   "src": "F1-88",
+   "typ": "perspektive",
+   "q": "Welches Band fixiert die Flexura duodenojejunalis an der hinteren Bauchwand?",
+   "o": [
+    "Lig. teres hepatis",
+    "Lig. falciforme",
+    "Lig. hepatoduodenale",
+    "Lig. gastrocolicum",
+    "Lig. suspensorium duodeni (Treitz)"
+   ],
+   "a": "E",
+   "expl": "Das Treitz-Band zieht von der Flexura duodenojejunalis zum rechten Zwerchfellschenkel. Links davon liegt die V. mesenterica inferior.",
+   "dis": {
+    "A": "Rest der Nabelvene.",
+    "B": "Leberband.",
+    "C": "Teil des Omentum minus.",
+    "D": "Teil des Omentum majus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-88-2",
+   "src": "F1-88",
+   "typ": "klinik",
+   "q": "Welche klinische Bedeutung hat das Treitz-Band bei gastrointestinalen Blutungen?",
+   "o": [
+    "Es markiert die Grenze zwischen oberer und unterer GI-Blutung.",
+    "Es markiert die Grenze zwischen Dünn- und Dickdarm.",
+    "Es markiert die Grenze zwischen Magen und Duodenum.",
+    "Es zeigt die Lage der Appendix an.",
+    "Es markiert das Ende des Ösophagus."
+   ],
+   "a": "A",
+   "expl": "Blutungen oberhalb der Flexura duodenojejunalis gelten als obere GI-Blutung (meist Hämatemesis, Teerstuhl), darunter als untere GI-Blutung.",
+   "dis": {
+    "B": "Das ist die Ileozäkalklappe.",
+    "C": "Das ist der Pylorus.",
+    "D": "Liegt im rechten Unterbauch.",
+    "E": "Das ist die Kardia."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-89-1",
+   "src": "F1-89",
+   "typ": "perspektive",
+   "q": "Wo mündet der Ductus pancreaticus accessorius (Santorini)?",
+   "o": [
+    "An der Papilla duodeni major",
+    "An der Papilla duodeni minor",
+    "Im Jejunum",
+    "In die Gallenblase",
+    "In den Magen"
+   ],
+   "a": "B",
+   "expl": "Die Papilla duodeni minor liegt etwa 2 cm oberhalb der Papilla major in der Pars descendens. Bei Pancreas divisum fließt der Großteil des Sekrets hier ab.",
+   "dis": {
+    "A": "Mündung von Ductus choledochus und Ductus pancreaticus.",
+    "C": "Zu weit distal.",
+    "D": "Kein Pankreasgang mündet dort.",
+    "E": "Kein Pankreasgang mündet dort."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-89-2",
+   "src": "F1-89",
+   "typ": "klinik",
+   "q": "Welche Komplikation kann ein Gallenstein auslösen, der in der Papilla duodeni major steckt?",
+   "o": [
+    "Appendizitis",
+    "Divertikulitis",
+    "Akute biliäre Pankreatitis (und Verschlussikterus)",
+    "Ösophagusvarizen",
+    "Nierenkolik"
+   ],
+   "a": "C",
+   "expl": "Ein Stein an der gemeinsamen Mündung staut Galle und Pankreassekret zurück. Das kann eine Pankreatitis auslösen; therapeutisch wird er per ERCP entfernt.",
+   "dis": {
+    "A": "Entsteht durch Obstruktion der Appendix.",
+    "B": "Entzündung von Kolondivertikeln.",
+    "D": "Folge der portalen Hypertension.",
+    "E": "Entsteht durch Harnleitersteine."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-91-1",
+   "src": "F2-91",
+   "typ": "nachbarschaft",
+   "q": "Was begrenzt den Retroperitonealraum nach dorsal?",
+   "o": [
+    "Das Peritoneum parietale",
+    "Das Zwerchfell",
+    "Die Leber",
+    "Die hintere Bauchwandmuskulatur (M. psoas, M. quadratus lumborum) mit der Fascia transversalis",
+    "Das Omentum majus"
+   ],
+   "a": "D",
+   "expl": "Der Retroperitonealraum liegt zwischen Peritoneum parietale posterius und hinterer Bauchwand. Er reicht vom Zwerchfell bis ins kleine Becken.",
+   "dis": {
+    "A": "Begrenzt ventral.",
+    "B": "Begrenzt kranial.",
+    "C": "Liegt intraperitoneal.",
+    "E": "Liegt intraperitoneal vorne."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-91-2",
+   "src": "F2-91",
+   "typ": "nachbarschaft",
+   "q": "In welchen Raum setzt sich der Retroperitonealraum nach kaudal fort?",
+   "o": [
+    "In die Pleurahöhle",
+    "In die Perikardhöhle",
+    "In die Bursa omentalis",
+    "In den Schädel",
+    "In den extraperitonealen (subperitonealen) Raum des kleinen Beckens"
+   ],
+   "a": "E",
+   "expl": "Nach unten geht der Retroperitonealraum ohne Grenze in den Bindegewebsraum unter dem Beckenperitoneum über. Blutungen und Infektionen können sich dorthin ausbreiten.",
+   "dis": {
+    "A": "Liegt jenseits des Zwerchfells.",
+    "B": "Liegt im Thorax.",
+    "C": "Teil der Peritonealhöhle.",
+    "D": "Keine Verbindung."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-92-1",
+   "src": "F2-92",
+   "typ": "perspektive",
+   "q": "Welche Nervenstruktur liegt im Retroperitonealraum?",
+   "o": [
+    "Pars lumbalis des Truncus sympathicus",
+    "Plexus brachialis",
+    "N. facialis",
+    "N. phrenicus",
+    "N. ulnaris"
+   ],
+   "a": "A",
+   "expl": "Der lumbale Grenzstrang liegt seitlich auf den Lendenwirbelkörpern am Rand des M. psoas. Rechts wird er von der V. cava inferior, links von der Aorta bedeckt.",
+   "dis": {
+    "B": "Liegt am Hals und in der Achsel.",
+    "C": "Liegt im Kopf.",
+    "D": "Liegt im Thorax.",
+    "E": "Liegt am Arm."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-92-2",
+   "src": "F2-92",
+   "typ": "perspektive",
+   "q": "Welche Lymphstruktur liegt retroperitoneal etwa in Höhe L1/L2 rechts hinter der Aorta?",
+   "o": [
+    "Thymus",
+    "Cisterna chyli",
+    "Milz",
+    "Peyer-Plaques",
+    "Tonsilla palatina"
+   ],
+   "a": "B",
+   "expl": "In der Cisterna chyli vereinigen sich Trunci lumbales und intestinales. Aus ihr geht der Ductus thoracicus hervor, der durch den Hiatus aorticus in den Thorax zieht.",
+   "dis": {
+    "A": "Liegt im Mediastinum.",
+    "C": "Liegt intraperitoneal links.",
+    "D": "Liegen im Ileum.",
+    "E": "Liegt im Rachen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-64/F2-93-1",
+   "src": "D2-64/F2-93",
+   "typ": "nachbarschaft",
+   "q": "Welcher Abschnitt des Duodenums kreuzt die Wirbelsäule vor L3?",
+   "o": [
+    "Bulbus duodeni",
+    "Pars descendens",
+    "Pars horizontalis",
+    "Pars ascendens",
+    "Flexura duodenojejunalis"
+   ],
+   "a": "C",
+   "expl": "Die Pars horizontalis zieht von rechts nach links vor V. cava inferior und Aorta. Ventral kreuzen sie die Mesenterialgefäße.",
+   "dis": {
+    "A": "Liegt in Höhe L1.",
+    "B": "Liegt rechts neben der Wirbelsäule.",
+    "D": "Steigt links der Wirbelsäule auf.",
+    "E": "Liegt links in Höhe L2."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-64/F2-93-2",
+   "src": "D2-64/F2-93",
+   "typ": "nachbarschaft",
+   "q": "Welche Struktur liegt dorsal der Pars descendens duodeni?",
+   "o": [
+    "Milz",
+    "Magenfundus",
+    "Linke Nebenniere",
+    "Rechte Niere mit Nierenhilus",
+    "Colon sigmoideum"
+   ],
+   "a": "D",
+   "expl": "Die Pars descendens liegt rechts vor dem Hilus der rechten Niere und dem Ureterabgang. Medial grenzt sie an den Pankreaskopf.",
+   "dis": {
+    "A": "Liegt links.",
+    "B": "Liegt links oben.",
+    "C": "Liegt links.",
+    "E": "Liegt im linken Unterbauch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-61/F2-94-1",
+   "src": "D2-61/F2-94",
+   "typ": "perspektive",
+   "q": "Welche Zone der Nebennierenrinde bildet Aldosteron?",
+   "o": [
+    "Zona fasciculata",
+    "Zona reticularis",
+    "Nebennierenmark",
+    "Capsula fibrosa",
+    "Zona glomerulosa"
+   ],
+   "a": "E",
+   "expl": "Die Nebennierenrinde gliedert sich von außen nach innen in Zona glomerulosa (Mineralokortikoide), fasciculata (Glukokortikoide) und reticularis (Androgene).",
+   "dis": {
+    "A": "Bildet vor allem Cortisol.",
+    "B": "Bildet vor allem Androgene.",
+    "C": "Bildet Adrenalin und Noradrenalin.",
+    "D": "Bindegewebshülle, keine Hormonproduktion."
+   },
+   "merk": "„GFR“: Salz – Zucker – Sex.",
+   "img": null
+  },
+  {
+   "id": "V-D2-61/F2-94-2",
+   "src": "D2-61/F2-94",
+   "typ": "perspektive",
+   "q": "Wie wird das Nebennierenmark vegetativ innerviert?",
+   "o": [
+    "Direkt durch präganglionäre sympathische Fasern",
+    "Durch postganglionäre Fasern aus dem Plexus coeliacus",
+    "Durch den N. vagus",
+    "Durch den N. phrenicus",
+    "Gar nicht; es wird nur hormonell gesteuert"
+   ],
+   "a": "A",
+   "expl": "Die chromaffinen Zellen des Marks entsprechen postganglionären Neuronen. Sie erhalten präganglionäre Fasern aus den Nn. splanchnici und schütten Adrenalin ins Blut aus.",
+   "dis": {
+    "B": "Die Umschaltung findet im Mark selbst statt.",
+    "C": "Parasympathisch, nicht für die Sekretion verantwortlich.",
+    "D": "Innerviert das Zwerchfell.",
+    "E": "Es wird nerval gesteuert."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-62/F2-95-1",
+   "src": "D2-62/F2-95",
+   "typ": "perspektive",
+   "q": "Welche paarigen Äste der Bauchaorta entspringen dorsal und versorgen die hintere Bauchwand?",
+   "o": [
+    "Aa. renales",
+    "Aa. lumbales",
+    "A. mesenterica inferior",
+    "Truncus coeliacus",
+    "A. sacralis mediana"
+   ],
+   "a": "B",
+   "expl": "Vier Paare Aa. lumbales ziehen von der Aorta hinter den M. psoas zur Rückenmuskulatur und Bauchwand. Sie entsprechen den Aa. intercostales posteriores.",
+   "dis": {
+    "A": "Entspringen seitlich und versorgen die Niere.",
+    "C": "Unpaar, ventral.",
+    "D": "Unpaar, ventral.",
+    "E": "Unpaar, Fortsetzung nach kaudal."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-62/F2-95-2",
+   "src": "D2-62/F2-95",
+   "typ": "klinik",
+   "q": "Wohin blutet ein rupturiertes Bauchaortenaneurysma häufig zuerst?",
+   "o": [
+    "In die Pleurahöhle",
+    "In die Harnblase",
+    "Ins Retroperitoneum (gedeckte Ruptur)",
+    "In den Magen",
+    "In die Perikardhöhle"
+   ],
+   "a": "C",
+   "expl": "Die Bauchaorta liegt retroperitoneal; eine Ruptur wird oft zunächst durch die umgebenden Gewebe abgedeckt. Typisch sind plötzliche Bauch- oder Rückenschmerzen, ein pulsierender Tumor und Schock.",
+   "dis": {
+    "A": "Liegt jenseits des Zwerchfells.",
+    "B": "Kein direkter Kontakt.",
+    "D": "Liegt intraperitoneal.",
+    "E": "Liegt im Thorax."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-63/F2-96-1",
+   "src": "D2-63/F2-96",
+   "typ": "nachbarschaft",
+   "q": "Wo liegt der M. psoas major?",
+   "o": [
+    "Intraperitoneal",
+    "Im Mesenterium",
+    "In der Bursa omentalis",
+    "Retroperitoneal seitlich der Lendenwirbelsäule",
+    "Vor dem Peritoneum parietale anterius"
+   ],
+   "a": "D",
+   "expl": "Der M. psoas major entspringt an den Lendenwirbeln und zieht unter dem Leistenband zum Trochanter minor. Er ist von einer eigenen Faszie umhüllt.",
+   "dis": {
+    "A": "Er liegt hinter dem Peritoneum.",
+    "B": "Kein Muskel liegt im Mesenterium.",
+    "C": "Teil der Peritonealhöhle.",
+    "E": "Das wäre die vordere Bauchwand."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-63/F2-96-2",
+   "src": "D2-63/F2-96",
+   "typ": "klinik",
+   "q": "Wohin kann sich ein Psoasabszess (z. B. bei Spondylodiszitis) ausbreiten?",
+   "o": [
+    "In die Pleurahöhle",
+    "In den Magen",
+    "Direkt in die Harnblase",
+    "Ins Gehirn",
+    "Entlang der Psoasfaszie bis unter das Leistenband zum Oberschenkel"
+   ],
+   "a": "E",
+   "expl": "Die Psoasfaszie bildet eine Röhre von der Lendenwirbelsäule bis zum Trochanter minor. Eiter kann darin absinken und in der Leiste als Senkungsabszess erscheinen.",
+   "dis": {
+    "A": "Keine direkte Verbindung.",
+    "B": "Liegt intraperitoneal.",
+    "C": "Keine Faszienverbindung.",
+    "D": "Keine Verbindung."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-97-1",
+   "src": "F2-97",
+   "typ": "perspektive",
+   "q": "In welcher Höhe liegen die Nieren?",
+   "o": [
+    "Etwa Th12 bis L3; die rechte Niere liegt etwas tiefer.",
+    "Etwa Th8 bis Th10",
+    "Etwa L4 bis S1",
+    "Die linke Niere liegt tiefer.",
+    "Beide in Höhe Th6"
+   ],
+   "a": "A",
+   "expl": "Die Nieren liegen retroperitoneal neben der Wirbelsäule. Die Leber drückt die rechte Niere etwa einen halben Wirbel tiefer; beide verschieben sich atemabhängig.",
+   "dis": {
+    "B": "Zu hoch.",
+    "C": "Zu tief.",
+    "D": "Die rechte liegt wegen der Leber tiefer.",
+    "E": "Viel zu hoch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-97-2",
+   "src": "F2-97",
+   "typ": "klinik",
+   "q": "Wo prüft man den Nierenklopfschmerz?",
+   "o": [
+    "Am McBurney-Punkt",
+    "Im Nierenlager zwischen 12. Rippe und Wirbelsäule",
+    "Am Murphy-Punkt",
+    "Im Epigastrium",
+    "In der Leiste"
+   ],
+   "a": "B",
+   "expl": "Die Niere liegt dorsal unter der 12. Rippe. Klopfschmerz im kostovertebralen Winkel spricht für eine Pyelonephritis oder einen Harnstau.",
+   "dis": {
+    "A": "Druckpunkt bei Appendizitis.",
+    "C": "Druckpunkt der Gallenblase.",
+    "D": "Typisch für Magen- oder Pankreasbeschwerden.",
+    "E": "Typisch für Hernien."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-98-1",
+   "src": "F2-98",
+   "typ": "perspektive",
+   "q": "Welche drei unpaaren Äste der Bauchaorta versorgen den Verdauungstrakt?",
+   "o": [
+    "Aa. renales, suprarenales und testiculares",
+    "Aa. lumbales",
+    "Truncus coeliacus, A. mesenterica superior und A. mesenterica inferior",
+    "Aa. iliacae communes",
+    "Aa. phrenicae inferiores"
+   ],
+   "a": "C",
+   "expl": "Die drei unpaaren Darmarterien entsprechen Vorder-, Mittel- und Enddarm. Sie entspringen in Höhe Th12, L1 und L3.",
+   "dis": {
+    "A": "Paarige Äste.",
+    "B": "Paarige dorsale Äste.",
+    "D": "Endäste.",
+    "E": "Paarige Äste zum Zwerchfell."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-98-2",
+   "src": "F2-98",
+   "typ": "perspektive",
+   "q": "Welche Arterien entspringen als erste Äste der Bauchaorta?",
+   "o": [
+    "Truncus coeliacus",
+    "A. mesenterica superior",
+    "Aa. renales",
+    "Aa. phrenicae inferiores",
+    "A. mesenterica inferior"
+   ],
+   "a": "D",
+   "expl": "Direkt unter dem Hiatus aorticus gehen die Aa. phrenicae inferiores ab. Sie versorgen das Zwerchfell von unten und geben die Aa. suprarenales superiores ab.",
+   "dis": {
+    "A": "Entspringt kurz danach.",
+    "B": "Entspringt in Höhe L1.",
+    "C": "Entspringen in Höhe L1/L2.",
+    "E": "Entspringt in Höhe L3."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-99-1",
+   "src": "F2-99",
+   "typ": "nachbarschaft",
+   "q": "Welche Strukturen liegen im Oberbauch direkt ventral der V. cava inferior?",
+   "o": [
+    "Milz",
+    "Magenfundus",
+    "Linke Niere",
+    "Colon sigmoideum",
+    "Pankreaskopf und Duodenum"
+   ],
+   "a": "E",
+   "expl": "Die V. cava inferior liegt rechts der Aorta auf der Wirbelsäule. Davor liegen von kaudal nach kranial Pars horizontalis duodeni, Pankreaskopf, V. portae und das Foramen omentale.",
+   "dis": {
+    "A": "Liegt links.",
+    "B": "Liegt links oben.",
+    "C": "Liegt links neben der Aorta.",
+    "D": "Liegt im linken Unterbauch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-99-2",
+   "src": "F2-99",
+   "typ": "klinik",
+   "q": "Warum lagert man Schwangere im letzten Trimenon nicht flach auf den Rücken, sondern in Linksseitenlage?",
+   "o": [
+    "Um eine Kompression der V. cava inferior durch den Uterus zu vermeiden",
+    "Um die Aorta auf der linken Seite zu entlasten",
+    "Um den Magen zu entleeren",
+    "Um die Leber zu entlasten",
+    "Um die Lunge besser zu belüften"
+   ],
+   "a": "A",
+   "expl": "Der schwere Uterus drückt in Rückenlage auf die rechts liegende V. cava inferior. Der venöse Rückstrom sinkt, und es droht Blutdruckabfall (Vena-cava-Kompressionssyndrom).",
+   "dis": {
+    "B": "Die Aorta wird weniger stark komprimiert als die V. cava.",
+    "C": "Kein Ziel der Lagerung.",
+    "D": "Kein Grund.",
+    "E": "Nicht der Hauptgrund."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-100-1",
+   "src": "F2-100",
+   "typ": "umkehrung",
+   "q": "Welcher Dickdarmabschnitt liegt auf der linken Seite sekundär retroperitoneal?",
+   "o": [
+    "Colon sigmoideum",
+    "Colon descendens",
+    "Colon transversum",
+    "Appendix vermiformis",
+    "Ileum"
+   ],
+   "a": "B",
+   "expl": "Das Colon descendens ist mit der linken hinteren Bauchwand verwachsen. Unterhalb der Crista iliaca geht es in das wieder intraperitoneale Colon sigmoideum über.",
+   "dis": {
+    "A": "Intraperitoneal mit Mesocolon sigmoideum.",
+    "C": "Intraperitoneal mit Mesocolon transversum.",
+    "D": "Intraperitoneal, rechts.",
+    "E": "Intraperitoneal, Dünndarm."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-100-2",
+   "src": "F2-100",
+   "typ": "nachbarschaft",
+   "q": "Wie heißt die Peritonealrinne lateral des Colon ascendens?",
+   "o": [
+    "Recessus duodenalis superior",
+    "Excavatio rectovesicalis",
+    "Sulcus paracolicus dexter",
+    "Bursa omentalis",
+    "Recessus subphrenicus"
+   ],
+   "a": "C",
+   "expl": "Die Sulci paracolici verbinden Ober- und Unterbauch. Rechts kann sich über den Sulcus paracolicus dexter Eiter aus dem Becken bis unter die Leber ausbreiten.",
+   "dis": {
+    "A": "Liegt an der Flexura duodenojejunalis.",
+    "B": "Liegt im Becken.",
+    "D": "Liegt hinter dem Magen.",
+    "E": "Liegt unter dem Zwerchfell."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-101-1",
+   "src": "F2-101",
+   "typ": "klinik",
+   "q": "Welches Zeichen spricht für eine retroperitoneale Einblutung, z. B. bei nekrotisierender Pankreatitis?",
+   "o": [
+    "Murphy-Zeichen",
+    "McBurney-Zeichen",
+    "Babinski-Zeichen",
+    "Grey-Turner-Zeichen (bläuliche Verfärbung der Flanken)",
+    "Lasègue-Zeichen"
+   ],
+   "a": "D",
+   "expl": "Blut aus dem Retroperitoneum breitet sich entlang der Faszien bis in die Flankenhaut aus. Das Grey-Turner-Zeichen tritt meist erst nach Tagen auf.",
+   "dis": {
+    "A": "Inspiratorischer Stopp bei Gallenblasenpalpation.",
+    "B": "Druckschmerz bei Appendizitis.",
+    "C": "Pyramidenbahnzeichen.",
+    "E": "Nervendehnungszeichen bei Ischias."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-101-2",
+   "src": "F2-101",
+   "typ": "klinik",
+   "q": "Wie heißt die bläuliche Verfärbung um den Nabel bei retroperitonealer oder intraabdomineller Blutung?",
+   "o": [
+    "Rovsing-Zeichen",
+    "Psoaszeichen",
+    "Courvoisier-Zeichen",
+    "Kehr-Zeichen",
+    "Cullen-Zeichen"
+   ],
+   "a": "E",
+   "expl": "Das Blut gelangt über das Lig. falciforme bzw. Lig. teres hepatis zum Nabel. Cullen- und Grey-Turner-Zeichen sind typisch für eine schwere Pankreatitis.",
+   "dis": {
+    "A": "Schmerz rechts bei Druck links (Appendizitis).",
+    "B": "Schmerz bei Hüftbeugung gegen Widerstand (retrozäkale Appendizitis).",
+    "C": "Prall tastbare, schmerzlose Gallenblase mit Ikterus.",
+    "D": "Linksseitiger Schulterschmerz bei Milzruptur."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-65/F2-102-1",
+   "src": "D2-65/F2-102",
+   "typ": "klinik",
+   "q": "Welche Untersuchung eignet sich im Schockraum am schnellsten, um freie Flüssigkeit im Abdomen nachzuweisen?",
+   "o": [
+    "Sonographie (FAST)",
+    "MRT",
+    "EEG",
+    "PET-Scan",
+    "Skelettszintigraphie"
+   ],
+   "a": "A",
+   "expl": "Die FAST-Sonographie prüft in wenigen Minuten Morison-Pouch, Koller-Pouch (perisplenisch), Douglas- bzw. Excavatio und Perikard auf freie Flüssigkeit.",
+   "dis": {
+    "B": "Zu zeitaufwendig für instabile Patienten.",
+    "C": "Misst Hirnströme.",
+    "D": "Funktionelle Bildgebung, nicht für den Notfall.",
+    "E": "Darstellung des Knochenstoffwechsels."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-65/F2-102-2",
+   "src": "D2-65/F2-102",
+   "typ": "klinik",
+   "q": "In welcher Position zeigt eine Röntgenaufnahme freie intraperitoneale Luft (Perforation) am besten?",
+   "o": [
+    "In flacher Rückenlage",
+    "Im Stehen bzw. in Linksseitenlage (Luftsichel unter dem Zwerchfell bzw. über der Leber)",
+    "In Kopftieflage",
+    "In Bauchlage",
+    "Die Position spielt keine Rolle."
+   ],
+   "a": "B",
+   "expl": "Freie Luft steigt an die höchste Stelle der Peritonealhöhle. Im Stehen liegt sie unter dem Zwerchfell, in Linksseitenlage zwischen Leber und Bauchwand.",
+   "dis": {
+    "A": "Die Luft sammelt sich vorne und ist schwer erkennbar.",
+    "C": "Die Luft würde ins Becken steigen.",
+    "D": "Die Luft sammelt sich am Rücken über dem Darm, schwer zu sehen.",
+    "E": "Freie Luft steigt immer nach oben."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-66/F2-103-1",
+   "src": "D2-66/F2-103",
+   "typ": "klinik",
+   "q": "Wo wird eine Spenderniere typischerweise implantiert?",
+   "o": [
+    "An die Stelle der alten Niere im Nierenlager",
+    "Intraperitoneal neben die Milz",
+    "Extraperitoneal in die Fossa iliaca mit Anschluss an A. und V. iliaca externa",
+    "In den Thorax",
+    "Subkutan in die Leiste"
+   ],
+   "a": "C",
+   "expl": "Die Fossa iliaca ist gut zugänglich, die Beckengefäße sind kräftig und die Harnblase liegt nah. Der Eingriff erfolgt ohne Eröffnung der Peritonealhöhle.",
+   "dis": {
+    "A": "Die eigenen Nieren bleiben meist belassen.",
+    "B": "Kein Standardort.",
+    "D": "Kein Standardort.",
+    "E": "Zu oberflächlich."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-66/F2-103-2",
+   "src": "D2-66/F2-103",
+   "typ": "klinik",
+   "q": "Wohin wird der Ureter der Spenderniere angeschlossen?",
+   "o": [
+    "In die Urethra",
+    "In das Nierenbecken der alten Niere",
+    "In das Rektum",
+    "In die Harnblase",
+    "In das Colon sigmoideum"
+   ],
+   "a": "D",
+   "expl": "Der Spenderureter wird mit einer Antirefluxplastik in die Harnblase implantiert (Ureterozystoneostomie).",
+   "dis": {
+    "A": "Zu distal, ohne Reservoir.",
+    "B": "Unüblich.",
+    "C": "Würde zu Infektionen führen.",
+    "E": "Nur bei bestimmten Harnableitungen, nicht bei Transplantation."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-104-1",
+   "src": "F2-104",
+   "typ": "perspektive",
+   "q": "Welche Strukturen halten die Niere in ihrer Lage?",
+   "o": [
+    "Ein Mesenterium",
+    "Das Lig. teres hepatis",
+    "Das Omentum majus",
+    "Das Lig. falciforme",
+    "Capsula adiposa und Fascia renalis sowie die Nierengefäße"
+   ],
+   "a": "E",
+   "expl": "Die Niere hat kein Aufhängeband. Fettkapsel, Gerota-Faszie, Gefäßstiel und intraabdomineller Druck halten sie in ihrer Nische.",
+   "dis": {
+    "A": "Die Niere hat kein Meso.",
+    "B": "Leberband.",
+    "C": "Liegt intraperitoneal vorne.",
+    "D": "Leberband."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-104-2",
+   "src": "F2-104",
+   "typ": "klinik",
+   "q": "Was versteht man unter einer Wanderniere (Nephroptose)?",
+   "o": [
+    "Ein Absinken der Niere, z. B. bei starkem Verlust der Fettkapsel",
+    "Eine angeborene Beckenniere",
+    "Eine Hufeisenniere",
+    "Eine Nierenzyste",
+    "Einen Nierenstein"
+   ],
+   "a": "A",
+   "expl": "Bei raschem Gewichtsverlust schrumpft die Fettkapsel, und die Niere kann im Stehen deutlich absinken. Abknicken des Ureters kann Flankenschmerzen verursachen.",
+   "dis": {
+    "B": "Fehlender Aszensus, nicht Absinken.",
+    "C": "Verschmelzung beider unterer Pole.",
+    "D": "Flüssigkeitsgefüllter Hohlraum.",
+    "E": "Konkrement im Hohlsystem."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-105-1",
+   "src": "F2-105",
+   "typ": "perspektive",
+   "q": "Welche Zone der Nebennierenrinde bildet vor allem Cortisol?",
+   "o": [
+    "Zona glomerulosa",
+    "Zona fasciculata",
+    "Zona reticularis",
+    "Nebennierenmark",
+    "Capsula fibrosa"
+   ],
+   "a": "B",
+   "expl": "Die Zona fasciculata ist die breiteste Rindenzone. Ihre lipidreichen Zellen bilden Glukokortikoide unter Kontrolle von ACTH.",
+   "dis": {
+    "A": "Bildet Aldosteron.",
+    "C": "Bildet Androgene.",
+    "D": "Bildet Katecholamine.",
+    "E": "Keine Hormonproduktion."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-105-2",
+   "src": "F2-105",
+   "typ": "perspektive",
+   "q": "Welche Zone der Nebennierenrinde bildet vor allem Androgene?",
+   "o": [
+    "Zona glomerulosa",
+    "Zona fasciculata",
+    "Zona reticularis",
+    "Nebennierenmark",
+    "Medulla oblongata"
+   ],
+   "a": "C",
+   "expl": "Die innerste Rindenzone grenzt an das Mark und bildet vor allem DHEA. Bei Enzymdefekten der Cortisolsynthese (adrenogenitales Syndrom) werden vermehrt Androgene gebildet.",
+   "dis": {
+    "A": "Bildet Aldosteron.",
+    "B": "Bildet Cortisol.",
+    "D": "Bildet Adrenalin und Noradrenalin.",
+    "E": "Teil des Hirnstamms."
+   },
+   "merk": "",
+   "img": null
+  }
+ ]
+}
