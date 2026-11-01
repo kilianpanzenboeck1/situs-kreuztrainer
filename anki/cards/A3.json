@@ -1,0 +1,1294 @@
+{
+ "chapter": "A3",
+ "status": "draft",
+ "cards": [
+  {
+   "id": "V-F1-30-1",
+   "src": "F1-30",
+   "typ": "umkehrung",
+   "q": "Welcher Abschnitt des unteren Mediastinums liegt zwischen Perikard und Wirbelsäule?",
+   "o": [
+    "Mediastinum posterius",
+    "Mediastinum anterius",
+    "Mediastinum medium",
+    "Mediastinum superius",
+    "Mediastinum laterale"
+   ],
+   "a": "A",
+   "expl": "Das untere Mediastinum gliedert sich in anterius (vor dem Perikard), medium (Herz und Perikard) und posterius (hinter dem Perikard vor der Wirbelsäule).",
+   "dis": {
+    "B": "Liegt zwischen Sternum und Perikard.",
+    "C": "Enthält Herz und Perikard.",
+    "D": "Liegt oberhalb der Ebene Angulus sterni – Th4/5.",
+    "E": "Existiert nicht."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-30-2",
+   "src": "F1-30",
+   "typ": "perspektive",
+   "q": "Welche Struktur verläuft sowohl durch das obere als auch durch das hintere Mediastinum?",
+   "o": [
+    "Herz",
+    "Ösophagus",
+    "Perikard",
+    "Vasa thoracica interna",
+    "Truncus pulmonalis"
+   ],
+   "a": "B",
+   "expl": "Der Ösophagus zieht vom Hals durch das obere Mediastinum hinter der Trachea und dann durch das hintere Mediastinum hinter dem linken Vorhof zum Hiatus oesophageus.",
+   "dis": {
+    "A": "Liegt nur im Mediastinum medium.",
+    "C": "Liegt nur im Mediastinum medium.",
+    "D": "Verlaufen vorne hinter dem Sternum (oberes und vorderes Mediastinum).",
+    "E": "Liegt im Mediastinum medium."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-31-1",
+   "src": "F1-31",
+   "typ": "perspektive",
+   "q": "Welche Nerven bilden den Plexus cardiacus?",
+   "o": [
+    "N. phrenicus und Nn. intercostales",
+    "N. accessorius",
+    "Sympathische Nn. cardiaci aus dem Halsgrenzstrang und vagale Rr. cardiaci",
+    "Plexus brachialis",
+    "N. hypoglossus"
+   ],
+   "a": "C",
+   "expl": "Der Plexus cardiacus liegt an Aortenbogen und Trachealbifurkation. Sympathische Fasern steigern Frequenz und Kontraktilität, vagale Fasern senken die Frequenz.",
+   "dis": {
+    "A": "Somatische Nerven für Zwerchfell bzw. Brustwand.",
+    "B": "Rein motorisch für M. trapezius und M. sternocleidomastoideus.",
+    "D": "Versorgt den Arm.",
+    "E": "Versorgt die Zunge."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-31-2",
+   "src": "F1-31",
+   "typ": "nachbarschaft",
+   "q": "Welcher Nerv verläuft im oberen Mediastinum rechts direkt auf der V. cava superior nach kaudal?",
+   "o": [
+    "N. vagus dexter",
+    "N. laryngeus recurrens dexter",
+    "Truncus sympathicus",
+    "N. phrenicus dexter",
+    "N. intercostobrachialis"
+   ],
+   "a": "D",
+   "expl": "Der rechte N. phrenicus zieht auf V. brachiocephalica dextra und V. cava superior nach unten und dann vor der Lungenwurzel zwischen Perikard und Pleura zum Zwerchfell.",
+   "dis": {
+    "A": "Liegt weiter medial-dorsal an der Trachea.",
+    "B": "Zweigt schon am Hals um die A. subclavia ab.",
+    "C": "Liegt paravertebral.",
+    "E": "Zieht zur Achsel."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-32-1",
+   "src": "F1-32",
+   "typ": "nachbarschaft",
+   "q": "Welche große Vene mündet im Mediastinum medium von unten in den rechten Vorhof?",
+   "o": [
+    "V. azygos",
+    "V. hemiazygos",
+    "V. brachiocephalica sinistra",
+    "V. thoracica interna",
+    "V. cava inferior"
+   ],
+   "a": "E",
+   "expl": "Die V. cava inferior tritt durch das Foramen venae cavae und mündet nach kurzem intrathorakalem Verlauf in den rechten Vorhof.",
+   "dis": {
+    "A": "Mündet im oberen Mediastinum in die V. cava superior.",
+    "B": "Mündet in die V. azygos.",
+    "C": "Mündet in die V. cava superior.",
+    "D": "Mündet in die V. brachiocephalica."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-32-2",
+   "src": "F1-32",
+   "typ": "klinik",
+   "q": "In welchem Mediastinalabschnitt liegt ein Perikarderguss?",
+   "o": [
+    "Mediastinum medium",
+    "Mediastinum anterius",
+    "Mediastinum posterius",
+    "Mediastinum superius",
+    "Außerhalb des Mediastinums in der Pleurahöhle"
+   ],
+   "a": "A",
+   "expl": "Das Perikard mit Herz und den herznahen Abschnitten der großen Gefäße bildet das mittlere Mediastinum. Ein Erguss liegt in der Perikardhöhle.",
+   "dis": {
+    "B": "Liegt vor dem Perikard.",
+    "C": "Liegt hinter dem Perikard.",
+    "D": "Liegt oberhalb des Herzens.",
+    "E": "Das wäre ein Pleuraerguss."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-33-1",
+   "src": "F1-33",
+   "typ": "nachbarschaft",
+   "q": "Welche Vene mündet im oberen Mediastinum von dorsal in die V. cava superior?",
+   "o": [
+    "V. hemiazygos",
+    "V. azygos",
+    "V. thoracica interna",
+    "V. cava inferior",
+    "V. jugularis externa"
+   ],
+   "a": "B",
+   "expl": "Die V. azygos steigt rechts neben der Wirbelsäule auf und zieht in Höhe Th4 bogenförmig über den rechten Hauptbronchus in die V. cava superior.",
+   "dis": {
+    "A": "Mündet in die V. azygos.",
+    "C": "Mündet in die V. brachiocephalica.",
+    "D": "Mündet in den rechten Vorhof.",
+    "E": "Mündet in die V. subclavia."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-33-2",
+   "src": "F1-33",
+   "typ": "perspektive",
+   "q": "Woraus entsteht die V. cava superior?",
+   "o": [
+    "Aus V. jugularis interna und V. subclavia",
+    "Aus V. azygos und V. hemiazygos",
+    "Aus dem Zusammenfluss der Vv. brachiocephalicae dextra und sinistra",
+    "Aus den Vv. iliacae communes",
+    "Aus den Vv. pulmonales"
+   ],
+   "a": "C",
+   "expl": "Die Vv. brachiocephalicae vereinigen sich hinter dem 1. rechten Rippenknorpel zur V. cava superior. Die linke Vene ist länger und kreuzt hinter dem Manubrium sterni.",
+   "dis": {
+    "A": "So entsteht jeweils eine V. brachiocephalica.",
+    "B": "Diese münden in die V. cava superior bzw. V. azygos.",
+    "D": "So entsteht die V. cava inferior.",
+    "E": "Diese münden in den linken Vorhof."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-34-1",
+   "src": "F1-34",
+   "typ": "perspektive",
+   "q": "Welche histologische Struktur ist typisch für das Mark des Thymus?",
+   "o": [
+    "Malpighi-Körperchen",
+    "Peyer-Plaques",
+    "Sekundärfollikel mit Keimzentren",
+    "Hassall-Körperchen",
+    "Langerhans-Inseln"
+   ],
+   "a": "D",
+   "expl": "Hassall-Körperchen sind konzentrisch geschichtete Epithelzellen im Thymusmark. Sie sind das histologische Erkennungszeichen des Thymus.",
+   "dis": {
+    "A": "Lymphfollikel der Milz.",
+    "B": "Lymphfollikel im Ileum.",
+    "C": "Typisch für Lymphknoten.",
+    "E": "Endokrines Pankreas."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-34-2",
+   "src": "F1-34",
+   "typ": "klinik",
+   "q": "Mit welcher Erkrankung ist ein Thymom besonders häufig assoziiert?",
+   "o": [
+    "Diabetes mellitus Typ 1",
+    "Morbus Crohn",
+    "Gicht",
+    "Asthma bronchiale",
+    "Myasthenia gravis"
+   ],
+   "a": "E",
+   "expl": "Etwa ein Drittel der Thymompatienten hat eine Myasthenia gravis (Antikörper gegen Acetylcholinrezeptoren). Eine Thymektomie kann die Symptome bessern.",
+   "dis": {
+    "A": "Autoimmunerkrankung des Pankreas ohne typische Thymombeziehung.",
+    "B": "Chronisch-entzündliche Darmerkrankung.",
+    "C": "Stoffwechselerkrankung.",
+    "D": "Atemwegserkrankung."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-35-1",
+   "src": "F1-35",
+   "typ": "nachbarschaft",
+   "q": "Welche Struktur begrenzt das Mediastinum seitlich?",
+   "o": [
+    "Pleura mediastinalis",
+    "Sternum",
+    "Wirbelsäule",
+    "Zwerchfell",
+    "Pericardium fibrosum"
+   ],
+   "a": "A",
+   "expl": "Das Mediastinum ist der Raum zwischen den beiden Pleurahöhlen. Seitlich wird es von der Pleura mediastinalis begrenzt, vorne vom Sternum, hinten von der Wirbelsäule, oben von der oberen Thoraxapertur und unten vom Zwerchfell.",
+   "dis": {
+    "B": "Begrenzt vorne.",
+    "C": "Begrenzt hinten.",
+    "D": "Begrenzt unten.",
+    "E": "Liegt innerhalb des Mediastinums."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-35-2",
+   "src": "F1-35",
+   "typ": "nachbarschaft",
+   "q": "Wodurch wird das Mediastinum nach kranial begrenzt?",
+   "o": [
+    "Zwerchfell",
+    "Apertura thoracis superior",
+    "Angulus sterni",
+    "Höhe Th12",
+    "Clavicula"
+   ],
+   "a": "B",
+   "expl": "Oben geht das Mediastinum über die obere Thoraxapertur (Th1, 1. Rippe, Manubrium) ohne scharfe Grenze in die Bindegewebsräume des Halses über. Deshalb können sich Halsinfektionen ins Mediastinum ausbreiten.",
+   "dis": {
+    "A": "Begrenzt nach kaudal.",
+    "C": "Trennt oberes und unteres Mediastinum.",
+    "D": "Liegt am Zwerchfell bzw. Hiatus aorticus.",
+    "E": "Liegt teilweise oberhalb, ist aber nicht die Grenze."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-36-1",
+   "src": "F1-36",
+   "typ": "perspektive",
+   "q": "Welche Funktion hat das Zwerchfell neben der Atmung?",
+   "o": [
+    "Hormonsekretion",
+    "Blutbildung",
+    "Unterstützung der Bauchpresse zusammen mit der Bauchmuskulatur",
+    "Verdauung",
+    "Thermoregulation durch Schwitzen"
+   ],
+   "a": "C",
+   "expl": "Kontrahieren Zwerchfell und Bauchmuskeln gleichzeitig bei geschlossener Glottis, steigt der intraabdominelle Druck (Defäkation, Miktion, Geburt, Heben). Außerdem unterstützt es den venösen Rückstrom zum Herzen.",
+   "dis": {
+    "A": "Das Zwerchfell ist kein endokrines Organ.",
+    "B": "Findet im roten Knochenmark statt.",
+    "D": "Das Zwerchfell verdaut nicht.",
+    "E": "Funktion der Haut."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-36-2",
+   "src": "F1-36",
+   "typ": "klinik",
+   "q": "Nach einer Herzoperation zeigt das Röntgenbild einen einseitigen Zwerchfellhochstand. Welcher Nerv wurde am ehesten geschädigt?",
+   "o": [
+    "N. vagus",
+    "N. laryngeus recurrens",
+    "Nn. intercostales",
+    "N. phrenicus",
+    "N. accessorius"
+   ],
+   "a": "D",
+   "expl": "Der N. phrenicus (C3–C5) ist der einzige motorische Nerv des Zwerchfells. Er verläuft am Perikard und kann bei Herzoperationen (Kälte, Zug) geschädigt werden; die gelähmte Kuppel steigt nach oben.",
+   "dis": {
+    "A": "Ausfall verursacht keinen Zwerchfellhochstand.",
+    "B": "Ausfall → Heiserkeit.",
+    "C": "Versorgen die Interkostalmuskeln und nur sensibel periphere Zwerchfellanteile.",
+    "E": "Innerviert M. trapezius und M. sternocleidomastoideus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-37-1",
+   "src": "F1-37",
+   "typ": "nachbarschaft",
+   "q": "Welche Struktur bildet die vordere Grenze des Mediastinum posterius?",
+   "o": [
+    "Sternum",
+    "Wirbelsäule",
+    "Zwerchfell",
+    "Pleura costalis",
+    "Perikard"
+   ],
+   "a": "E",
+   "expl": "Das hintere Mediastinum liegt zwischen Perikard (bzw. Trachealbifurkation) vorne und den Brustwirbeln hinten. Es reicht von Th4/5 bis zum Zwerchfell.",
+   "dis": {
+    "A": "Vordere Grenze des gesamten Mediastinums.",
+    "B": "Hintere Grenze.",
+    "C": "Untere Grenze.",
+    "D": "Kleidet die Brustwand aus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-37-2",
+   "src": "F1-37",
+   "typ": "nachbarschaft",
+   "q": "Welche Vene liegt im hinteren Mediastinum rechts neben der Wirbelsäule?",
+   "o": [
+    "V. azygos",
+    "V. hemiazygos",
+    "Aorta descendens",
+    "V. cava superior",
+    "V. thoracica interna"
+   ],
+   "a": "A",
+   "expl": "Die V. azygos liegt rechts auf den Wirbelkörpern und nimmt die rechten Interkostalvenen auf. Sie verbindet die Gebiete von V. cava inferior und superior (kavokavale Anastomose).",
+   "dis": {
+    "B": "Liegt links.",
+    "C": "Liegt links und ist eine Arterie.",
+    "D": "Liegt im oberen bzw. mittleren Mediastinum vorne.",
+    "E": "Liegt vorne hinter dem Sternum."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-38-1",
+   "src": "F1-38",
+   "typ": "perspektive",
+   "q": "In Höhe welches Wirbels liegt der Hiatus aorticus?",
+   "o": [
+    "Th8",
+    "Th12",
+    "Th10",
+    "L3",
+    "Th6"
+   ],
+   "a": "B",
+   "expl": "Die Aorta zieht mit dem Ductus thoracicus hinter dem Lig. arcuatum medianum durch den Hiatus aorticus in Höhe Th12. Streng genommen liegt sie dort hinter dem Zwerchfell.",
+   "dis": {
+    "A": "Höhe des Foramen venae cavae.",
+    "C": "Höhe des Hiatus oesophageus.",
+    "D": "Zu tief; Ursprung der Crura.",
+    "E": "Zu hoch."
+   },
+   "merk": "„I 8 10 Eggs at 12“: V. cava Th8, Ösophagus Th10, Aorta Th12.",
+   "img": null
+  },
+  {
+   "id": "V-F1-38-2",
+   "src": "F1-38",
+   "typ": "perspektive",
+   "q": "Welche Strukturen ziehen zusammen mit dem Ösophagus durch den Hiatus oesophageus?",
+   "o": [
+    "Ductus thoracicus",
+    "V. cava inferior",
+    "Truncus vagalis anterior und posterior",
+    "N. phrenicus dexter",
+    "V. azygos"
+   ],
+   "a": "C",
+   "expl": "Durch den Hiatus oesophageus (Th10) ziehen Ösophagus, Trunci vagales und Rr. oesophageales der Vasa gastrica sinistra.",
+   "dis": {
+    "A": "Zieht durch den Hiatus aorticus.",
+    "B": "Zieht durch das Foramen venae cavae.",
+    "D": "Zieht mit der V. cava durch das Foramen venae cavae.",
+    "E": "Zieht durch den rechten Zwerchfellschenkel bzw. Hiatus aorticus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-39-1",
+   "src": "F1-39",
+   "typ": "nachbarschaft",
+   "q": "Welche Struktur ist mit der Oberseite des Centrum tendineum verwachsen?",
+   "o": [
+    "Leber",
+    "Magen",
+    "Ösophagus",
+    "Pericardium fibrosum",
+    "Pleura costalis"
+   ],
+   "a": "D",
+   "expl": "Das Pericardium fibrosum ist mit dem Centrum tendineum verwachsen. Deshalb folgt das Herz den Zwerchfellbewegungen bei der Atmung.",
+   "dis": {
+    "A": "Liegt unter dem Zwerchfell.",
+    "B": "Liegt unter der linken Kuppel.",
+    "C": "Zieht durch den Hiatus.",
+    "E": "Kleidet die Brustwand aus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-39-2",
+   "src": "F1-39",
+   "typ": "nachbarschaft",
+   "q": "Welche Zwerchfellöffnung liegt im Centrum tendineum?",
+   "o": [
+    "Hiatus aorticus",
+    "Hiatus oesophageus",
+    "Trigonum sternocostale",
+    "Trigonum lumbocostale",
+    "Foramen venae cavae"
+   ],
+   "a": "E",
+   "expl": "Das Foramen venae cavae liegt in der sehnigen Platte. Bei Inspiration wird es eher erweitert, was den venösen Rückstrom fördert.",
+   "dis": {
+    "A": "Liegt hinter den Zwerchfellschenkeln.",
+    "B": "Liegt im muskulären Teil (rechter Schenkel).",
+    "C": "Muskelfreie Lücke vorne.",
+    "D": "Muskelfreie Lücke hinten."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-40-1",
+   "src": "F1-40",
+   "typ": "perspektive",
+   "q": "Bis zu welcher Höhe reicht die rechte Zwerchfellkuppel in Exspiration ungefähr?",
+   "o": [
+    "Bis zum 4. ICR (etwa Höhe der Brustwarze)",
+    "Bis zum 8. ICR",
+    "Bis zum 2. ICR",
+    "Bis zur 10. Rippe",
+    "Bis Th12 ventral"
+   ],
+   "a": "A",
+   "expl": "Die rechte Zwerchfellkuppel steht in Exspiration etwa im 4. ICR, die linke etwa eine Etage tiefer. Deshalb können Bauchorgane bei Thoraxverletzungen tief unten mitverletzt sein.",
+   "dis": {
+    "B": "Zu tief.",
+    "C": "Zu hoch.",
+    "D": "Viel zu tief.",
+    "E": "Th12 ist eine dorsale Wirbelhöhe."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-40-2",
+   "src": "F1-40",
+   "typ": "perspektive",
+   "q": "Welche Zwerchfellkuppel steht normalerweise höher, und warum?",
+   "o": [
+    "Die linke, wegen des Herzens",
+    "Die rechte, wegen der darunter liegenden Leber",
+    "Die linke, wegen des Magens",
+    "Beide stehen gleich hoch",
+    "Die rechte, weil die rechte Lunge größer ist"
+   ],
+   "a": "B",
+   "expl": "Die große Leber drückt die rechte Kuppel nach oben. Im Röntgenbild steht sie deshalb etwa eine Interkostalraumhöhe höher als links.",
+   "dis": {
+    "A": "Das Herz drückt die linke Kuppel eher etwas nach unten.",
+    "C": "Der Magen hebt sie nicht über die rechte.",
+    "D": "Rechts steht sie etwa eine Etage höher.",
+    "E": "Die Lungengröße bestimmt nicht die Kuppelhöhe."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-41-1",
+   "src": "F1-41",
+   "typ": "nachbarschaft",
+   "q": "Welche Struktur gehört zum Mediastinum medium und liegt seitlich dem Perikard an?",
+   "o": [
+    "N. vagus",
+    "Ductus thoracicus",
+    "N. phrenicus",
+    "Thymus",
+    "Glandula thyroidea"
+   ],
+   "a": "C",
+   "expl": "Zum mittleren Mediastinum zählen Herz, Perikard, herznahe Gefäßabschnitte sowie N. phrenicus und Vasa pericardiacophrenica seitlich am Perikard.",
+   "dis": {
+    "A": "Verläuft hinter der Lungenwurzel im Mediastinum posterius.",
+    "B": "Liegt im Mediastinum posterius.",
+    "D": "Liegt im Mediastinum superius bzw. anterius.",
+    "E": "Liegt am Hals."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-41-2",
+   "src": "F1-41",
+   "typ": "klinik",
+   "q": "Eine retrosternale Struma reicht vom Hals in welchen Mediastinalabschnitt?",
+   "o": [
+    "Mediastinum medium",
+    "Unteres Mediastinum posterius",
+    "Retroperitoneum",
+    "Mediastinum superius",
+    "Pleurahöhle"
+   ],
+   "a": "D",
+   "expl": "Eine vergrößerte Schilddrüse kann hinter das Manubrium sterni ins obere Mediastinum wachsen. Dort kann sie Trachea und V. cava superior einengen.",
+   "dis": {
+    "A": "Enthält das Herz.",
+    "B": "Liegt tief hinter dem Herzen.",
+    "C": "Liegt im Abdomen.",
+    "E": "Liegt lateral des Mediastinums."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-42-1",
+   "src": "F1-42",
+   "typ": "nachbarschaft",
+   "q": "Welche Räume liegen beidseits lateral des Mediastinums?",
+   "o": [
+    "Die Perikardhöhle",
+    "Die Peritonealhöhle",
+    "Das Retroperitoneum",
+    "Das Spatium retropharyngeum",
+    "Die Pleurahöhlen mit den Lungen"
+   ],
+   "a": "E",
+   "expl": "Ein „Mediastinum laterale“ gibt es nicht: Seitlich liegen die beiden Pleurahöhlen. Das Mediastinum ist der Mittelraum zwischen ihnen.",
+   "dis": {
+    "A": "Liegt im Mediastinum medium.",
+    "B": "Liegt unter dem Zwerchfell.",
+    "C": "Liegt im Abdomen hinter dem Peritoneum.",
+    "D": "Liegt am Hals hinter dem Pharynx."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-42-2",
+   "src": "F1-42",
+   "typ": "klinik",
+   "q": "Über welchen Raum kann sich eine eitrige Infektion aus dem Hals ins Mediastinum ausbreiten (absteigende Mediastinitis)?",
+   "o": [
+    "Spatium retropharyngeum bzw. retroviszeraler Raum",
+    "Canalis carpi",
+    "Fossa ischioanalis",
+    "Spatium subarachnoidale",
+    "Canalis inguinalis"
+   ],
+   "a": "A",
+   "expl": "Der Raum hinter Pharynx und Ösophagus reicht ohne Barriere bis ins hintere Mediastinum. Retropharyngeale oder dentogene Abszesse können sich so nach unten ausbreiten.",
+   "dis": {
+    "B": "Liegt an der Hand.",
+    "C": "Liegt am Becken.",
+    "D": "Liegt um Gehirn und Rückenmark.",
+    "E": "Liegt in der Leiste."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-43-1",
+   "src": "F1-43",
+   "typ": "nachbarschaft",
+   "q": "Zwischen welchen Zwerchfellanteilen liegt die Larrey-Spalte (Trigonum sternocostale)?",
+   "o": [
+    "Zwischen Pars costalis und Pars lumbalis",
+    "Zwischen Pars sternalis und Pars costalis",
+    "Im Centrum tendineum",
+    "Zwischen den beiden Crura der Pars lumbalis",
+    "Am Hiatus aorticus"
+   ],
+   "a": "B",
+   "expl": "Die Larrey-Spalte ist eine muskelschwache Lücke vorne neben dem Proc. xiphoideus. Durch sie ziehen die Vasa epigastrica superiora; hier können Morgagni-Hernien entstehen.",
+   "dis": {
+    "A": "Dort liegt das Trigonum lumbocostale (Bochdalek).",
+    "C": "Dort liegt das Foramen venae cavae.",
+    "D": "Dort liegt der Hiatus aorticus bzw. oesophageus.",
+    "E": "Liegt dorsal."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-43-2",
+   "src": "F1-43",
+   "typ": "klinik",
+   "q": "Durch welche Stelle tritt die Bochdalek-Hernie, die häufigste angeborene Zwerchfellhernie?",
+   "o": [
+    "Trigonum sternocostale",
+    "Hiatus oesophageus",
+    "Trigonum lumbocostale",
+    "Foramen venae cavae",
+    "Hiatus aorticus"
+   ],
+   "a": "C",
+   "expl": "Das Trigonum lumbocostale ist eine dreieckige muskelfreie Stelle zwischen Pars costalis und Pars lumbalis, meist links. Bauchorgane können pränatal in den Thorax verlagert sein.",
+   "dis": {
+    "A": "Ort der Morgagni-Larrey-Hernie (vorne).",
+    "B": "Ort der Hiatushernien.",
+    "D": "Praktisch keine Hernien.",
+    "E": "Praktisch keine Hernien."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-44-1",
+   "src": "F1-44",
+   "typ": "perspektive",
+   "q": "Wo entspringt die Pars lumbalis des Zwerchfells?",
+   "o": [
+    "An der Rückseite des Proc. xiphoideus",
+    "An den unteren sechs Rippenknorpeln",
+    "Am Os sacrum",
+    "Mit den Crura an den Lendenwirbelkörpern L1–L3 und an den Ligg. arcuata",
+    "Am Brustwirbel Th8"
+   ],
+   "a": "D",
+   "expl": "Die Pars lumbalis entspringt mit einem rechten und linken Crus an den oberen Lendenwirbeln sowie an den Ligg. arcuata mediale und laterale über M. psoas und M. quadratus lumborum.",
+   "dis": {
+    "A": "Ursprung der Pars sternalis.",
+    "B": "Ursprung der Pars costalis.",
+    "C": "Kein Zwerchfellursprung.",
+    "E": "Kein Zwerchfellursprung."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F1-44-2",
+   "src": "F1-44",
+   "typ": "umkehrung",
+   "q": "Wo entspringt die Pars sternalis des Zwerchfells?",
+   "o": [
+    "Am Manubrium sterni",
+    "An der 1. Rippe",
+    "An der Clavicula",
+    "Seitlich am Corpus sterni",
+    "An der Rückseite des Proc. xiphoideus"
+   ],
+   "a": "E",
+   "expl": "Die Pars sternalis ist der kleinste Zwerchfellanteil und entspringt mit kurzen Fasern an der Innenseite des Schwertfortsatzes. Zwischen ihr und der Pars costalis liegt die Larrey-Spalte.",
+   "dis": {
+    "A": "Zu hoch.",
+    "B": "Kein Zwerchfellursprung.",
+    "C": "Kein Zwerchfellursprung.",
+    "D": "Hier setzen Rippenknorpel an."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-27/F2-30-1",
+   "src": "D2-27/F2-30",
+   "typ": "nachbarschaft",
+   "q": "Welches Organ liegt rechts der Unterfläche des Zwerchfells mit einer peritoneumfreien Fläche direkt an?",
+   "o": [
+    "Leber (Area nuda)",
+    "Milz",
+    "Magen",
+    "Pankreas",
+    "Colon transversum"
+   ],
+   "a": "A",
+   "expl": "Die Area nuda der Leber ist mit dem Zwerchfell verwachsen und nicht von Peritoneum überzogen. Die Leber liegt unterhalb des Zwerchfells und damit außerhalb des Mediastinums.",
+   "dis": {
+    "B": "Liegt links und ist ganz von Peritoneum überzogen.",
+    "C": "Liegt links unter der Kuppel.",
+    "D": "Liegt retroperitoneal tiefer.",
+    "E": "Liegt tiefer."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-27/F2-30-2",
+   "src": "D2-27/F2-30",
+   "typ": "nachbarschaft",
+   "q": "Welches Organ liegt dorsal in der linken Zwerchfellkuppel hinter dem Magen?",
+   "o": [
+    "Gallenblase",
+    "Milz",
+    "Appendix vermiformis",
+    "Pars descendens duodeni",
+    "Rechte Niere"
+   ],
+   "a": "B",
+   "expl": "Die Milz liegt links dorsal unter dem Zwerchfell etwa in Höhe der 9.–11. Rippe. Bei Rippenfrakturen links unten kann sie mitverletzt werden.",
+   "dis": {
+    "A": "Liegt rechts unter der Leber.",
+    "C": "Liegt im rechten Unterbauch.",
+    "D": "Liegt rechts neben der Wirbelsäule.",
+    "E": "Liegt rechts."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-31-1",
+   "src": "F2-31",
+   "typ": "nachbarschaft",
+   "q": "Welche Struktur zieht vom oberen Mediastinum ins Mediastinum medium und mündet in den rechten Vorhof?",
+   "o": [
+    "V. azygos",
+    "Ductus thoracicus",
+    "V. cava superior",
+    "Aorta ascendens",
+    "Ösophagus"
+   ],
+   "a": "C",
+   "expl": "Die V. cava superior entsteht im oberen Mediastinum und zieht ins Perikard; ihr unterer Abschnitt liegt im Mediastinum medium. Sie mündet in den rechten Vorhof.",
+   "dis": {
+    "A": "Mündet in die V. cava superior.",
+    "B": "Steigt im hinteren Mediastinum auf.",
+    "D": "Entspringt aus dem linken Ventrikel.",
+    "E": "Zieht ins hintere Mediastinum."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-31-2",
+   "src": "F2-31",
+   "typ": "nachbarschaft",
+   "q": "Welche Vene verläuft im Mediastinum posterius links und mündet in Höhe Th8/Th9 in die V. azygos?",
+   "o": [
+    "V. cava superior",
+    "V. thoracica interna",
+    "V. brachiocephalica sinistra",
+    "V. hemiazygos",
+    "V. jugularis externa"
+   ],
+   "a": "D",
+   "expl": "Die V. hemiazygos sammelt die unteren linken Interkostalvenen. Sie kreuzt hinter der Aorta und dem Ösophagus nach rechts zur V. azygos.",
+   "dis": {
+    "A": "Liegt rechts vorne.",
+    "B": "Liegt hinter dem Sternum.",
+    "C": "Liegt im oberen Mediastinum.",
+    "E": "Liegt am Hals."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-28/F2-32-1",
+   "src": "D2-28/F2-32",
+   "typ": "perspektive",
+   "q": "Aus welcher Arterie wird der Thymus hauptsächlich versorgt?",
+   "o": [
+    "A. coronaria dextra",
+    "A. carotis externa",
+    "Aorta descendens",
+    "A. pulmonalis",
+    "A. thoracica interna (Rr. thymici)"
+   ],
+   "a": "E",
+   "expl": "Der Thymus liegt hinter dem Sternum und erhält Äste der A. thoracica interna, ergänzt durch Äste der A. thyroidea inferior.",
+   "dis": {
+    "A": "Versorgt das Herz.",
+    "B": "Versorgt Hals und Gesicht.",
+    "C": "Liegt im hinteren Mediastinum.",
+    "D": "Führt venöses Blut zur Lunge."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-28/F2-32-2",
+   "src": "D2-28/F2-32",
+   "typ": "perspektive",
+   "q": "Wohin drainieren die Thymusvenen überwiegend?",
+   "o": [
+    "V. brachiocephalica sinistra",
+    "V. azygos",
+    "V. portae",
+    "V. cava inferior",
+    "V. jugularis externa"
+   ],
+   "a": "A",
+   "expl": "Der Thymus liegt direkt vor der V. brachiocephalica sinistra; seine Venen münden überwiegend in sie.",
+   "dis": {
+    "B": "Liegt im hinteren Mediastinum.",
+    "C": "Sammelt Darmblut.",
+    "D": "Liegt unterhalb des Herzens.",
+    "E": "Liegt am Hals oberflächlich."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-33-1",
+   "src": "F2-33",
+   "typ": "perspektive",
+   "q": "Wie viele echte Rippen (Costae verae) gibt es pro Seite?",
+   "o": [
+    "5",
+    "7",
+    "10",
+    "12",
+    "3"
+   ],
+   "a": "B",
+   "expl": "Die Rippen 1–7 setzen direkt mit eigenem Knorpel am Sternum an (Costae verae). Die Rippen 8–10 erreichen das Sternum über den Rippenbogen, 11 und 12 enden frei.",
+   "dis": {
+    "A": "Zu wenig.",
+    "C": "Das wären echte und falsche Rippen 8–10 zusammen.",
+    "D": "Gesamtzahl der Rippen.",
+    "E": "Zu wenig."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-33-2",
+   "src": "F2-33",
+   "typ": "umkehrung",
+   "q": "Welche Rippen sind freie Rippen (Costae fluctuantes)?",
+   "o": [
+    "8. bis 10. Rippe",
+    "1. und 2. Rippe",
+    "11. und 12. Rippe",
+    "6. und 7. Rippe",
+    "Nur die 12. Rippe"
+   ],
+   "a": "C",
+   "expl": "Die 11. und 12. Rippe enden frei in der seitlichen Bauchwandmuskulatur und haben keinen Kontakt zum Sternum.",
+   "dis": {
+    "A": "Falsche Rippen, die über den Rippenbogen verbunden sind.",
+    "B": "Echte Rippen.",
+    "D": "Echte Rippen.",
+    "E": "Auch die 11. ist frei."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-36-1",
+   "src": "F2-36",
+   "typ": "klinik",
+   "q": "Welche Rippe setzt am Angulus sterni an und dient zum Abzählen der Interkostalräume?",
+   "o": [
+    "1. Rippe",
+    "3. Rippe",
+    "5. Rippe",
+    "2. Rippe",
+    "7. Rippe"
+   ],
+   "a": "D",
+   "expl": "Der Angulus sterni (Ludovici) zwischen Manubrium und Corpus ist gut tastbar. Auf seiner Höhe setzt die 2. Rippe an; darunter liegt der 2. ICR.",
+   "dis": {
+    "A": "Liegt unter der Clavicula und ist kaum tastbar.",
+    "B": "Setzt am Corpus sterni an.",
+    "C": "Setzt am Corpus sterni an.",
+    "E": "Setzt nahe dem Proc. xiphoideus an."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-36-2",
+   "src": "F2-36",
+   "typ": "klinik",
+   "q": "Wo wird eine Sternalpunktion zur Knochenmarkentnahme durchgeführt?",
+   "o": [
+    "Am Proc. xiphoideus",
+    "An der Clavicula",
+    "Am Rippenknorpel",
+    "An der Scapula",
+    "Am Manubrium bzw. oberen Corpus sterni"
+   ],
+   "a": "E",
+   "expl": "Das Sternum enthält beim Erwachsenen rotes Knochenmark. Punktiert wird am oberen Teil; weiter unten ist der Knochen dünner und Herz und große Gefäße liegen nah. Heute wird meist der Beckenkamm genutzt.",
+   "dis": {
+    "A": "Dünn und nahe am Herzbeutel und an der Leber; gefährlich.",
+    "B": "Kein Standardort.",
+    "C": "Enthält kein blutbildendes Mark.",
+    "D": "Kein Standardort."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-37-1",
+   "src": "F2-37",
+   "typ": "perspektive",
+   "q": "In Höhe welches Wirbels liegt das Foramen venae cavae?",
+   "o": [
+    "Th8",
+    "Th10",
+    "Th12",
+    "L1",
+    "Th6"
+   ],
+   "a": "A",
+   "expl": "Die Zwerchfellöffnungen liegen von vorne-oben nach hinten-unten: Foramen venae cavae Th8, Hiatus oesophageus Th10, Hiatus aorticus Th12.",
+   "dis": {
+    "B": "Höhe des Hiatus oesophageus.",
+    "C": "Höhe des Hiatus aorticus.",
+    "D": "Zu tief.",
+    "E": "Zu hoch."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-37-2",
+   "src": "F2-37",
+   "typ": "perspektive",
+   "q": "In Höhe welches Wirbels liegt der Hiatus oesophageus?",
+   "o": [
+    "Th8",
+    "Th10",
+    "Th12",
+    "L2",
+    "Th4"
+   ],
+   "a": "B",
+   "expl": "Der Hiatus oesophageus liegt in Höhe Th10 und wird überwiegend vom rechten Zwerchfellschenkel schlingenförmig umfasst. Diese Schlinge wirkt beim Refluxschutz mit.",
+   "dis": {
+    "A": "Höhe des Foramen venae cavae.",
+    "C": "Höhe des Hiatus aorticus.",
+    "D": "Zu tief.",
+    "E": "Höhe der Trachealbifurkation."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-38-1",
+   "src": "F2-38",
+   "typ": "perspektive",
+   "q": "Was geschieht bei Kontraktion des Zwerchfells mit dem intraabdominellen Druck?",
+   "o": [
+    "Er sinkt.",
+    "Er bleibt unverändert.",
+    "Er steigt.",
+    "Er wird negativ.",
+    "Er hängt nur von der Herzfrequenz ab."
+   ],
+   "a": "C",
+   "expl": "Das kontrahierte Zwerchfell senkt sich und drückt die Baucheingeweide nach unten-vorne; der Bauch wölbt sich vor (Bauchatmung) und der Druck im Abdomen steigt.",
+   "dis": {
+    "A": "Das Zwerchfell drückt die Bauchorgane nach unten.",
+    "B": "Er ändert sich mit der Atmung.",
+    "D": "Negativ wird der intrapleurale Druck.",
+    "E": "Hängt vor allem von Atmung und Bauchmuskeltonus ab."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-38-2",
+   "src": "F2-38",
+   "typ": "perspektive",
+   "q": "Was geschieht bei Kontraktion des Zwerchfells mit dem intrapleuralen Druck?",
+   "o": [
+    "Er wird positiv.",
+    "Er bleibt gleich.",
+    "Er steigt auf Atmosphärendruck.",
+    "Er wird negativer.",
+    "Er schwankt nicht."
+   ],
+   "a": "D",
+   "expl": "Die Erweiterung des Thorax senkt den Druck im Pleuraspalt (etwa von −5 auf −8 cmH2O). Die Lunge folgt der Brustwand, und Luft strömt ein.",
+   "dis": {
+    "A": "Das geschieht nur bei forcierter Exspiration.",
+    "B": "Er ändert sich mit jeder Atembewegung.",
+    "C": "Dann würde die Lunge kollabieren (Pneumothorax).",
+    "E": "Er schwankt atemabhängig."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-31/F2-39-1",
+   "src": "D2-31/F2-39",
+   "typ": "perspektive",
+   "q": "Wie erreicht der Endast des linken N. phrenicus die Bauchseite des Zwerchfells?",
+   "o": [
+    "Er zieht durch den Hiatus oesophageus.",
+    "Er zieht durch das Foramen venae cavae.",
+    "Er zieht durch den Hiatus aorticus.",
+    "Er zieht durch die Larrey-Spalte.",
+    "Er durchbohrt den muskulären Teil des Zwerchfells links neben dem Herzbeutel."
+   ],
+   "a": "E",
+   "expl": "Der linke N. phrenicus nutzt keine präformierte Öffnung: Sein R. phrenicoabdominalis durchbohrt die Pars muscularis nahe der Herzspitze. Der rechte zieht mit der V. cava inferior durch das Foramen venae cavae.",
+   "dis": {
+    "A": "Dort ziehen die Trunci vagales.",
+    "B": "Das gilt für den rechten R. phrenicoabdominalis.",
+    "C": "Dort ziehen Aorta und Ductus thoracicus.",
+    "D": "Dort ziehen die Vasa epigastrica superiora."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-31/F2-39-2",
+   "src": "D2-31/F2-39",
+   "typ": "umkehrung",
+   "q": "Welche Strukturen ziehen durch das Foramen venae cavae?",
+   "o": [
+    "V. cava inferior und R. phrenicoabdominalis des rechten N. phrenicus",
+    "Ösophagus und Trunci vagales",
+    "Aorta und Ductus thoracicus",
+    "V. azygos und Nn. splanchnici",
+    "A. epigastrica superior"
+   ],
+   "a": "A",
+   "expl": "Das Foramen venae cavae liegt im Centrum tendineum (Th8). Neben der V. cava inferior zieht hier der rechte R. phrenicoabdominalis hindurch.",
+   "dis": {
+    "B": "Ziehen durch den Hiatus oesophageus.",
+    "C": "Ziehen durch den Hiatus aorticus.",
+    "D": "Ziehen durch die Zwerchfellschenkel.",
+    "E": "Zieht durch die Larrey-Spalte."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-40-1",
+   "src": "F2-40",
+   "typ": "perspektive",
+   "q": "Welche Nerven vermitteln den scharf lokalisierten Schmerz des Peritoneum parietale der vorderen Bauchwand?",
+   "o": [
+    "N. vagus",
+    "Somatische Spinalnerven (Interkostalnerven Th7–Th12 und L1)",
+    "Truncus sympathicus",
+    "Ausschließlich N. phrenicus",
+    "N. pudendus"
+   ],
+   "a": "B",
+   "expl": "Das Peritoneum parietale ist somatisch innerviert und deshalb gut lokalisierbar schmerzhaft. Das Peritoneum viscerale ist viszeral innerviert; seine Schmerzen sind dumpf und schlecht lokalisierbar.",
+   "dis": {
+    "A": "Leitet viszerale Afferenzen ohne scharfe Lokalisation.",
+    "C": "Viszerale, dumpfe Schmerzen.",
+    "D": "Versorgt nur das zentrale Zwerchfellperitoneum.",
+    "E": "Versorgt den Damm."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-40-2",
+   "src": "F2-40",
+   "typ": "klinik",
+   "q": "Welche klinischen Zeichen sprechen für eine Peritonitis?",
+   "o": [
+    "Hyperakusis",
+    "Miosis",
+    "Abwehrspannung der Bauchdecke und Loslassschmerz",
+    "Lidödem",
+    "Hautausschlag"
+   ],
+   "a": "C",
+   "expl": "Die Entzündung des Peritoneum parietale führt reflektorisch zu einer bretthart gespannten Bauchdecke. Typisch sind zudem Loslassschmerz und Erschütterungsschmerz.",
+   "dis": {
+    "A": "Spricht für eine Fazialisparese.",
+    "B": "Spricht für ein Horner-Syndrom oder Opiate.",
+    "D": "Spricht z. B. für ein nephrotisches Syndrom.",
+    "E": "Unspezifisch, kein Peritonitiszeichen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-41-1",
+   "src": "F2-41",
+   "typ": "perspektive",
+   "q": "Wie heißt der kapilläre Spalt zwischen Peritoneum parietale und Peritoneum viscerale?",
+   "o": [
+    "Spatium retroperitoneale",
+    "Cavitas pleuralis",
+    "Spatium subarachnoidale",
+    "Cavitas peritonealis",
+    "Spatium extraperitoneale"
+   ],
+   "a": "D",
+   "expl": "Die Peritonealhöhle enthält nur etwas seröse Flüssigkeit, die das Gleiten der Organe ermöglicht. Beim Mann ist sie geschlossen, bei der Frau über die Tuben offen.",
+   "dis": {
+    "A": "Liegt hinter dem Peritoneum parietale.",
+    "B": "Liegt im Thorax.",
+    "C": "Liegt um Gehirn und Rückenmark.",
+    "E": "Liegt außerhalb des Peritoneums."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-41-2",
+   "src": "F2-41",
+   "typ": "umkehrung",
+   "q": "Welches Organ liegt intraperitoneal?",
+   "o": [
+    "Niere",
+    "Pankreas (Kopf und Körper)",
+    "Aorta abdominalis",
+    "Harnblase",
+    "Magen"
+   ],
+   "a": "E",
+   "expl": "Intraperitoneale Organe sind allseitig von Peritoneum viscerale überzogen und haben ein Mesenterium, z. B. Magen, Jejunum, Ileum, Colon transversum, Leber und Milz.",
+   "dis": {
+    "A": "Primär retroperitoneal.",
+    "B": "Sekundär retroperitoneal.",
+    "C": "Retroperitoneal.",
+    "D": "Extraperitoneal im kleinen Becken."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-32/F2-42-1",
+   "src": "D2-32/F2-42",
+   "typ": "perspektive",
+   "q": "Welche Form der Hiatushernie ist am häufigsten?",
+   "o": [
+    "Axiale Gleithernie",
+    "Paraösophageale Hernie",
+    "Bochdalek-Hernie",
+    "Morgagni-Hernie",
+    "Upside-down-Magen"
+   ],
+   "a": "A",
+   "expl": "Bei der axialen Hernie (etwa 90 %) gleitet die Kardia mit Teilen des Magens entlang der Längsachse durch den Hiatus nach oben. Sie ist oft mit Reflux verbunden.",
+   "dis": {
+    "B": "Deutlich seltener.",
+    "C": "Angeborene Hernie durch das Trigonum lumbocostale.",
+    "D": "Hernie durch das Trigonum sternocostale.",
+    "E": "Seltene Extremform."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-D2-32/F2-42-2",
+   "src": "D2-32/F2-42",
+   "typ": "perspektive",
+   "q": "Was kennzeichnet eine paraösophageale Hernie im Unterschied zur axialen?",
+   "o": [
+    "Die Kardia gleitet nach kranial in den Thorax.",
+    "Die Kardia bleibt an Ort und Stelle; Magenanteile schieben sich neben dem Ösophagus in den Thorax.",
+    "Sie tritt durch das Trigonum lumbocostale.",
+    "Sie ist immer angeboren.",
+    "Sie tritt durch das Foramen venae cavae."
+   ],
+   "a": "B",
+   "expl": "Bei der paraösophagealen Hernie bleibt der gastroösophageale Übergang unten. Der Fundus schiebt sich neben dem Ösophagus nach oben und kann einklemmen.",
+   "dis": {
+    "A": "Das ist die axiale Gleithernie.",
+    "C": "Das ist die Bochdalek-Hernie.",
+    "D": "Sie ist meist erworben.",
+    "E": "Dort kommen praktisch keine Hernien vor."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-43-1",
+   "src": "F2-43",
+   "typ": "perspektive",
+   "q": "Warum verursacht eine axiale Hiatushernie häufig Sodbrennen?",
+   "o": [
+    "Der Magen bildet mehr Säure.",
+    "Es fließt Galle in den Magen.",
+    "Der Verschlussmechanismus am gastroösophagealen Übergang (Zwerchfellschenkel, His-Winkel) ist gestört.",
+    "Der Ösophagus ist angeboren zu kurz.",
+    "Es besteht eine Pylorusstenose."
+   ],
+   "a": "C",
+   "expl": "Normalerweise unterstützen die Schlinge des rechten Zwerchfellschenkels und der spitze His-Winkel den unteren Ösophagussphinkter. Bei der Gleithernie fallen diese weg, und Magensäure fließt zurück.",
+   "dis": {
+    "A": "Die Säureproduktion ist meist normal.",
+    "B": "Sodbrennen entsteht durch Magensäure im Ösophagus.",
+    "D": "Nur selten Ursache.",
+    "E": "Führt eher zu Erbrechen."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-43-2",
+   "src": "F2-43",
+   "typ": "klinik",
+   "q": "Ein Neugeborenes mit angeborener Bochdalek-Hernie hat schwere Atemnot. Was ist die Hauptursache?",
+   "o": [
+    "Ein immer begleitender Herzfehler",
+    "Larynxatresie",
+    "Anämie",
+    "Lungenhypoplasie durch Bauchorgane im Thorax",
+    "Hypoglykämie"
+   ],
+   "a": "D",
+   "expl": "Liegen Darm, Magen oder Milz schon pränatal im Thorax, kann sich die Lunge auf dieser Seite nicht ausreichend entwickeln. Die Lungenhypoplasie bestimmt die Prognose.",
+   "dis": {
+    "A": "Kommt vor, ist aber nicht die Hauptursache.",
+    "B": "Seltene, eigenständige Fehlbildung.",
+    "C": "Keine typische Ursache.",
+    "E": "Keine typische Ursache der Atemnot."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-44-1",
+   "src": "F2-44",
+   "typ": "perspektive",
+   "q": "Welche Anteile des Zwerchfells werden sensibel von den unteren Interkostalnerven versorgt?",
+   "o": [
+    "Das Centrum tendineum",
+    "Die Pleura mediastinalis",
+    "Das Perikard",
+    "Die Crura motorisch",
+    "Die peripheren (randständigen) Anteile"
+   ],
+   "a": "E",
+   "expl": "Motorisch wird das Zwerchfell nur vom N. phrenicus innerviert. Sensibel versorgt dieser die zentralen Anteile, die unteren Interkostalnerven die Randbereiche.",
+   "dis": {
+    "A": "Sensibel vom N. phrenicus versorgt.",
+    "B": "Sensibel vom N. phrenicus versorgt.",
+    "C": "Sensibel vom N. phrenicus versorgt.",
+    "D": "Motorisch innerviert nur der N. phrenicus."
+   },
+   "merk": "",
+   "img": null
+  },
+  {
+   "id": "V-F2-44-2",
+   "src": "F2-44",
+   "typ": "klinik",
+   "q": "Warum strahlen Schmerzen bei Reizung des zentralen Zwerchfells (z. B. bei Gallenblasenentzündung oder Milzruptur) in die Schulter aus?",
+   "o": [
+    "Weil der N. phrenicus aus denselben Segmenten (C3–C5) stammt wie die sensible Versorgung der Schulterhaut",
+    "Weil der N. vagus die Schulter innerviert",
+    "Weil der N. accessorius sensibel für das Zwerchfell ist",
+    "Weil der Plexus brachialis (C8) das Zwerchfell versorgt",
+    "Weil die Interkostalnerven bis zur Schulter ziehen"
+   ],
+   "a": "A",
+   "expl": "Afferenzen aus dem zentralen Zwerchfell laufen über den N. phrenicus in die Segmente C3–C5. Das Gehirn ordnet den Schmerz dem zugehörigen Dermatom (Schulter, C4) zu; rechts typisch bei Gallenkolik, links bei Milzruptur (Kehr-Zeichen).",
+   "dis": {
+    "B": "Der N. vagus versorgt die Schulterhaut nicht.",
+    "C": "Er ist motorisch für M. trapezius und M. sternocleidomastoideus.",
+    "D": "C8 ist nicht beteiligt.",
+    "E": "Sie versorgen Rumpfdermatome."
+   },
+   "merk": "",
+   "img": null
+  }
+ ]
+}
